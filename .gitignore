@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node / Astro
+site/node_modules/
+site/dist/
+site/.astro/
+
+# OS
+.DS_Store
+Thumbs.db

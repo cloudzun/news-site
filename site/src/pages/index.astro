@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import NewsCard from '../components/NewsCard.astro';
+import { loadLatest } from '../lib/data';
+
+const data = loadLatest();
+const items = data.items;
+---
+<BaseLayout title="科技新闻速览 · 首页">
+  <p class="stat">
+    共 {data.count} 条 · 数据生成于 {new Date(data.generated_at).toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' })}（每小时自动更新）
+  </p>
+  {items.length === 0 && (
+    <p>暂无数据，请先运行 <code>scripts/fetch_news.py</code> 生成 <code>data/latest.json</code>。</p>
+  )}
+  {items.map((item) => <NewsCard item={item} />)}
+</BaseLayout>
+
+<style>
+  .stat {
+    color: var(--muted);
+    font-size: 0.85rem;
+    margin-bottom: 8px;
+  }
+</style>

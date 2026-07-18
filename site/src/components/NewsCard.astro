@@ -1,0 +1,48 @@
+---
+import type { NewsItem } from '../lib/data';
+import { formatTime, CATEGORY_LABELS } from '../lib/data';
+
+export interface Props {
+  item: NewsItem;
+}
+const { item } = Astro.props as Props;
+---
+<article class="card">
+  <div class="meta">
+    <span class="source">{item.source_name}</span>
+    <span class="dot">·</span>
+    <span class="category">{CATEGORY_LABELS[item.category] ?? item.category}</span>
+    <span class="dot">·</span>
+    <time datetime={item.published_at}>{formatTime(item.published_at)}</time>
+  </div>
+  <h2><a href={item.link} target="_blank" rel="noopener noreferrer">{item.title}</a></h2>
+  {item.summary && <p class="summary">{item.summary}</p>}
+</article>
+
+<style>
+  .card {
+    padding: 16px 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .meta {
+    font-size: 0.8rem;
+    color: var(--muted);
+    margin-bottom: 6px;
+  }
+  .dot { margin: 0 6px; }
+  h2 {
+    font-size: 1.05rem;
+    margin: 0 0 6px;
+    line-height: 1.4;
+  }
+  h2 a {
+    color: var(--fg);
+    text-decoration: none;
+  }
+  h2 a:hover { color: var(--accent); }
+  .summary {
+    font-size: 0.9rem;
+    color: var(--muted);
+    margin: 0;
+  }
+</style>

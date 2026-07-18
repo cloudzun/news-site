@@ -1,0 +1,30 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import NewsCard from '../../components/NewsCard.astro';
+import { loadLatest, CATEGORY_LABELS } from '../../lib/data';
+
+export function getStaticPaths() {
+  return [
+    { params: { slug: 'tech' } },
+    { params: { slug: 'finance' } },
+  ];
+}
+
+const { slug } = Astro.params;
+const data = loadLatest();
+const items = data.items.filter((i) => i.category === slug);
+const label = CATEGORY_LABELS[slug as string] ?? slug;
+---
+<BaseLayout title={`${label} · 科技新闻速览`}>
+  <p class="stat">分类：{label} · 共 {items.length} 条</p>
+  {items.length === 0 && <p>该分类暂无数据。</p>}
+  {items.map((item) => <NewsCard item={item} />)}
+</BaseLayout>
+
+<style>
+  .stat {
+    color: var(--muted);
+    font-size: 0.85rem;
+    margin-bottom: 8px;
+  }
+</style>
