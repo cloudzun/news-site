@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T04:26:20.116768+00:00",
-  "count": 1562,
+  "generated_at": "2026-07-23T07:42:05.243449+00:00",
+  "count": 1640,
   "sources": [
     {
       "id": "36kr",
@@ -35,6 +35,765 @@
   ],
   "items": [
     {
+      "id": "e7ca0527f3a3977f",
+      "title": "SK海力士将股票转换为美国存托凭证的比例上限设定为2.5%",
+      "link": "https://36kr.com/newsflashes/3907919284606343?f=rss",
+      "source_id": "36kr",
+      "source_name": "36氪",
+      "category": "finance",
+      "published_at": "2026-07-23T07:41:04+00:00",
+      "summary": "SK海力士将韩交所上市股票可转换为美股存托凭证（ADR）的总量上限设定为公司已发行总股本的2.5%。此次265亿美元ADR发行已用尽全部转换额度，除非现有ADR持有者先将美股存托凭证换回韩国本土股票，否则投资者无法再用韩股兑换ADR。SK海力士ADR相对韩交所挂牌股票长期存在溢价，转换额度限制或令两地价差持续扩大、存续更久。（新浪财经）",
+      "fetched_at": "2026-07-23T07:41:50.900023+00:00"
+    },
+    {
+      "id": "7d3c4a388ea6ce01",
+      "title": "Alphabet 上调 2026 全年资本支出指引至 1950~2050 亿美元",
+      "link": "https://www.ithome.com/0/980/647.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T07:40:41+00:00",
+      "summary": "IT之家 7 月 23 日消息，Google（谷歌）母公司 Alphabet 在其 2026Q2 财报电话会议中宣布将 2026 全年资本支出指引从此前的 1800~1900 亿美元进一步上调至 1950~2050 亿美元（IT之家注：现汇率约合 1.32 ~ 1.39 万亿元人民币）。Alphabet 在 2026Q2 的资本支出达到 449 亿美元，绝大部分用于人工智能技术基础投资。而在该部分",
+      "fetched_at": "2026-07-23T07:41:54.858314+00:00"
+    },
+    {
+      "id": "bd59460270436a6c",
+      "title": "商务部：将进一步做强国内大循环，做优国内国际双循环",
+      "link": "https://36kr.com/newsflashes/3907916721968512?f=rss",
+      "source_id": "36kr",
+      "source_name": "36氪",
+      "category": "finance",
+      "published_at": "2026-07-23T07:38:27+00:00",
+      "summary": "7月23日，商务部副部长鄢东在新闻发布会上表示，今年以来，按照党中央、国务院部署，抓紧推进商务领域相关“十五五”专项规划的制定和落实工作。下一步，将持续聚焦高质量发展这一首要任务，不断提升政策效能，进一步做强国内大循环，做优国内国际双循环，为国民经济发展作出新的积极贡献。（证券时报）",
+      "fetched_at": "2026-07-23T07:41:50.900035+00:00"
+    },
+    {
+      "id": "e5e5ff1761176342",
+      "title": "比亚迪全新 B 级闪充轿车秦 MAX 正式发布，将于 8 月 13 日上市",
+      "link": "https://www.ithome.com/0/980/646.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T07:38:23+00:00",
+      "summary": "IT之家 7 月 23 日消息，比亚迪今天正式发布了秦 MAX 车型，该车将填补比亚迪秦 L 和汉之间的产品空白，搭载闪充技术以及天神之眼 B 驾驶辅助系统，将于 8 月 13 日上市。该车外观延续比亚迪王朝网家族式龙颜美学设计，车头使用贯穿饰条搭配狭长的灯组；车身使用半隐藏式门把手，提供 18 英寸轮毂；车尾采用王朝家族经典的中国结贯穿尾灯，视觉层次感突出。座舱方面，新车主打晨曦紫配色，配有悬浮",
+      "fetched_at": "2026-07-23T07:41:54.858346+00:00"
+    },
+    {
+      "id": "7dfc6d18bebf4e73",
+      "title": "方意股份：九成收入来自海外，毛利率远超金麒麟遭问询，密集增资后再谋融资｜IPO观察",
+      "link": "https://www.tmtpost.com/8076767.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-07-23T07:37:31+00:00",
+      "summary": "笔者注意到，方意股份公司业务高度依赖海外市场，近九成收入来源于境外ODM订单，海外贸易政策变动极易冲击经营稳定性。",
+      "fetched_at": "2026-07-23T07:41:57.538935+00:00"
+    },
+    {
+      "id": "67c586b3404d948f",
+      "title": "特斯拉车载 AI 助手 Grok 将登陆全欧洲，并进入更多亚洲国家",
+      "link": "https://www.ithome.com/0/980/645.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T07:36:34+00:00",
+      "summary": "IT之家 7 月 23 日消息，特斯拉宣布，旗下集成的 SpaceXAI Grok 人工智能助手即将覆盖整个欧洲市场。这一消息与 2026 年夏季软件更新一同公布，新版本将为 Grok 增加车辆控制功能，驾驶员只需通过语音即可拨打电话、控制音乐播放、调节空调、打开手套箱等，无需手动操作。就在宣布 2026 年夏季软件更新和 Grok 扩展至欧洲之前，特斯拉还确认，Grok 很快也将登陆更多亚洲市场",
+      "fetched_at": "2026-07-23T07:41:54.858386+00:00"
+    },
+    {
+      "id": "7211ba9e789940b5",
+      "title": "钙钛矿光伏电池新突破：为极地、太空使用铺路，东南大学成果登 Nature",
+      "link": "https://www.ithome.com/0/980/644.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T07:35:57+00:00",
+      "summary": "IT之家 7 月 23 日消息，东南大学今日宣布，东南大学材料科学与工程学院张天恺教授联合苏州大学李耀文教授、陈先凯教授团队，提出一种新型钙钛矿光伏电池界面层设计策略 —— 具有强“电子共振”结构的单分子层，相关成果 7 月 22 日发表于国际顶级期刊《Nature》。该研究针对传统界面单分子层本征锚定强度低导致钙钛矿电池在严苛条件稳定性差的问题，提供了一种新的解决思路。钙钛矿电池轻薄可弯折，能做",
+      "fetched_at": "2026-07-23T07:41:54.858419+00:00"
+    },
+    {
+      "id": "bf46aeb1e85b42b7",
+      "title": "四场实地走访，还原具身智能走向量产的真实水位",
+      "link": "https://www.tmtpost.com/8076858.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-07-23T07:34:00+00:00",
+      "summary": "具身智能是条需要分层协作的产业链，每一层现在都还有缺口。",
+      "fetched_at": "2026-07-23T07:41:57.538952+00:00"
+    },
+    {
+      "id": "bf926bb8fe4ef2c7",
+      "title": "《龙之谷》之父全力打造：买断制二游《龙之剑：觉醒》正式发售，Steam 国区 98 元全球最低",
+      "link": "https://www.ithome.com/0/980/643.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T07:33:15+00:00",
+      "summary": "IT之家 7 月 23 日消息，由《龙之谷》原制作人朴正植领衔的韩国工作室 Hound13 开发的开放世界动作角色扮演游戏《龙之剑：觉醒》今日在 Steam 平台全球同步发售。本作在 Steam 国区售价为 98 元，为全球最低价。豪华版售价为 144.9 元，包含“使魔：英勇的小龙”等额外内容。游戏原定于今日上午 6 时解锁，但因 Steam 平台审核流程尚未完成，发售时间被迫延迟。制作组随即向",
+      "fetched_at": "2026-07-23T07:41:54.858453+00:00"
+    },
+    {
+      "id": "28928cfcf74f7fdb",
+      "title": "全球首个右舵全无人驾驶落地香港，百度萝卜快跑 7 月 27 日启动测试",
+      "link": "https://www.ithome.com/0/980/642.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T07:32:53+00:00",
+      "summary": "IT之家 7 月 23 日消息，7 月 23 日，香港运输署宣布向萝卜快跑发放香港首个无人驾驶测试牌照，允许其于香港机场岛开展车内无安全员的全无人驾驶测试，该测试将于本月 27 日正式启动。据悉，这是全球首次在“右舵左行”交通体系中开展全无人驾驶公开道路测试。IT之家从官方公告获悉，香港运输署于二月批准在机场岛的测试路段，开始在车上后备操作员以外加入在遥距控制中心的操作员同时监控自动车，遥距操作测",
+      "fetched_at": "2026-07-23T07:41:54.858479+00:00"
+    },
+    {
+      "id": "e5d7da1b3e3902c6",
+      "title": "极简翻盖手机 Light Flip 完整规格信息公布：联发科 MT8873 + 6G + 128G 售 299 美元",
+      "link": "https://www.ithome.com/0/980/641.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T07:31:24+00:00",
+      "summary": "IT之家 7 月 23 日消息，制造商 Light 现已公布旗下极简翻盖手机 Light Flip 完整规格信息，该机定价为 299 美元（IT之家注：现汇率约合 2028 元人民币），IT之家整理参数如下：该机使用塑料材质，提供 IP54 认证，折叠状态下尺寸为 110x58x19mm，重量 160g，配备一块 2.8 英寸 480x640 分辨率 OLED 雾面屏，匹配 12Mp 自拍摄像头；",
+      "fetched_at": "2026-07-23T07:41:54.858504+00:00"
+    },
+    {
+      "id": "d76de8ba1681bd40",
+      "title": "山东省财金科创产业服务合伙企业登记成立，出资额2.9亿",
+      "link": "https://36kr.com/newsflashes/3907907366737025?f=rss",
+      "source_id": "36kr",
+      "source_name": "36氪",
+      "category": "finance",
+      "published_at": "2026-07-23T07:28:56+00:00",
+      "summary": "36氪获悉，天眼查App显示，近日，山东省财金科创产业服务合伙企业（有限合伙）成立，执行事务合伙人为山东财金星空农业科技发展有限公司，出资额2.9亿人民币，经营范围包括创业空间服务、以自有资金从事投资活动、企业管理咨询等。合伙人信息显示，该合伙企业由山东省财金乡村振兴有限公司、山东财金星空农业科技发展有限公司共同出资。",
+      "fetched_at": "2026-07-23T07:41:50.900047+00:00"
+    },
+    {
+      "id": "be04f68fc16da397",
+      "title": "《幻兽帕鲁》销量突破 3000 万份，Steam 玩家占比超六成",
+      "link": "https://www.ithome.com/0/980/639.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T07:26:21+00:00",
+      "summary": "IT之家 7 月 23 日消息，《幻兽帕鲁》（Palworld）1.0 版本上线至今反响空前，过去两周，这款游戏连续刷新自 2024 年开启抢先体验以来的最高同时在线玩家纪录，热度持续攀升。游戏数据分析机构 Alinea Analytics 分析师 Rhys Elliott 发布了一份关于《幻兽帕鲁》正式版上线后的详细报告，并回顾了这款爆款游戏的发展历程。截至 2026 年 7 月 21 日，报告",
+      "fetched_at": "2026-07-23T07:41:54.858543+00:00"
+    },
+    {
+      "id": "2ef254e828a82993",
+      "title": "商务部：将加快培育服务消费新增长点",
+      "link": "https://36kr.com/newsflashes/3907904445502849?f=rss",
+      "source_id": "36kr",
+      "source_name": "36氪",
+      "category": "finance",
+      "published_at": "2026-07-23T07:25:58+00:00",
+      "summary": "7月23日，商务部副部长鄢东在国新办新闻发布会上表示，近期商务部会同有关部门出台了铁旅融合、家政高质量发展、培育壮大汽车后市场等服务消费新增长点政策文件，商务部将抓好贯彻落实。同时，还将围绕交通、演出、赛事等细分领域，进一步创新支持举措，鼓励地方积极培育服务消费新增长点的有效路径。（证券时报）",
+      "fetched_at": "2026-07-23T07:41:50.900058+00:00"
+    },
+    {
+      "id": "12ad838461e5dd26",
+      "title": "23988 元赛科龙摩托车 AQS600 上市，ND560 发动机 + AMT 自动挡",
+      "link": "https://www.ithome.com/0/980/638.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T07:25:36+00:00",
+      "summary": "IT之家 7 月 23 日消息，赛科龙今日发布了其中量级智控运动巡航车型 AQS600，官方指导价 23988 元。首批购车用户可获赠价值 1366 元的大礼包，包含价值 480 元的折叠后靠背、价值 198 元的保险杠，以及价值 688 元的 1 年主动救援服务。AQS600 车身尺寸为 2247x875x1125mm，轴距 1510mm，座高 735mm，整备质量 205kg。这款车在外观设计",
+      "fetched_at": "2026-07-23T07:41:54.858604+00:00"
+    },
+    {
+      "id": "8c1426c8b5fccdf2",
+      "title": "Seed STEM科学家计划启动，邀请100位学者探索AI加速科学发现",
+      "link": "https://36kr.com/newsflashes/3907903336387973?f=rss",
+      "source_id": "36kr",
+      "source_name": "36氪",
+      "category": "finance",
+      "published_at": "2026-07-23T07:24:50+00:00",
+      "summary": "36氪获悉，7月23日，Seed Edge团队宣布正式启动Seed STEM科学家计划，拟邀请100位前沿科学领域学者，围绕真实科研问题开展合作，聚焦AI在科学发现中的加速作用。计划为合作学者提供算力资源、模型体验及AI研究团队支持，旨在识别和突破研究级问题，推动AI与科研深度融合。",
+      "fetched_at": "2026-07-23T07:41:50.900071+00:00"
+    },
+    {
+      "id": "4d15d63b8f551c1c",
+      "title": "深开鸿 KaihongOS 桌面版（x86）首个三方应用上线，支持与华为鸿蒙设备通过 IP 互联",
+      "link": "https://www.ithome.com/0/980/637.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T07:21:44+00:00",
+      "summary": "IT之家 7 月 23 日消息，深开鸿官方宣布，KaihongOS 桌面版（x86）首个三方应用上线。据介绍，在校大学生伍子曦及其团队开发的系统级应用 ——“系统观测台”成为首个预装 x86 桌面版的三方应用，可一站式查看系统硬件指标，包括 CPU、内存实时监控、电池电量等。同时支持与华为鸿蒙设备通过 IP 互联。据IT之家此前报道，今年 6 月底，深开鸿 KaihongOS 桌面版（x86）V5",
+      "fetched_at": "2026-07-23T07:41:54.858637+00:00"
+    },
+    {
+      "id": "a998b03cb94f41d1",
+      "title": "商务部：上半年外资企业、国有企业进出口均实现两位数增长",
+      "link": "https://36kr.com/newsflashes/3907897673913735?f=rss",
+      "source_id": "36kr",
+      "source_name": "36氪",
+      "category": "finance",
+      "published_at": "2026-07-23T07:19:05+00:00",
+      "summary": "今天（7月23日）下午，国务院新闻办公室举行新闻发布会，介绍2026年上半年商务工作及运行情况。相关负责人介绍，上半年民营企业贡献近六成外贸增量，外资企业、国有企业进出口均实现了两位数增长。（央视新闻）",
+      "fetched_at": "2026-07-23T07:41:50.900082+00:00"
+    },
+    {
+      "id": "4cee503dbf444904",
+      "title": "Amble One 越野车亮相：奥迪 R8 和苹果 Apple Watch 设计师霍尼格打造",
+      "link": "https://www.ithome.com/0/980/636.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T07:16:50+00:00",
+      "summary": "IT之家 7 月 23 日消息，汽车媒体 AutoCar 今天（7 月 23 日）发布博文，葡萄牙初创公司 Amble 发布了一款名为 One 的微型越野车，总重低于 450 公斤，定位在各种气候和应用场景下使用的越野车。该越野车最大的亮点，在于出自朱利安 · 霍尼格（Julian Hoenig）之手，他曾是奥迪资深设计师，主导奥迪 R8、RSQ 概念车及奥迪 Q3 的设计，并负责设计了 2004",
+      "fetched_at": "2026-07-23T07:41:54.858679+00:00"
+    },
+    {
+      "id": "6e88a17b157eb4f3",
+      "title": "北京现代艾尼氪 V 车型将于 9 月正式上市：溜背式造型设计、号称为中国用户量身定制",
+      "link": "https://www.ithome.com/0/980/635.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T07:16:39+00:00",
+      "summary": "IT之家 7 月 23 日消息，在 7 月 21 日至 7 月 23 日举行的 2026 中国汽车论坛上，北京现代汽车有限公司总经理李凤刚表示艾尼氪 V 将于 9 月正式上市，并表示公司今年将推出三款新车。据介绍，艾尼氪 V 设计均由现代中国设计中心全程主导，为中国用户量身定制，并反向输出全球。车辆提供赛博金、次元紫、伽马绿、磁力灰、光子白（素色漆）、光子白（哑光漆）、流光银、夜刃黑等 8 款颜色",
+      "fetched_at": "2026-07-23T07:41:54.858705+00:00"
+    },
+    {
+      "id": "bae37a040281dafa",
+      "title": "上半年近4800家外资企业追加对华投资",
+      "link": "https://36kr.com/newsflashes/3907894658569608?f=rss",
+      "source_id": "36kr",
+      "source_name": "36氪",
+      "category": "finance",
+      "published_at": "2026-07-23T07:16:01+00:00",
+      "summary": "商务部副部长鄢东在23日举行的国新办发布会上说，上半年我国新设外资企业数同比增长5.3%，引资额4021.4亿元。引资结构进一步优化，高技术产业引资同比增长33.2%，占比提升至42.4%。外资持续看好中国市场，上半年近4800家外资企业追加对华投资。（新华社）",
+      "fetched_at": "2026-07-23T07:41:50.900093+00:00"
+    },
+    {
+      "id": "01dd35fa76ef467a",
+      "title": "字节跳动启动 Seed STEM 科学家计划，邀请 100 位学者推动 AI 加速科学发现",
+      "link": "https://www.ithome.com/0/980/634.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T07:14:41+00:00",
+      "summary": "IT之家 7 月 23 日消息，字节跳动今日宣布 Seed STEM 科学家计划正式启动，邀请 100 位前沿科学领域的优秀学者，围绕真实科研问题展开合作，推动 AI 加速科学发现，进一步突破智能的边界与上限。IT之家注意到，字节跳动此前启动了 Seed Edge 研究计划，专注于探索未知的智能边界和长期重要课题。今天，Edge 团队正式发起 Seed STEM 科学家计划。具体要求如下：在前沿科",
+      "fetched_at": "2026-07-23T07:41:54.858746+00:00"
+    },
+    {
+      "id": "a5fb578a32a72688",
+      "title": "腾讯云发布云端智能体 CodeBuddy NPC：直接交付，不费 Token",
+      "link": "https://www.ithome.com/0/980/633.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T07:14:21+00:00",
+      "summary": "IT之家 7 月 23 日消息，今日，腾讯云正式发布云端智能体 CodeBuddy NPC。据介绍，开发者只需派发一个任务，CodeBuddy NPC 即可自主完成方案规划、代码开发、提交 PR、执行测试，并根据 CI 结果持续修改，直到交付可验收的成果。IT之家附官方详细介绍如下：作为腾讯云代码助手 CodeBuddy 面向企业研发流程推出的新一代智能体，NPC 依托腾讯云研发平台 CNB，可以",
+      "fetched_at": "2026-07-23T07:41:54.858809+00:00"
+    },
+    {
+      "id": "ee4dd8e8cb91c0e3",
+      "title": "巨资豪赌世界杯，小红书赢了吗？",
+      "link": "https://www.tmtpost.com/8076566.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-07-23T07:12:58+00:00",
+      "summary": "如果小红书能够承接住世界杯流量，持续孵化运动户外、健身、球类生活内容，将一次性赛事流量沉淀为长期社区资产，这场豪赌将成为平台跃迁的关键转折点。",
+      "fetched_at": "2026-07-23T07:41:57.538965+00:00"
+    },
+    {
+      "id": "e3d6ef7fcaa646ca",
+      "title": "涨价的老套路失效了，奢侈品还能从哪儿找增长？",
+      "link": "https://www.tmtpost.com/8076400.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-07-23T07:12:35+00:00",
+      "summary": "从追求规模扩张，到挖掘存量价值。",
+      "fetched_at": "2026-07-23T07:41:57.538975+00:00"
+    },
+    {
+      "id": "ee3c94654e5acd55",
+      "title": "谢贤离世：他的一亿港元遗产，是如何积累的？",
+      "link": "https://www.tmtpost.com/8076560.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-07-23T07:11:51+00:00",
+      "summary": "一个家族的资本，以高颜值、天赋、对家族大方到不可思议的使命感、顺风而行的运道、亦或是最不足道的金钱的形式，在血脉里流过父亲，流过儿子，再流向孙儿。",
+      "fetched_at": "2026-07-23T07:41:57.538986+00:00"
+    },
+    {
+      "id": "aeb70d25cc670779",
+      "title": "小米推出米家智能净烟机 3 白色版本：三重净烟设计、内置 PM 2.5 传感器，2940 元",
+      "link": "https://www.ithome.com/0/980/631.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T07:10:49+00:00",
+      "summary": "IT之家 7 月 23 日消息，小米现已在京东上架米家智能净烟机 3 白色版本，该产品提供三重净烟、7 级吸力，预售价 2940 元。该产品机身采用特殊固化白晶漆面工艺，能够延缓黄变现象，机身采用四涡捕集气旋、高速后倾气流、防逸阻隔气帘“三重气流净烟专利设计”，配备新一代直流变频电机，风速达 14m/s，烟机上部内置小风机，可阻隔油烟外溢，保护烹饪者面部及口鼻。该机内置了高精度 PM 2.5 传感",
+      "fetched_at": "2026-07-23T07:41:54.858828+00:00"
+    },
+    {
+      "id": "b6533f584e20fc4b",
+      "title": "代码暗示，特斯拉 App 已开始为 Optimus 人形机器人上线做准备",
+      "link": "https://www.ithome.com/0/980/629.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T07:08:36+00:00",
+      "summary": "IT之家 7 月 23 日消息，最新代码显示，特斯拉已经开始在手机 App 中为 Optimus 人形机器人的推出做准备。埃隆 · 马斯克此前曾表示，Optimus 将成为“有史以来销量最高的产品”，如今，特斯拉正逐步完善与其相关的软件支持。据 Tesla App Updates 发现，特斯拉手机 App 中首次出现了多项与 Optimus 项目相关的代码，主要包括以下几项新功能。首先，特斯拉正在",
+      "fetched_at": "2026-07-23T07:41:54.858858+00:00"
+    },
+    {
+      "id": "c2535117026b9b5e",
+      "title": "科沃斯：上半年家用机器人海外出货量同比增长超80%",
+      "link": "https://36kr.com/newsflashes/3907885830853761?f=rss",
+      "source_id": "36kr",
+      "source_name": "36氪",
+      "category": "finance",
+      "published_at": "2026-07-23T07:07:02+00:00",
+      "summary": "36氪获悉，科沃斯数据显示，今年上半年家用机器人海外出货量同比增长超80%，德国、法国、澳大利亚、美国、意大利为主要海外市场。擦窗机器人、割草机器人等新品类已连续3年同比增长超110%，带动公司整体增长15%以上。",
+      "fetched_at": "2026-07-23T07:41:50.900104+00:00"
+    },
+    {
+      "id": "992dfee94c90fb95",
+      "title": "2026光模块共识全押错：被淘汰的不是模块，是DSP",
+      "link": "https://www.tmtpost.com/8074133.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-07-23T07:02:31+00:00",
+      "summary": "CPO/LPO架构切换下的\"环节级淘汰\"真相与价值重分配。",
+      "fetched_at": "2026-07-23T07:41:57.538996+00:00"
+    },
+    {
+      "id": "969a426b02af0f54",
+      "title": "一年吸金18亿，李宁前CEO掌舵，即将冲刺上市",
+      "link": "https://www.tmtpost.com/8076384.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-07-23T07:02:25+00:00",
+      "summary": "马拉松大火的当下，国产跑鞋迎来春天。",
+      "fetched_at": "2026-07-23T07:41:57.539006+00:00"
+    },
+    {
+      "id": "63feb0bf0aea2f7c",
+      "title": "A股三大指数收盘集体上涨，半导体领跌",
+      "link": "https://36kr.com/newsflashes/3907880569656710?f=rss",
+      "source_id": "36kr",
+      "source_name": "36氪",
+      "category": "finance",
+      "published_at": "2026-07-23T07:01:41+00:00",
+      "summary": "36氪获悉，A股三大指数收盘集体上涨，沪指涨0.25%，深成指涨0.44%，创业板指涨0.25%；半导体领跌，华虹宏力跌超10%，中芯国际、芯原股份跌超6%，寒武纪、德明利跌超4%；智能电网、锂电涨幅居前，中能电气、双杰电气、和顺电气、永杉锂业等多股涨停；油气股持续走强，ST准油、中曼石油涨停。",
+      "fetched_at": "2026-07-23T07:41:50.900116+00:00"
+    },
+    {
+      "id": "fa083320152421e4",
+      "title": "阿尔法战略开启 508 天后的又一转变，李健详解荣耀全新品牌图形标识及主张",
+      "link": "https://www.ithome.com/0/980/627.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T07:01:35+00:00",
+      "summary": "IT之家 7 月 23 日消息，今天下午，荣耀终端股份有限公司 CEO 李健通过微博正式揭晓了荣耀全新品牌图形标识「荣耀之环」和荣耀全新品牌主张「敢想，敢不同」。IT之家注意到，李健刚刚发文，详细介绍了荣耀全新品牌图形标识及主张背后的故事，并发布了首支宣传视频。今天，我们正式发布荣耀全新的品牌图形标识 「荣耀之环」，以及全新品牌主张「敢想，敢不同」。508 天前，荣耀阿尔法战略正式开启，我们踏上了",
+      "fetched_at": "2026-07-23T07:41:54.858894+00:00"
+    },
+    {
+      "id": "1a62e7a9ba20303c",
+      "title": "鑫谷推出无界巡天 400T 机箱：三面大面积 Mesh 网孔、可安装 5 把风扇，279 元",
+      "link": "https://www.ithome.com/0/980/626.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T07:00:29+00:00",
+      "summary": "IT之家 7 月 23 日消息，鑫谷现已在京东上架无界巡天 400T 机箱，提供钛光金配色，定价为 279 元。京东鑫谷无界巡天 400T 机箱 279 元直达链接该机箱顶部、侧面、正面具备大面积 Mesh 网孔，采用快拆模组化设计，尺寸为 380x200x335mm，支持 M-ATX、ITX 主板，I/O 方面提供 2 个 USB-A 3.0、1 个 3.5mm 音频接口。该机箱 CPU 散热器",
+      "fetched_at": "2026-07-23T07:41:54.858929+00:00"
+    },
+    {
+      "id": "0f9208f0184661db",
+      "title": "诺基亚 2026 财年半年报归母净利润 9200 万欧元，同比增长 156%",
+      "link": "https://www.ithome.com/0/980/609.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T07:00:12+00:00",
+      "summary": "IT之家 7 月 23 日消息，诺基亚今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 6 月）及第二财季（2026 年 4 月～2026 年 6 月）报告：2026 财年半年报营业总收入：92.48 亿欧元，同比增长 6.00%毛利：41.23 亿欧元，同比增长 9.60%毛利率：44.6%，同比增长 1.6 个百分点归母净利润：",
+      "fetched_at": "2026-07-23T07:41:54.859008+00:00"
+    },
+    {
+      "id": "14fce795d45f7564",
+      "title": "特斯拉 Semi 电动卡车何时能用上 FSD？马斯克称今年底至明年初",
+      "link": "https://www.ithome.com/0/980/625.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T06:55:26+00:00",
+      "summary": "IT之家 7 月 23 日消息，在今日举行的特斯拉第二季度财报电话会议上，有分析师询问埃隆 · 马斯克，特斯拉何时会将自动驾驶技术应用到 Semi 电动卡车上。马斯克首次给出了较为明确的时间表，表示 Tesla Semi 的自动驾驶功能预计将在“今年年底或明年年初”实现可用。马斯克表示，Semi 自动驾驶进展较慢并非因为技术能力不足，而是出于研发优先级的考虑。目前，特斯拉自动驾驶团队的重点仍放在 ",
+      "fetched_at": "2026-07-23T07:41:54.859050+00:00"
+    },
+    {
+      "id": "09b563c9454d5ba7",
+      "title": "消息称 Claude 语音模式将支持调用 Opus 和 Sonnet AI 模型",
+      "link": "https://www.ithome.com/0/980/624.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T06:55:11+00:00",
+      "summary": "IT之家 7 月 23 日消息，科技媒体 testingcatalog 昨日（7 月 22 日）发布博文，报道称 Anthropic 有望本周升级 Claude 语音模式，支持调用 Opus 和 Sonnet 更强模型。Claude 的语音模式支持用户和 AI 完整的语音对话，用户无需输入提示并阅读书面回复，可以和 Claude 交谈并听取其回复，目前统一调用 &nbsp;Claude Haiku",
+      "fetched_at": "2026-07-23T07:41:54.859072+00:00"
+    },
+    {
+      "id": "8ead768511365e65",
+      "title": "埃隆 · 马斯克：感谢美光向特斯拉分配可观内存产能",
+      "link": "https://www.ithome.com/0/980/623.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T06:52:55+00:00",
+      "summary": "IT之家 7 月 23 日消息，Tesla（特斯拉）首席执行官 Elon Musk（埃隆 · 马斯克）当地时间 22 日在公司 2026Q2 财报电话会议上表达了对 Micron（美光）的感谢：我也想感谢美光为我们分配内存。他们在内存分配方面不得不做出一些非常艰难的决定。我们非常感谢美光在未来几年为特斯拉预留了空间，并且鉴于当前内存价格高得离谱，他们仍以合理的条款为我们提供了相当可观的内存配额。特",
+      "fetched_at": "2026-07-23T07:41:54.859095+00:00"
+    },
+    {
+      "id": "8c370a8929ccf2d9",
+      "title": "给“AI”发身份证，国内首个智能体互联标准体系发布",
+      "link": "https://www.ithome.com/0/980/622.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T06:51:26+00:00",
+      "summary": "IT之家 7 月 23 日消息，据央视新闻今日报道，《人工智能 智能体互联》系列国家标准应用推进专题会议近日在北京中关村展示中心召开。现场发布 GB/Z185-2026 七项指导性国家标准，这是国内首个覆盖智能体全生命周期的互联标准体系，为全域 AI 协同搭建统一底层规则环球网。据介绍，当前 AI 智能体正从单纯的“能对话”向“善执行”转变。然而，由于缺乏统一规范，不同厂商的智能体往往互不兼容，身",
+      "fetched_at": "2026-07-23T07:41:54.859124+00:00"
+    },
+    {
+      "id": "9bfbcf993af64eb6",
+      "title": "DeepSeek今年已增资65%",
+      "link": "https://36kr.com/newsflashes/3907857319007365?f=rss",
+      "source_id": "36kr",
+      "source_name": "36氪",
+      "category": "finance",
+      "published_at": "2026-07-23T06:49:02+00:00",
+      "summary": "36氪获悉，据媒体报道，近日，DeepSeek创始人梁文锋一场4小时的投资人闭门会议实录在科技与创投圈刷屏，他明确表示“DeepSeek只有一条主线，即通往通用人工智能（AGI）”，相关话题引发关注。天眼查App显示，DeepSeek关联公司杭州深度求索成立于2023年7月，法定代表人为裴湉，经营范围含工程和技术研究和试验发展、软件开发、人工智能应用软件开发等，由梁文锋、宁波程恩企业管理咨询合伙企",
+      "fetched_at": "2026-07-23T07:41:50.900129+00:00"
+    },
+    {
+      "id": "2a53a3de41fc2415",
+      "title": "小米智能太阳能摄像机 4 Pro 4G 双摄版发售：免费流量、免装网线，649 元",
+      "link": "https://www.ithome.com/0/980/620.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T06:48:00+00:00",
+      "summary": "IT之家 7 月 23 日消息，小米智能太阳能摄像机 4 Pro 4G 双摄版现已在京东发售，定价为 649 元。京东小米智能太阳能摄像机 4 Pro 4G 双摄版 649 元直达链接IT之家从商品页面获悉，这款新品内置双 4GSIM 卡，网络双保险，稳定信号随手切换，提供免费流量，并且无需插电、无需网线、无需 Wi-Fi。产品内置 9900mAh 大容量电池，满电续航 1 周以上；配备 7.6W",
+      "fetched_at": "2026-07-23T07:41:54.859155+00:00"
+    },
+    {
+      "id": "56447ae14b8cf579",
+      "title": "法国拒绝批准特斯拉 FSD：称其存在安全隐患，需做出改变",
+      "link": "https://www.ithome.com/0/980/619.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T06:46:25+00:00",
+      "summary": "IT之家 7 月 23 日消息，特斯拉推动 FSD（监督版）在欧洲获批的计划再次遭遇阻碍。法国官方已决定，不批准目前版本的 FSD 在该国投入使用，认为该系统目前仍存在过多安全隐患，不适合在公共道路上运行。根据 X 用户 @frizulls 分享的一段视频，法国交通部长菲利普 · 塔巴罗（Philippe Tabarot）阐述了政府的立场。他表示：“目前该系统在安全性方面的权衡仍不足以支持批准其投",
+      "fetched_at": "2026-07-23T07:41:54.859194+00:00"
+    },
+    {
+      "id": "f23dd25b420df327",
+      "title": "PrimalVerse完成数亿元种子轮融资，主攻4D世界模型基模｜独家",
+      "link": "https://www.tmtpost.com/8076725.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-07-23T06:45:53+00:00",
+      "summary": "融资资金将用于4D世界模型基模研发及团队扩充，并推进在具身智能、游戏影视、自动驾驶、医疗手术等场景中的应用验证。",
+      "fetched_at": "2026-07-23T07:41:57.539017+00:00"
+    },
+    {
+      "id": "392f5d6c0c3e7129",
+      "title": "淡马锡旗下凯德投资与丰树合并谈判据悉陷入停滞",
+      "link": "https://36kr.com/newsflashes/3907855711245697?f=rss",
+      "source_id": "36kr",
+      "source_name": "36氪",
+      "category": "finance",
+      "published_at": "2026-07-23T06:43:24+00:00",
+      "summary": "7月23日，据报道，由淡马锡控股支持的两大房地产资产管理公司——凯德投资与丰树投资的合并谈判已陷入停滞，双方在估值等问题上存在分歧。双方经过数月讨论后已放缓推进潜在合并交易，其他分歧还包括合并后公司管理层安排、人员调整方案以及部分业务表现疲弱等问题。不过，双方未来仍可能恢复谈判。（界面）",
+      "fetched_at": "2026-07-23T07:41:50.900140+00:00"
+    },
+    {
+      "id": "3d616e3db884228b",
+      "title": "Kimi 叫停新订阅后，如何用上 K3｜实测避坑",
+      "link": "https://www.ifanr.com/1672800?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source_id": "ifanr",
+      "source_name": "爱范儿",
+      "category": "tech",
+      "published_at": "2026-07-23T06:43:19+00:00",
+      "summary": "同一个模型，进入不同的壳，就不再是同一个「设计师」，这中间是 harness 的差异#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "fetched_at": "2026-07-23T07:41:52.428269+00:00"
+    },
+    {
+      "id": "a1d46c8f1e25ca74",
+      "title": "迅雷 17 Windows 尝鲜版上线：界面焕新无捆绑，主打云盘与秒播功能",
+      "link": "https://www.ithome.com/0/980/616.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T06:41:33+00:00",
+      "summary": "IT之家 7 月 23 日消息，迅雷 PC 版官网近日悄然上线了“迅雷 17 Windows 尝鲜版”，但迅雷官网首页并未上架迅雷 17 相关产品。迅雷此次直接从 12 版本跳至 17 版本，或许与今年刚好是迅雷会员体系 17 周年有关。IT之家体验之后发现，该版本即去年开始内测的“Windows 迅雷 2025 版本”，目前最新版本号为 25.0.82.1562，相比内测版取消了账号限制，但仍保",
+      "fetched_at": "2026-07-23T07:41:54.859236+00:00"
+    },
+    {
+      "id": "790c6f529ff66bfa",
+      "title": "改装萨博 340B 创造历史，混动飞机首次突破 30000 英尺高度",
+      "link": "https://www.ithome.com/0/980/615.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T06:40:11+00:00",
+      "summary": "IT之家 7 月 23 日消息，汽车媒体 autoevolution 昨日（7 月 22 日）发布博文，报道称在 2026 年范堡罗国际航展上，GE Aerospace 宣布其改装的萨博 340B 创造历史，成为全球首架在超过 30000 英尺（约 9144 米）高度飞行的混动电动飞机。图源：GE Aerospace在美国宇航局（NASA）、波音和 Beta Technologies 协助下，GE",
+      "fetched_at": "2026-07-23T07:41:54.859265+00:00"
+    },
+    {
+      "id": "e9d31f416d3214fc",
+      "title": "曾指控 Meta“令人成瘾”的 15 岁原告撤诉，律师称其希望努力恢复正常生活",
+      "link": "https://www.ithome.com/0/980/614.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T06:39:26+00:00",
+      "summary": "IT之家 7 月 23 日消息，据外媒 The Verge 今天（23 日）报道，距离 Meta 律师再次出庭不到一周，来自佛罗里达州、以姓名首字母 R.K.C.代称的 15 岁原告撤回了针对 Meta 的诉讼。此前，R.K.C.指控 Meta 平台通过容易令青少年上瘾的功能对用户造成伤害。案件原定成为第二起标志性测试诉讼，用于检验社交媒体巨头是否因设计此类功能而违反法律。TikTok、Snap ",
+      "fetched_at": "2026-07-23T07:41:54.859297+00:00"
+    },
+    {
+      "id": "8115e98767f9e189",
+      "title": "数据中心 CPU 价格飙升，英特尔、AMD 与中国客户讨论超一年期供应协议",
+      "link": "https://www.ithome.com/0/980/613.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T06:39:04+00:00",
+      "summary": "IT之家 7 月 23 日消息，路透社今日援引两位知情人士消息称，两大 x86 处理器巨头英特尔和 AMD 正与中国客户讨论超过一年期的数据中心 CPU 供应协议。消息人士表示，英特尔和 AMD 正就新一轮 CPU 供应合同与中国买家交涉，这些协议通常锁定采购量但不锁定价格，主要为一年期形式。与此同时，中国市场的服务器 CPU 价格仍在攀升，部分品类价格月度涨幅超 10%，而有些产品今年以来价格累",
+      "fetched_at": "2026-07-23T07:41:54.859318+00:00"
+    },
+    {
+      "id": "5e58f4b831fa281f",
+      "title": "三星 Galaxy Watch9/Ultra2 智能手表承诺提供 5 个大版本系统更新",
+      "link": "https://www.ithome.com/0/980/612.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-07-23T06:38:42+00:00",
+      "summary": "IT之家 7 月 23 日消息，三星昨天推出了 Galaxy Watch9 和 Galaxy Watch Ultra2 两款智能手表，这两款产品提供 5 个大版本系统更新及 5 年安全补丁更新。Galaxy Watch9 和 Galaxy Watch Ultra2 出厂均搭载基于 Wear OS 7 的 One UI 9 Watch 系统，按照上述规划，这两款设备未来将能够升级至 Wear OS ",
+      "fetched_at": "2026-07-23T07:41:54.859348+00:00"
+    },
+    {
+      "id": "86b129155baf5684",
+      "title": "阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务",
+      "link": "https://36kr.com/newsflashes/3907857698903424?f=rss",
+      "source_id": "36kr",
+      "source_name": "36氪",
+      "category": "finance",
+      "published_at": "2026-07-23T06:38:25+00:00",
+      "summary": "36氪获悉，7月23日，阿里真武M890超节点已成功适配Qwen3.8，并上线阿里云百炼平台提供模型推理服务，这是国内首个成功运行超2万亿参数大模型的超节点。",
+      "fetched_at": "2026-07-23T07:41:50.900150+00:00"
+    },
+    {
+      "id": "63ce47f5c52e2cbd",
+      "title": "进出口银行上半年新发放外贸领域贷款近6500亿元",
+      "link": "https://36kr.com/newsflashes/3907855338607752?f=rss",
+      "source_id": "36kr",
+      "source_name": "36氪",
+      "category": "finance",
+      "published_at": "2026-07-23T06:36:01+00:00",
+      "summary": "7月23日从中国进出口银行获悉，今年上半年，进出口银行新发放外贸领域贷款近6500亿元，其中近40%投向稳外贸主体和稳外贸产业链领域。（新华社）",
+      "fetched_at": "2026-07-23T07:41:50.900160+00:00"
+    },
+    {
+      "id": "291fafce12e5ce3f",
+      "title": "飞书Agent产品飞书aily升级，支持自主工作、团队共享智能体",
+      "link": "https://36kr.com/newsflashes/3907843428390020?f=rss",
+      "source_id": "36kr",
+      "source_name": "36氪",
+      "category": "finance",
+      "published_at": "2026-07-23T06:23:54+00:00",
+      "summary": "36氪获悉，7月23日，飞书内的Agent产品飞书aily全新升级。新版飞书 aily 能够在用户授权范围内，基于飞书消息、文档、日历、会议、任务和多维表格等信息开展工作，主动跟进任务，并与团队成员或其他智能体分工协作。",
+      "fetched_at": "2026-07-23T07:41:50.900172+00:00"
+    },
+    {
+      "id": "43562284a4842e57",
+      "title": "道达尔能源二季度调整后净利润60.3亿美元",
+      "link": "https://36kr.com/newsflashes/3907835988087940?f=rss",
+      "source_id": "36kr",
+      "source_name": "36氪",
+      "category": "finance",
+      "published_at": "2026-07-23T06:16:20+00:00",
+      "summary": "道达尔能源7月23日公布2026财年第二季度财报显示，当季实现营收571.0亿美元，调整后净利润达60.3亿美元，同比大幅增长68%。受油价上涨及新项目推动，当季平均油气产量达240万桶油当量/日；调整后每股收益为2.68美元；调整后息税折旧及摊销前利润（EBITDA）为131.8亿美元；营业现金流达108.6亿美元。展望未来，道达尔能源预计2026年第三季度液化天然气平均售价将超过11.5美元/",
+      "fetched_at": "2026-07-23T07:41:50.900188+00:00"
+    },
+    {
+      "id": "6d5dff3053f60621",
+      "title": "阿里国际站：Accio Work用户数量超千万，一年内增长逾30倍",
+      "link": "https://36kr.com/newsflashes/3907827161519488?f=rss",
+      "source_id": "36kr",
+      "source_name": "36氪",
+      "category": "finance",
+      "published_at": "2026-07-23T06:14:18+00:00",
+      "summary": "36氪获悉，7月23日，在杭州一场全球跨境电商峰会现场，阿里国际站总裁张阔透露，全球已有1000万中小企业在用Accio Work做生意，一年内增长逾30倍。据悉，过去12个月中，阿里国际站上的中小企业Token消耗量翻了10倍。与此同时，Accio Work单次任务的使用成本下降了50%。",
+      "fetched_at": "2026-07-23T07:41:50.900201+00:00"
+    },
+    {
+      "id": "ead2fe8a9a07d437",
+      "title": "三步爆改旧鼠标，打造最好用的 AI 外挂｜AI 器物志",
+      "link": "https://www.ifanr.com/1672824?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source_id": "ifanr",
+      "source_name": "爱范儿",
+      "category": "tech",
+      "published_at": "2026-07-23T06:11:27+00:00",
+      "summary": "230 刀的 Codex 键盘很好，但不是每个人都需要。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "fetched_at": "2026-07-23T07:41:52.428291+00:00"
+    },
+    {
+      "id": "9f03a9a15ff15bb0",
+      "title": "“领铄智能”获千万级A轮追加投资",
+      "link": "https://36kr.com/newsflashes/3907822344689028?f=rss",
+      "source_id": "36kr",
+      "source_name": "36氪",
+      "category": "finance",
+      "published_at": "2026-07-23T06:10:24+00:00",
+      "summary": "36氪获悉，“领铄智能”宣布完成A轮追加融资，追加投资金额达千万级，由陆石投资、动平衡资本共同参与。此前，领铄智能已完成A轮融资，由中信建投资本与西安财金共同参与。",
+      "fetched_at": "2026-07-23T07:41:50.900211+00:00"
+    },
+    {
+      "id": "7b302cec3f5300e9",
+      "title": "韩国加密货币交易量已萎缩至股市成交量的约1%",
+      "link": "https://36kr.com/newsflashes/3907818452915593?f=rss",
+      "source_id": "36kr",
+      "source_name": "36氪",
+      "category": "finance",
+      "published_at": "2026-07-23T05:58:29+00:00",
+      "summary": "周四公布的行业数据显示，韩国主要加密货币交易所的交易量已缩减至当地股市相应数据的约1%。加密货币市场观察平台CoinGecko数据显示，从7月1日至21日，韩国五大虚拟资产交易所的日均交易量为5978亿韩元（约合4.065亿美元）。这一数字仅相当于该期间基准KOSPI市场日均成交量（37.6万亿韩元）的1.59%。（新浪财经）",
+      "fetched_at": "2026-07-23T07:41:50.900223+00:00"
+    },
+    {
+      "id": "20a8a8367e641071",
+      "title": "温氏股份：估计行业能繁母猪还在持续去化",
+      "link": "https://36kr.com/newsflashes/3907810786579846?f=rss",
+      "source_id": "36kr",
+      "source_name": "36氪",
+      "category": "finance",
+      "published_at": "2026-07-23T05:50:41+00:00",
+      "summary": "36氪获悉，温氏股份接受机构调研时表示，尽管7月份猪价有所回升，但未回升至行业平均成本线以上，预计行业整体仍处于现金流流出的状态，估计行业能繁母猪还在持续去化。具体去化情况，关键看行业参与者的资金链承受能力。",
+      "fetched_at": "2026-07-23T07:41:50.900234+00:00"
+    },
+    {
+      "id": "2a64273d8ad2e0b4",
+      "title": "3万店时代，鸣鸣很忙的增长确定性从何而来？",
+      "link": "https://www.tmtpost.com/8076582.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-07-23T05:45:27+00:00",
+      "summary": "3万店不是增长的终点，而是新一轮价值成长的起点。",
+      "fetched_at": "2026-07-23T07:41:57.539026+00:00"
+    },
+    {
+      "id": "a37771b7624f2971",
+      "title": "青岛芯聚产业投资基金登记成立，出资额5.01亿",
+      "link": "https://36kr.com/newsflashes/3907805066335368?f=rss",
+      "source_id": "36kr",
+      "source_name": "36氪",
+      "category": "finance",
+      "published_at": "2026-07-23T05:44:52+00:00",
+      "summary": "36氪获悉，天眼查App显示，近日，青岛芯聚产业投资基金合伙企业（有限合伙）成立，执行事务合伙人为上海信银海丝投资管理有限公司，出资额5.01亿人民币，经营范围为以私募基金从事股权投资、投资管理、资产管理等活动。合伙人信息显示，该基金由信银金融资产投资有限公司、上海信银海丝投资管理有限公司共同出资。",
+      "fetched_at": "2026-07-23T07:41:50.900245+00:00"
+    },
+    {
+      "id": "ddcbb32ad5bb1806",
+      "title": "专访南洋理工李搏扬：被「数学缺陷」困了八年的MTS，第一次真正 work了| ICML 2026",
+      "link": "https://www.leiphone.com/category/private/9PRf4M2bUYMLC0Jz.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-07-23T05:34:00+00:00",
+      "summary": "一套数学上优雅、逻辑上自洽的框架方法，为什么就是跑不成功？&nbsp; &nbsp; 作者丨幸丽娟&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
+      "fetched_at": "2026-07-23T07:42:03.919274+00:00"
+    },
+    {
+      "id": "afc2bb3593997c5a",
+      "title": "独家解读丨阿里整合Agent背后：大厂开始重新分配AI资源",
+      "link": "https://www.leiphone.com/category/industrynews/yj0yPPz94SYfHGVE.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-07-23T05:06:00+00:00",
+      "summary": "“一匹马、一头骡子、一只猴子，怎么能叫赛马？”当外界将阿里整合QoderWork、悟空、MuleRun三款Agent产品，解读为“结束内部赛马”时，一位接近阿里的业内人士沈默给出了不同判断。在他看来，外界的关注点有些偏了。比起讨论“赛马”，更值得关注的是另一件事：过去一年，大厂围绕Agent展开的多线探索，正在进入新的阶段。从产品整合，到方向收拢，大厂开始重新判断：哪些Agent能力值得继续投入，",
+      "fetched_at": "2026-07-23T07:42:03.919362+00:00"
+    },
+    {
+      "id": "db03be48b2b5bf79",
+      "title": "懂知识、能执行，滴普科技选择做更“Work”的Agent",
+      "link": "https://www.tmtpost.com/8075680.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-07-23T04:58:46+00:00",
+      "summary": "企业智能体平台DeepWorks已经在产线上干活了",
+      "fetched_at": "2026-07-23T07:41:57.539036+00:00"
+    },
+    {
+      "id": "c49caaf37f0b46d3",
+      "title": "凌迪科技WAIC 2026：从服装仿真到具身智能，柔性引擎怎么做跨界",
+      "link": "https://www.tmtpost.com/8075832.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-07-23T04:48:15+00:00",
+      "summary": "服装领域的仿真引擎需要更强的技术基础。",
+      "fetched_at": "2026-07-23T07:41:57.539045+00:00"
+    },
+    {
+      "id": "89590dab211ee0e6",
+      "title": "具身智能数据需求暴涨千倍，这家“数据炼油厂”刚拿到近亿元融资",
+      "link": "https://www.leiphone.com/category/ai/XRwFfhV1xdAQfrac.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-07-23T04:38:00+00:00",
+      "summary": "大模型的军备竞赛正在进入一个新阶段。当算法架构趋于收敛、算力供给逐渐充沛，一个更隐蔽却更致命的瓶颈浮出水面——高质量数据的匮乏。近日，人工智能高质量数据生产运营商景联文科技完成近亿元A轮融资，投资方包括滨江金投、杭州金投、创新数谷基金、安恒信息、玉禾田等，上一轮投资方麦迪科技继续加注。这不是一笔简单的融资。观察投资方阵容——地方国资、数据安全企业、环卫上市公司、医疗上市公司——几乎涵盖了AI数据从",
+      "fetched_at": "2026-07-23T07:42:03.919423+00:00"
+    },
+    {
+      "id": "8d0458cc19d6e0bf",
+      "title": "基金市场概况与资产配置观点（07.13—07.19）",
+      "link": "https://www.tmtpost.com/8076616.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-07-23T04:36:18+00:00",
+      "summary": "国内市场方面，二季度GDP同比增长4.3%，低于一季度5.0%，上半年累计增速4.7%，内需内生动力偏弱。6月商品房销售面积同比下滑14.3%，降幅较5月扩大，全国性地产宽松政策短期未扭转成交下行趋势。6月社零边际回暖但地产、大宗消费持续低迷，制造业工业增加值维持韧性，资金面平稳，市场预期下半年稳增长政策或加码。",
+      "fetched_at": "2026-07-23T07:41:57.539057+00:00"
+    },
+    {
+      "id": "4cda35d9ffb40a99",
+      "title": "白宫下场亲自「围攻」Kimi K3，评论区全员唱反调？",
+      "link": "https://www.leiphone.com/category/ai/NRMCQhmYyxQ6TSP0.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-07-23T04:33:00+00:00",
+      "summary": "一场蒸馏指控，撕开了开放模型与闭源生意的利益裂缝。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
+      "fetched_at": "2026-07-23T07:42:03.919610+00:00"
+    },
+    {
+      "id": "f07eebeeaad84fa7",
+      "title": "成本直降 90%！原来 Kimi K3 叠 Claude Code 还能这么玩",
+      "link": "https://www.leiphone.com/category/ai/szzIgYjmN2yUvZPk.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-07-23T04:30:00+00:00",
+      "summary": "AI 编程的竞争，正在从模型能力转向组织能力。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs",
+      "fetched_at": "2026-07-23T07:42:03.919773+00:00"
+    },
+    {
       "id": "396795143d1e7807",
       "title": "市场消息：灵初智能正以14.8亿美元的估值融资近1亿美元",
       "link": "https://36kr.com/newsflashes/3907726672090241?f=rss",
@@ -46,6 +805,17 @@
       "fetched_at": "2026-07-23T04:26:08.474515+00:00"
     },
     {
+      "id": "f71c55f3320f3091",
+      "title": "刚刚，智谱建了一座只用国产芯片的数据中心",
+      "link": "https://www.leiphone.com/category/ai/eeqB5fcXqPBzGQhV.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-07-23T04:25:00+00:00",
+      "summary": "AI 大厂正从「训练模型」走向「建设计算工厂」。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb",
+      "fetched_at": "2026-07-23T07:42:03.919918+00:00"
+    },
+    {
       "id": "9570b35b6e3cfe46",
       "title": "不拼通用能力、聚焦端侧，腾讯副总裁林松涛：Marvis专注做好系统级操作",
       "link": "https://36kr.com/p/3907676111983745?f=rss",
@@ -54,7 +824,29 @@
       "category": "finance",
       "published_at": "2026-07-23T04:23:24+00:00",
       "summary": "文｜王欣逸 编辑｜张雨忻 “技术突破决定AI能走多快，真正能否创造价值决定AI能走多远。”在今年的WAIC腾讯AI应用创新论坛上，腾讯公司副总裁林松涛分享了这样一个观点。 同样是“Claw热”之后上线的产品，腾讯的三大Agent产品WorkBuddy、QClaw和Marvis迎来了各自不同的命运。 首先是WorkBuddy，林松涛在此次论坛上公开表示，WorkBuddy的DAU已稳居国内效率智能体",
-      "fetched_at": "2026-07-23T04:26:08.473795+00:00"
+      "fetched_at": "2026-07-23T07:41:50.899137+00:00"
+    },
+    {
+      "id": "f1baf01ca94d13a4",
+      "title": "Kimi K3 已提前亮相？神秘模型「Kivine」现身，百万上下文能力惊艳全球",
+      "link": "https://www.leiphone.com/category/ai/JdrD0eOAqnAiX1s7.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-07-23T04:22:00+00:00",
+      "summary": "如果传闻属实，Kimi K3 将成为国产模型的重要节点。&nbsp; &nbsp; 作者丨郑佳美、樊天骄&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
+      "fetched_at": "2026-07-23T07:42:03.920124+00:00"
+    },
+    {
+      "id": "d7c414d89f9155e7",
+      "title": "WAIC上，一家公司想给企业装上一颗会思考的大脑丨WAIC2026",
+      "link": "https://www.tmtpost.com/8076568.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-07-23T04:19:52+00:00",
+      "summary": "AI的角色正在从效率工具，转向能够持续学习并承担业务结果的生产力系统。",
+      "fetched_at": "2026-07-23T07:41:57.539067+00:00"
     },
     {
       "id": "75882bb3329e590e",
@@ -109,7 +901,18 @@
       "category": "finance",
       "published_at": "2026-07-23T04:12:00+00:00",
       "summary": "端侧AI正从蓝海变成红海。",
-      "fetched_at": "2026-07-23T04:26:15.420173+00:00"
+      "fetched_at": "2026-07-23T07:41:57.539077+00:00"
+    },
+    {
+      "id": "91c4c49b421eed36",
+      "title": "大模型也得「睡觉」了：Google 的这篇论文，戳中了AI 的最大软肋",
+      "link": "https://www.leiphone.com/category/ai/tzNqBp8kFaaFFoVA.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-07-23T04:12:00+00:00",
+      "summary": "通过离线整理和自我训练，让新知识真正留下来。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
+      "fetched_at": "2026-07-23T07:42:03.920279+00:00"
     },
     {
       "id": "2f6250bbad7db556",
@@ -131,7 +934,18 @@
       "category": "finance",
       "published_at": "2026-07-23T04:09:00+00:00",
       "summary": "谷歌开挂了？并没有，别被带沟里去了。",
-      "fetched_at": "2026-07-23T04:26:15.420190+00:00"
+      "fetched_at": "2026-07-23T07:41:57.539086+00:00"
+    },
+    {
+      "id": "771b600f677b3143",
+      "title": "RSS 2026 现场直击：首日 Oral 报告华人含量 94%，中国力量包揽学术与产业 C 位",
+      "link": "https://www.leiphone.com/category/private/H98VxM0BZsCEIcvv.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-07-23T04:09:00+00:00",
+      "summary": "大会主席：你和世界上最厉害的人，在同台竞技，也在并肩作战。&nbsp; &nbsp; 作者丨幸丽娟&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
+      "fetched_at": "2026-07-23T07:42:03.920598+00:00"
     },
     {
       "id": "ec2f5cc28a8734fa",
@@ -143,6 +957,28 @@
       "published_at": "2026-07-23T04:06:56+00:00",
       "summary": "IT之家 7 月 23 日消息，科技媒体 Phys 昨日（7 月 22 日）发布博文，报道称在一条承载着繁忙互联网流量的 24.4 公里商用光纤中，美国西北大学科学家成功传输了纠缠光子对，同时保持了超过 94% 的纠缠保真度。相关研究成果已于 7 月 20 日在期刊《Optica Quantum》上发表，该研究的资深作者、美国西北大学的普雷姆 · 库马尔（Prem Kumar）表示：相比传统信号，",
       "fetched_at": "2026-07-23T04:26:13.021279+00:00"
+    },
+    {
+      "id": "b8b9876c34603849",
+      "title": "DeepMind 研究科学家 Verena Rieser： AI 正值青春期，让它「听话」不如教它「懂事」 | ICML 2026",
+      "link": "https://www.leiphone.com/category/private/snYSQ8HJOem57FAm.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-07-23T04:06:00+00:00",
+      "summary": "&nbsp;“有原则”的能动性，才是 AI 真正走向现实世界的正解&nbsp; &nbsp; 作者丨幸丽娟&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
+      "fetched_at": "2026-07-23T07:42:03.921068+00:00"
+    },
+    {
+      "id": "9200b67f844e9505",
+      "title": "哈佛大学 Sham Kakade 硬核万字演讲：LLM 预训练，二次模型该站 C 位| ICML 2026",
+      "link": "https://www.leiphone.com/category/private/4pCGOoCW6v2T1NOf.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-07-23T04:03:00+00:00",
+      "summary": "极简二次模型，还原 LLM 预训练的本质。&nbsp; &nbsp; 作者丨幸丽娟&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+      "fetched_at": "2026-07-23T07:42:03.921695+00:00"
     },
     {
       "id": "9e69097c44e4b398",
@@ -175,7 +1011,7 @@
       "category": "finance",
       "published_at": "2026-07-23T04:02:05+00:00",
       "summary": "滴滴充电量居首，轻资产模式胜出。",
-      "fetched_at": "2026-07-23T04:26:15.420197+00:00"
+      "fetched_at": "2026-07-23T07:41:57.539096+00:00"
     },
     {
       "id": "0c3a54ba5c793b64",
@@ -186,7 +1022,40 @@
       "category": "finance",
       "published_at": "2026-07-23T04:01:59+00:00",
       "summary": "文和友的梦，又回到了原点长沙？",
-      "fetched_at": "2026-07-23T04:26:15.420205+00:00"
+      "fetched_at": "2026-07-23T07:41:57.539105+00:00"
+    },
+    {
+      "id": "816d2620087bfbb1",
+      "title": "世界模型迎来「中国引领时刻」，昆仑万维 Matrix-Game 3.5 要迈向真实世界",
+      "link": "https://www.leiphone.com/category/ai/ElUplw96iXqIFTPd.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-07-23T04:00:00+00:00",
+      "summary": "&nbsp;世界模型牌桌上，昆仑万维已连出五张牌，一张比一张大。&nbsp; &nbsp; 作者丨幸丽娟&nbsp; &nbsp; 编辑丨齐铖湧&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
+      "fetched_at": "2026-07-23T07:42:03.922006+00:00"
+    },
+    {
+      "id": "c7623b41d292b7fd",
+      "title": "WAIC观察：比起做「超级Agent」，大厂更着急抢占「Agent入口」",
+      "link": "https://www.leiphone.com/category/industrynews/EMsIH6YY1MsA0Qjo.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-07-23T03:57:00+00:00",
+      "summary": "今年的WAIC现场，与去年相比最明显的一个变化是：Agent不再只是发布会上的概念，而是开始走到用户面前。在百度展台，一位小朋友坐在秒哒体验区的沙发上，尝试用自然语言搭建自己的应用——过去需要开发人员完成的工作，正在被普通用户用一句指令完成；阿里千问办公体验区，围坐在桌前的用户不断向Agent发出指令，测试它能否完成一项项办公任务；腾讯展台旁，观众关注的问题也从去年的“有没有Agent”，变成了“",
+      "fetched_at": "2026-07-23T07:42:03.922116+00:00"
+    },
+    {
+      "id": "0742e8198cf6265c",
+      "title": "WAIC 2026 世界模型「六小龙」巅峰论坛，求解物理 AI 从「理解」到「执行」开悟时刻",
+      "link": "https://www.leiphone.com/category/aijuejinzhi/u7fivcCZqZGaCGUp.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-07-23T03:56:00+00:00",
+      "summary": "&nbsp;诺贝尔奖得主、国内世界模型第一梯队都来了&nbsp; &nbsp; 作者丨幸丽娟&nbsp; &nbsp; 编辑丨张 &nbsp; 贤&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
+      "fetched_at": "2026-07-23T07:42:03.922414+00:00"
     },
     {
       "id": "515eecbca02c9360",
@@ -208,7 +1077,7 @@
       "category": "finance",
       "published_at": "2026-07-23T03:52:43+00:00",
       "summary": "特斯拉公布2026年第二季度财报，48万辆交付仍难托起利润，它正用汽车现金流押注Robotaxi、芯片和机器人。",
-      "fetched_at": "2026-07-23T04:26:15.420213+00:00"
+      "fetched_at": "2026-07-23T07:41:57.539116+00:00"
     },
     {
       "id": "f9361d1056277980",
@@ -252,7 +1121,7 @@
       "category": "finance",
       "published_at": "2026-07-23T03:48:17+00:00",
       "summary": "在柔性材料内部建立光学观测系统",
-      "fetched_at": "2026-07-23T04:26:15.420221+00:00"
+      "fetched_at": "2026-07-23T07:41:57.539125+00:00"
     },
     {
       "id": "6c32bdb934e4321a",
@@ -651,6 +1520,17 @@
       "fetched_at": "2026-07-23T04:26:13.021661+00:00"
     },
     {
+      "id": "a40dc125a1ef6ac0",
+      "title": "独家丨拓竹2026年或冲刺240亿元销售目标，多个系列产品降价",
+      "link": "https://www.leiphone.com/category/weiwu/d0zvXA2M7boZiVR0.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-07-23T03:03:00+00:00",
+      "summary": "拓竹的硬仗已开始。作者丨姚单编辑丨张贤2026年的消费级3D打印赛道，正在上演一场硬仗。雷峰网·鲸犀从供应链人士获悉，拓竹将2026年销售目标定为240亿元，但行业普遍预计拓竹今年实际销售额在200亿元左右。而在2025年，这家成立仅五年的公司营收刚刚突破100亿元，意味着要在百亿基数上再度实现翻倍增长。目标激进，动作更直接。在终端市场，拓竹全系列产品自2026年以来，在国内多个平台通过大促活动、",
+      "fetched_at": "2026-07-23T07:42:03.922510+00:00"
+    },
+    {
       "id": "9afe067db67d774b",
       "title": "对话FutureTech张梦钊：从“一个人+一群Agent”到超级个体，AI正在重塑创业范式",
       "link": "https://36kr.com/p/3907639172027522?f=rss",
@@ -659,7 +1539,7 @@
       "category": "finance",
       "published_at": "2026-07-23T02:57:46+00:00",
       "summary": "7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。FutureTech负责人张梦钊在WAIC现场接受36氪「氪话未来」特邀专访，围绕FutureTech平台定位、OPC独立先锋挑战赛、AI创业趋势以及初创企业商业化路径等话题，分享了FutureTech如何连接创业团队、产业资源与创新生态，探索AI时代",
-      "fetched_at": "2026-07-23T04:26:08.473897+00:00"
+      "fetched_at": "2026-07-23T07:41:50.899245+00:00"
     },
     {
       "id": "64988311cba00b40",
@@ -670,7 +1550,7 @@
       "category": "tech",
       "published_at": "2026-07-23T02:57:30+00:00",
       "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-      "fetched_at": "2026-07-23T04:26:20.103618+00:00"
+      "fetched_at": "2026-07-23T07:42:05.230931+00:00"
     },
     {
       "id": "981925b35a548ca6",
@@ -780,7 +1660,7 @@
       "category": "finance",
       "published_at": "2026-07-23T02:30:00+00:00",
       "summary": "硬氪获悉，水下AI自然探索科技公司Deeplore近日完成数千万元种子轮融资，由五源资本、顺为资本联合投资。资金将核心用于研发团队扩建与水下AI技术深耕，加速首款AI潜水面镜落地迭代，搭建水下自然探索智能平台的技术底座。 一群在消费电子行业征战十余年的大疆老兵，把目光从天空转向了深海。 Deeplore 2025年诞生于深圳，核心团队大多出自大疆，覆盖产品定义、硬核研发、全球商业全链路，是典型的“",
-      "fetched_at": "2026-07-23T04:26:08.473956+00:00"
+      "fetched_at": "2026-07-23T07:41:50.899321+00:00"
     },
     {
       "id": "91ad33930338ebab",
@@ -835,7 +1715,7 @@
       "category": "tech",
       "published_at": "2026-07-23T02:20:00+00:00",
       "summary": "过去两年，传统通信业务增长趋缓，运营商集体将目光投向AI算力。中国电信、中国移动、中国联通相继公布了大规模的智算中心建设计划，算力投资在资本开支中的占比逐年攀升。在这一转型浪潮中，运营商究竟选择什么样的算力芯片，不仅决定着自身算力业务的成本结构，也在很大程度上影响着国产算力产业的走向。目前，国内AI算力产业已呈现出TPU、GPU、ASIC等多条技术路线并行繁荣的局面。运营商在智算建设中也逐步从单一",
-      "fetched_at": "2026-07-23T04:26:18.873843+00:00"
+      "fetched_at": "2026-07-23T07:42:03.922545+00:00"
     },
     {
       "id": "720bab9f0d084585",
@@ -868,7 +1748,7 @@
       "category": "finance",
       "published_at": "2026-07-23T02:09:19+00:00",
       "summary": "7月17日，2026世界人工智能大会（WAIC）在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。蚂蚁数科副总裁、中国区业务发展部总经理孙磊在WAIC现场接受36氪「氪话未来」特邀专访，围绕商业智能体超级工厂、行业垂直大模型、AI工程化能力以及企业智能体落地等话题，分享了蚂蚁数科面向企业智能化升级的最新实践与思考。 本届WAIC以“智能",
-      "fetched_at": "2026-07-23T04:26:08.474036+00:00"
+      "fetched_at": "2026-07-23T07:41:50.899418+00:00"
     },
     {
       "id": "10d1dcb7c051975b",
@@ -879,7 +1759,7 @@
       "category": "finance",
       "published_at": "2026-07-23T01:12:15+00:00",
       "summary": "图源/企业 本文约2100字，建议阅读5分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，机器人灵巧操作方案提供商拾玥科技（LumiBot）近日完成数千万元天使轮融资。本轮由常州智融长优股权投资合伙企业（有限合伙）领投，另外两家国有投资平台旗下基金跟投。资金将主要用于团队扩张、产品迭代与小批量产线建设，以及灵巧操作数据采集与模型研发。 拾玥科技成立于2025年初，专注于为工业制造、精密装配等高精度场景提供",
-      "fetched_at": "2026-07-23T04:26:08.474092+00:00"
+      "fetched_at": "2026-07-23T07:41:50.899488+00:00"
     },
     {
       "id": "68a1cd119d0129dd",
@@ -890,7 +1770,7 @@
       "category": "finance",
       "published_at": "2026-07-23T01:08:03+00:00",
       "summary": "图源/企业 本文约1400字，建议阅读3分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，工业AI设计研发解决方案供应商「设序科技」于近日正式完成B轮超亿元融资，累计获超3亿元融资，投资方包括深产投、合鼎共及老股东涌铧投资等。融资将用于市场开拓（含出海）及核心模型技术研发。 设序科技成立于2020年，旗下产品“则形AI”是基于自研工业世界模型与自然语言大模型封装的面向硬件工程的设计研发智能体平台，提供云架",
-      "fetched_at": "2026-07-23T04:26:08.474135+00:00"
+      "fetched_at": "2026-07-23T07:41:50.899539+00:00"
     },
     {
       "id": "198bcacf52fd92fc",
@@ -901,7 +1781,7 @@
       "category": "tech",
       "published_at": "2026-07-23T00:50:21+00:00",
       "summary": "OpenAI 发布面向企业用户的 OpenAI Presence，耐克宣布重构大中华区市场生态等。查看全文",
-      "fetched_at": "2026-07-23T04:26:20.103635+00:00"
+      "fetched_at": "2026-07-23T07:42:05.230953+00:00"
     },
     {
       "id": "f91999cba13509eb",
@@ -912,7 +1792,7 @@
       "category": "tech",
       "published_at": "2026-07-23T00:15:27+00:00",
       "summary": "· AMD 与 Anthropic 达成数百亿美元 AI 服务器合作 · 台积电拟于 2027 年上调芯片代工价格，最高涨幅 10% · Claude Cowork 可通过录屏学习并保存可复用 Skill#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-07-23T04:26:10.121273+00:00"
+      "fetched_at": "2026-07-23T07:41:52.428310+00:00"
     },
     {
       "id": "24deeea3dc75a148",
@@ -1000,7 +1880,7 @@
       "category": "finance",
       "published_at": "2026-07-22T23:58:11+00:00",
       "summary": "今日热点导览 香港高院驳回宗馥莉上诉申请，维持冻结18亿美元资产 苹果拟推出月租iPhone，支持大多数机型 SpaceX做空比例飙至32%，马斯克警告空头：几无存活可能 康美药业原实控人马兴田夫妇赔付13.96亿元 宇树科技王兴兴：具身智能的“ChatGPT时刻\"有望最快在两三年内到来 越疆科技回应招股书举报风波 TOP3大新闻 小红书回应IPO传闻 近日，有较多传言称“小红书已于6月底前秘密提",
-      "fetched_at": "2026-07-23T04:26:08.474282+00:00"
+      "fetched_at": "2026-07-23T07:41:50.899735+00:00"
     },
     {
       "id": "07c6fd5d3e87c323",
@@ -2485,7 +3365,7 @@
       "category": "tech",
       "published_at": "2026-07-22T10:08:37+00:00",
       "summary": "NOA 向着山野进发。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-07-23T04:26:10.121292+00:00"
+      "fetched_at": "2026-07-23T07:41:52.428323+00:00"
     },
     {
       "id": "6f050cc27a291c4b",
@@ -2518,7 +3398,7 @@
       "category": "tech",
       "published_at": "2026-07-22T10:02:30+00:00",
       "summary": "最经典的 smart 回归。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-07-23T04:26:10.121303+00:00"
+      "fetched_at": "2026-07-23T07:41:52.428336+00:00"
     },
     {
       "id": "c3ba77891c6c923e",
@@ -2584,7 +3464,7 @@
       "category": "tech",
       "published_at": "2026-07-22T09:43:06+00:00",
       "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-      "fetched_at": "2026-07-23T04:26:20.103645+00:00"
+      "fetched_at": "2026-07-23T07:42:05.230968+00:00"
     },
     {
       "id": "44db0c1f59cd0f4c",
@@ -2661,7 +3541,7 @@
       "category": "finance",
       "published_at": "2026-07-22T09:35:15+00:00",
       "summary": "随着加时赛那粒制胜进球的落下，西班牙时隔16年再次举起大力神杯，这场横跨美加墨三国、48支球队的世界杯终于尘埃落定。 这届世界杯从来不缺爆冷、争议和绝少，但比球场更热闹的，是年轻人的钱包。 深夜外卖订单暴涨？联名盲盒开售秒空？球迷酒吧一座难求？在这一个来月的世界杯比赛期间，年轻人们究竟为了「这场球」豪掷出多少钱？ 如今赛场的喧嚣散去，翻看这段时间的消费记录，才发现今年看球的画风有些变了。针对这届世",
-      "fetched_at": "2026-07-23T04:26:08.474405+00:00"
+      "fetched_at": "2026-07-23T07:41:50.899886+00:00"
     },
     {
       "id": "c70faca72720bec3",
@@ -2705,7 +3585,7 @@
       "category": "finance",
       "published_at": "2026-07-22T09:29:03+00:00",
       "summary": "大公司： 小马智行与京东养车达成战略合作 36氪获悉，7月21日，小马智行与京东养车达成战略合作，双方将围绕自动驾驶车辆维保服务及供应链协同等领域展开深度合作，共同打造面向自动驾驶车队的标准化、规模化运维服务体系。这是自动驾驶公司首次与全国性汽车后市场服务平台建立全面战略合作。 益生股份：2026年上半年净利润3.08亿元，同比增长4897.29% 36氪获悉，益生股份公告，2026年上半年营收1",
-      "fetched_at": "2026-07-23T04:26:08.474467+00:00"
+      "fetched_at": "2026-07-23T07:41:50.899962+00:00"
     },
     {
       "id": "052c1a0a740390a5",
@@ -2848,7 +3728,7 @@
       "category": "tech",
       "published_at": "2026-07-22T09:12:00+00:00",
       "summary": "大厂的Token仪表盘上，数字正在疯狂跳动。当下，仅豆包一家大模型的日均Token调用量就已突破180万亿；国家数据局的统计显示，全国日均调用量在今年3月已超过140万亿——无论从哪个口径衡量，这都是一条两年内从“近乎为零”飙涨超千倍的曲线。这是一组足以让任何一个行业眼红的数字。AI编程、Agent工作流、多模态内容生成……越来越多场景被卷入这条消耗曲线，Token经济正在以前所未有的速度膨胀。但",
-      "fetched_at": "2026-07-23T04:26:18.873967+00:00"
+      "fetched_at": "2026-07-23T07:42:03.922694+00:00"
     },
     {
       "id": "348d66cd98950a16",
@@ -3299,7 +4179,7 @@
       "category": "finance",
       "published_at": "2026-07-22T08:02:33+00:00",
       "summary": "7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。超擎数智创始人兼CEO唐春峰在WAIC现场接受36氪「氪话未来」特邀专访，围绕人工智能推理应用落地、软硬一体全栈解决方案、行业应用实践等话题，分享了超擎从软件、硬件到行业部署的整体布局，以及如何通过技术方案提升AI应用效率、降低企业落地成本。 本届WA",
-      "fetched_at": "2026-07-23T04:26:08.474507+00:00"
+      "fetched_at": "2026-07-23T07:41:50.900009+00:00"
     },
     {
       "id": "76a9ca7b1454d29f",
@@ -3321,7 +4201,7 @@
       "category": "tech",
       "published_at": "2026-07-22T07:58:00+00:00",
       "summary": "“中美Token分发商，正在走向两条截然不同的路。”某国产大模型厂商的 API 生态负责人王栋告诉雷峰网。近日，全球头部大模型 API 聚合平台 OpenRouter 被曝寻求“卖身”，正与多家科技巨头洽谈收购机会。消息一出，业内哗然。要知道，作为“大模型 API 超市”，OpenRouter 长期稳坐行业头把交椅。而且，就在短短两个月前，OpenRouter 才刚完成了一笔高达 1.13 亿美元",
-      "fetched_at": "2026-07-23T04:26:18.874147+00:00"
+      "fetched_at": "2026-07-23T07:42:03.922908+00:00"
     },
     {
       "id": "c49f46c71fafb99e",
@@ -3343,7 +4223,7 @@
       "category": "tech",
       "published_at": "2026-07-22T07:54:00+00:00",
       "summary": "“从全球范围看，AI 编程已过了技术陡峭期。但二级市场退烧后，产业一线开始了近身肉搏。”一家国内头部券商计算机资深分析师张淼告诉雷峰网。最近，AI 编程市场又火了起来。海外，Anthropic、OpenAI 为抢用户，激烈火拼，不断加码免费额度与体验时长，打起了额度战。国内，战火一路从用户心智烧到商业底牌：阿里宣称AI编程市占率第一，智谱斩获10亿美元ARR，Kimi发布K3模型，编程能力直逼全球",
-      "fetched_at": "2026-07-23T04:26:18.874282+00:00"
+      "fetched_at": "2026-07-23T07:42:03.923071+00:00"
     },
     {
       "id": "f1f34aeceddd1b54",
@@ -3398,7 +4278,7 @@
       "category": "tech",
       "published_at": "2026-07-22T07:18:00+00:00",
       "summary": "2026 年 7 月 17 日，百度文心助手任务 Agent，以最高分 94.6%、平均分 94.4% 的成绩，登顶全球工程向 AI 智能体评测榜单 PinchBench v2。成为首个以正式产品身份获得 PinchBench 总榜第一的国产智能体系统。&nbsp;在 59 个参评模型中，文心助手任务 Agent 排名第一，领先 Anthropic Claude Opus 4.8-fast（93.",
-      "fetched_at": "2026-07-23T04:26:18.874367+00:00"
+      "fetched_at": "2026-07-23T07:42:03.923171+00:00"
     },
     {
       "id": "b3727a941c89c849",
@@ -3420,7 +4300,7 @@
       "category": "tech",
       "published_at": "2026-07-22T07:06:04+00:00",
       "summary": "「GPT-6」为了考试作弊，黑进了别人的服务器#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-07-23T04:26:10.121312+00:00"
+      "fetched_at": "2026-07-23T07:41:52.428348+00:00"
     },
     {
       "id": "626d7c1bad039d07",
@@ -3442,7 +4322,7 @@
       "category": "tech",
       "published_at": "2026-07-22T07:00:00+00:00",
       "summary": "从风格滤镜，到电影中的专业调色，聊聊 LUT 所代表的色彩规则。查看全文",
-      "fetched_at": "2026-07-23T04:26:20.103654+00:00"
+      "fetched_at": "2026-07-23T07:42:05.230981+00:00"
     },
     {
       "id": "b261a6f7217cd78e",
@@ -4795,7 +5675,7 @@
       "category": "tech",
       "published_at": "2026-07-22T02:04:29+00:00",
       "summary": "声音只是其中一个切片。客观来看，它记录的是我的创作环境如何不断迭代；但从个人经历来看，它真正映照的是我对创作这件事的理解如何变化。查看全文",
-      "fetched_at": "2026-07-23T04:26:20.103663+00:00"
+      "fetched_at": "2026-07-23T07:42:05.230993+00:00"
     },
     {
       "id": "aab6a17bd68c34cc",
@@ -4905,7 +5785,7 @@
       "category": "tech",
       "published_at": "2026-07-22T01:43:00+00:00",
       "summary": "说好的 3.5 Pro 呢？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-07-23T04:26:10.121322+00:00"
+      "fetched_at": "2026-07-23T07:41:52.428360+00:00"
     },
     {
       "id": "9317193ebead823d",
@@ -4971,7 +5851,7 @@
       "category": "tech",
       "published_at": "2026-07-22T00:34:32+00:00",
       "summary": "· 曝苹果正打样约 7 英寸屏幕，或用于 iPhone 20 Pro Max · 曝小米上调今年手机出货目标至 1.1 亿部 · 张一鸣向芳梅公益基金追加捐赠 3 亿元#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-07-23T04:26:10.121335+00:00"
+      "fetched_at": "2026-07-23T07:41:52.428375+00:00"
     },
     {
       "id": "8812714b666e17ab",
@@ -4982,7 +5862,7 @@
       "category": "tech",
       "published_at": "2026-07-22T00:30:00+00:00",
       "summary": "英伟达推出合成视频检测器 NIM、WordPress 曝出高危漏洞等。查看全文",
-      "fetched_at": "2026-07-23T04:26:20.103672+00:00"
+      "fetched_at": "2026-07-23T07:42:05.231006+00:00"
     },
     {
       "id": "f4e098b0ff9e10d4",
@@ -6445,7 +7325,7 @@
       "category": "tech",
       "published_at": "2026-07-21T09:52:49+00:00",
       "summary": "一起缺货的还有 ChatGPT 篮球#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-07-23T04:26:10.121344+00:00"
+      "fetched_at": "2026-07-23T07:41:52.428387+00:00"
     },
     {
       "id": "fdafc082287fc271",
@@ -6533,7 +7413,7 @@
       "category": "tech",
       "published_at": "2026-07-21T09:35:19+00:00",
       "summary": "还是情绪价值的事儿。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-07-23T04:26:10.121352+00:00"
+      "fetched_at": "2026-07-23T07:41:52.428398+00:00"
     },
     {
       "id": "c2a31260fe485486",
@@ -6841,7 +7721,7 @@
       "category": "tech",
       "published_at": "2026-07-21T09:00:00+00:00",
       "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
-      "fetched_at": "2026-07-23T04:26:20.103682+00:00"
+      "fetched_at": "2026-07-23T07:42:05.231019+00:00"
     },
     {
       "id": "54afed8933dcab05",
@@ -7314,7 +8194,7 @@
       "category": "tech",
       "published_at": "2026-07-21T07:00:00+00:00",
       "summary": "给 Surface Pro 5 安装上仍在积极更新的 Linux 发行版，它会成为一台更可用的设备吗？查看全文",
-      "fetched_at": "2026-07-23T04:26:20.103692+00:00"
+      "fetched_at": "2026-07-23T07:42:05.231032+00:00"
     },
     {
       "id": "763c9f3f2adb34b4",
@@ -8249,7 +9129,7 @@
       "category": "tech",
       "published_at": "2026-07-21T03:00:02+00:00",
       "summary": "作为有多年专业音视频开发经验的技术工作者，我给自己，以及可能也有类似需求的你，做了一个把「从长视频里截取片段」这件事做到极致的产品。查看全文",
-      "fetched_at": "2026-07-23T04:26:20.103701+00:00"
+      "fetched_at": "2026-07-23T07:42:05.231044+00:00"
     },
     {
       "id": "a44d07488b97303a",
@@ -8612,7 +9492,7 @@
       "category": "tech",
       "published_at": "2026-07-21T00:54:22+00:00",
       "summary": "· 靳玉志：华为乾崑继续做汽车行业的「电子螺丝钉」 · 工信部：我国智能算力规模达到 2185 EFLOPS · 字节跳动发布 Seed Audio 1.0 音频创作模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-07-23T04:26:10.121363+00:00"
+      "fetched_at": "2026-07-23T07:41:52.428412+00:00"
     },
     {
       "id": "7b780b16b71f506d",
@@ -9833,7 +10713,7 @@
       "category": "tech",
       "published_at": "2026-07-20T11:40:22+00:00",
       "summary": "把智能装进手机的秘诀，在于「多、快、好、省」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-07-23T04:26:10.121371+00:00"
+      "fetched_at": "2026-07-23T07:41:52.428424+00:00"
     },
     {
       "id": "c355efda5d09f499",
@@ -10108,7 +10988,7 @@
       "category": "tech",
       "published_at": "2026-07-20T10:35:49+00:00",
       "summary": "越野是留给家庭出行的余量。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-07-23T04:26:10.121379+00:00"
+      "fetched_at": "2026-07-23T07:41:52.428435+00:00"
     },
     {
       "id": "d981443c3d59305b",
@@ -10141,7 +11021,7 @@
       "category": "tech",
       "published_at": "2026-07-20T10:29:28+00:00",
       "summary": "所有图片都是 one shot#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-07-23T04:26:10.121388+00:00"
+      "fetched_at": "2026-07-23T07:41:52.428446+00:00"
     },
     {
       "id": "9fadacacf7fbefea",
@@ -10163,7 +11043,7 @@
       "category": "tech",
       "published_at": "2026-07-20T10:28:43+00:00",
       "summary": "坦克 300 不想只活在山野里。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-07-23T04:26:10.121397+00:00"
+      "fetched_at": "2026-07-23T07:41:52.428463+00:00"
     },
     {
       "id": "a50947977560ac25",
@@ -10295,7 +11175,7 @@
       "category": "tech",
       "published_at": "2026-07-20T10:00:02+00:00",
       "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
-      "fetched_at": "2026-07-23T04:26:20.103711+00:00"
+      "fetched_at": "2026-07-23T07:42:05.231056+00:00"
     },
     {
       "id": "c753b6c0a8c6000b",
@@ -11065,7 +11945,7 @@
       "category": "tech",
       "published_at": "2026-07-20T07:31:53+00:00",
       "summary": "还有 DeepSeek、智谱、MiniMax……#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-07-23T04:26:10.121406+00:00"
+      "fetched_at": "2026-07-23T07:41:52.428473+00:00"
     },
     {
       "id": "c7492d6244e4cf86",
@@ -12143,7 +13023,7 @@
       "category": "tech",
       "published_at": "2026-07-20T00:17:26+00:00",
       "summary": "· Meta 与 Anthropic 商谈两年最高 100 亿美元算力租赁 · 阶跃星辰与上海期智研究院共建智能体前沿研究院 · 小米解释澎程增程车采用 76kWh 电池：日常尽量不启动增程器#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-07-23T04:26:10.121418+00:00"
+      "fetched_at": "2026-07-23T07:41:52.428487+00:00"
     },
     {
       "id": "cdca4db4764ef260",
@@ -14156,7 +15036,7 @@
       "category": "tech",
       "published_at": "2026-07-19T03:22:39+00:00",
       "summary": "ROG 想卖给玩家的，不只是一副眼镜。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-07-23T04:26:10.121426+00:00"
+      "fetched_at": "2026-07-23T07:41:52.428497+00:00"
     },
     {
       "id": "09451fa8369b12fa",
@@ -15905,7 +16785,7 @@
       "category": "tech",
       "published_at": "2026-07-18T06:47:24+00:00",
       "summary": "有可能成为新一代「钉子户」系统。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-07-23T04:26:10.121434+00:00"
+      "fetched_at": "2026-07-23T07:41:52.428507+00:00"
     },
     {
       "id": "1b8ca6a80c72d5da",
@@ -16323,7 +17203,7 @@
       "category": "tech",
       "published_at": "2026-07-18T04:01:07+00:00",
       "summary": "大模型的下一站，是走出屏幕，自己动手#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-07-23T04:26:10.121442+00:00"
+      "fetched_at": "2026-07-23T07:41:52.428517+00:00"
     },
     {
       "id": "6622de7cab17ebca",
@@ -17193,28 +18073,6 @@
       "published_at": "2026-07-16T08:03:38+00:00",
       "summary": "又到了一年一度的Apple高校优惠活动季，高校师生们可以在活动期间，购买指定型号iPad或Mac设备，获得指定配件产品，享受到限时的教育优惠+买赠活动。与往年不同的是，今年的Apple高校优惠活动不论 ...查看全文",
       "fetched_at": "2026-07-20T04:47:05.834096+00:00"
-    },
-    {
-      "id": "296a0514cdbf1568",
-      "title": "具透 | macOS 27 首个公开测试版来了，这些是值得你关注的新特性",
-      "link": "https://sspai.com/post/112375",
-      "source_id": "sspai",
-      "source_name": "少数派",
-      "category": "tech",
-      "published_at": "2026-07-16T07:00:00+00:00",
-      "summary": "全面 ARM 化后的第一个 macOS 版本，Golden Gate 27 还有这些变化。查看全文",
-      "fetched_at": "2026-07-20T00:07:00.455978+00:00"
-    },
-    {
-      "id": "2c86b8a87decb29c",
-      "title": "掌管 Codex 额度的「赛博义父」，到底什么来头",
-      "link": "https://www.ifanr.com/1672101?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source_id": "ifanr",
-      "source_name": "爱范儿",
-      "category": "tech",
-      "published_at": "2026-07-16T06:23:26+00:00",
-      "summary": "今天 Codex 重置了吗#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-07-20T08:15:36.976545+00:00"
     }
   ]
 }
