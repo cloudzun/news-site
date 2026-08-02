@@ -20,6 +20,8 @@ RUN apt-get update \
         nginx \
         curl \
         ca-certificates \
+    # 移除 Debian 默认站点，避免与我们的站点配置在 :80 上冲突
+    && rm -f /etc/nginx/sites-enabled/default \
     && rm -rf /var/lib/apt/lists/* \
     && python3 -m venv /opt/venv
 
