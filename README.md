@@ -18,13 +18,19 @@ data/
   latest.json         # 最新聚合数据（Astro 构建时读取）
   archive/YYYY-MM-DD.json  # 每日归档快照
 site/                # Astro 静态站点
-  src/pages/          # 首页 + 分类页
+  src/pages/          # 首页（最近 7 天链接索引）+ day/[date] 每日新闻页
   src/components/
   src/layouts/
-  src/lib/data.ts     # 读取 data/latest.json 的工具函数
+  src/lib/data.ts     # 读取 data/latest.json、按天分组的工具函数
 .github/workflows/
   fetch-and-deploy.yml   # 定时抓取 + 构建 + 部署 GitHub Pages
 ```
+
+## 页面组织
+
+- 首页只展示最近 7 天的链接索引（每天一页，点击进入）
+- 每日新闻页 `/day/YYYY-MM-DD/` 展示当天的全部新闻
+- 超过 7 天的新闻不生成页面、不展示；抓取脚本也只保留最近 7 天的数据与归档
 
 ## 本地开发
 

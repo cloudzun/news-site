@@ -1,19 +1,28 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import NewsCard from '../components/NewsCard.astro';
-import { loadLatest } from '../lib/data';
+import { loadDays, loadLatest } from '../lib/data';
 
-const data = loadLatest();
-const items = data.items;
+const days = loadDays();
+const latest = loadLatest();
+const total = days.reduce((sum, d) => sum + d.count, 0);
 ---
-<BaseLayout title="科技新闻速览 · 首页">
+<BaseLayout title="科技新闻速览">
   <p class="stat">
-    共 {data.count} 条 · 数据生成于 {new Date(data.generated_at).toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' })}（每小时自动更新）
+    最近 7 天共 {total} 条新闻 · 数据生成于 {new Date(latest.generated_at).toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' })}（每小时自动更新）
   </p>
-  {items.length === 0 && (
+  {total === 0 && (
     <p>暂无数据，请先运行 <code>scripts/fetch_news.py</code> 生成 <code>data/latest.json</code>。</p>
   )}
-  {items.map((item) => <NewsCard item={item} />)}
+  <ul class="day-list">
+    {days.map((day) => (
+      <li>
+        <a href={`${import.meta.env.BASE_URL}day/${day.date}/`}>
+          <span class="day-label">{day.label}</span>
+          <span class="day-count">{day.count} 条</span>
+        </a>
+      </li>
+    ))}
+  </ul>
 </BaseLayout>
 
 <style>
@@ -21,5 +30,33 @@ const items = data.items;
     color: var(--muted);
     font-size: 0.85rem;
     margin-bottom: 8px;
+  }
+  .day-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .day-list li {
+    border-bottom: 1px solid var(--border);
+  }
+  .day-list a {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 14px 4px;
+    color: var(--fg);
+    text-decoration: none;
+  }
+  .day-list a:hover {
+    color: var(--accent);
+  }
+  .day-label {
+    font-size: 1.05rem;
+    font-weight: 600;
+  }
+  .day-count {
+    color: var(--muted);
+    font-size: 0.9rem;
   }
 </style>

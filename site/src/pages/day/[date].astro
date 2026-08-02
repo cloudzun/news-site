@@ -1,0 +1,82 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import NewsCard from '../../components/NewsCard.astro';
+import { loadDays } from '../../lib/data';
+
+export function getStaticPaths() {
+  return loadDays().map((day) => ({ params: { date: day.date } }));
+}
+
+const { date } = Astro.params;
+const days = loadDays();
+const index = days.findIndex((d) => d.date === date);
+const day = days[index];
+const previous = index > 0 ? days[index - 1] : null; // 前一天（更早）
+const next = index >= 0 && index < days.length - 1 ? days[index + 1] : null; // 后一天（更晚）
+---
+<BaseLayout title={`${day?.label ?? date} 新闻 · 科技新闻速览`}>
+  <nav class="day-nav">
+    <a href={import.meta.env.BASE_URL}>← 返回最近 7 天</a>
+    <span class="day-title">{day?.label ?? date}</span>
+    <span class="day-count">{day?.count ?? 0} 条</span>
+  </nav>
+
+  {!day || day.items.length === 0 ? (
+    <p>该日暂无新闻。</p>
+  ) : (
+    day.items.map((item) => <NewsCard item={item} />)
+  )}
+
+  <nav class="pager">
+    {previous ? (
+      <a href={`${import.meta.env.BASE_URL}day/${previous.date}/`}>← 前一天（{previous.label}）</a>
+    ) : (
+      <span></span>
+    )}
+    {next ? (
+      <a href={`${import.meta.env.BASE_URL}day/${next.date}/`}>后一天（{next.label}）→</a>
+    ) : (
+      <span></span>
+    )}
+  </nav>
+</BaseLayout>
+
+<style>
+  .day-nav {
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+    flex-wrap: wrap;
+    margin-bottom: 16px;
+  }
+  .day-nav a {
+    color: var(--muted);
+    text-decoration: none;
+    font-size: 0.9rem;
+  }
+  .day-nav a:hover {
+    color: var(--accent);
+  }
+  .day-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+  }
+  .day-count {
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+  .pager {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    margin-top: 24px;
+  }
+  .pager a {
+    color: var(--accent);
+    text-decoration: none;
+    font-size: 0.95rem;
+  }
+  .pager a:hover {
+    text-decoration: underline;
+  }
+</style>

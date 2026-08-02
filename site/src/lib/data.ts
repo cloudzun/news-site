@@ -29,6 +29,14 @@ export interface LatestData {
   items: NewsItem[];
 }
 
+export interface DayGroup {
+  date: string; // YYYY-MM-DD（按北京时间）
+  label: string;
+  isToday: boolean;
+  items: NewsItem[];
+  count: number;
+}
+
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 // site/src/lib -> 仓库根目录 data/latest.json
 const DATA_PATH = path.resolve(__dirname, '../../../data/latest.json');
@@ -66,3 +74,51 @@ export const CATEGORY_LABELS: Record<string, string> = {
   tech: '科技 / IT',
   finance: '财经相关',
 };
+
+// 站点以北京时间（UTC+8）为"一天"的边界；北京无夏令时，直接用固定偏移换算。
+const SHANGHAI_OFFSET_MS = 8 * 60 * 60 * 1000;
+
+export function shanghaiDateKey(iso: string): string {
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return iso.slice(0, 10);
+  const sh = new Date(d.getTime() + d.getTimezoneOffset() * 60000 + SHANGHAI_OFFSET_MS);
+  return sh.toISOString().slice(0, 10);
+}
+
+export function formatDayLabel(dateKey: string, isToday = false): string {
+  const [, m, d] = dateKey.split('-').map(Number);
+  return isToday ? `${m}月${d}日（今天）` : `${m}月${d}日`;
+}
+
+/**
+ * 按北京时间把最新数据分成最近 7 个自然日的分组（今天在前）。
+ * 超过 7 天的条目不会出现在任何分组中，站点也因此不会生成对应页面。
+ */
+export function loadDays(): DayGroup[] {
+  const data = loadLatest();
+  const byDay = new Map<string, NewsItem[]>();
+  for (const item of data.items) {
+    const key = shanghaiDateKey(item.published_at);
+    const list = byDay.get(key);
+    if (list) list.push(item);
+    else byDay.set(key, [item]);
+  }
+
+  const ref = shanghaiDateKey(data.generated_at || new Date().toISOString());
+  const refTime = new Date(`${ref}T00:00:00Z`).getTime();
+  const days: DayGroup[] = [];
+  for (let i = 0; i < 7; i++) {
+    const key = new Date(refTime - i * 86_400_000).toISOString().slice(0, 10);
+    const items = (byDay.get(key) ?? []).sort((a, b) =>
+      b.published_at.localeCompare(a.published_at),
+    );
+    days.push({
+      date: key,
+      label: formatDayLabel(key, i === 0),
+      isToday: i === 0,
+      items,
+      count: items.length,
+    });
+  }
+  return days;
+}

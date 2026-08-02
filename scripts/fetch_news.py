@@ -7,6 +7,7 @@ fetch_news.py
 - 无需数据库，纯文件存储，天然适合 GitHub Actions + GitHub Pages 的无状态流水线
 - 抓取失败的源不应影响其他源（单源异常隔离）
 - 增量合并：保留 retain_hours 内的旧条目 + 本次新抓到的条目，按链接去重
+- 站点只展示最近 7 天：latest.json 保留 7 天内的条目，归档也只保留最近 7 天
 """
 from __future__ import annotations
 
@@ -167,6 +168,29 @@ def write_archive(items: list[dict]) -> None:
     print(f"[OK] 写入归档 {archive_file}")
 
 
+def prune_archives(keep_days: int = 7) -> None:
+    """只保留最近 keep_days 天的归档文件，更早的一律删除。
+
+    与站点"超过 7 天不再以任何方式展现"保持一致，避免仓库无限膨胀。
+    """
+    if not ARCHIVE_DIR.exists():
+        return
+    cutoff_key = (datetime.now(timezone.utc) - timedelta(days=keep_days - 1)).strftime(
+        "%Y-%m-%d"
+    )
+    removed = 0
+    for f in ARCHIVE_DIR.glob("*.json"):
+        try:
+            # 文件名 YYYY-MM-DD.json，字符串比较即日期比较
+            if f.stem < cutoff_key:
+                f.unlink()
+                removed += 1
+        except Exception as e:
+            print(f"[WARN] 清理归档失败: {f.name} -> {e}", file=sys.stderr)
+    if removed:
+        print(f"[OK] 清理超过 {keep_days} 天的归档 {removed} 个")
+
+
 def main() -> int:
     config = load_config()
     sources = config.get("sources", [])
@@ -190,6 +214,7 @@ def main() -> int:
     sources_meta = [{"id": s["id"], "name": s["name"], "category": s["category"]} for s in sources]
     write_latest(merged, sources_meta)
     write_archive(merged)
+    prune_archives()
 
     print(f"[SUMMARY] 成功源: {ok_count}/{len(sources)}，本次新抓取: {len(all_new_items)}，合并后总条目: {len(merged)}")
     return 0

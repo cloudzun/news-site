@@ -17,11 +17,6 @@ const { title } = Astro.props as Props;
     <header class="site-header">
       <div class="wrap">
         <a class="brand" href={import.meta.env.BASE_URL}>科技新闻速览</a>
-        <nav>
-          <a href={import.meta.env.BASE_URL}>全部</a>
-          <a href={`${import.meta.env.BASE_URL}category/tech/`}>科技/IT</a>
-          <a href={`${import.meta.env.BASE_URL}category/finance/`}>相关财经</a>
-        </nav>
       </div>
     </header>
     <main class="wrap">
