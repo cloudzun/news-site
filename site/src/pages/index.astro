@@ -1,35 +1,58 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import NewsCard from '../components/NewsCard.astro';
 import { loadDays, loadLatest } from '../lib/data';
 
 const days = loadDays();
 const latest = loadLatest();
 const total = days.reduce((sum, d) => sum + d.count, 0);
+const today = days[0];
 ---
 <BaseLayout title="科技新闻速览">
   <p class="stat">
-    最近 7 天共 {total} 条新闻 · 数据生成于 {new Date(latest.generated_at).toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' })}（每小时自动更新）
+    今日 {today.count} 条 · 最近 7 天共 {total} 条 · 数据生成于 {new Date(latest.generated_at).toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' })}（每小时自动更新）
   </p>
-  {total === 0 && (
-    <p>暂无数据，请先运行 <code>scripts/fetch_news.py</code> 生成 <code>data/latest.json</code>。</p>
+  <h1 class="today-title">{today.label}</h1>
+
+  {today.count === 0 ? (
+    <p>今天暂无新闻，请先运行 <code>scripts/fetch_news.py</code> 生成数据。</p>
+  ) : (
+    today.items.map((item) => <NewsCard item={item} />)
   )}
-  <ul class="day-list">
-    {days.map((day) => (
-      <li>
-        <a href={`${import.meta.env.BASE_URL}day/${day.date}/`}>
-          <span class="day-label">{day.label}</span>
-          <span class="day-count">{day.count} 条</span>
-        </a>
-      </li>
-    ))}
-  </ul>
+
+  <section class="day-index">
+    <h2>最近 7 天</h2>
+    <ul class="day-list">
+      {days.map((day) => (
+        <li>
+          <a href={`${import.meta.env.BASE_URL}day/${day.date}/`}>
+            <span class="day-label">{day.label}</span>
+            <span class="day-count">{day.count} 条</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
 </BaseLayout>
 
 <style>
   .stat {
     color: var(--muted);
     font-size: 0.85rem;
-    margin-bottom: 8px;
+    margin: 0 0 16px;
+  }
+  .today-title {
+    font-size: 1.4rem;
+    margin: 0 0 16px;
+  }
+  .day-index {
+    margin-top: 32px;
+    border-top: 1px solid var(--border);
+    padding-top: 16px;
+  }
+  .day-index h2 {
+    font-size: 1.05rem;
+    margin: 0 0 8px;
   }
   .day-list {
     list-style: none;
@@ -47,6 +70,9 @@ const total = days.reduce((sum, d) => sum + d.count, 0);
     padding: 14px 4px;
     color: var(--fg);
     text-decoration: none;
+  }
+  .day-list li:first-child a {
+    color: var(--accent);
   }
   .day-list a:hover {
     color: var(--accent);
