@@ -61,6 +61,32 @@ Root Directory 选 `site/`，其余保持默认即可。数据更新仍然由 Gi
 定时任务负责抓取和 commit，Vercel 只需要在 `data/latest.json` 变化后重新构建
 （可在 Vercel 项目里开启 "Git push 自动部署"）。
 
+## 容器化部署（自托管，可选）
+
+仓库根目录提供单容器方案：一个容器内同时包含 RSS 抓取、Astro 构建和 nginx
+托管，启动后每小时第 5 分钟自动抓取新闻并重建页面（与 GitHub Actions cron
+节奏一致），无需依赖 GitHub。
+
+```bash
+docker build -t news-site .
+docker run -d -p 8080:80 -v news-data:/app/data --name news-site news-site
+# 访问 http://<主机>:8080/
+```
+
+或使用 docker compose：
+
+```bash
+docker compose up -d --build
+```
+
+`data/` 通过 volume 挂载持久化（7 天数据，重启不丢）。对外提供服务时建议
+在前面加 Caddy/nginx 反代并配置 HTTPS。
+
+仓库内置 `docker-image.yml` 工作流：push 后自动构建镜像；在仓库
+Settings → Secrets 中配置 `DOCKERHUB_USERNAME` 与 `DOCKERHUB_TOKEN`
+（Docker Hub 访问令牌）后，会自动推送 `latest` 与 commit sha 两个 tag
+到 Docker Hub。
+
 ## 增删新闻源
 
 编辑 `scripts/sources.yaml`，新增一条：
