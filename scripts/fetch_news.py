@@ -8,6 +8,8 @@ fetch_news.py
 - 抓取失败的源不应影响其他源（单源异常隔离）
 - 增量合并：保留 retain_hours 内的旧条目 + 本次新抓到的条目，按链接去重
 - 站点只展示最近 7 天：latest.json 保留 7 天内的条目，归档也只保留最近 7 天
+- 新条目只入库"北京时间当天"发布的（new_items_today_only），避免首次抓取把
+  RSS 源里过去几天的历史条目一起带进来；更早的条目靠旧数据在 7 天窗口内自然保留
 """
 from __future__ import annotations
 
@@ -26,6 +28,18 @@ DATA_DIR = ROOT / "data"
 ARCHIVE_DIR = DATA_DIR / "archive"
 SOURCES_FILE = Path(__file__).resolve().parent / "sources.yaml"
 LATEST_FILE = DATA_DIR / "latest.json"
+SHANGHAI_TZ = timezone(timedelta(hours=8))
+
+
+def shanghai_date(iso: str) -> str:
+    """把 ISO 时间转成北京时间日期 YYYY-MM-DD"""
+    try:
+        dt = datetime.fromisoformat(iso)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(SHANGHAI_TZ).strftime("%Y-%m-%d")
+    except Exception:
+        return datetime.now(SHANGHAI_TZ).strftime("%Y-%m-%d")
 
 
 def load_config() -> dict:
@@ -207,6 +221,19 @@ def main() -> int:
     if ok_count == 0:
         print("[ERROR] 所有源都抓取失败，保留旧数据不覆盖，退出非零码", file=sys.stderr)
         return 1
+
+    # 默认只入库当天发布的新条目，避免把 RSS 源回推的过去几天条目当"残留"带进来
+    if settings.get("new_items_today_only", True):
+        today_key = datetime.now(SHANGHAI_TZ).strftime("%Y-%m-%d")
+        before = len(all_new_items)
+        all_new_items = [
+            item for item in all_new_items if shanghai_date(item["published_at"]) == today_key
+        ]
+        if len(all_new_items) != before:
+            print(
+                f"[INFO] 只保留今天({today_key})发布的新条目: {len(all_new_items)}/{before}，"
+                "更早条目由旧数据按 7 天窗口自然保留"
+            )
 
     old_items = load_existing_latest()
     merged = merge_and_dedupe(old_items, all_new_items, settings.get("retain_hours", 168))

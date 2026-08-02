@@ -46,3 +46,5 @@ settings:
   max_items_per_source: 30
   # 数据保留：latest.json 保留最近 N 小时内的条目，避免文件无限增长
   retain_hours: 168   # 7 天
+  # 新抓到的条目只入库"北京时间当天"发布的，避免首次抓取带入 RSS 源的历史条目
+  new_items_today_only: true
