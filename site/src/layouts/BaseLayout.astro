@@ -3,6 +3,9 @@ export interface Props {
   title: string;
 }
 const { title } = Astro.props as Props;
+
+// 网站标题旁的 GitHub 仓库链接；可用 PUBLIC_GITHUB_REPO 环境变量覆盖（便于复刻项目）
+const GITHUB_REPO = import.meta.env.PUBLIC_GITHUB_REPO || 'https://github.com/cloudzun/news-site';
 ---
 <!doctype html>
 <html lang="zh-CN">
@@ -15,10 +18,13 @@ const { title } = Astro.props as Props;
   </head>
   <body>
     <header class="site-header">
-      <div class="wrap">
+      <div class="wrap header-row">
         <a class="brand" href={import.meta.env.BASE_URL}>
           <span class="brand-dot" aria-hidden="true"></span>
           科技新闻速览
+        </a>
+        <a class="repo-link" href={GITHUB_REPO} target="_blank" rel="noopener noreferrer">
+          GitHub ↗
         </a>
       </div>
     </header>
@@ -81,7 +87,13 @@ const { title } = Astro.props as Props;
     display: flex;
     align-items: center;
   }
-  .site-header .wrap { width: 100%; }
+  .site-header .wrap {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+  }
   .brand {
     display: inline-flex;
     align-items: center;
@@ -98,6 +110,24 @@ const { title } = Astro.props as Props;
     border-radius: 50%;
     background: var(--accent);
     box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 25%, transparent);
+  }
+  .repo-link {
+    flex: 0 0 auto;
+    color: var(--muted);
+    text-decoration: none;
+    font-size: 0.82rem;
+    padding: 5px 12px;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    transition:
+      color 0.15s ease,
+      border-color 0.15s ease;
+  }
+  @media (hover: hover) {
+    .repo-link:hover {
+      color: var(--accent);
+      border-color: var(--accent);
+    }
   }
   main { padding: 24px 16px 40px; }
   footer {
