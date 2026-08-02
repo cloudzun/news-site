@@ -19,6 +19,9 @@ permissions:
 jobs:
   build-and-push:
     runs-on: ubuntu-latest
+    env:
+      DH_USERNAME: ${{ secrets.DOCKERHUB_USERNAME }}
+      DH_TOKEN: ${{ secrets.DOCKERHUB_TOKEN }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -28,14 +31,14 @@ jobs:
 
       # 未配置 DOCKERHUB_* secrets 时只构建验证，不推送（保证 CI 不红）
       - name: Log in to Docker Hub
-        if: secrets.DOCKERHUB_USERNAME != '' && secrets.DOCKERHUB_TOKEN != ''
+        if: env.DH_USERNAME != '' && env.DH_TOKEN != ''
         uses: docker/login-action@v3
         with:
-          username: ${{ secrets.DOCKERHUB_USERNAME }}
-          password: ${{ secrets.DOCKERHUB_TOKEN }}
+          username: ${{ env.DH_USERNAME }}
+          password: ${{ env.DH_TOKEN }}
 
       - name: Build image (no push)
-        if: secrets.DOCKERHUB_USERNAME == '' || secrets.DOCKERHUB_TOKEN == ''
+        if: env.DH_USERNAME == '' || env.DH_TOKEN == ''
         uses: docker/build-push-action@v6
         with:
           context: .
@@ -46,13 +49,13 @@ jobs:
           cache-to: type=gha,mode=max
 
       - name: Build and push to Docker Hub
-        if: secrets.DOCKERHUB_USERNAME != '' && secrets.DOCKERHUB_TOKEN != ''
+        if: env.DH_USERNAME != '' && env.DH_TOKEN != ''
         uses: docker/build-push-action@v6
         with:
           context: .
           push: true
           tags: |
-            ${{ secrets.DOCKERHUB_USERNAME }}/news-site:latest
-            ${{ secrets.DOCKERHUB_USERNAME }}/news-site:${{ github.sha }}
+            ${{ env.DH_USERNAME }}/news-site:latest
+            ${{ env.DH_USERNAME }}/news-site:${{ github.sha }}
           cache-from: type=gha
           cache-to: type=gha,mode=max
