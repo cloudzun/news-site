@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import NewsCard from '../../components/NewsCard.astro';
+import DayTabs from '../../components/DayTabs.astro';
 import { loadDays } from '../../lib/data';
 
 export function getStaticPaths() {
@@ -15,6 +16,8 @@ const previous = index > 0 ? days[index - 1] : null; // 前一天（更早）
 const next = index >= 0 && index < days.length - 1 ? days[index + 1] : null; // 后一天（更晚）
 ---
 <BaseLayout title={`${day?.label ?? date} 新闻 · 科技新闻速览`}>
+  <DayTabs days={days} activeDate={date} />
+
   <nav class="day-nav">
     <a href={import.meta.env.BASE_URL}>← 返回最近 7 天</a>
     <span class="day-title">{day?.label ?? date}</span>
@@ -24,7 +27,7 @@ const next = index >= 0 && index < days.length - 1 ? days[index + 1] : null; // 
   {!day || day.items.length === 0 ? (
     <p>该日暂无新闻。</p>
   ) : (
-    day.items.map((item) => <NewsCard item={item} />)
+    day.items.map((item) => <NewsCard item={item} timeMode="clock" />)
   )}
 
   <nav class="pager">
@@ -42,6 +45,9 @@ const next = index >= 0 && index < days.length - 1 ? days[index + 1] : null; // 
 </BaseLayout>
 
 <style>
+  .day-tabs {
+    margin-bottom: 20px;
+  }
   .day-nav {
     display: flex;
     align-items: baseline;
@@ -78,5 +84,21 @@ const next = index >= 0 && index < days.length - 1 ? days[index + 1] : null; // 
   }
   .pager a:hover {
     text-decoration: underline;
+  }
+
+  @media (max-width: 640px) {
+    .day-nav {
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+    .day-title {
+      font-size: 1.1rem;
+    }
+    .day-count {
+      font-size: 0.82rem;
+    }
+    .pager a {
+      font-size: 0.88rem;
+    }
   }
 </style>

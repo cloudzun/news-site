@@ -70,6 +70,43 @@ export function formatTime(iso: string): string {
   }
 }
 
+export function formatClock(iso: string): string {
+  try {
+    const d = new Date(iso);
+    return d.toLocaleTimeString('zh-CN', {
+      timeZone: 'Asia/Shanghai',
+      hour: '2-digit',
+      minute: '2-digit',
+      hour12: false,
+    });
+  } catch {
+    return iso;
+  }
+}
+
+export function formatRelativeTime(iso: string, now: Date = new Date()): string {
+  try {
+    const d = new Date(iso);
+    if (Number.isNaN(d.getTime())) return iso;
+    const diffMin = Math.floor((now.getTime() - d.getTime()) / 60_000);
+    if (diffMin < 1) return '刚刚';
+    if (diffMin < 60) return `${diffMin} 分钟前`;
+    const diffH = Math.floor(diffMin / 60);
+    if (diffH < 24) return `${diffH} 小时前`;
+    const diffD = Math.floor(diffH / 24);
+    if (diffD < 7) return `${diffD} 天前`;
+    return formatDayLabel(iso.slice(0, 10));
+  } catch {
+    return iso;
+  }
+}
+
+export function shanghaiHour(iso: string): number {
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return 0;
+  return new Date(d.getTime() + d.getTimezoneOffset() * 60000 + SHANGHAI_OFFSET_MS).getHours();
+}
+
 export const CATEGORY_LABELS: Record<string, string> = {
   tech: '科技 / IT',
   finance: '财经相关',

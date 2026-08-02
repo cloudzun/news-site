@@ -8,7 +8,7 @@ const { title } = Astro.props as Props;
 <html lang="zh-CN">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <title>{title}</title>
     <meta name="description" content="科技/IT与相关财经新闻自动聚合站，每小时更新，数据来源为公开免费RSS。" />
     <link rel="icon" href={`${import.meta.env.BASE_URL}favicon.svg`} />
@@ -16,7 +16,10 @@ const { title } = Astro.props as Props;
   <body>
     <header class="site-header">
       <div class="wrap">
-        <a class="brand" href={import.meta.env.BASE_URL}>科技新闻速览</a>
+        <a class="brand" href={import.meta.env.BASE_URL}>
+          <span class="brand-dot" aria-hidden="true"></span>
+          科技新闻速览
+        </a>
       </div>
     </header>
     <main class="wrap">
@@ -39,6 +42,8 @@ const { title } = Astro.props as Props;
     --muted: #666;
     --border: #e5e5e5;
     --accent: #2563eb;
+    --card-bg: #ffffff;
+    --header-bg: rgba(255, 255, 255, 0.85);
   }
   @media (prefers-color-scheme: dark) {
     :root {
@@ -47,6 +52,8 @@ const { title } = Astro.props as Props;
       --muted: #999;
       --border: #2a2a2a;
       --accent: #60a5fa;
+      --card-bg: #161618;
+      --header-bg: rgba(15, 15, 16, 0.85);
     }
   }
   * { box-sizing: border-box; }
@@ -57,31 +64,52 @@ const { title } = Astro.props as Props;
     background: var(--bg);
     line-height: 1.6;
   }
-  .wrap { max-width: 860px; margin: 0 auto; padding: 0 16px; }
-  .site-header {
-    border-bottom: 1px solid var(--border);
-    padding: 14px 0;
+  .wrap {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 max(16px, env(safe-area-inset-left)) 0 max(16px, env(safe-area-inset-right));
   }
-  .site-header .wrap {
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: var(--header-bg);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--border);
+    height: 52px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
+  }
+  .site-header .wrap { width: 100%; }
+  .brand {
+    display: inline-flex;
+    align-items: center;
     gap: 8px;
-  }
-  .brand { font-weight: 700; font-size: 1.15rem; color: var(--fg); text-decoration: none; }
-  nav a {
-    margin-left: 16px;
-    color: var(--muted);
+    font-weight: 700;
+    font-size: 1.15rem;
+    color: var(--fg);
     text-decoration: none;
-    font-size: 0.95rem;
+    letter-spacing: 0.02em;
   }
-  nav a:hover { color: var(--accent); }
+  .brand-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 25%, transparent);
+  }
   main { padding: 24px 16px 40px; }
   footer {
     border-top: 1px solid var(--border);
     color: var(--muted);
     font-size: 0.82rem;
-    padding: 16px;
+    padding: 24px max(16px, env(safe-area-inset-left)) 24px max(16px, env(safe-area-inset-right));
+    text-align: center;
+  }
+
+  @media (max-width: 640px) {
+    main { padding-top: 16px; }
+    .brand { font-size: 1.05rem; }
   }
 </style>

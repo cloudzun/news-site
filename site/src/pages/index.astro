@@ -1,23 +1,48 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import NewsCard from '../components/NewsCard.astro';
-import { loadDays, loadLatest } from '../lib/data';
+import DayTabs from '../components/DayTabs.astro';
+import { loadDays, loadLatest, shanghaiHour, formatClock } from '../lib/data';
 
 const days = loadDays();
 const latest = loadLatest();
 const total = days.reduce((sum, d) => sum + d.count, 0);
 const today = days[0];
+
+// 按小时分组（北京时间），方便快速浏览当日新闻流
+const hourGroups: { hour: number; label: string; items: typeof today.items }[] = [];
+for (const item of today.items) {
+  const hour = shanghaiHour(item.published_at);
+  let group = hourGroups.find((g) => g.hour === hour);
+  if (!group) {
+    group = { hour, label: `${String(hour).padStart(2, '0')}:00`, items: [] };
+    hourGroups.push(group);
+  }
+  group.items.push(item);
+}
+hourGroups.sort((a, b) => b.hour - a.hour);
 ---
 <BaseLayout title="科技新闻速览">
   <p class="stat">
-    今日 {today.count} 条 · 最近 7 天共 {total} 条 · 数据生成于 {new Date(latest.generated_at).toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' })}（每小时自动更新）
+    今日 {today.count} 条 · 最近 7 天共 {total} 条 · 更新于 {formatClock(latest.generated_at)}
   </p>
+
+  <DayTabs days={days} activeDate={today.date} />
+
   <h1 class="today-title">{today.label}</h1>
 
   {today.count === 0 ? (
     <p>今天暂无新闻，请先运行 <code>scripts/fetch_news.py</code> 生成数据。</p>
   ) : (
-    today.items.map((item) => <NewsCard item={item} />)
+    hourGroups.map((group) => (
+      <section class="hour-group">
+        <h2 class="hour-title">
+          {group.label}
+          <span class="hour-count">{group.items.length} 条</span>
+        </h2>
+        {group.items.map((item) => <NewsCard item={item} />)}
+      </section>
+    ))
   )}
 
   <section class="day-index">
@@ -41,9 +66,36 @@ const today = days[0];
     font-size: 0.85rem;
     margin: 0 0 16px;
   }
+  .day-tabs {
+    margin-bottom: 20px;
+  }
   .today-title {
     font-size: 1.4rem;
-    margin: 0 0 16px;
+    margin: 20px 0 16px;
+  }
+  .hour-group {
+    margin-bottom: 20px;
+  }
+  .hour-title {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--accent);
+    margin: 0 0 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .hour-title::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
+  .hour-count {
+    color: var(--muted);
+    font-weight: 400;
   }
   .day-index {
     margin-top: 32px;
@@ -84,5 +136,22 @@ const today = days[0];
   .day-count {
     color: var(--muted);
     font-size: 0.9rem;
+  }
+
+  @media (max-width: 640px) {
+    .stat {
+      font-size: 0.78rem;
+      margin-bottom: 12px;
+    }
+    .today-title {
+      font-size: 1.25rem;
+      margin: 16px 0 14px;
+    }
+    .hour-title {
+      font-size: 0.8rem;
+    }
+    .day-label {
+      font-size: 0.97rem;
+    }
   }
 </style>
