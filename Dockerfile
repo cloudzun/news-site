@@ -38,9 +38,9 @@ RUN cd site && npm ci --omit=dev
 # 复制源码（.dockerignore 已排除 .git/node_modules/dist 等）
 COPY . .
 
-# 首次抓取 + 构建；失败不阻断，容器启动后 entrypoint 会再重试
-RUN python3 scripts/fetch_news.py || true \
-    && cd site && npm run build || true
+# 镜像不内置任何历史新闻数据（data/ 已被 .dockerignore 排除）：
+# 首次抓取与构建由容器启动时的 entrypoint 完成，从空数据开始自行积累
+RUN cd site && npm run build || true
 
 COPY docker/nginx.conf /etc/nginx/conf.d/default.conf
 COPY docker/entrypoint.sh /usr/local/bin/entrypoint.sh

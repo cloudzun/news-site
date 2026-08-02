@@ -82,6 +82,9 @@ docker compose up -d --build
 `data/` 通过 volume 挂载持久化（7 天数据，重启不丢）。对外提供服务时建议
 在前面加 Caddy/nginx 反代并配置 HTTPS。
 
+镜像**不内置任何历史新闻数据**：仓库里的 `data/` 不会打进镜像，容器首次
+启动时自己抓取当天新闻并开始积累，之后每小时自动更新。
+
 仓库内置 `docker-image.yml` 工作流：push 后自动构建镜像；在仓库
 Settings → Secrets 中配置 `DOCKERHUB_USERNAME` 与 `DOCKERHUB_TOKEN`
 （Docker Hub 访问令牌）后，会自动推送 `latest` 与 commit sha 两个 tag
