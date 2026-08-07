@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T16:07:52.584369+00:00",
-  "count": 1732,
+  "generated_at": "2026-08-07T17:57:00.833064+00:00",
+  "count": 1731,
   "sources": [
     {
       "id": "36kr",
@@ -19074,17 +19074,6 @@
       "published_at": "2026-07-31T18:08:39+00:00",
       "summary": "IT之家 8 月 1 日消息，微软昨天（7 月 31 日）发布博文，分享了过去 4 个月里，针对 Windows 11 开展质量改进的最新进展，部分改进已向 Windows Insider Program 测试者推出，预计今年秋季开始面向所有 Windows 11 用户推送。微软于 2026 年 3 月承诺一系列针对 Windows 11 系统的改革，包括但不限于：更多任务栏自定义选项整合 AI ",
       "fetched_at": "2026-08-01T00:09:29.615711+00:00"
-    },
-    {
-      "id": "ce35546b6bdb7e65",
-      "title": "微软更新多个通道 Win11 预览版：优化自适应休眠、新增紧凑任务栏、可调任务栏位置",
-      "link": "https://www.ithome.com/0/984/402.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-07-31T17:02:46+00:00",
-      "summary": "IT之家 8 月 1 日消息，微软昨天（7 月 31 日）发布博文，邀请 Experimental 和 Beta 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的多个预览版更新，具体版本如下：Beta 通道： Build 26220.9022 （ 25H2 ）、 Build 28020.2623 （ 26H1 ）Experimental 通道： Build 2",
-      "fetched_at": "2026-08-01T00:09:29.615615+00:00"
     }
   ]
 }
