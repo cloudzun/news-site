@@ -1,38 +1,6 @@
 {
-  "generated_at": "2026-08-07T00:11:31.961766+00:00",
+  "date": "2026-08-07",
   "count": 1822,
-  "sources": [
-    {
-      "id": "36kr",
-      "name": "36氪",
-      "category": "finance"
-    },
-    {
-      "id": "ifanr",
-      "name": "爱范儿",
-      "category": "tech"
-    },
-    {
-      "id": "ithome",
-      "name": "IT之家",
-      "category": "tech"
-    },
-    {
-      "id": "tmtpost",
-      "name": "钛媒体",
-      "category": "finance"
-    },
-    {
-      "id": "leiphone",
-      "name": "雷峰网",
-      "category": "tech"
-    },
-    {
-      "id": "sspai",
-      "name": "少数派",
-      "category": "tech"
-    }
-  ],
   "items": [
     {
       "id": "f4216bc0f46a07d6",
