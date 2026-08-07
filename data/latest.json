@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T21:51:20.886309+00:00",
-  "count": 1730,
+  "generated_at": "2026-08-07T22:50:29.458404+00:00",
+  "count": 1729,
   "sources": [
     {
       "id": "36kr",
@@ -19052,17 +19052,6 @@
       "published_at": "2026-07-31T23:07:49+00:00",
       "summary": "IT之家 8 月 1 日消息，据科技媒体 Windows Latest 今天报道，微软现已正式确认，配备 8GB 内存的电脑将可以更快、更顺畅地运行 Windows 11 操作系统。相关工作目前正在进行中，预计今年年底实装。两天前，微软 CEO 萨提亚 · 纳德拉在财报电话会议中表示，公司正投入资源提升 Windows 11 质量和基础体验。事实证明，纳德拉这句话并不是在敷衍人，微软真的在做内存优",
       "fetched_at": "2026-08-01T00:09:29.615568+00:00"
-    },
-    {
-      "id": "dfe5ec3ded931100",
-      "title": "联想首款 Googlebook 二合一笔记本曝光，预计 IFA 展会亮相",
-      "link": "https://www.ithome.com/0/984/404.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-07-31T22:43:48+00:00",
-      "summary": "IT之家 8 月 1 日消息，据科技媒体 Android Headlines 昨日爆料，联想正在研发品牌首款 Googlebook 二合一笔记本。该产品看起来像是一台普通的 Android 平板，但仔细观察后可以发现，它实际上是 Googlebook。从该机的渲染图可以看到，机身左侧的 Ctrl 键旁边印有“Googlebook”标识，原本 Windows 键的位置也被替换成谷歌键。目前我们还不清",
-      "fetched_at": "2026-08-01T00:09:29.615641+00:00"
     }
   ]
 }
