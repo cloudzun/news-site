@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "count": 1731,
+  "count": 1730,
   "items": [
     {
       "id": "2da9a18e30c83189",
@@ -19031,17 +19031,6 @@
       "published_at": "2026-07-31T22:43:48+00:00",
       "summary": "IT之家 8 月 1 日消息，据科技媒体 Android Headlines 昨日爆料，联想正在研发品牌首款 Googlebook 二合一笔记本。该产品看起来像是一台普通的 Android 平板，但仔细观察后可以发现，它实际上是 Googlebook。从该机的渲染图可以看到，机身左侧的 Ctrl 键旁边印有“Googlebook”标识，原本 Windows 键的位置也被替换成谷歌键。目前我们还不清",
       "fetched_at": "2026-08-01T00:09:29.615641+00:00"
-    },
-    {
-      "id": "49057a53fd6d7d55",
-      "title": "微软晒过去 4 个月改造 Win11 进展：聚焦性能 / 可靠性，后续优化内存占用等",
-      "link": "https://www.ithome.com/0/984/403.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-07-31T18:08:39+00:00",
-      "summary": "IT之家 8 月 1 日消息，微软昨天（7 月 31 日）发布博文，分享了过去 4 个月里，针对 Windows 11 开展质量改进的最新进展，部分改进已向 Windows Insider Program 测试者推出，预计今年秋季开始面向所有 Windows 11 用户推送。微软于 2026 年 3 月承诺一系列针对 Windows 11 系统的改革，包括但不限于：更多任务栏自定义选项整合 AI ",
-      "fetched_at": "2026-08-01T00:09:29.615711+00:00"
     }
   ]
 }
