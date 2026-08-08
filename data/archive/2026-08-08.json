@@ -1,7 +1,216 @@
 {
   "date": "2026-08-08",
-  "count": 1720,
+  "count": 1728,
   "items": [
+    {
+      "id": "618e7b9cdcd4519e",
+      "title": "央视曝光无良厂商用医疗垃圾制作手机壳，存在一级致癌物苯超标风险",
+      "link": "https://www.ithome.com/0/987/469.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-08T23:38:15+00:00",
+      "summary": "IT之家 8 月 9 日消息，据央视网报道，近期一些无良制造商利用医疗垃圾生产廉价手机保护壳，相应产品一些号称“食品级”，但实际上大概率是用回收针管、输液管混着劣质再生塑料制作而成，存在一级致癌物苯超标等风险。公开信息显示，部分制造商通过灰色渠道获取了大量输液管、针管等医疗垃圾，这类产品的主要成分是聚氯乙烯（PVC）或聚丙烯（PP），在制造过程中，为了掩盖杂质并改善手感，生产企业往往需要大量添加塑",
+      "fetched_at": "2026-08-08T23:38:51.610936+00:00"
+    },
+    {
+      "id": "67090d4220534112",
+      "title": "Win10 Enterprise LTSC 2021 明年停止支持，微软推荐用户升级到 Win11",
+      "link": "https://www.ithome.com/0/987/468.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-08T23:34:25+00:00",
+      "summary": "IT之家 8 月 9 日消息，Windows 10 Enterprise LTSC 2021（非 IoT Enterprise LTSC）目前正按照原定计划逐步走向生命周期终点，支持将于 2027 年 1 月结束。届时，用户可以选择迁移到 IoT 版本，也可以付费购买扩展安全更新（ESU）。不过，还有第三种选择，那就是安装 Windows 11 LTSC 2024，而微软表示，这也是目前最推荐的方",
+      "fetched_at": "2026-08-08T23:38:51.611049+00:00"
+    },
+    {
+      "id": "5a6df3d861932407",
+      "title": "苹果中国官网删除 Apple 智能接入阿里千问使用手册",
+      "link": "https://www.ithome.com/0/987/467.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-08T23:33:04+00:00",
+      "summary": "IT之家 8 月 9 日消息，8 月 8 日，一篇名为《在 Mac 上配合 Apple 智能使用千问》的支持文档现身苹果官网 Mac 简体中文使用手册，其中明确提到 Apple 智能可配合阿里巴巴千问模型工作。然而，现在这份中文操作手册已从苹果官网被删除，原网页链接无法正常访问。据苹果官网此前所述，千问扩展适用于 macOS 26.6 或更高版本，用户满足以下三种情形之一可以开启：位于中国大陆且 ",
+      "fetched_at": "2026-08-08T23:38:51.611084+00:00"
+    },
+    {
+      "id": "75246aec5602fda3",
+      "title": "未成年人建“吃瓜群”放任传播同学隐私，被判侵权",
+      "link": "https://www.ithome.com/0/987/466.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-08T23:30:03+00:00",
+      "summary": "IT之家 8 月 9 日消息，据央视新闻报道，北京市第四中级人民法院近日审结一起涉未成年人名誉权、肖像权纠纷案件。法院在该案件中明确，未成年人建立“吃瓜群”，放任群成员传播同学隐私视频、照片，其虽然并非视频的拍摄者、直接发布者，但仍会因其在传播过程中发挥组织、放任等作用，构成侵权并承担相应责任。IT之家参考报道获悉，小王与小李是高中同班同学，均是未成年人。一天，小王从小张（已另案处理）处获得了小李",
+      "fetched_at": "2026-08-08T23:38:51.611122+00:00"
+    },
+    {
+      "id": "fd4a19ca43a65c05",
+      "title": "研究：人们无法有效区分 AI 生成与人类原创短篇小说",
+      "link": "https://www.ithome.com/0/987/465.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-08T23:24:13+00:00",
+      "summary": "IT之家 8 月 9 日消息，从《奥德赛》到阿加莎 · 克里斯蒂的犯罪小说，人类创作了大量精彩故事，填满了一代又一代人的书架。但一项研究表明，如今人工智能或许已经开始成为人类作家的竞争对手。发表在《判断与决策》（Judgment and Decision Making）期刊上的一项研究显示，研究人员邀请 1,682 名成年人阅读 6 篇短篇小说，其中 3 篇由人类创作，另外 3 篇由 ChatGP",
+      "fetched_at": "2026-08-08T23:38:51.611184+00:00"
+    },
+    {
+      "id": "a535dd325c33e6b8",
+      "title": "115 网盘 API 开放平台即日起暂停服务",
+      "link": "https://www.ithome.com/0/987/464.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-08T23:23:17+00:00",
+      "summary": "IT之家 8 月 9 日消息，115 网盘发布公告，宣布 115 网盘 API 开放平台即日起暂停服务，恢复时间及后续安排，需以后续官方公告为准。IT之家获悉，115 网盘开放平台主要允许开发者和第三方应用通过标准接口接入其云存储服务。其采用 OAuth2.0 授权协议，用户可通过申请 API 密钥，获取文件上传、下载、分享、目录管理等核心功能。",
+      "fetched_at": "2026-08-08T23:38:51.611203+00:00"
+    },
+    {
+      "id": "20e21684f86cf042",
+      "title": "美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众",
+      "link": "https://www.ithome.com/0/987/463.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-08T23:19:05+00:00",
+      "summary": "IT之家 8 月 9 日消息，据央视新闻今日报道，据美国方面 7 日消息，美国内华达州最大能源供应商内华达能源公司已经正式起诉正在该州建造数据中心的一家开发商，指控其试图将电费成本转嫁给消费者。据称，内华达能源公司为内华达州 90% 的用户供电，而在建的两家数据中心建成后将消耗的电力，几乎占内华达能源公司总发电量的三分之一。内华达能源公司要求数据中心开发商必须启动价值 10 亿美元（IT之家注：现",
+      "fetched_at": "2026-08-08T23:38:51.611235+00:00"
+    },
+    {
+      "id": "8b2f5c4e32d283e8",
+      "title": "Ubisoft Connect 喜加一：经典游戏《幽灵行动：未来战士》免费领",
+      "link": "https://www.ithome.com/0/987/462.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-08T23:18:06+00:00",
+      "summary": "IT之家 8 月 9 日消息，育碧为庆祝《幽灵行动》（Ghost Recon）系列迎来 25 周年，即日起推出系列纪念活动，不仅开启全系列折扣促销，最低可享 95 折优惠，同时限时免费赠送 PC 版《幽灵行动：未来战士》（Tom Clancy's Ghost Recon：Future Soldier）。IT之家获悉，本次免费赠送的是 2012 年推出的 PC 版本，但该版本不支持，玩家只需在活动期",
+      "fetched_at": "2026-08-08T23:38:51.611273+00:00"
+    },
+    {
+      "id": "d7621aef8f48e38a",
+      "title": "Epic 喜加一：原价 3 元模拟经营游戏《happiness market》免费领",
+      "link": "https://www.ithome.com/0/987/461.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-08T23:09:27+00:00",
+      "summary": "IT之家 8 月 9 日消息，由独立开发者 luolei 制作的 2D 商店经营模拟游戏《happiness market》目前已在 Epic Games Store 开启限时免费领取“喜加一”活动，本作在国区定价为 3 元，活动将持续至北京时间 8 月 15 日凌晨 0 点结束。需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（https:/",
+      "fetched_at": "2026-08-08T23:38:51.611301+00:00"
+    },
+    {
+      "id": "077189b4321e4da7",
+      "title": "模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄",
+      "link": "https://www.ithome.com/0/987/460.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-08T23:07:19+00:00",
+      "summary": "IT之家 8 月 9 日消息，模块化、可维修电脑制造商 Framework 表示，由于一家商业智能服务提供商遭到网络攻击，黑客窃取了 Framework 客户的姓名、电子邮件地址、电话号码和实体地址。Framework 已通知所有受影响的客户。当地时间周四，多名 Framework 用户在社交媒体上表示，他们收到了公司发来的数据泄露通知邮件。Framework 发言人 Eric Schumache",
+      "fetched_at": "2026-08-08T23:38:51.611330+00:00"
+    },
+    {
+      "id": "383031c43c3844fa",
+      "title": "《毁灭战士》开发者抨击微软 XBOX“不理解艺术”，轻率裁员重创 id Software 工作室",
+      "link": "https://www.ithome.com/0/987/459.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-08T23:05:34+00:00",
+      "summary": "IT之家 8 月 9 日消息，《毁灭战士》（Doom）开发商 id Software 在今年 7 月经历裁员后，该工作室首席服务程序员 Chris Hays 在近期接受游戏播客《Auf ein Bier》主持人 Andre Peschke 采访时，对微软 Xbox 的管理方式提出了严厉批评，直言 Xbox “从根本上不理解艺术”。IT之家获悉，Hays 目前仍任职于 id Software，该工作",
+      "fetched_at": "2026-08-08T23:38:51.611364+00:00"
+    },
+    {
+      "id": "aeac7d27d5677ddb",
+      "title": "谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称",
+      "link": "https://www.ithome.com/0/987/458.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-08T22:59:50+00:00",
+      "summary": "IT之家 8 月 9 日消息，十多年来，网络安全行业一直在为不同的黑客组织命名。其中一些组织，例如 Fancy Bear（奇幻熊），凭借引人注目的网络攻击以及容易记忆的名字走入大众视野；另一些组织则只在网络安全行业内部为人所知。很多时候，就连业内人士也很难记清所有黑客组织的名称。部分原因在于，不同公司采用了不同的命名方式。因此，才会出现一些资料库，试图成为一个“一站式”参考工具，让网络安全从业者、",
+      "fetched_at": "2026-08-08T23:38:51.611437+00:00"
+    },
+    {
+      "id": "9def2c6903d9aafe",
+      "title": "我国渤海首个千亿方大气田 Ⅰ 期开发项目全面投产，日产油气超 5200 吨",
+      "link": "https://www.ithome.com/0/987/457.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-08T22:56:56+00:00",
+      "summary": "IT之家 8 月 9 日消息，据央视新闻报道，今天（8 月 9 日），记者从中国海油获悉，我国渤海首个千亿方大气田 —— 渤中 19-6 气田 Ⅰ 期开发项目全面投产，日产油气当量超 5200 吨。据介绍，渤中 19-6 气田位于渤海中部海域，探明天然气地质储量超 2000 亿立方米、探明石油液体地质储量超 2 亿立方米。气田埋藏深度超过 5000 米，油气藏分布范围广、储层类型复杂，开发难度远超",
+      "fetched_at": "2026-08-08T23:38:51.611480+00:00"
+    },
+    {
+      "id": "6f5c5d4677db77ae",
+      "title": "福特确认开发四门版 Mustang 车型，预计 2027 年底亮相",
+      "link": "https://www.ithome.com/0/987/456.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-08T22:54:27+00:00",
+      "summary": "IT之家 8 月 9 日消息，据外媒 autoevolution 报道，福特高层近日在拉斯维加斯举行的一场内部会议上确认，外界传闻多年的四门版 Mustang 确实正在开发中，起售价将低于 4 万美元（IT之家注：现汇率约合 27 万元人民币），预计将于明年（2027 年）年底亮相。据参加此次会议的两名消息人士透露，福特在会议期间还展示了相应车型的早期原型车，让经销商提前了解未来产品规划。该车尺寸",
+      "fetched_at": "2026-08-08T23:38:51.611514+00:00"
+    },
+    {
+      "id": "0dbbfb8267704d0e",
+      "title": "OpenAI 收购 AI 演示文稿初创公司 NextSlide",
+      "link": "https://www.ithome.com/0/987/455.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-08T22:54:22+00:00",
+      "summary": "IT之家 8 月 9 日消息，NextSlide 近日宣布加入 OpenAI，其团队成员现已投身于 ChatGPT 的开发工作。NextSlide 官网目前展示了一份由创始人 Ahmed Beshry 发布的说明。Beshry 在其中介绍称，NextSlide 的产品可以“将提示词、笔记、文档或研究资料转化为精美且可编辑的演示文稿”。Beshry 表示，公司的最终目标是“让视觉化沟通变得更加普及，",
+      "fetched_at": "2026-08-08T23:38:51.611541+00:00"
+    },
+    {
+      "id": "7b3486770063e7c7",
+      "title": "服装品牌李维斯遭黑客攻击，部分企业数据被窃取",
+      "link": "https://www.ithome.com/0/987/454.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-08T22:50:22+00:00",
+      "summary": "IT之家 8 月 9 日消息，据外媒 Cyber Insider 报道，以牛仔裤闻名的服装品牌李维斯（Levi Strauss）近日遭遇一起数据安全事件，黑客通过社交媒体对公司员工实施钓鱼攻击，随后疑似成功获取了 3 台员工电脑的访问权限，并进一步窃取了部分企业数据。目前，李维斯尚未公布黑客具体访问了哪些企业数据。不过公司称本次安全事件发生后内部已启动应急响应计划、采取遏制措施，并聘请外部网络安全",
+      "fetched_at": "2026-08-08T23:38:51.611562+00:00"
+    },
+    {
+      "id": "4b8fb2f2d0dd9e90",
+      "title": "亚马逊筹建得州数据中心，配套发电厂或成美国最大碳排放源",
+      "link": "https://www.ithome.com/0/987/453.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-08T22:50:19+00:00",
+      "summary": "IT之家 8 月 9 日消息，据《纽约时报》报道，亚马逊正在得克萨斯州佩科斯县筹建一座数据中心，并计划投资建设一座配套发电厂。按照目前的规划，这座发电厂未来可能成为美国最大的温室气体排放源。《纽约时报》称，这座发电厂将使用天然气发电，并已获准每年排放 3,300 万吨二氧化碳，排放量将超过美国目前任何一座发电厂。亚马逊发言人在一份声明中确认，该数据中心将“由新的现场发电设施供电，而且不会推高得州家",
+      "fetched_at": "2026-08-08T23:38:51.611583+00:00"
+    },
+    {
+      "id": "d96e14182cb734dd",
+      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+      "link": "https://www.ithome.com/0/987/452.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-08T22:46:14+00:00",
+      "summary": "IT之家 8 月 9 日消息，OpenAI 当地时间周四宣布，已更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持。用户现在可以直接通过语音与 ChatGPT 对话，控制 AI 智能体，并让其在电脑上执行各种任务。这项新功能基于 OpenAI 全新的语音模型系列 ChatGPT-Live。OpenAI 于本月早些时候推出了该系列模型。OpenAI 表示，ChatGPT Vo",
+      "fetched_at": "2026-08-08T23:38:51.611621+00:00"
+    },
+    {
+      "id": "0e7c940dec4e03aa",
+      "title": "X 平台将于 9 月 8 日推出全新“原创内容奖励计划”，要求至少拥有 500 名经过认证的粉丝才可参与",
+      "link": "https://www.ithome.com/0/987/451.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-08T22:42:31+00:00",
+      "summary": "IT之家 8 月 9 日消息，SpaceX AI 旗下负责创作者产品的高级产品经理 Allegra Jacchia 在 X 平台发文，宣布 X 平台将于 9 月 8 日推出全新的“原创内容奖励计划”（Original Content Rewards）。根据新计划，创作者需要满足一定条件才有资格参与，包括至少拥有 500 名经过认证的粉丝，并且过去 90 天内来自认证用户的主页时间线（Home Ti",
+      "fetched_at": "2026-08-08T23:38:51.611649+00:00"
+    },
     {
       "id": "86fe4fd11da75fac",
       "title": "微软更新服务协议，移除部分老旧产品相关条款",
@@ -11,7 +220,7 @@
       "category": "tech",
       "published_at": "2026-08-08T22:37:53+00:00",
       "summary": "IT之家 8 月 9 日消息，微软现已更新面向用户的《微软服务协议》（Microsoft Services Agreement），主要移除了部分已停止运营的老旧产品，同时进行部分文字表述调整、语法修正以及错误修复。新版服务协议预计将于 9 月 30 日正式生效，在此之前，用户仍将继续受到现有版本协议的约束。具体来看，微软将 Groove（音乐）从“数字商品”相关章节中移除，不过目前该服务名称仍出现",
-      "fetched_at": "2026-08-08T22:41:05.779183+00:00"
+      "fetched_at": "2026-08-08T23:38:51.611677+00:00"
     },
     {
       "id": "c8049c4a6d741985",
@@ -18800,127 +19009,6 @@
       "published_at": "2026-08-01T23:51:46+00:00",
       "summary": "IT之家 8 月 2 日消息，据猫眼专业版数据，漫威索尼超英新作 《蜘蛛侠：崭新之日》 上映 5 天，总票房破 7 亿（累计票房已达 7.12 亿）。IT之家注意到，《蜘蛛侠：崭新之日》豆瓣开分 7.8，拿下系列最高分。其中，有 22.4% 的观众给出了 5 星评价，仅 0.3% 的观众给了 1 星。另外，本片还被评为豆瓣 2026 最值得期待外语电影 No.6。该片由克里斯 · 麦肯纳（Chri",
       "fetched_at": "2026-08-02T00:06:54.514706+00:00"
-    },
-    {
-      "id": "0d5f4e30089ee1d4",
-      "title": "未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉",
-      "link": "https://www.ithome.com/0/984/649.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-01T23:38:39+00:00",
-      "summary": "IT之家 8 月 2 日消息，海外知名科普创作者汉克 · 格林（Hank Green）表示，在因使用 AI 而受到粉丝批评后，他将放缓内容创作节奏。据IT之家了解，除了个人频道外，格林还运营着知名科普 YouTube 频道 SciShow 和 Crash Course。其中，SciShow 由多个专注于不同科学领域的频道组成，而 Crash Course 则通过视频深入浅出地讲解拉丁美洲文学、阅读",
-      "fetched_at": "2026-08-02T00:06:54.514764+00:00"
-    },
-    {
-      "id": "0b7654d4f04868a7",
-      "title": "小米汽车：澎程配备低速慢行灯，夜晚车辆时速低于 10km/h 自动打开",
-      "link": "https://www.ithome.com/0/984/648.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-01T23:35:39+00:00",
-      "summary": "IT之家 8 月 2 日消息，小米汽车昨晚发布了答网友问（第 265 集），针对澎程系列新车的滑轨和座椅旋转与市面其他车的区别、澎程驾驶起来体验如何、小米龙甲电池 55 摄氏度热失控无热蔓延是什么意思等问题进行了解答。IT之家附小米汽车本期答网友问如下：市面上挺多车都有滑轨和座椅旋转，小米澎程有什么不一样吗？市面上确实有不少车型配备了长滑轨或座椅旋转功能，但从硬件规格、功能实现到场景丰富度，小米澎",
-      "fetched_at": "2026-08-02T00:06:54.514834+00:00"
-    },
-    {
-      "id": "1daa0cb290c45dfe",
-      "title": "因使用月之暗面模型写代码，美国最大外卖平台 DoorDash 被议员调查",
-      "link": "https://www.ithome.com/0/984/647.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-01T23:33:09+00:00",
-      "summary": "IT之家 8 月 2 日消息，据科技媒体 CNBC 前天报道，美国众议院两个委员会的主席正展开联合调查，要求全美最大外卖平台 DoorDash 提供其使用的中国 AI 大模型信息。DoorDash 创始人 Andy Fang 曾在 X 平台发文称，据内部测试结果，月之暗面 Kimi K2.6+Anthropic Fable 5 的组合可超越 Sonnet 4.6 + Opus 4.8，并且成本更低",
-      "fetched_at": "2026-08-02T00:06:54.514865+00:00"
-    },
-    {
-      "id": "878680190e353cf1",
-      "title": "法官驳回 xAI 诉求，明尼苏达州 AI“脱衣”应用禁令将如期生效",
-      "link": "https://www.ithome.com/0/984/646.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-01T23:24:29+00:00",
-      "summary": "IT之家 8 月 2 日消息，据 NBC News 报道，尽管 xAI 提起诉讼，美国明尼苏达州针对可将照片进行“裸化”处理的应用的禁令仍可按计划生效。美国联邦地区法院法官多诺万 · 弗兰克（Donovan Frank）在裁决中表示，他的决定不仅基于法律本身，也考虑了 xAI 提起诉讼的时间节点。弗兰克指出，xAI 于 2026 年 7 月 29 日申请临时限制令，而距离该法律正式签署已经过去近三",
-      "fetched_at": "2026-08-02T00:06:54.514895+00:00"
-    },
-    {
-      "id": "4cd2c737b825304c",
-      "title": "IT早报 0802：DeepSeek V4-Flash 成本仅为 GPT-5.6 Luna 四成；小米手机正式涨价 300 元起；中国最高薪本科专业易主；曝长鑫 LPDDR6 有望今年下半年发布...",
-      "link": "https://www.ithome.com/0/984/645.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-01T23:22:09+00:00",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 2 日星期日，今天的重要科技资讯有：1、DeepSeek-V4-Flash 正式版跑分报告：AI 单任务成本比 GPT-5.6 Luna 低约 60%深度求索（DeepSeek）7 月 31 日通过 API 文档发布日志，宣布 DeepSeek-V4-Flash 正式版 API 上线公测。@ArtificialAnlys、@arena 等 A",
-      "fetched_at": "2026-08-02T00:06:54.515048+00:00"
-    },
-    {
-      "id": "7ae96dfc123189c8",
-      "title": "真的要退出 Steam 平台？消息称微软 XBOX 拟重新评估 PC 战略",
-      "link": "https://www.ithome.com/0/984/644.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-01T23:16:59+00:00",
-      "summary": "IT之家 8 月 2 日消息，在菲尔 · 斯宾塞主导一系列收购游戏工作室后，微软 XBOX 正面临一段艰难时期。由于市场环境持续恶化，XBOX 已经历多次裁员、砍工作室等调整。为了在当前市场环境继续生存，XBOX 必须改变自身。科技媒体 Windows Central 主编杰兹 · 科登（Jez Corden）昨日在自家博客节目爆料：“我确实知道微软 XBOX 正在调整 PC 市场计划。但目前不知",
-      "fetched_at": "2026-08-02T00:06:54.515084+00:00"
-    },
-    {
-      "id": "4da6a5c2b4e5a723",
-      "title": "华为智选车产品总监彭磊谈享界 G9 设计思考，新车拥有三个物理按键操作区",
-      "link": "https://www.ithome.com/0/984/643.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-01T23:15:28+00:00",
-      "summary": "IT之家 8 月 2 日消息，华为智选车产品总监（享界系列）彭磊发文谈及了鸿蒙智行享界 G9 的产品设计过程的思考。他表示，新车首先初衷是开发一款兼顾城市极致驾驶，又拓展户外驾驶能力边界，还得有智能驾趣的科技豪华 SUV。据彭磊介绍，享界 G9 围绕以上的初衷，其中一个考虑点是要求驾驶员可以实现实用又有趣的功能“盲操”，给智能汽车增加“机械按键”，不跟风千篇一律的“大屏控车”，让设计服务体验场景，",
-      "fetched_at": "2026-08-02T00:06:54.515118+00:00"
-    },
-    {
-      "id": "08757063dc3799b8",
-      "title": "珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面",
-      "link": "https://www.ithome.com/0/984/642.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-01T23:12:46+00:00",
-      "summary": "IT之家 8 月 2 日消息，本周，一则关于大量珍贵图书被集中粉碎、仅为训练大语言模型（LLM）提供数据的消息，引发了读书爱好者和普通网友的广泛关注。消息称，一些图书供应商近期收到了数量异常庞大的图书订单。业内人士猜测，AI 公司希望获得质量更高、更干净的训练数据，同时尽可能规避版权风险。而这场争议的焦点，则指向了图书数据库网站 ISBNdb。外界认为，该网站不仅鼓励这种做法，甚至还为 AI 公司",
-      "fetched_at": "2026-08-02T00:06:54.515182+00:00"
-    },
-    {
-      "id": "b40b37bbbe7b1657",
-      "title": "谷歌 Pixel 11 全系配置、售价曝光：含标准版、Pro、Pro XL 及 Pro Fold 折叠机型",
-      "link": "https://www.ithome.com/0/984/641.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-01T23:01:08+00:00",
-      "summary": "IT之家 8 月 2 日消息，Android Headlines 已经提前拿到了谷歌 Pixel 11 全系四款新机的完整规格信息，同时还获得了美国和欧洲市场的售价。此次曝光的机型包括 Google Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 和 Pixel 11 Pro Fold。由于机型较多，下面分别介绍每款产品的配置和价格。Google Pixel 11：6.",
-      "fetched_at": "2026-08-02T00:06:54.515324+00:00"
-    },
-    {
-      "id": "7e7edccf5ab50576",
-      "title": "全球首个全光子时间晶体（PTC）制备技术诞生，有望催生超高速计算机、自适应通信以及全新激光器",
-      "link": "https://www.ithome.com/0/984/640.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-01T22:57:30+00:00",
-      "summary": "IT之家 8 月 2 日消息，法国巴黎综合理工学院、法兰西公学院和亥姆霍兹德累斯顿-罗森多夫研究中心的科学家们最近取得新突破，在全球范围内首次制备出全光子时间晶体（PTC），能够跟随时间快速且反复地改变其光学特性。IT之家了解到，这项成果已于上个月（7 月 29 日）发表于《自然》期刊。该研究利用了 HZDR 和 TELBE 超辐射太赫兹源，将系统驱动至太赫兹（THz）光与物质相互作用状态。为超高",
-      "fetched_at": "2026-08-02T00:06:54.515362+00:00"
-    },
-    {
-      "id": "93acd4e3bfa9acf8",
-      "title": "Statcounter：Linux 在北美桌面市场份额首次突破 10%",
-      "link": "https://www.ithome.com/0/984/639.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-01T22:51:51+00:00",
-      "summary": "IT之家 8 月 2 日消息，根据 Statcounter 最新发布的 2026 年 7 月统计数据，Linux 在北美桌面操作系统市场达成了一个重要里程碑，其份额已达到 10.65%。这是 Linux 首次在 Statcounter 北美桌面操作系统统计中突破两位数，占比正式超过 10%。作为对比，Statcounter 的数据显示，2026 年 6 月 Linux 在北美桌面市场的份额仅为 5",
-      "fetched_at": "2026-08-02T00:06:54.515439+00:00"
     }
   ]
 }
