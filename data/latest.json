@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T22:44:02.742746+00:00",
-  "count": 1699,
+  "generated_at": "2026-08-09T23:41:04.015932+00:00",
+  "count": 1708,
   "sources": [
     {
       "id": "36kr",
@@ -34,6 +34,193 @@
     }
   ],
   "items": [
+    {
+      "id": "8b2ff6d4359eedf2",
+      "title": "美国得州大学奥斯汀分校研发头部柔性贴片 NEUSLeeP，可帮助使用者更快入眠",
+      "link": "https://www.ithome.com/0/987/656.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-09T23:38:15+00:00",
+      "summary": "IT之家 8 月 10 日消息，据外媒 techspot 报道，美国得州大学奥斯汀分校博士毕业生 Kai Wing 团队宣布研发出一种头部柔性贴片 NEUSLeeP，可以帮助使用者更快进入快速眼动睡眠（REM），并延长该阶段持续时间，而且无需药物或手术干预。IT之家参考报道获悉，NEUSLeeP 的特殊之处在于其整合了低强度超声刺激技术，以及用于读取脑部活动的电极。这使设备能够通过非侵入方式影响与",
+      "fetched_at": "2026-08-09T23:40:55.420687+00:00"
+    },
+    {
+      "id": "f742a9ebe1023b98",
+      "title": "生产流程保密，玩家自制索尼 PlayStation 光盘几乎无可行空间",
+      "link": "https://www.ithome.com/0/987/655.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-09T23:33:58+00:00",
+      "summary": "IT之家 8 月 10 日消息，尽管外界反对的声音强烈，索尼仍然坚持停止生产 PlayStation 实体游戏光盘的决定。事实上，在索尼正式宣布这一计划时，相关安排已经推进到了相当深入的阶段，部分生产设施甚至已经开始转向生产其他产品。虽然实体游戏光盘的时代可能即将结束，但 PlayStation 游戏究竟是如何被制作并最终写入光盘的，这其中的具体流程很可能依然会被索尼视为商业机密。至少，《Game",
+      "fetched_at": "2026-08-09T23:40:55.420738+00:00"
+    },
+    {
+      "id": "bf80722b0c879040",
+      "title": "博主利用漏洞成功访问英伟达 GeForce NOW 云游戏服务底层 Windows 界面，将其变为“云电脑”",
+      "link": "https://www.ithome.com/0/987/654.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-09T23:30:59+00:00",
+      "summary": "IT之家 8 月 10 日消息，据外媒 neowin 报道，近期博主 Zortos 与 dpadGuy 成功利用漏洞，进入了英伟达云游戏平台 GeForce NOW 服务底层运行的 Windows 桌面环境，将平台变成了“云电脑”，目前英伟达尚未对此进行回应。具体来看，整个过程以游戏《Trove》作为入口，Zortos 并非直接启动游戏，而是在配置过程中打开 Steam 内置网页浏览器，访问本地存",
+      "fetched_at": "2026-08-09T23:40:55.420769+00:00"
+    },
+    {
+      "id": "f15181307fa690eb",
+      "title": "新生可提前 20 天预约购票，中国铁路发布官方指南",
+      "link": "https://www.ithome.com/0/987/653.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-09T23:27:32+00:00",
+      "summary": "IT之家 8 月 10 日消息，随着各大院校进入开学季，铁路将迎来学生旅客出行高峰，中国铁路 12306 手机客户端新增新生预约功能，并发布官方指南，IT之家整理如下。1、如何提交预约申请？2026 年 8 月 1 日至 30 日，火车票学生预约购票服务中新增新生预约功能，符合条件的 2026 级新生在铁路 12306 手机客户端“学生资质核验”版块填写相关信息后，可通过“学生预约购票服务”专区中",
+      "fetched_at": "2026-08-09T23:40:55.420816+00:00"
+    },
+    {
+      "id": "87dce48dc1be2f44",
+      "title": "硅谷 AI 抢人大战，光砸钱已经不够用了",
+      "link": "https://www.ithome.com/0/987/652.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-09T23:26:10+00:00",
+      "summary": "IT之家 8 月 10 日消息，据 Business Insider 报道，在争夺顶尖 AI 人才的大战中，薪资反而是最容易解决的问题。Cursor 是一家估值 600 亿美元（IT之家注：现汇率约合 4,059.04 亿元人民币）的公司，旗下拥有一系列广受欢迎的编程工具，近期已被 SpaceX 收购。对于 Cursor 来说，招聘顶尖人才有点像试图追求一个完全高攀不起的人。“完成招聘是一项团队运",
+      "fetched_at": "2026-08-09T23:40:55.420878+00:00"
+    },
+    {
+      "id": "0d8a19c9e02354af",
+      "title": "【钛晨报】7月物价温和运行：CPI同比上涨0.5%，AI消费电子成新兴涨价动能；原字节跳动机器人一号位加入小米；苹果被曝正在测试长鑫科技存储芯片，用于iPhone和MacBoo",
+      "link": "https://www.tmtpost.com/8096820.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-09T23:20:00+00:00",
+      "summary": "腾讯WorkBuddy手机端实现与桌面端跨设备协同；于东来发文回应关闭胖东来许昌生活广场店；苹果中国官网删除Apple智能接入阿里千问手册；马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该系统今年将实现年收200亿美元；摩尔线程：筹划发行H股股票并在港交所主板上市；遭遇持续高温，韩国电力需求创今年新高",
+      "fetched_at": "2026-08-09T23:40:58.717351+00:00"
+    },
+    {
+      "id": "9d9bfa7a6f5be5a8",
+      "title": "Purism 推出 Librem 16 Linux 笔记本：配备双物理隐私开关、搭酷睿 i7-13620H 处理器",
+      "link": "https://www.ithome.com/0/987/651.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-09T23:17:40+00:00",
+      "summary": "IT之家 8 月 10 日消息，制造商 Purism 宣布推出一款 Librem 16 Linux 笔记本，该机强调用户隐私保护，基础版本配备 16GB RAM 和 512GB SSD，售价为 2,899 美元（IT之家注：现汇率约合 19,612 元人民币）；顶配版本搭载 64GB RAM 和 16TB SSD，售价高达 9,799 美元（现汇率约合 66,291 元人民币）。Purism Li",
+      "fetched_at": "2026-08-09T23:40:55.420918+00:00"
+    },
+    {
+      "id": "b6c948326c5e6c83",
+      "title": "汽车行业全面转向数字音频，消息称目前美国市场仅有斯巴鲁旗下两款在售新车仍可选配 CD 播放器",
+      "link": "https://www.ithome.com/0/987/650.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-09T23:07:11+00:00",
+      "summary": "IT之家 8 月 10 日消息，据外媒 carscoops 报道，即便过去十年汽车行业已经全面转向数字音频，但目前在美国市场仍有两款在售新车可选装传统 CD 播放器，相应车型分别为 2026 款斯巴鲁 WRX 及 Ascent 车型。具体来看，用户可以在中央扶手区域加装 CD 播放器，不使用时可以隐藏起来。其中，WRX 的选装价格为 449.95 美元（IT之家注：现汇率约合 3,044 元人民币",
+      "fetched_at": "2026-08-09T23:40:55.420951+00:00"
+    },
+    {
+      "id": "73f2aed03782f9d0",
+      "title": "宇树科技今日启动申购，A 股迎来“人形机器人第一股”",
+      "link": "https://www.ithome.com/0/987/649.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-09T23:07:08+00:00",
+      "summary": "IT之家 8 月 10 日消息，8 月 10 日，宇树科技正式启动申购，A 股即将迎来“人形机器人第一股”。此前，宇树科技确定发行价为 150.80 元 / 股，对应市值约 609.93 亿元。本次拟公开发行 4044.64 万股，占发行后总股本 10%，预计募集资金总额约 60.99 亿元。据官方公布消息，宇树科技的发行市盈率为 219.23 倍，高于行业平均市盈率 38.56 倍。预计募集资金",
+      "fetched_at": "2026-08-09T23:40:55.420996+00:00"
+    },
+    {
+      "id": "7ee416ac801793e1",
+      "title": "小艇燃油耗尽搁浅，距离更近的扎克伯格超级游艇被指拒绝救援",
+      "link": "https://www.ithome.com/0/987/648.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-09T23:06:55+00:00",
+      "summary": "IT之家 8 月 10 日消息，本周早些时候，阿拉斯加一艘名为 Wilderness Legacy 的游轮在法拉格特湾（Farragut Bay）附近救助了一艘因燃油耗尽而搁浅的小艇。不过，据《Alaska Beacon》和 Halifax Shipping News 查阅船舶追踪数据后发现，当时距离这艘遇险小艇最近的船只其实是马克 · 扎克伯格（Mark Zuckerberg）的超级游艇 Lau",
+      "fetched_at": "2026-08-09T23:40:55.421035+00:00"
+    },
+    {
+      "id": "e763413c9353dab1",
+      "title": "OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制",
+      "link": "https://www.ithome.com/0/987/647.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-09T23:00:56+00:00",
+      "summary": "IT之家 8 月 10 日消息，OpenAI 宣布即将取消免费版和 Go 版用户在纯文本对话中的次数限制，从当地时间 8 月 10 日（今天）开始，免费账户和 Go 账户用户在进行普通文字聊天时，将不再受到消息数量上限限制，可以持续进行文本对话。不过，这并不代表 ChatGPT 免费版完全没有限制。图片生成、文件上传以及语音模式仍然会拥有各自独立的使用额度。因此，只要用户在对话中添加文件或图片，相",
+      "fetched_at": "2026-08-09T23:40:55.421071+00:00"
+    },
+    {
+      "id": "44f83c26dd2a110c",
+      "title": "古尔曼：苹果 iPhone 18 Pro / Ultra 发布会预计 9 月 9 日举行，预售避开 9·11",
+      "link": "https://www.ithome.com/0/987/646.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-09T22:58:08+00:00",
+      "summary": "IT之家 8 月 10 日消息，现在已经进入 8 月，距离 iPhone 18 Pro 和 iPhone Ultra 的发布会只剩大约一个月。苹果历年的 iPhone 发布节奏相当固定，但今年可能会出现一些变化。据彭博社记者马克 · 古尔曼 (Mark Gurman) 报道，苹果已经在紧锣密鼓地筹备这场发布会。被安排协助发布会的苹果零售店员工据称已经收到通知，发布会将在 9 月上旬举行。苹果通常会",
+      "fetched_at": "2026-08-09T23:40:55.421120+00:00"
+    },
+    {
+      "id": "8bfb5f574269760b",
+      "title": "Epic 喜加一：原价 31 元心理恐怖游戏《Cat Named Mojave》免费领",
+      "link": "https://www.ithome.com/0/987/645.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-09T22:54:15+00:00",
+      "summary": "IT之家 8 月 10 日消息，独立开发团队 Stargazers Studios 制作并发行的心理恐怖游戏《Cat Named Mojave》即日起在 Epic Games Store 开启限时免费领取“喜加一”活动，游戏在国区定价为 31 元，活动将持续至 8 月 15 日上午 11 点结束。需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页",
+      "fetched_at": "2026-08-09T23:40:55.421157+00:00"
+    },
+    {
+      "id": "c4552ea148d6681d",
+      "title": "古尔曼披露苹果折叠 iPhone Ultra 三年路线：2028 年推出大屏版本",
+      "link": "https://www.ithome.com/0/987/644.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-09T22:48:30+00:00",
+      "summary": "IT之家 8 月 10 日消息，据彭博社记者马克 · 古尔曼（Mark Gurman）透露，苹果已经开始规划第三代折叠屏 iPhone，最早有望于 2028 年推出。古尔曼在最新一期《Power On》时事通讯中表示，苹果首款折叠屏 iPhone 将于今年迎来他所称的该产品“首次真正具有革命性的设计变化”。与此同时，苹果已经制定了覆盖未来两代产品的研发路线图。按照计划，第二代折叠屏 iPhone ",
+      "fetched_at": "2026-08-09T23:40:55.421193+00:00"
+    },
+    {
+      "id": "ee3777a55d7dfd93",
+      "title": "联想 2026 款 P16v 笔记本“Ultra 7 251HX + 32G + 1T + RTX Pro 1000”版本首销，20999 元",
+      "link": "https://www.ithome.com/0/987/643.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-09T22:46:50+00:00",
+      "summary": "IT之家 8 月 10 日消息，联想旗下 2026 款 P16v 笔记本新增的英特尔 Ultra 7 251HX + 32GB RAM + 1TB SSD + RTX Pro 1000 版本目前已在京东开启首销，定价为 20999 元。京东 2026 款联想 P16v AI 笔记本 20999 元直达链接该机整体造型简洁，提供 MIL-STD-810H 认证，厚度 17.9mm，B 面匹配一块 2",
+      "fetched_at": "2026-08-09T23:40:55.421233+00:00"
+    },
+    {
+      "id": "b0d0a54b72eef5f9",
+      "title": "古尔曼：苹果 Apple Watch Series 12 有望推出陶瓷版",
+      "link": "https://www.ithome.com/0/987/642.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-09T22:44:59+00:00",
+      "summary": "IT之家 8 月 10 日消息，据彭博社记者马克 · 古尔曼（Mark Gurman）透露，苹果计划重新推出备受用户喜爱的陶瓷材质 Apple Watch。古尔曼表示，新款陶瓷 Apple Watch 最快可能会在今年上市。IT之家注意到，苹果上一次推出陶瓷材质 Apple Watch 还是在 2019 年，当时的产品名为“Apple Watch Edition Series 5”。彼时，苹果为采",
+      "fetched_at": "2026-08-09T23:40:55.421273+00:00"
+    },
+    {
+      "id": "a84be880c63b8658",
+      "title": "LG 能源与龙蟠科技进一步加深合作关系，签订超 5 万亿韩元磷酸铁锂正极材料大单",
+      "link": "https://www.ithome.com/0/987/641.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-09T22:44:47+00:00",
+      "summary": "IT之家 8 月 10 日消息，据外媒 The Elec 报道，LG 能源（LG Energy Solution）已同中国电池材料企业龙蟠科技（Lopal Tech）达成协议，将采购价值超过 5 万亿韩元（IT之家注：现汇率约合 237.6 亿元人民币）的磷酸铁锂（LFP）正极材料，进一步加深双方合作关系。龙蟠科技于 8 月 6 日披露，公司已与 LG 能源签署 LFP 正极材料供应协议。合同期限",
+      "fetched_at": "2026-08-09T23:40:55.421326+00:00"
+    },
     {
       "id": "f3311ae9888b4376",
       "title": "古尔曼曝光苹果早前设想：生产 iPhone 时就装好 iCloud 数据，让用户不再经历繁琐导数据流程",
@@ -18634,94 +18821,6 @@
       "published_at": "2026-08-03T00:07:39+00:00",
       "summary": "今日热点导览 马斯克关注了DeepSeek的X账号 祥鹏航空回应航班误发过期方便面 OpenAI或将IPO推迟到明年 SpaceX首份财报即将发布 小米多款手机正式涨价 每月10万美元，特朗普“真实社交”售卖“优先访问权” TOP3大新闻 蔡崇信宣布离婚，不涉及出售阿里股份 8月1日，阿里巴巴集团董事会主席、美国职业篮球队布鲁克林篮网主要所有者蔡崇信与妻子吴明华决定结束持续近30年的婚姻。声明称，",
       "fetched_at": "2026-08-03T15:11:19.972796+00:00"
-    },
-    {
-      "id": "3318e6c62e4ca4fe",
-      "title": "合规约束叠加海外壁垒，“新三样”ESG竞争力加速兑现",
-      "link": "https://36kr.com/newsflashes/3922977073376640?f=rss",
-      "source_id": "36kr",
-      "source_name": "36氪",
-      "category": "finance",
-      "published_at": "2026-08-02T23:06:30+00:00",
-      "summary": "A股ESG强制信披规则实施，叠加海外市场对进口产品设置严苛绿色准入门槛，倒逼“新三样”企业深化ESG合规管理、提质升级，整体成效显著。截至8月2日，新能源汽车、锂电池、光伏产业上市公司2025年度ESG报告披露率高于A股市场平均披露率，A级及以上高评级企业占比大幅领先市场整体水平。龙头公司通过持续完善供应链管理、搭建碳足迹管理体系，以标准化ESG建设拓展海外市场，构建全球化绿色竞争新优势。（中证报",
-      "fetched_at": "2026-08-02T23:08:37.872896+00:00"
-    },
-    {
-      "id": "ed385e085345429e",
-      "title": "梅赛德斯-奔驰 CEO 反思过度取消汽车实体按键，更希望让大屏与按键实现共存",
-      "link": "https://www.ithome.com/0/984/827.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-02T23:05:03+00:00",
-      "summary": "IT之家 8 月 3 日消息，梅赛德斯-奔驰近年来不断扩大车内数字化配置，推出了 MBUX Hyperscreen 和 Superscreen 智能座舱，利用大量屏幕取代了传统物理按键。这种设计虽然带来了更强的科技感，但并未得到所有消费者认可。近期，梅赛德斯-奔驰 CEO Ola Källenius 在接受 Autocar 采访时认为，“汽车行业在取消实体按键、全面拥抱触控操作方面可能走得有些过头",
-      "fetched_at": "2026-08-02T23:08:41.088500+00:00"
-    },
-    {
-      "id": "81b22350ee2c1772",
-      "title": "美联储9月加息25个基点的概率为73.6%",
-      "link": "https://36kr.com/newsflashes/3922972821892480?f=rss",
-      "source_id": "36kr",
-      "source_name": "36氪",
-      "category": "finance",
-      "published_at": "2026-08-02T23:03:12+00:00",
-      "summary": "据CME“美联储观察”：美联储到9月维持利率不变的概率为26.4%，累计加息25个基点的概率为73.6%。美联储到10月维持利率不变的概率为19.9%，累计加息25个基点的概率为62.1%，累计加息50个基点的概率为17.9%。（财联社）",
-      "fetched_at": "2026-08-02T23:08:37.872908+00:00"
-    },
-    {
-      "id": "487ccc2f53693181",
-      "title": "2026年度电影总票房超231亿元，市场热度持续走高",
-      "link": "https://36kr.com/newsflashes/3922971159948929?f=rss",
-      "source_id": "36kr",
-      "source_name": "36氪",
-      "category": "finance",
-      "published_at": "2026-08-02T23:00:00+00:00",
-      "summary": "截至8月2日22时，2026年度电影总票房已超231亿元，其中，暑期档已连续23天单日票房破亿，市场热度正持续走高。（央视新闻）",
-      "fetched_at": "2026-08-02T23:08:37.872918+00:00"
-    },
-    {
-      "id": "10860fe1600272dd",
-      "title": "网友反馈其苹果 M5 Max MacBook Pro 高负载运行过热导致按键变形卡入机身内部",
-      "link": "https://www.ithome.com/0/984/826.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-02T22:55:01+00:00",
-      "summary": "IT之家 8 月 3 日消息，据外媒 wccftech，自苹果 MacBook Pro &nbsp;M5 Max 版本上市以来，有不少用户抱怨相应产品在高负载环境下出现散热压力。例如，近期有用户“rinsewin”在 Reddit 平台发文，称自己的 MacBook Pro M5 Max 版本因发热导致 Delete 按键受热变形，卡入机身内部。该用户表示，这已经是自己第二次遇到类似问题。由于 D",
-      "fetched_at": "2026-08-02T23:08:41.088541+00:00"
-    },
-    {
-      "id": "7d504dd4629ac9ae",
-      "title": "派早报：DeepSeek V4 Flash 正式版发布",
-      "link": "https://sspai.com/post/113014",
-      "source_id": "sspai",
-      "source_name": "少数派",
-      "category": "tech",
-      "published_at": "2026-08-02T22:49:31+00:00",
-      "summary": "DeepSeek V4 Flash 正式版发布特朗普向科技公司频繁索要捐款马斯克称从未讨论过出售特斯拉中国业务国补调整后终端销售承压风投机构重新涌入中国科技领域统计显示实体光盘并不能保证游戏长期可玩看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
-      "fetched_at": "2026-08-03T15:11:35.064037+00:00"
-    },
-    {
-      "id": "5808b99281bb0afa",
-      "title": "消息称苹果正研发两款带摄像头的 AirPods，其中一款有望今年推出",
-      "link": "https://www.ithome.com/0/984/825.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-02T22:47:08+00:00",
-      "summary": "IT之家 8 月 3 日消息，苹果一直在研发配备摄像头的 AirPods，而“视觉智能”（Visual Intelligence）将成为这款产品的核心功能。最初有传闻称，这款产品会在今年发布，但随后发布时间被推迟到了明年。不过，最新消息显示，首款配备摄像头的 AirPods 仍有可能在今年晚些时候亮相。最初曝光时，外界了解到的摄像头 AirPods 只有一个版本，内部代号为 B798。这款产品目前",
-      "fetched_at": "2026-08-02T23:08:41.088584+00:00"
-    },
-    {
-      "id": "2dd47b93647f9fba",
-      "title": "滨口直树透露《最终幻想 7》重制版游戏前两部销量远超预期，PC 平台成关键驱动力",
-      "link": "https://www.ithome.com/0/984/824.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-02T22:45:13+00:00",
-      "summary": "IT之家 8 月 3 日消息，滨口直树在接受外媒 Automaton 采访时透露《最终幻想 7：重制版》和《最终幻想 7：重生》销量表现远超预期，在《最终幻想 7：启示录》于 2026 年夏季游戏节公布后，前两款作品的销量出现了“数倍于预期”的增长。IT之家注：，《最终幻想 7 重制版》分为三部作品，包括 2020 年发售的《最终幻想 7：重制版（Final Fantasy VII Remake）",
-      "fetched_at": "2026-08-02T23:08:41.088617+00:00"
     }
   ]
 }
