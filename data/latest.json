@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T21:53:31.177322+00:00",
-  "count": 1700,
+  "generated_at": "2026-08-10T22:51:38.793256+00:00",
+  "count": 1703,
   "sources": [
     {
       "id": "36kr",
@@ -35,37 +35,103 @@
   ],
   "items": [
     {
+      "id": "055782a2bb2545ab",
+      "title": "美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅",
+      "link": "https://www.ithome.com/0/988/073.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-10T22:49:41+00:00",
+      "summary": "IT之家 8 月 11 日消息，海外点评平台 Yelp 与 ChatGPT 宣布达成进一步内容合作，美国和加拿大的 ChatGPT 用户如今可以直接在聊天过程中通过 Yelp 完成餐厅预订（Yelp Reservations）和加入餐厅预订候补名单（Waitlist）操作，无需跳转至其他应用或网站。Yelp 表示，此次整合进一步扩大了其在 AI 搜索领域的影响力，如今美国和加拿大用户可以先通过 C",
+      "fetched_at": "2026-08-10T22:51:31.758047+00:00"
+    },
+    {
+      "id": "251bb13cedef6f7e",
+      "title": "谷歌联合创始人布林已投入超 1 亿美元，反对加州拟议的亿万富翁税",
+      "link": "https://www.ithome.com/0/988/072.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-10T22:47:37+00:00",
+      "summary": "IT之家 8 月 11 日消息，根据一份最新文件显示，谷歌联合创始人谢尔盖 · 布林（Sergey Brin）再次向“建设更美好加州”（Build a Better California）组织捐款 2,000 万美元（IT之家注：现汇率约合 1.35 亿元人民币）。该组织正在推动反对加州拟议中的“亿万富翁税”。这意味着，这位全球第四富有的人、净资产约为 2,670 亿美元（现汇率约合 1.8 万亿",
+      "fetched_at": "2026-08-10T22:51:31.758111+00:00"
+    },
+    {
+      "id": "c47a61ffd3884fef",
+      "title": "涨价不可避免：郭明錤称苹果正缩减 2026 年 iPhone 18 Pro 等硬件出货计划",
+      "link": "https://www.ithome.com/0/988/071.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-10T22:44:29+00:00",
+      "summary": "IT之家 8 月 11 日消息，天风国际证券分析师郭明錤今天（8 月 11 日）在 X 平台发布推文，分享了一份行业调查研究报告，指出由于 DRAM 内存短缺，苹果公司正在缩减其 2026 年的硬件出货计划。在机型方面，基于推文内容，博文中的“硬件”，预估包含苹果 iPhone 18 Pro 系列、苹果首款折叠手机（上市后预估名为 iPhone Ultra），以及多款 Mac 产品等。此外基于多方",
+      "fetched_at": "2026-08-10T22:51:31.758149+00:00"
+    },
+    {
+      "id": "f5419d1840bee015",
+      "title": "消息称 Netflix 为获得《GTA6》前瞻预告片首播权，向 R 星支付超 8000 万美元",
+      "link": "https://www.ithome.com/0/988/070.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-10T22:42:34+00:00",
+      "summary": "IT之家 8 月 11 日消息，《GTA 6：分量十足的一瞥》前瞻预告片将于美东时间 8 月 27 日下午 3 时（IT之家注：北京时间 28 日凌晨 3 时）率先在 Netflix 播出。在间隔六小时后（即北京时间上午 9 点）才会在官方 YouTube 和官网上正式公开。对此，消息源 Tom Henderson 爆料称，为了获得这个首播权，Netflix 很可能支付了相当于 100 万份《GT",
+      "fetched_at": "2026-08-10T22:51:31.758182+00:00"
+    },
+    {
+      "id": "9b300aa39b6e19c5",
+      "title": "苹果将为 Vision Pro 用户沉浸式直播四场周五夜棒球赛",
+      "link": "https://www.ithome.com/0/988/069.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-10T22:40:34+00:00",
+      "summary": "IT之家 8 月 11 日消息，苹果正在再次探索 Apple Vision Pro 上的 Apple Immersive 沉浸式内容体验。该公司宣布，将通过 Apple Immersive Video（沉浸式视频）形式，为 Apple Vision Pro 用户直播四场即将到来的“周五夜棒球”（Friday Night Baseball）比赛。今年早些时候，苹果曾通过 Apple Immersiv",
+      "fetched_at": "2026-08-10T22:51:31.758230+00:00"
+    },
+    {
+      "id": "88e7546238ba7d4a",
+      "title": "iOS 27 代码显示苹果正开发 Apple Reference Image 认证功能，用于检测 iPhone 拍摄照片真实性",
+      "link": "https://www.ithome.com/0/988/068.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-10T22:33:41+00:00",
+      "summary": "IT之家 8 月 11 日消息，外媒 9to5Mac 在挖掘苹果 iOS 27 开发者预览版 Beta 5 代码信息时发现苹果正在开发一项名为 Apple Reference Image 的新功能，用于认证 iPhone 拍摄照片的来源真实性。随着生成式 AI 图像技术快速发展，AI 生成或经过深度修改的图片越来越容易伪装成真实照片，过去需要专业摄影后期人员花费数小时的图像修改，如今只需输入简单提",
+      "fetched_at": "2026-08-10T22:51:31.758265+00:00"
+    },
+    {
       "id": "bf143d576dc1f873",
-      "title": "苹果 iOS/iPadOS 18.7.10 正式版发布",
+      "title": "苹果 iOS / iPadOS 18.7.10 正式版发布",
       "link": "https://www.ithome.com/0/988/067.htm",
       "source_id": "ithome",
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-08-10T17:58:13+00:00",
-      "summary": "IT之家 8 月 11 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 18.7.10 更新（内部版本号：22H373），本次更新距离上次发布正式版间隔 98 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS",
-      "fetched_at": "2026-08-10T21:53:23.244808+00:00"
+      "summary": "IT之家 8 月 11 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 18.7.10 更新（内部版本号：22H373），本次更新距离上次发布正式版间隔 98 天，不过苹果尚未公布该更新的具体修复细节。需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。附 iOS / iPadOS 18 发布历史",
+      "fetched_at": "2026-08-10T22:51:31.758403+00:00"
     },
     {
       "id": "771328340704d477",
-      "title": "苹果 macOS 26.6.2 正式版发布",
+      "title": "苹果 macOS 26.6.2 Beta 版发布",
       "link": "https://www.ithome.com/0/988/066.htm",
       "source_id": "ithome",
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-08-10T17:58:12+00:00",
-      "summary": "IT之家 8 月 11 日消息，苹果今日向 Mac 电脑用户推送了 macOS 26.6.2 更新（内部版本号：25G82），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 macOS 26 发布历史： 2026-07-28",
-      "fetched_at": "2026-08-10T21:53:23.244957+00:00"
+      "summary": "IT之家 8 月 11 日消息，苹果今日向 Mac 电脑用户推送了 macOS 26.6.2 Beta 更新（内部版本号：25G82），本次更新距离上次发布正式版间隔 14 天。 macOS 26.6.2 版本预计主要集中于安全更新和漏洞修复。对于如此小版本的系统更新，苹果通常不会提前推出测试版，而是直接发布正式版本。目前尚不清楚苹果为何选择以测试版形式推出这些更新。需要注意的是，因苹果各区域节点",
+      "fetched_at": "2026-08-10T22:51:31.758579+00:00"
     },
     {
       "id": "a81bf1a9fa8cb891",
-      "title": "苹果 iOS/iPadOS 26.6.1 正式版发布",
+      "title": "苹果 iOS / iPadOS 26.6.1 Beta 版发布",
       "link": "https://www.ithome.com/0/988/065.htm",
       "source_id": "ithome",
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-08-10T17:58:12+00:00",
-      "summary": "IT之家 8 月 11 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 26.6.1 更新（内部版本号：23G82），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 2",
-      "fetched_at": "2026-08-10T21:53:23.245084+00:00"
+      "summary": "IT之家 8 月 11 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 26.6.1 Beta 更新（内部版本号：23G82），本次更新距离上次发布正式版间隔 14 天。iOS 26.6.1 版本预计主要集中于安全更新和漏洞修复。对于如此小版本的系统更新，苹果通常不会提前推出测试版，而是直接发布正式版本。因此，此次针对 iOS 26.6.1 等小版本更新提供 ",
+      "fetched_at": "2026-08-10T22:51:31.758696+00:00"
     },
     {
       "id": "c144d52bdf181456",
@@ -75,8 +141,8 @@
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-08-10T17:58:12+00:00",
-      "summary": "【点此直达升级教程】 IT之家 8 月 11 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 5 更新（内部版本号：24R5347a），本次更新距离上次发布 Beta/RC 间隔 20 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件",
-      "fetched_at": "2026-08-10T21:53:23.245131+00:00"
+      "summary": "【点此直达升级教程】IT之家 8 月 11 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 5 更新（内部版本号：24R5347a），本次更新距离上次发布 Beta / RC 间隔 20 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软",
+      "fetched_at": "2026-08-10T22:51:31.758449+00:00"
     },
     {
       "id": "2bf32dd9bd7ebd4e",
@@ -86,8 +152,8 @@
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-08-10T17:58:11+00:00",
-      "summary": "IT之家 8 月 11 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 开发者预览版 Beta 5 更新（内部版本号：24M5348b），本次更新距离上次发布 Beta/RC 间隔 20 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容",
-      "fetched_at": "2026-08-10T21:53:23.245163+00:00"
+      "summary": "IT之家 8 月 11 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 开发者预览版 Beta 5 更新（内部版本号：24M5348b），本次更新距离上次发布 Beta / RC 间隔 20 天。 目前尚无关于软件更新内容的任何消息。watchOS、tvOS 和 visionOS 每次发布新测试版通常只会增加少量功能，更新主要集中在修复漏洞和提升性能方面。需要注意",
+      "fetched_at": "2026-08-10T22:51:31.758729+00:00"
     },
     {
       "id": "79be9b0e6c23e73a",
@@ -97,19 +163,19 @@
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-08-10T17:58:11+00:00",
-      "summary": "IT之家 8 月 11 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 5 更新（内部版本号：26A5406e），本次更新距离上次发布 Beta/RC 间隔 21 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件更",
-      "fetched_at": "2026-08-10T21:53:23.245204+00:00"
+      "summary": "IT之家 8 月 11 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 5 更新（内部版本号：26A5406e），本次更新距离上次发布 Beta / RC 间隔 21 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软",
+      "fetched_at": "2026-08-10T22:51:31.758784+00:00"
     },
     {
       "id": "b7611d432bfaecdc",
-      "title": "苹果 iOS/iPadOS 27.0 开发者预览版 Beta 5 发布",
+      "title": "苹果 iOS / iPadOS 27.0 开发者预览版 Beta 5 发布：Safari 浏览器、Siri 等图标迎来重新设计",
       "link": "https://www.ithome.com/0/988/061.htm",
       "source_id": "ithome",
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-08-10T17:58:10+00:00",
-      "summary": "【点此直达升级教程】 IT之家 8 月 11 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.0 开发者预览版 Beta 5 更新（内部版本号：24A5408d），本次更新距离上次发布 Beta/RC 间隔 21 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Bet",
-      "fetched_at": "2026-08-10T21:53:23.245247+00:00"
+      "summary": "【点此直达升级教程】IT之家 8 月 11 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.0 开发者预览版 Beta 5 更新（内部版本号：24A5408d），本次更新距离上次发布 Beta / RC 间隔 21 天。此次更新中，Safari 浏览器、Siri、Remote（遥控器）以及 Preview（预览）应用图标进行了重新设计。此外，其他系统图标",
+      "fetched_at": "2026-08-10T22:51:31.758839+00:00"
     },
     {
       "id": "067a84d78af466dc",
@@ -18700,39 +18766,6 @@
       "published_at": "2026-08-03T22:53:24+00:00",
       "summary": "IT之家 8 月 4 日消息，据路透社报道，印度政府正在起草一项法案修正案，计划将针对向印度合同制造商提供机械设备的外国企业所享受的税收优惠再延长 10 年。根据报道，原定于 2031 年到期的这项税收豁免政策，拟延长至 2041 年。该政策规定，外国企业仅因拥有供印度合同制造商使用的生产设备，而无需因此承担印度所得税纳税义务。报道称，延长后的税收优惠将适用于生产手机、平板电脑、笔记本电脑、助听器",
       "fetched_at": "2026-08-03T23:15:12.669539+00:00"
-    },
-    {
-      "id": "80d511a798395908",
-      "title": "科乐美透露经典游戏 IP“寂静岭”复兴规划，《寂静岭 f》成转型关键",
-      "link": "https://www.ithome.com/0/985/263.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-03T22:50:07+00:00",
-      "summary": "IT之家 8 月 4 日消息，近日科乐美制作人冈本基在 CEDEC 2026 演讲中，分享了《寂静岭》复兴背后的规划，认为《寂静岭 f》是系列 IP 的“转型关键”。冈本表示在重新规划《寂静岭》回归路线时，团队并不希望只推出一款重制老作品来观察玩家是否仍然对系列感兴趣。因为如果只是推出重制作品，最多只能让一半原玩家回归，而想要真正推动系列发展，就必须提供新的体验。事实上，《寂静岭 f》意义不仅在于",
-      "fetched_at": "2026-08-03T23:15:12.669567+00:00"
-    },
-    {
-      "id": "19c61329462ff86f",
-      "title": "前 R 星设计师透露赛车游戏《湾岸午夜俱乐部 5》曾进入开发阶段，但最终被取消",
-      "link": "https://www.ithome.com/0/985/262.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-03T22:45:31+00:00",
-      "summary": "IT之家 8 月 4 日消息，R 星近年来主要专注于《侠盗猎车手》（Grand Theft Auto）和《荒野大镖客》（Red Dead）系列，其旗下经典街头赛车游戏《湾岸午夜俱乐部》（Midnight Club）已经接近 20 年没有推出新作。对此，前 R 星 Rockstar San Diego 工作室高级设计师 Kris Roberts 在接受外媒 Insider Gaming 采访时表示透",
-      "fetched_at": "2026-08-03T23:15:12.669599+00:00"
-    },
-    {
-      "id": "7b464579ecb71eb8",
-      "title": "苹果面临超 300 亿美元集体诉讼：照片应用中“人物识别功能”被指违反美国伊利诺伊州“BIPA 法案”",
-      "link": "https://www.ithome.com/0/985/261.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-03T22:34:24+00:00",
-      "summary": "IT之家 8 月 4 日消息，据外媒 9to5Mac 报道，苹果正面临一项集体诉讼，原告指控公司违反美国伊利诺伊州《生物识别信息隐私法》（Biometric Information Privacy Act，BIPA）。如果最终败诉，苹果可能面临超过 300 亿美元（IT之家注：现汇率约合 2027.93 亿元人民币）的赔偿风险。该诉讼最早于 2020 年 3 月提起，当时约 10 名苹果用户向法院",
-      "fetched_at": "2026-08-03T23:15:12.669639+00:00"
     }
   ]
 }
