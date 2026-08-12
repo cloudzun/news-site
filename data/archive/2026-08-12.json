@@ -3,6 +3,17 @@
   "count": 1627,
   "items": [
     {
+      "id": "bb7cc4f5e422beed",
+      "title": "峰值下载 375 Mbps：马斯克豪言未来汽车标配星链，4K 高清看赛事直播",
+      "link": "https://www.ithome.com/0/989/004.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-12T22:47:30+00:00",
+      "summary": "IT之家 8 月 13 日消息，全球首富埃隆 · 马斯克（Elon Musk）于 8 月 10 日在 X 平台发布推文，预告未来所有的汽车都会配备 Starlink 星链，并表示这是为数十亿辆汽车提供超高带宽的唯一途径。在前不久的财报电话会上，马斯克直接放出规划，未来全球所有特斯拉车型，都会标配星链卫星互联网系统。特斯拉的自动驾驶出租车官方账号 @robotaxi 随后于 8 月 11 日发布推文",
+      "fetched_at": "2026-08-12T22:54:53.860567+00:00"
+    },
+    {
       "id": "7200382e2844f7d2",
       "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
       "link": "https://www.ithome.com/0/989/001.htm",
@@ -11,7 +22,7 @@
       "category": "tech",
       "published_at": "2026-08-12T16:10:01+00:00",
       "summary": "IT之家 8 月 13 日消息，阿里云“魔搭 ModelScope 社区”公众号昨天（12 日）深夜宣布，阿里 Qwen 团队正式开放 Qwen3.8-2.4T-A95B 模型权重。此次是 Qwen-Max 级别的模型首次开源权重：模型总参数为 2.4T，每个 Token 激活 95B 参数，原生支持 262,144 Token 上下文，并可扩展至 1,010,000 Token。Qwen3.8 ",
-      "fetched_at": "2026-08-12T21:56:49.495130+00:00"
+      "fetched_at": "2026-08-12T22:54:53.860634+00:00"
     },
     {
       "id": "e2d6d29246f12989",
@@ -22,7 +33,7 @@
       "category": "tech",
       "published_at": "2026-08-12T16:05:28+00:00",
       "summary": "IT之家 8 月 13 日消息，据IT之家小伙伴反馈，DeepSeek V4 Pro 正式版今日晚间正式发布，已更新至 API，调用模型名不变。新版本增强了 Agent 能力，支持 Responses API 和 Codex 接入。从官方群放出的评测对比表可以看到，DeepSeek V4 Pro 正式版（DeepSeek-V4-Pro-0813）在多项测试中接近 Fable 5 水平，相比之前的预",
-      "fetched_at": "2026-08-12T21:56:49.495163+00:00"
+      "fetched_at": "2026-08-12T22:54:53.860663+00:00"
     },
     {
       "id": "e12ffc9ab27971a3",
@@ -17887,17 +17898,6 @@
       "published_at": "2026-08-05T22:57:06+00:00",
       "summary": "IT之家 8 月 6 日消息，谷歌母公司 Alphabet 昨日（8 月 5 日）宣布重组旗下 AI 公司 DeepMind，公司首席执行官戴米斯 · 哈萨比斯（Demis Hassabis）卸任日常管理职务，转任董事长兼 Alphabet 首席科学家，聚焦通用人工智能（AGI）战略与科学应用。因 AlphaFold 在人工智能与蛋白质结构预测领域的突破性贡献，哈萨比斯和约翰 · 江珀（John ",
       "fetched_at": "2026-08-05T23:13:59.851561+00:00"
-    },
-    {
-      "id": "3457f45027f3344a",
-      "title": "研究显示：苹果 Vision Pro 可使泪道手术速度提升 19%",
-      "link": "https://www.ithome.com/0/986/264.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-05T22:51:14+00:00",
-      "summary": "IT之家 8 月 6 日消息，美国加州大学圣迭戈分校（UC San Diego）一项经过同行评审的研究显示，在进行泪道手术时，将苹果 Vision Pro 作为主要显示设备的外科医生，手术完成速度比使用传统显示器的医生快了 19%。IT之家注意到，这项研究发表在医学期刊《AJO International》上，研究共分析了 32 例用于疏通泪道阻塞的内窥镜手术。其中一半手术由佩戴 Vision P",
-      "fetched_at": "2026-08-05T23:13:59.851577+00:00"
     }
   ]
 }
