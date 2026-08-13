@@ -1,7 +1,139 @@
 {
   "date": "2026-08-13",
-  "count": 1688,
+  "count": 1686,
   "items": [
+    {
+      "id": "55328181bc578473",
+      "title": "外链佣金 27%→ 最高 15%：苹果在美国拟推行 App Store 新方案",
+      "link": "https://www.ithome.com/0/989/503.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-13T23:46:45+00:00",
+      "summary": "IT之家 8 月 14 日消息，科技媒体 9to5Mac 昨日（8 月 13 日）发布博文，报道称根据苹果公司向美国地区法院提交的佣金方案，拟对绕过 App Store 的交易，收取最高 15% 的佣金。IT之家援引博文介绍，在和 Epic Games 的法律纠纷中，苹果向美国地方法院新的佣金方案，针对引导用户绕开 App Store 计费系统的应用内购买（In-App Purchase）交易，按",
+      "fetched_at": "2026-08-13T23:52:52.803631+00:00"
+    },
+    {
+      "id": "0a1a7a3246408470",
+      "title": "洛图科技：2026 年上半年中国智能眼镜市场销量同比增长 85.5%，销售额接近翻倍",
+      "link": "https://www.ithome.com/0/989/502.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-13T23:42:25+00:00",
+      "summary": "IT之家 8 月 14 日消息，根据洛图科技发布的报告显示，2026 年上半年，中国智能眼镜市场的全渠道销量为 90.9 万台，同比增长 85.5%；销售额为 18.8 亿元，同比增长 98.7%。▲ 2025-2026H1 中国智能眼镜市场季度销量趋势，单位：万台IT之家注意到，2026 年上半年，中国智能眼镜市场各细分品类的市场表现存在一定分化：AR 眼镜与拍摄眼镜实现了大幅增长，AI 音频眼",
+      "fetched_at": "2026-08-13T23:52:52.803663+00:00"
+    },
+    {
+      "id": "d0b3f1090e5cb6df",
+      "title": "皮卡货箱私改“移动泳池”上路，涉事驾驶人被罚 1000 元、驾驶证记 3 分",
+      "link": "https://www.ithome.com/0/989/501.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-13T23:40:01+00:00",
+      "summary": "IT之家 8 月 14 日消息，据央视新闻 8 月 13 日报道，近日，青海西宁街头出现惊险一幕：一辆行驶中的皮卡车，后货箱经过塑料布简易处理后注满了水，俨然成了一个流动的“水塘”。两名乘客坐在其中，不仅没有任何安全防护措施，还悠然自得地喝饮料吃西瓜。车辆在行驶中随时可能面临急刹、转弯或颠簸，一旦发生意外，货箱内的人员极易被甩出车外，后果不堪设想。IT之家从报道获悉，该视频在短视频平台传播后，引起",
+      "fetched_at": "2026-08-13T23:52:52.803688+00:00"
+    },
+    {
+      "id": "613ffac4cca374d4",
+      "title": "IT早报 0814：长鑫超腾讯成中国市值最高上市公司；美团、淘宝闪购、京东外卖在京落地“红灯停表”；9.99 万元起比亚迪秦 MAX 上市；小米澎湃 OS 4 发布...",
+      "link": "https://www.ithome.com/0/989/500.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-13T23:39:54+00:00",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 14 日星期五，今天的重要科技资讯有：1. 长鑫科技赶超腾讯，成为中国市值最高上市公司长鑫科技当前市值达 3.54 万亿元人民币，腾讯市值按汇率折算约为 3.44 万亿元人民币，长鑫科技成功完成超越。&gt;&gt; 查看详情2. 美团、淘宝闪购、京东外卖三家平台率先集中在京落地“红灯停表”计算配送时长时，对于驾驶电动自行车配送的情况，以平均",
+      "fetched_at": "2026-08-13T23:52:52.803825+00:00"
+    },
+    {
+      "id": "c9b3874d28f5db31",
+      "title": "谷歌推出 Gemini 3.7 Flash 模型，首发优惠价为原 3.6 Flash 的一半",
+      "link": "https://www.ithome.com/0/989/497.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-13T23:30:13+00:00",
+      "summary": "IT之家 8 月 14 日消息，当地时间 8 月 13 日，谷歌宣布推出 Gemini 3.7 Flash 模型，专为编程与 Agents 场景打造。IT之家注意到，本次发布距 Gemini 3.6 Flash 发布仅间隔约三周，谷歌称该版本的推出直接源于开发者的反馈以及一系列算法创新。Gemini 3.7 Flash 在软件工程、知识工作及网页开发工作流方面均实现了大幅提升。此外，在今年年底前（",
+      "fetched_at": "2026-08-13T23:52:52.803859+00:00"
+    },
+    {
+      "id": "44a69969cbad02b9",
+      "title": "嫦娥六号带回的 1935 克月背土壤研究新进展：远古大撞击形成月球正反面差异",
+      "link": "https://www.ithome.com/0/989/496.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-13T23:25:15+00:00",
+      "summary": "IT之家 8 月 14 日消息，央视新闻昨日（8 月 13 日）发布博文，称我国科研团队对嫦娥六号带回的 1935 克月背土壤样本研究取得新进展，为破解月球正反面存在巨大差异的谜题提供了新证据。我国科研团队通过分析月壤里稀有气体的“化学指纹”，证实了困扰科学界数十年的猜想：地球庞大的磁层会给太阳风减速，造成月球正面、背面遭受的宇宙粒子轰击强度天差地别，月壤这份天然宇宙档案，第一次完整记录下地月空间",
+      "fetched_at": "2026-08-13T23:52:52.803893+00:00"
+    },
+    {
+      "id": "4bbea386267435c2",
+      "title": "On-Device AI Moves From Technical Preference to Supply-Chain Reality",
+      "link": "https://www.tmtpost.com/8102743.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-13T23:24:05+00:00",
+      "summary": "Compact models that run locally on phones and in cars are no longer a niche experiment. As hardware makers demand lower latency, offline capability and tighter power budgets, the industry is repricing",
+      "fetched_at": "2026-08-13T23:52:55.134261+00:00"
+    },
+    {
+      "id": "bfa4a2e44fd7cb9d",
+      "title": "小米推出米家智能吸油烟机 3 欧式：25 m³/min 吸力，售 1499 元",
+      "link": "https://www.ithome.com/0/989/495.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-13T23:21:06+00:00",
+      "summary": "IT之家 8 月 14 日消息，米家智能吸油烟机 3 欧式今日在小米有品上架并开启预约，官方标价 1499 元（点击前往）。IT之家从商品页面获悉，这款新品搭载高速风机系统，最高转速达 2200r/min，风量较上一代提升 9%，达到 25 m³/min；运用巡航增压算法，智能检测公共烟道风阻，自动调节风量风压，支持 1080Pa 最大静压，搭载新一代直流变频电机。新品支持隔空手势感应技术，挥手即",
+      "fetched_at": "2026-08-13T23:52:52.803912+00:00"
+    },
+    {
+      "id": "37e0d6507a726711",
+      "title": "【钛晨报】央行出手！万亿买断式逆回购今日落地；DeepSeek官宣涨价、长鑫科技成中国市值最大上市公司；宇树科技遭弃购8734股、史上最大IPO或将易主",
+      "link": "https://www.tmtpost.com/8102600.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-13T23:20:00+00:00",
+      "summary": "五粮液出手稳价；中芯国际：第二季销售收入为30亿美元，三季度收入预计环比增长2%到4%；中国移动中期收入下滑，算智收入占比升至22.6%；三星、SK海力士积极引入AI，人员绩效考核与AI部署直接挂钩；北京专设全国首例“老字号发展处”，出台18条硬核举措。",
+      "fetched_at": "2026-08-13T23:52:55.134277+00:00"
+    },
+    {
+      "id": "d5aa14c436a44c2b",
+      "title": "iPhone X 手机、2018 款 15 英寸 MacBook Pro 笔记本被苹果列入“停产”产品",
+      "link": "https://www.ithome.com/0/989/494.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-13T23:12:25+00:00",
+      "summary": "IT之家 8 月 14 日消息，根据最新更新的支持文档，当地时间 8 月 13 日，苹果公司将 iPhone X 以及 MacBook Pro（15 英寸，2018 年）正式列入其停产（Obsolete）产品列表。根据苹果官网介绍，停产产品是指苹果停止发售之日起已超过 7 年的产品。苹果会停止为停产产品提供一切硬件服务，服务提供商也无法为停产产品订购部件。据IT之家此前报道，2017 年 9 月，",
+      "fetched_at": "2026-08-13T23:52:52.803931+00:00"
+    },
+    {
+      "id": "69e7b2471765dbb9",
+      "title": "拓竹 R1 官宣 9 月推出，消息称拓竹将入局消费级激光加工市场",
+      "link": "https://www.ithome.com/0/989/493.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-13T23:03:18+00:00",
+      "summary": "IT之家 8 月 14 日消息，3D 打印厂商拓竹昨晚官宣将于 9 月推出“拓竹 R1”产品，官方宣传语为“万千想象，一点灵光”。另据《科创板日报》报道，拓竹科技将于 9 月推出消费级激光设备。拓竹科技希望利用在消费级 3D 打印领域的经验为其入局激光加工市场奠定基础，在消费级激光设备复刻 3D 打印机的成功路径。综合IT之家此前报道，3D 打印厂商拓竹科技成立于 2020 年，首款产品于 202",
+      "fetched_at": "2026-08-13T23:52:52.803952+00:00"
+    },
+    {
+      "id": "d37fc7156e2c8f3e",
+      "title": "最高每秒生成 750 个词元：OpenAI 推 Ultrafast 模式，GPT-5.6 Sol AI 提速 14 倍",
+      "link": "https://www.ithome.com/0/989/492.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-13T23:02:48+00:00",
+      "summary": "IT之家 8 月 14 日消息，OpenAI 公司今天（8 月 14 日）发布公告，宣布以预览形式，针对其最强 AI 模型 GPT-5.6 Sol 推出 Ultrafast（超高速）模式，是标准处理速度的 14 倍，最高每秒输出 750 个词元（Token）。在服务支持方面，OpenAI 公司表示该模式由 Cerebras 提供，目标是在用户工作流中，进一步提高模型的响应速度。OpenAI 公司表",
+      "fetched_at": "2026-08-13T23:52:52.803974+00:00"
+    },
     {
       "id": "a8d30f8052d3cf95",
       "title": "苹果在美国休斯顿开设先进制造中心，今年将启动生产 Mac mini",
@@ -11,7 +143,7 @@
       "category": "tech",
       "published_at": "2026-08-13T22:54:01+00:00",
       "summary": "IT之家 8 月 14 日消息，当地时间 8 月 13 日，苹果公司宣布在美国休斯顿正式启用全新的先进制造中心（Advanced Manufacturing Center，AMC）。该中心为中小企业提供免费的培训与教育课程，让参与者能够体验最先进的设备、互动实验室及各项加速创新所需的工具。官方表示，AMC 坐落于苹果在休斯顿的生产基地内；该基地目前负责制造并出货苹果先进 AI 服务器，并将于今年内",
-      "fetched_at": "2026-08-13T22:56:11.702990+00:00"
+      "fetched_at": "2026-08-13T23:52:52.804003+00:00"
     },
     {
       "id": "fde2e0303c484766",
@@ -22,7 +154,7 @@
       "category": "tech",
       "published_at": "2026-08-13T22:49:25+00:00",
       "summary": "IT之家 8 月 14 日消息，彭博社今天（8 月 14 日）发布博文，报道称在收 IPO（首次公开募股）上市前，OpenAI 的发展势头良好，2026 有望实现年化收入超过 400 亿美元（IT之家注：现汇率约合 2,702.76 亿元人民币），比 2025 年收入（约 200 亿美元（现汇率约合 1,351.38 亿元人民币））翻一番。据彭博社报道，联合创始人兼总裁格雷格 · 布罗克曼在内部公",
-      "fetched_at": "2026-08-13T22:56:11.703023+00:00"
+      "fetched_at": "2026-08-13T23:52:52.804028+00:00"
     },
     {
       "id": "f28f4ba4a4648018",
@@ -33,7 +165,7 @@
       "category": "tech",
       "published_at": "2026-08-13T20:23:31+00:00",
       "summary": "IT之家 8 月 14 日消息，法拉第未来今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 6 月）及第二财季（2026 年 4 月～2026 年 6 月）报告：2026 财年半年报营业总收入：134.8 万美元（IT之家注：现汇率约合 910.83 万元人民币），同比下降 99.93%毛利润：-2208 万美元（现汇率约合 -1.",
-      "fetched_at": "2026-08-13T22:56:11.703106+00:00"
+      "fetched_at": "2026-08-13T23:52:52.804111+00:00"
     },
     {
       "id": "104f3f8ca9fc6af2",
@@ -18415,160 +18547,6 @@
       "published_at": "2026-08-07T00:03:25+00:00",
       "summary": "IT之家 8 月 7 日消息，消息源 @synthwavedd 昨日（8 月 6 日）在 X 平台发布推文，爆料称 OpenAI 目标下周发布 Astra 模型，内部代号为 mewfour。消息源称该模型是 OpenAI 公司全新预训练模型，也是 OpenAI 自 GPT-4.5 以来训练的最大模型。IT之家曾于 8 月 1 日报道，Astra 的一个内部版本已经解出 10 个重要开放数学问题，若",
       "fetched_at": "2026-08-07T00:11:08.912847+00:00"
-    },
-    {
-      "id": "2787686de3214859",
-      "title": "机械师 F1 双 8K 黑色游戏手柄上架：首创插拔微动，8 月 13 日首发",
-      "link": "https://www.ithome.com/0/986/788.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-06T23:51:55+00:00",
-      "summary": "IT之家 8 月 7 日消息，机械师 F1 双 8K 无线游戏手柄上架预约，详情页各种参数公布，8 月 13 日首发。据介绍，该产品支持有线无线 2.4G 双 8KHz，按键有线全链路延时 0.377ms，摇杆 0.825ms。定制控银第四代 JS13Pro+TMR 摇杆，更线性的输出，更丝滑的手感。自研 MixDriver 驱动，摇杆可死区、轮询率、精度等多选项自定义设置。免工具即插式微动，十字",
-      "fetched_at": "2026-08-07T00:11:08.912885+00:00"
-    },
-    {
-      "id": "2a5f611463eb54ba",
-      "title": "法国 8 月 11 日起禁止“未经同意的电话营销”，单次最高罚款 37.5 万欧元",
-      "link": "https://www.ithome.com/0/986/787.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-06T23:51:45+00:00",
-      "summary": "IT之家 8 月 7 日消息，据 PBS 报道，法国将于 8 月 11 日正式实施一项新法律，全面禁止未经允许的电话营销呼叫。该法律旨在保护消费者免受电话推销骚扰，并防止弱势群体遭遇商业欺诈。此前，若不希望接到推销电话，法国消费者须将自己的号码登记在一个政府主导的服务平台上。但消费者团体指出，不少呼叫中心根本无视该名单。据官方估算，约四分之三的法国民众每周至少接到一次未经请求的推销电话，许多人受到",
-      "fetched_at": "2026-08-07T00:11:08.912915+00:00"
-    },
-    {
-      "id": "310672a4bb0f6035",
-      "title": "苹果发布 macOS 26.6.1 Tahoe 更新：修复屏幕共享认证漏洞",
-      "link": "https://www.ithome.com/0/986/786.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-06T23:49:55+00:00",
-      "summary": "IT之家 8 月 7 日消息，苹果公司今天（8 月 7 日）发布 macOS 26.6.1 Tahoe、macOS 15.7.9 Sequoia、macOS 14.8.9 Sonoma 更新，重点修复屏幕共享 (Screen Sharing) 认证漏洞。IT之家援引查询公告内容，本次更新的相关版本如下：macOS Sonoma 14.8.9 (23J631)macOS Sequoia 15.7.9",
-      "fetched_at": "2026-08-07T00:11:08.912947+00:00"
-    },
-    {
-      "id": "d6117f35c196d4f7",
-      "title": "IT早报 0807：电力部门回应空调 24 小时开更省电；专家辟谣车市半年发了五六百款新车；通用汽车回应雪佛兰将在华停售；DeepSeek 官宣拟大幅上调 API 定价...",
-      "link": "https://www.ithome.com/0/986/785.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-06T23:43:36+00:00",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 7 日星期五，今天的重要科技资讯有：1、电力部门回应“空调 24 小时开着反而更省电”：短暂外出可不关闭，温度调高 1 到 2℃如果是短暂外出，可以不关闭空调，而是将其温度调高 1 到 2℃，这样比频繁启停更省电。但如果长时间离家，比如上班一整天，不如回家重新开机更划算。&gt;&gt; 查看详情2、专家辟谣“车市半年发了五六百款新车”，称 ",
-      "fetched_at": "2026-08-07T00:11:08.913137+00:00"
-    },
-    {
-      "id": "c5dc189847477009",
-      "title": "为缓解 HBM 供应短缺，消息称英伟达考虑降低 Rubin Ultra GPU 配置",
-      "link": "https://www.ithome.com/0/986/784.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-06T23:40:52+00:00",
-      "summary": "IT之家 8 月 7 日消息，科技媒体 The Information 昨日（8 月 6 日）发布博文，报道称英伟达为了应对 HBM 内存供应短缺问题，考虑降低 Rubin Ultra GPU 配置。该媒体援引 3 名知情人士消息，称英伟达内部在过去数周时间里，至少测试了 3 种低 HBM 配置的 Rubin Ultra GPU，其所需的 HBM 容量低于该公司最初公布的规格。在降低 HBM 容量",
-      "fetched_at": "2026-08-07T00:11:08.913178+00:00"
-    },
-    {
-      "id": "772af602da5276bd",
-      "title": "消息称前小鹏副总裁陈永海加入众擎机器人，担任运营总裁",
-      "link": "https://www.ithome.com/0/986/783.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-06T23:36:35+00:00",
-      "summary": "IT之家 8 月 7 日消息，据《21 汽车 · 一见 Auto》从多方独立信源处获悉，前小鹏集团产品副总裁陈永海已加入众擎机器人，担任运营总裁，向董事长及 CEO 赵同阳汇报。报道提到，一位知情人士透露，陈永海今年 1 月从小鹏集团离职，后众擎创始人赵同阳邀请陈永海加入众擎。另一位知情人士透露，也有其他机器人公司曾向陈永海发出邀请。离开小鹏集团后，陈永海曾一度想亲自下场创业做机器人，但现在选择加",
-      "fetched_at": "2026-08-07T00:11:08.913213+00:00"
-    },
-    {
-      "id": "a02717b76562d152",
-      "title": "洛图科技：2026 年上半年中国运动相机市场线上规模接近翻倍，大疆与影石合占 97.9% 销售额",
-      "link": "https://www.ithome.com/0/986/782.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-06T23:35:10+00:00",
-      "summary": "IT之家 8 月 7 日消息，洛图科技（RUNTO）数据显示，2026 年上半年，中国运动相机市场在线上全渠道的销量为 311.9 万台，销售额为 82.0 亿元，同比增幅双双超过 90%。2026 年上半年，在中国运动相机线上市场，大疆和影石合计占据了 89.4% 的销量和 97.9% 的销售额。洛图科技称这样的市场集中度从未在其监测的其它消费电子赛道发生过：大疆在整体线上市场的销量占比为 74",
-      "fetched_at": "2026-08-07T00:11:08.913247+00:00"
-    },
-    {
-      "id": "8a7a1828f176d02b",
-      "title": "三星发布 ISOCELL HPC 旗舰 2 亿像素传感器，首发 16-bit RAW 原生输出",
-      "link": "https://www.ithome.com/0/986/781.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-06T23:31:39+00:00",
-      "summary": "IT之家 8 月 7 日消息，三星半导体昨日（8 月 6 日）发布公告，发布旗舰移动图像传感器 ISOCELL HPC，配有 2 亿像素，传感器尺寸为 1/1.3 英寸，并支持原生 16-bit RAW 输出。这款旗舰传感器最大的亮点，在于支持原生 16-bit RAW，官方声称是业内首款能够以这一位深输出原始图像数据的智能手机 CMOS 传感器。在硬件层面捕捉更多色彩值与光线层次后，ISOCEL",
-      "fetched_at": "2026-08-07T00:11:08.913283+00:00"
-    },
-    {
-      "id": "a54663e1fbd629ac",
-      "title": "马斯克旗下 SpaceX 将为美国得州芯片工厂建造天然气发电厂",
-      "link": "https://www.ithome.com/0/986/780.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-06T23:20:10+00:00",
-      "summary": "IT之家 8 月 7 日消息，当地时间 8 月 6 日，SpaceX 宣布将与特斯拉首期投入 168 亿美元（IT之家注：现汇率约合 1,136.05 亿元人民币），在美国得克萨斯州格赖姆斯县建设 Terafab 先进 AI 芯片制造基地。据 Teslarati 报道，SpaceX 还就 Terafab 晶圆工厂宣布以来引发的一系列环保担忧作出了回应。SpaceX 公司表示，Terafab 的运营",
-      "fetched_at": "2026-08-07T00:11:08.913312+00:00"
-    },
-    {
-      "id": "0ce55088105f610c",
-      "title": "【钛晨报】工信部印发民爆行业\"十五五\"规划：2030年生产线危险工序实现无人化，培育3—5家大型企业集团；网信办对派拓公司在华销售产品启动网络安全审查；宇树科技IPO定价150.80元，王兴兴身家有望超200亿元",
-      "link": "https://www.tmtpost.com/8094590.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-06T23:20:00+00:00",
-      "summary": "自变量已秘密递表，估值已突破200亿人民币｜独家；DeepSeek拟上调API服务定价；DeepSeek、腾讯等获宇树科技战略配售；第八代五粮液市场批价近日持续走强；专家辟谣“车市半年发了五六百款新车”；通宇通讯：佳贤通信与英伟达不存在研发合作关系；部分银行房贷利率降至“2字头”，有银行房贷利率低于2.8%；特斯拉与SpaceX拟在得州建设Terafab芯片工厂，初期投资168亿美元",
-      "fetched_at": "2026-08-07T07:37:45.462413+00:00"
-    },
-    {
-      "id": "5c9d963c16c39cc7",
-      "title": "效力 27 年后谷歌首席科学家迪恩离职创立新公司，要加速 AI 前沿发现",
-      "link": "https://www.ithome.com/0/986/779.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-06T23:19:13+00:00",
-      "summary": "IT之家 8 月 7 日消息，科技媒体 TechCrunch 昨日（8 月 6 日）发布博文，报道称在本轮谷歌母公司 Alphabet 旗下 AI 公司 DeepMind 重组中，谷歌首席科学家杰夫 · 迪恩（Jeff Dean）离开公司，共同创办 Discovery Loop 公司。IT之家援引博文介绍，杰夫 · 迪恩是谷歌任职时间最长、最具影响力的高管之一，他于 1999 年加入谷歌公司（至今",
-      "fetched_at": "2026-08-07T00:11:08.913354+00:00"
-    },
-    {
-      "id": "1928f210d7a63f3b",
-      "title": "Autonomous Driving Rebuilds Itself Around Models That Predict the Physical World",
-      "link": "https://www.tmtpost.com/8094739.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-06T23:12:03+00:00",
-      "summary": "Carmakers and suppliers are moving beyond reactive perception systems toward architectures that simulate cause and effect, combining vision-language understanding with world models in a contest that n",
-      "fetched_at": "2026-08-07T07:37:45.462427+00:00"
-    },
-    {
-      "id": "0126b6c60a119d3b",
-      "title": "小米汽车解答澎程系列涉水能力：全系标配涉水模式，电池达 IPX8+IPX9K 双防水等级",
-      "link": "https://www.ithome.com/0/986/778.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-06T23:09:25+00:00",
-      "summary": "IT之家 8 月 7 日消息，小米汽车昨晚发布答网友问（第 270 集），对小米澎程系列的涉水模式进行了详细解答，IT之家整理主要内容如下：1、小米澎程系列的最大涉水深度是多少？整套涉水安全防护都包含哪些设计？小米澎程全系均配备涉水模式，具备一定的应急涉水能力。其中，N90 Max 的最高涉水深度为 750mm，N70 Max 最高涉水深度为 650mm。整套涉水安全防护可以总结为 3 个方面的设",
-      "fetched_at": "2026-08-07T00:11:08.913414+00:00"
-    },
-    {
-      "id": "3fad0aab8cb15ded",
-      "title": "减少游戏卡顿：消息称英伟达研发 SSD 当额外显存技术",
-      "link": "https://www.ithome.com/0/986/777.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-06T23:07:10+00:00",
-      "summary": "IT之家 8 月 7 日消息，科技媒体 siliconangle 于 8 月 5 日发布博文，报道称英伟达正在研发新技术，未来可以让 SSD 固态硬盘充当额外显存，从而在游戏或者 AI 场景下改善运行表现。在美国拉斯维加斯举办的 2026 年黑帽网络安全大会（8 月 1 日 ~6 日）上，英伟达宣布开源 cuFile API 及其底层存储软件栈。IT之家注：cuFile API 是 NVIDIA ",
-      "fetched_at": "2026-08-07T00:11:08.913455+00:00"
     }
   ]
 }
