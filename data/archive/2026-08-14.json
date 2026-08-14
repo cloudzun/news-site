@@ -1,7 +1,535 @@
 {
   "date": "2026-08-14",
-  "count": 1727,
+  "count": 1733,
   "items": [
+    {
+      "id": "add80e3b2ed5e868",
+      "title": "起亚汽车 2026 财年半年报归母净利润 4.16 万亿韩元，同比下降 10.79%",
+      "link": "https://www.ithome.com/0/989/792.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T08:18:35+00:00",
+      "summary": "IT之家 8 月 14 日消息，起亚汽车今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 6 月）报告：营业总收入：62.54 万亿韩元（IT之家注：现汇率约合 2,983.73 亿元人民币），同比增长 9.02%归母净利润：4.16 万亿韩元（现汇率约合 198.43 亿元人民币），同比下降 10.79%经营现金流：7.17 万亿",
+      "fetched_at": "2026-08-14T08:23:51.731764+00:00"
+    },
+    {
+      "id": "6fb9fb9548fe5c6f",
+      "title": "219倍，宇树科技的估值折叠",
+      "link": "https://www.tmtpost.com/8103349.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-14T08:17:30+00:00",
+      "summary": "人形机器人产业的未来，需要经过多少次痛苦的折叠，才能真正抵达现在？",
+      "fetched_at": "2026-08-14T08:23:54.769501+00:00"
+    },
+    {
+      "id": "497f4c0a8b908f12",
+      "title": "零跑朱江明闯入了无人区",
+      "link": "https://www.tmtpost.com/8103333.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-14T08:17:25+00:00",
+      "summary": "市场总是说零跑像比亚迪。但比亚迪崛起时，中国新能源渗透率从个位数向50%狂飙，增量市场推着它跑。 朱江明没赶上最好的时候。另一个比亚迪也不会再有。",
+      "fetched_at": "2026-08-14T08:23:54.769522+00:00"
+    },
+    {
+      "id": "f2a1b76847eab5ae",
+      "title": "谷歌AI人事动荡：全栈是护城河，也是纷争的起源",
+      "link": "https://www.tmtpost.com/8103323.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-14T08:17:18+00:00",
+      "summary": "那个充满理想主义的DeepMind已经死了。",
+      "fetched_at": "2026-08-14T08:23:54.769534+00:00"
+    },
+    {
+      "id": "02294e9b38c75643",
+      "title": "竞速县域：县城不再等货来，开始挑品牌了",
+      "link": "https://www.tmtpost.com/8100200.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-14T08:16:02+00:00",
+      "summary": "与其说县城在「下沉」，不如说县城开始反向筛选供给。",
+      "fetched_at": "2026-08-14T08:23:54.769545+00:00"
+    },
+    {
+      "id": "ef6b119bbabd3867",
+      "title": "工业智能体“拼落地”，谁能真正上产线？",
+      "link": "https://www.tmtpost.com/8103269.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-14T08:13:16+00:00",
+      "summary": "褪去AI赛道的概念热潮，工业智能体的产业竞争早已回归本质，谁能率先证明自己有端到端的闭环能力，谁就能拿到平台级的定价权。",
+      "fetched_at": "2026-08-14T08:23:54.769555+00:00"
+    },
+    {
+      "id": "ed2d18e1a267d1ca",
+      "title": "苹果 CEO 库克谈自身历史地位：希望外界记得他是善良、正直的人",
+      "link": "https://www.ithome.com/0/989/790.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T08:13:04+00:00",
+      "summary": "IT之家 8 月 14 日消息，苹果首席执行官蒂姆 · 库克今日接受外媒 CBS 采访。他在受访期间表示，自己的历史地位将交由他人评判。据IT之家此前报道，约翰 · 特努斯将于 9 月 1 日起担任苹果下一任首席执行官，库克的 CEO 任期还有不到一个月就要结束。库克的职业生涯和在任 CEO 期间带来的影响，将在未来数十年内持续受到人们评价。库克接受采访时表示，他不想亲自定义自己的历史地位。他认为",
+      "fetched_at": "2026-08-14T08:23:51.731852+00:00"
+    },
+    {
+      "id": "9ab885fac32347cf",
+      "title": "销量下滑，新品腰斩：这个夏天，冰淇淋“冷”了",
+      "link": "https://www.tmtpost.com/8103251.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-14T08:11:16+00:00",
+      "summary": "产品、营销、渠道全面重构。",
+      "fetched_at": "2026-08-14T08:23:54.769565+00:00"
+    },
+    {
+      "id": "3eb03800ba3483e6",
+      "title": "绕过搜索，微信Agent会复刻竞价排名吗？",
+      "link": "https://www.tmtpost.com/8103215.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-14T08:11:12+00:00",
+      "summary": "调度权背后的隐患，流量分配权要避免重蹈覆辙地。",
+      "fetched_at": "2026-08-14T08:23:54.769575+00:00"
+    },
+    {
+      "id": "2c55b2abe070ff55",
+      "title": "万科泊寓，补上“第四条腿”",
+      "link": "https://www.tmtpost.com/8102405.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-14T08:11:05+00:00",
+      "summary": "中产公寓，必有一战！",
+      "fetched_at": "2026-08-14T08:23:54.769584+00:00"
+    },
+    {
+      "id": "bb826b9117bb3928",
+      "title": "消息称阿里拟 15 亿美元卖出游戏业务“灵犀互娱”，信宸资本有望接手",
+      "link": "https://www.ithome.com/0/989/788.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T08:10:25+00:00",
+      "summary": "IT之家 8 月 14 日消息，据彭博社今日报道，知情人士透露，亚洲私募股权公司 Trustar Capital（信宸资本）即将达成收购阿里巴巴视频游戏业务的交易。知情人士称，信宸资本出价高于其他竞购者，成为灵犀互娱最有可能的买家。知情人士表示，这笔交易可能会让灵犀互娱估值超过 15 亿美元（IT之家注：现汇率约合 101.36 亿元人民币）。据游戏新知今年 6 月报道，阿里巴巴集团计划出售灵犀互",
+      "fetched_at": "2026-08-14T08:23:51.731880+00:00"
+    },
+    {
+      "id": "6cfb30a8c38b5a80",
+      "title": "一男子醉酒后使用辅助驾驶发生事故并冲卡，被拘役三个月 + 罚款九千元",
+      "link": "https://www.ithome.com/0/989/787.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T08:09:36+00:00",
+      "summary": "IT之家 8 月 14 日消息，据央视新闻今日报道，上海市今年 4 月发生了一起特殊的危险驾驶案件，一名男子在醉酒状态下开启车辆辅助驾驶功能上路，不仅酿成事故，还在面对警方检查时加速冲卡。8 月 13 日，上海市静安区人民法院对该案作出一审判决，以危险驾驶罪判处被告人李某拘役三个月，并处罚金人民币九千元。2026 年 4 月 17 日凌晨，李某饮酒后启动其车辆的“辅助驾驶”功能，驾车行驶约 14 ",
+      "fetched_at": "2026-08-14T08:23:51.731914+00:00"
+    },
+    {
+      "id": "96acc7072c35fc31",
+      "title": "Robot Startups Still Rely on Suitcase Runs to Shenzhen for Critical Parts After New Restrictions",
+      "link": "https://www.tmtpost.com/8103636.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-14T08:02:10+00:00",
+      "summary": "Despite tighter rules on foreign-made humanoid and quadruped robots, engineers and investors continue flying to Huaqiangbei to carry motors, sensors, and controllers home by hand because the supply de",
+      "fetched_at": "2026-08-14T08:23:54.769604+00:00"
+    },
+    {
+      "id": "482f5c567e8d6de4",
+      "title": "WIKO 新款 Hi MateBook D 16 锐龙版笔记本电脑开售：AMD R7 H 255 + 24G + 512G 售 6199 元",
+      "link": "https://www.ithome.com/0/989/786.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T08:00:02+00:00",
+      "summary": "IT之家 8 月 14 日消息，WIKO 旗下 Hi MateBook D 16 锐龙版新机上市，该机搭载锐龙 7 H 255 处理器，配备 24GB 内存和 512GB SSD，定价为 6199 元，叠加国补后 5269.15 元。京东 WIKO Hi Matebook D 16 锐龙版笔记本 6199 元直达链接2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家",
+      "fetched_at": "2026-08-14T08:23:51.732023+00:00"
+    },
+    {
+      "id": "6f76685a171e98fd",
+      "title": "上下均提供开机键：CHIEFTEC 带来 VISTA Max GX-30B-OP 机箱",
+      "link": "https://www.ithome.com/0/989/785.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T07:57:50+00:00",
+      "summary": "IT之家 8 月 14 日消息，PC 硬件品牌 CHIEFTEC 近日宣布推出全视“海景房”机箱 VISTA Max GX-30B-OP。该产品采用了上下均提供开机键的人性化设计，这意味着其无论放在桌上还是桌下均可方便开机，提升了使用便利性。GX-30B-OP 三维 452×239×526 (mm)，以 0.7mm SPCC 钢板搭配 2 块“落地式”玻璃面板。其具备 7 条扩展槽，兼容 ATX ",
+      "fetched_at": "2026-08-14T08:23:51.732053+00:00"
+    },
+    {
+      "id": "ec45781f29cdfd71",
+      "title": "网易《逆水寒：新世界》首个赛事《剑影杯》S4 定档，“跨服联赛”大优化",
+      "link": "https://www.ithome.com/0/989/784.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T07:56:40+00:00",
+      "summary": "IT之家 8 月 14 日消息，网易《逆水寒：新世界》今日官宣，新世界首个平台赛事《剑影杯》S4 正式定档，将于 4.1.3 版本（8 月 28 日）开启报名。本届赛事将升级为双败赛制，奖励、总奖金也会同步加码。根据官方介绍，后续【跨服联赛】，将根据不同服务器此前取得的成绩和实力梯队划分组别，并在组别内进行匹配，希望尽量减少双方实力悬殊的“一边倒”对局，让实力更加接近的对手有更多机会相遇。在新世界",
+      "fetched_at": "2026-08-14T08:23:51.732082+00:00"
+    },
+    {
+      "id": "bef294e90a7c69b2",
+      "title": "一切皆插件，DSH在“自进化”之路上狂飙",
+      "link": "https://www.tmtpost.com/8103259.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-14T07:56:38+00:00",
+      "summary": "DSH超高安装门槛，但是能用6毛钱干10美金的活。",
+      "fetched_at": "2026-08-14T08:23:54.769614+00:00"
+    },
+    {
+      "id": "177f1fbca3968176",
+      "title": "为什么说Robot Phone对荣耀很重要？",
+      "link": "https://www.tmtpost.com/8103257.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-14T07:56:33+00:00",
+      "summary": "标签不是想有就有的。",
+      "fetched_at": "2026-08-14T08:23:54.769624+00:00"
+    },
+    {
+      "id": "d6051e0a2b2e3149",
+      "title": "\"进取的现实主义\"：2026，年轻人正在为自己重新编写生活操作系统",
+      "link": "https://www.tmtpost.com/8103255.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-14T07:56:30+00:00",
+      "summary": "所谓\"好好生活\"，在2026年的语境下，不再是\"过上让别人羡慕的日子\"，而是在任何环境下，都能为自己搭建一个不受侵扰的精神堡垒。",
+      "fetched_at": "2026-08-14T08:23:54.769634+00:00"
+    },
+    {
+      "id": "9c97d39b0a69cf83",
+      "title": "美国造车新势力 Lucid 推出 Gravity GT-S：家用大七座 SUV 也有千匹马力",
+      "link": "https://www.ithome.com/0/989/783.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T07:56:26+00:00",
+      "summary": "IT之家 8 月 14 日消息，北京时间 14 日（今天），Lucid 为即将上市的三排座纯电 SUV Gravity 新增了高性能旗舰 Gravity GT-S。新车是整个 Gravity 车系动力最强的版本，将首先亮相蒙特雷汽车周，随后在美国市场开始交付。Lucid 称，Gravity GT-S 最大功率为 798kW/1070 马力，0-96.6km/h 加速只需 3.1 秒，在目前美国市场",
+      "fetched_at": "2026-08-14T08:23:51.732124+00:00"
+    },
+    {
+      "id": "59a230ed787af3a9",
+      "title": "机器人还没上岗，谁在收千万级“培训费”？",
+      "link": "https://www.tmtpost.com/8103368.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-14T07:52:44+00:00",
+      "summary": "从千万级订单到本体公司集体入股，具身智能出现一个新的产业角色。",
+      "fetched_at": "2026-08-14T08:23:54.769643+00:00"
+    },
+    {
+      "id": "69ec2cad022d3d9f",
+      "title": "腾讯砸 528 亿算力创历史新高：看似激进，实则审慎",
+      "link": "https://www.tmtpost.com/8103263.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-14T07:52:39+00:00",
+      "summary": "腾讯本季度大幅提高资本开支，非但不是激进，更多还是审慎为主。",
+      "fetched_at": "2026-08-14T08:23:54.769653+00:00"
+    },
+    {
+      "id": "7df3dbd0266a4c13",
+      "title": "现代汽车 2026 财年上半年归母净利润 4.86 万亿韩元，同比下降 21.11%",
+      "link": "https://www.ithome.com/0/989/773.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T07:52:33+00:00",
+      "summary": "IT之家 8 月 14 日消息，现代汽车今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 6 月）报告：营业总收入：95.15 万亿韩元（IT之家注：现汇率约合 4,539.61 亿元人民币），同比增长 2.65%毛利润：16.75 万亿韩元（现汇率约合 799.14 亿元人民币），同比下降 7.39%毛利率：17.61%，同比下降",
+      "fetched_at": "2026-08-14T08:23:51.731827+00:00"
+    },
+    {
+      "id": "ac1b94cc8b865fbf",
+      "title": "SK 海力士今年上半年归母净利润 134.15 万亿韩元，同比增长 788.16%",
+      "link": "https://www.ithome.com/0/989/772.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T07:52:28+00:00",
+      "summary": "IT之家 8 月 14 日消息，SK 海力士今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 6 月）报告：营业总收入：131.90 万亿韩元（IT之家注：现汇率约合 6292.71 亿元人民币），同比增长 230.8%毛利润：107.67 万亿韩元（现汇率约合 5136.97 亿元人民币），同比增长 387.52%毛利率：81.6",
+      "fetched_at": "2026-08-14T08:23:51.731974+00:00"
+    },
+    {
+      "id": "cc133c75ac38839c",
+      "title": "从DeepSeek、Kimi到“黄仁勋联盟”：AI模型开源，到底“开”了什么？",
+      "link": "https://www.tmtpost.com/8103369.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-14T07:49:12+00:00",
+      "summary": "“开放权重”正在改变的AI游戏规则。",
+      "fetched_at": "2026-08-14T08:23:54.769663+00:00"
+    },
+    {
+      "id": "cad1bdb3e74d18ca",
+      "title": "餐饮零食化，火了猪油渣",
+      "link": "https://www.tmtpost.com/8103277.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-14T07:46:24+00:00",
+      "summary": "边角料的逆袭。",
+      "fetched_at": "2026-08-14T08:23:54.769671+00:00"
+    },
+    {
+      "id": "205ac02084415be2",
+      "title": "9亿杯，瑞幸又卖爆了一门新生意",
+      "link": "https://www.tmtpost.com/8103275.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-14T07:46:19+00:00",
+      "summary": "咖啡的“全宇宙”。",
+      "fetched_at": "2026-08-14T08:23:54.769680+00:00"
+    },
+    {
+      "id": "ed78969992d76f98",
+      "title": "飞牛 fnOS 鸿蒙原生客户端正式上线：功能对标安卓无阉割，已在华为应用商店提交审核",
+      "link": "https://www.ithome.com/0/989/749.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T07:44:05+00:00",
+      "summary": "IT之家 8 月 14 日消息，飞牛私有云（fnOS）鸿蒙原生客户端正式上线。该版本提供完整的客户端能力，功能对标安卓版本，无阉割、无缩水。飞牛鸿蒙 App 版本号为 v1.33.6，目前已在华为应用商店提交审核。在商店正式上架前，用户可通过鸿蒙 App Test 参与公测下载体验。相册功能方面，飞牛新版本支持鸿蒙动图、HEIC 格式的无损备份，并适配鸿蒙原生动画，相册浏览更加丝滑、跟手。分享功能",
+      "fetched_at": "2026-08-14T08:23:51.732167+00:00"
+    },
+    {
+      "id": "bf1d44807e71204b",
+      "title": "《彩虹六号：攻势》游戏“攻坚测试”定档 9 月 15 日，即日起可预约",
+      "link": "https://www.ithome.com/0/989/747.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T07:42:59+00:00",
+      "summary": "IT之家 8 月 14 日消息，由腾讯代理的游戏《彩虹六号：攻势》今日官宣“攻坚测试”，即日起可预约。IT之家从彩六国服官网了解到，本次测试将于 9 月 15 日正式开启，测试时间预计为 1 个半月左右。玩家即日起可在官网填写招募问卷，首批测试资格将在 9 月 10 日发放，官方届时会开放资格查询和测试预下载，而第二批资格将在 9 月 15 日发放。同时，本次测试资格不支持跨平台 / 跨账号使用，",
+      "fetched_at": "2026-08-14T08:23:51.732195+00:00"
+    },
+    {
+      "id": "9ba177615b22ddd4",
+      "title": "诺兰票房最高电影《奥德赛》幕后：全球首部全程使用 IMAX 胶片拍摄电影",
+      "link": "https://www.ithome.com/0/989/746.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T07:42:40+00:00",
+      "summary": "IT之家 8 月 14 日消息，克里斯托弗 · 诺兰导演票房最高电影《奥德赛》（The Odyssey）今日（8 月 14 日）正式在中国内地上映，这也是全球首部全程使用 IMAX 胶片拍摄的电影。在拍摄设备上，根据 IMAX 官网公布的信息，拍摄《奥德赛》电影的新型 70 毫米胶片摄影机名为 Keighley，由 IMAX 公司与导演克里斯托弗 · 诺兰、摄影指导霍伊特 · 范 · 霍伊特玛共同",
+      "fetched_at": "2026-08-14T08:23:51.732248+00:00"
+    },
+    {
+      "id": "ae7bf35c2eb6ee2f",
+      "title": "曝领克高管因新车泄密被罚 5 万元，工厂直播泄露领克 20 大尾翼造型",
+      "link": "https://www.ithome.com/0/989/744.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T07:38:29+00:00",
+      "summary": "IT之家 8 月 14 日消息，博主 @蛙仙人要加电 今日晒出一张通报图片，称在 8 月 12 日的媒体探访成都工厂直播活动中，领克汽车高管未核查产线排期，致使全新领克 20 大尾翼造型泄露，被罚款 5 万元、给予严重书面警告并记大过一次。综合IT之家此前报道，领克 20 计划今年三季度正式上市，外观造型更精致、运动感再升级；新增激光雷达，高阶智驾能力全面提升。工信部申报信息显示，领克 20 长 ",
+      "fetched_at": "2026-08-14T08:23:51.732273+00:00"
+    },
+    {
+      "id": "cf1c9166be7527b1",
+      "title": "KTC 公告：显示器产品线后续或将进行价格上调",
+      "link": "https://www.ithome.com/0/989/743.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T07:36:04+00:00",
+      "summary": "IT之家 8 月 14 日消息，KTC 团队今日发布《关于产品价格调整的说明与承诺》，表示显示器产品线后续或将进行价格上调。该团队提到，核心元器件持续涨价导致显示器生产成本大幅攀升，KTC 已难以独自消化额外成本压力。KTC 称“当前的定价窗口期具有较高的性价比”，建议近期有明确购机需求的用户合理规划入手时机。相关阅读：《AOC 显示器官方涨价声明函曝光：通知渠道商 8 月起产品价格调整》",
+      "fetched_at": "2026-08-14T08:23:51.732292+00:00"
+    },
+    {
+      "id": "c0335a96dc85dcad",
+      "title": "芯擎科技自研车规级 7 纳米 AI 加速芯片“天工 100”量产，实现千元级硬件成本",
+      "link": "https://www.ithome.com/0/989/739.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T07:31:08+00:00",
+      "summary": "IT之家 8 月 14 日消息，8 月 12 日，芯擎科技宣布自研车规级 7 纳米 AI 加速芯片“天工 100”（NNA100）全面量产，同步向整车厂、Tier1 等生态伙伴批量供货。据官方介绍，作为国内首款面向端侧智能体 AI 应用、即插即用的独立车规大模型加速芯片，“天工 100”补齐了国产端侧算力扩容方案的短板，为智能体快速落地本地大模型提供完整的国产化算力底座。当前的行业主流方案多依赖更",
+      "fetched_at": "2026-08-14T08:23:51.732355+00:00"
+    },
+    {
+      "id": "ba4398b2f7ee0e48",
+      "title": "OpenAI 首席营收官丹尼斯离职，系本周第二位出走核心高管",
+      "link": "https://www.ithome.com/0/989/738.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T07:30:09+00:00",
+      "summary": "IT之家 8 月 14 日消息，据彭博社报道，OpenAI 将在不到一年内迎来第二位新任首席营收官（IT之家注：下称 CRO）。公司从网络安全企业 Wiz 挖来一名高管，希望进一步推动销售增长，为备受期待的华尔街上市做准备。OpenAI 聘请 Wiz 总裁兼首席运营官（COO）达利 · 拉伊奇出任新的营收负责人，接替丹尼斯 · 德雷瑟。曾任 Slack CEO 的德雷瑟去年 12 月加入 Open",
+      "fetched_at": "2026-08-14T08:23:51.732398+00:00"
+    },
+    {
+      "id": "4594ac94a34108ac",
+      "title": "X 平台开源自家排名算法，让用户查看自己是否被限流",
+      "link": "https://www.ithome.com/0/989/727.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T07:23:44+00:00",
+      "summary": "IT之家 8 月 14 日消息，X 平台昨日宣布扩展开源代码库，将“为你推荐”算法及核心排名机制加入开源列表，并同步推出一项新功能，让用户查看自己是否被暗中限流（Shadow Ban）。X 平台官方表示，本次开源的算法采用 Apache V2 许可证。用户可下载代码，了解“为你推荐”主页时间线是如何工作的，并了解哪些标签会影响帖文的可见性和传播程度。同时，代码中还包含推荐算法的排名、过滤机制，其中",
+      "fetched_at": "2026-08-14T08:23:51.732421+00:00"
+    },
+    {
+      "id": "509b1988db95df6a",
+      "title": "中国摩托车商会：绿源、雅迪、春风动力位列 1~7 月电动摩托车销售前三",
+      "link": "https://www.ithome.com/0/989/726.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T07:23:43+00:00",
+      "summary": "IT之家 8 月 14 日消息，中国摩托车商会今日发布 2026 年 7 月摩托车行业产销数据，7 月，我国摩托车行业产销同比、环比双双走高，外贸出口维持较大增长幅度，内销市场小幅修复。7 月，全行业完成燃油摩托车产销 193.84 万辆和 189.96 万辆，产销量环比增长 5.13% 和 2.97%，同比增长 22.32% 和 18.85%；据商会不完全统计，电动摩托车产销 33.11 万辆和",
+      "fetched_at": "2026-08-14T08:23:51.732542+00:00"
+    },
+    {
+      "id": "ab7bda57de90890d",
+      "title": "MiniMax-Music3 音乐模型发布：AI 生成最长 5 分钟歌曲",
+      "link": "https://www.ithome.com/0/989/722.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T07:15:22+00:00",
+      "summary": "IT之家 8 月 14 日消息，AI 公司 MiniMax 今天（8 月 14 日）推出音乐生成模型 MiniMax-Music3，可根据歌词和音乐描述生成最长 5 分钟的完整歌曲。架构方面，MiniMax-Music3 模型采用分层自回归架构：Global LLM（全局语言模型）参数规模为 8B，逐帧预测第 1 个 RVQ 码本，负责建模歌曲的长程语义与结构变化；Global LLM 基于 Qw",
+      "fetched_at": "2026-08-14T08:23:51.732577+00:00"
+    },
+    {
+      "id": "875794ba5441bb72",
+      "title": "小米回应 REDMI K100 Pro 第三批开放澎湃 OS 4 Beta 版：新品反馈较集中，将首批支持正式版",
+      "link": "https://www.ithome.com/0/989/720.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T07:12:49+00:00",
+      "summary": "IT之家 8 月 14 日消息，小米今日上线《K100 Pro 系列答网友问》，回答了关于小米澎湃 OS 4 Beta 版、K100 Pro 流萤追光、游戏空间的问题，IT之家整理如下：1、为什么 K100 Pro 系列的小米澎湃 OS 4 Beta 版本在第三批才开放？首先，我们还是想告诉大家，在小米澎湃 OS 4 正式版更新时，REDMI K100 Pro 系列将会是首批支持机型之一。Beta",
+      "fetched_at": "2026-08-14T08:23:51.732680+00:00"
+    },
+    {
+      "id": "3883e33501eb8202",
+      "title": "小米澎湃 OS 4 Beta 版首批机型开始推送，各批次推送时间公布",
+      "link": "https://www.ithome.com/0/989/718.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T07:12:39+00:00",
+      "summary": "IT之家 8 月 14 日消息，小米澎湃 OS 公告君今日宣布，小米澎湃 OS 4 Beta 版已经开始向各批次机型陆续推送，官方公布了分批次推送的时间与对应机型名单。IT之家从公告获悉，本次推送分三个阶段，目前第一阶段已经开启陆续推送，对应机型如下：手机端： Xiaomi 17 Ultra / Xiaomi 17 Ultra 徕卡版、Xiaomi 17 Pro Max、Xiaomi 17 Pro",
+      "fetched_at": "2026-08-14T08:23:51.732629+00:00"
+    },
+    {
+      "id": "33cc3e080d7ee94a",
+      "title": "泛林宣布逾 30 亿美元研发实验室投资，实验承载数量提升超 50%",
+      "link": "https://www.ithome.com/0/989/719.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T07:12:06+00:00",
+      "summary": "IT之家 8 月 14 日消息，Lam Research（泛林）美国加州当地时间 13 日宣布将在未来五年中向其全球研发实验室网络进行超过 30 亿美元（IT之家注：现汇率约合 202.71 亿元人民币）的一系列投资，带来超 50% 的实验承载数量提升。泛林的全球实验室布局覆盖美、亚、欧三大洲，每年支持超过 100 万项化学、材料、机电一体化等领域的实验，为半导体和光电领域的商业创新构建技术基础，",
+      "fetched_at": "2026-08-14T08:23:51.732708+00:00"
+    },
+    {
+      "id": "d74eecd9a71e7587",
+      "title": "安全不是限制性能的枷锁：智界 RX 一键 BOOST 模式提升 10% 扭矩，动力底盘座舱三域联动",
+      "link": "https://www.ithome.com/0/989/717.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T07:07:47+00:00",
+      "summary": "IT之家 8 月 14 日消息，智界汽车官方今日公布了智界 RX 更多配置信息，其中方向盘右下侧一枚独立的圆形物理按键被确认为“一键 BOOST”模式开关。该按键采用实体设计，行驶途中驾驶员用拇指即可直接操作，无需通过屏幕菜单逐层点选。据官方介绍，智界 RX 的一键 BOOST 模式可同步唤醒动力、底盘与智能座舱。动力方面，激活后电驱系统扭矩提升 10%，配合专属电门踏板标定，四驱版车型可释放全部",
+      "fetched_at": "2026-08-14T08:23:51.732738+00:00"
+    },
+    {
+      "id": "9a08924b9b074ddf",
+      "title": "江苏开展“苏新消费 · 数码焕新”开学季活动：6000 元以上产品最高可补 1000 元",
+      "link": "https://www.ithome.com/0/989/716.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T07:06:48+00:00",
+      "summary": "IT之家 8 月 14 日消息，据江苏省商务厅网站，“关于开展‘苏新消费 · 数码焕新’开学季活动的通告”今天（14 日）正式发布。该活动 8 月 15 日开始，补贴先到先得、用完即止，数字人民币消费红包随机抽取，保障公平。IT之家整理活动内容如下：（一）数码产品购新补贴。个人消费者在参与活动的线上平台或线下商户购买单件最终销售价格 6000 元以上的数码产品（含手机、平板、智能手表 / 手环、智",
+      "fetched_at": "2026-08-14T08:23:51.732780+00:00"
+    },
+    {
+      "id": "9be3fab539fe6935",
+      "title": "超频三推出模组化整机 FC300-CS，搭载英特尔酷睿 Ultra 5 处理器 125U",
+      "link": "https://www.ithome.com/0/989/715.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T07:02:40+00:00",
+      "summary": "IT之家 8 月 14 日消息，超频三 (CPS, Pccooler) 现已在其官网列出融核系列 FC300-CS 模组化整机。这一产品可理解为“分体式一体机”，由 PC 主机和显示单元组成，两部分均可独立更换。FC300-CS 原装搭载英特尔酷睿 Ultra 5 处理器 125U 和 27\" QHD 165Hz 350nits 的 IPS 屏幕。其内置 2 条 DDR5-5600 SO-DIMM",
+      "fetched_at": "2026-08-14T08:23:51.732806+00:00"
+    },
+    {
+      "id": "c6b98f88b11797b1",
+      "title": "今晚油价下调：加满一箱 50L 的 92 号汽油将少花 9 元左右",
+      "link": "https://www.ithome.com/0/989/714.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T07:00:20+00:00",
+      "summary": "IT之家 8 月 14 日消息，根据国家发展改革委消息，7 月 31 日国内成品油价格调整以来，国际市场原油价格快速回落后震荡运行，本次调价的前 10 个工作日平均价格低于上次调价前 10 个工作日平均价格。根据国际市场油价变化情况，自 8 月 14 日 24 时起，国内汽、柴油（标准品）价格每吨分别下调 230 元、220 元。全国平均来看，92 号汽油、95 号汽油和 0 号柴油每升分别下调 ",
+      "fetched_at": "2026-08-14T08:23:51.732897+00:00"
+    },
+    {
+      "id": "ceb571bbec7d9ffd",
+      "title": "你初高中时的书单里，总有本「东野圭吾」吧？",
+      "link": "https://sspai.com/post/113416",
+      "source_id": "sspai",
+      "source_name": "少数派",
+      "category": "tech",
+      "published_at": "2026-08-14T07:00:00+00:00",
+      "summary": "纪念并且感谢他为我们留下的推理世界。查看全文",
+      "fetched_at": "2026-08-14T08:23:59.959472+00:00"
+    },
+    {
+      "id": "004bc3c750d5f713",
+      "title": "官方证实开发中：Epic Games 游戏启动器即将登陆 Linux 平台",
+      "link": "https://www.ithome.com/0/989/713.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T06:59:50+00:00",
+      "summary": "IT之家 8 月 14 日消息，据科技媒体 TechPower Up 今天报道，自V社推出 Steam Deck 游戏掌机以来，Linux 系统的游戏生态迎来了蓬勃发展。而V社的对手 Epic Games 曾在招聘信息中透露，他们计划让小蓝熊（IT之家注：Easy Anti-Cheat）反作弊支持 Linux，引发玩家猜测。如今，一名 Epic Games 员工在 Discord 问答活动中透露，",
+      "fetched_at": "2026-08-14T08:23:51.732927+00:00"
+    },
+    {
+      "id": "e2ff90d466a84814",
+      "title": "高盛：AI 不太可能在印度引发大规模失业",
+      "link": "https://www.ithome.com/0/989/711.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T06:55:21+00:00",
+      "summary": "IT之家 8 月 14 日消息，据彭博社报道，当地时间 14 日，高盛集团印度首席经济学家桑塔努 · 森古普塔表示，AI 不太可能在印度引发大规模失业，尽管服务业的部分岗位会面临一定影响。森古普塔认为，与许多国家相比，印度受到的就业冲击会比较有限，主要原因是印度劳动力规模很大，而且相当一部分人从事机械性或体力劳动。森古普塔称，建筑业和零售贸易吸纳了印度约 40% 的劳动力，“目前基本没有受到 AI",
+      "fetched_at": "2026-08-14T08:23:51.732951+00:00"
+    },
+    {
+      "id": "9db47e9242657135",
+      "title": "Insomniac 首款默认 60FPS 光追 PS5 游戏，《漫威金刚狼》9 月 15 日发行",
+      "link": "https://www.ithome.com/0/989/710.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-14T06:54:10+00:00",
+      "summary": "IT之家 8 月 14 日消息，在接受游戏媒体 IGN 采访时，Insomniac Games 工作室透露即便在基础 PlayStation 5 游戏主机上，《漫威金刚狼》游戏开启光线追踪的情况下，也能以 60 FPS 帧率运行。Insomniac Games 技术主管迈克 · 菲茨杰拉德（Mike Fitzgerald）表示，《漫威金刚狼》是该工作室首款把 60 FPS 与光线追踪设为默认体验的",
+      "fetched_at": "2026-08-14T08:23:51.732980+00:00"
+    },
     {
       "id": "66ba80591b61437f",
       "title": "《DOTA2》TI15 小组赛次轮：VG 拿下首胜，TR、XG 均 0-2",
@@ -22,7 +550,7 @@
       "category": "finance",
       "published_at": "2026-08-14T06:13:10+00:00",
       "summary": "GLM-5.3的发布证明了后训练Scaling的潜力。",
-      "fetched_at": "2026-08-14T06:22:48.900678+00:00"
+      "fetched_at": "2026-08-14T08:23:54.769690+00:00"
     },
     {
       "id": "7a7a983188e0a8ab",
@@ -88,7 +616,7 @@
       "category": "tech",
       "published_at": "2026-08-14T06:00:53+00:00",
       "summary": "只有小米的 AI 才能成就 AI 的小米。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-08-14T06:22:44.861190+00:00"
+      "fetched_at": "2026-08-14T08:23:49.765493+00:00"
     },
     {
       "id": "105e62b1102bfb65",
@@ -245,6 +773,17 @@
       "fetched_at": "2026-08-14T06:22:46.571800+00:00"
     },
     {
+      "id": "37f6eae0f838dade",
+      "title": "3D存算一体芯片领军企业谦合益邦完成超20亿元B轮融资",
+      "link": "https://www.leiphone.com/category/industrynews/Edo1aa9elrarVNM5.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-08-14T04:35:00+00:00",
+      "summary": "近日，3D存算一体芯片领军企业谦合益邦宣布完成超20亿元B轮融资。在我国加快推进集成电路产业高质量发展、强化关键核心技术自主创新的背景下，具备自主研发能力、探索新型芯片架构的创新企业正成为推动产业升级的重要力量。同时，全球数字经济进入以算力为核心驱动的新阶段，存储技术正面临更高带宽、更低延迟和更大容量的需求挑战。三维集成技术通过突破传统芯片架构限制，实现计算与存储深度融合，成为推动下一代半导体技术",
+      "fetched_at": "2026-08-14T08:23:58.733472+00:00"
+    },
+    {
       "id": "fb83dd5343d389f4",
       "title": "全球首发：京东七鲜咖啡首家 24 小时智能化无人咖啡店落地北京，AI 推荐、机器人制作",
       "link": "https://www.ithome.com/0/989/675.htm",
@@ -265,6 +804,17 @@
       "published_at": "2026-08-14T04:25:12+00:00",
       "summary": "IT之家 8 月 14 日消息，石头科技今日推出 P30 Pro 和 G30S Ultra 两款扫地机器人，均有水箱版和上下水版可选：P30 Pro 水箱版：4299 元P30 Pro 上下水版：4699 元G30S Ultra 水箱版：5499 元G30S Ultra 上下水版：5999 元两款产品机身均厚 8.98cm，其中 G30S Ultra 支持 75℃ 热拖，吸力 41000Pa；P3",
       "fetched_at": "2026-08-14T06:22:46.571875+00:00"
+    },
+    {
+      "id": "48a2cc3be5dfd292",
+      "title": "沃尔玛、特斯拉、联邦快递等：航运惊涛骇浪中的赢家与输家",
+      "link": "https://www.tmtpost.com/8103378.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-14T04:17:39+00:00",
+      "summary": "沃尔玛、特斯拉等更多股票将感受到航运巨头马士基和赫伯罗特所报告的运力受限、延误以及价格上涨带来的影响。",
+      "fetched_at": "2026-08-14T08:23:54.769700+00:00"
     },
     {
       "id": "385fdf414691aedb",
@@ -330,7 +880,7 @@
       "category": "tech",
       "published_at": "2026-08-14T03:58:00+00:00",
       "summary": "8月8日，“冠军之芯·梦想时分”2026瑞浦兰钧品牌日在上海举行。与一场通常以新品和参数为中心的企业发布会不同，本届品牌日由“冠军之芯”产品发布和“梦想时分”音乐会两个篇章组成：一边讲技术如何进入AI算力、重卡运输和低空飞行等真实场景，一边将舞台交给青年钢琴家刘浩，讲述一个人在长期投入中不断靠近梦想。产品与琴声出现在同一场活动中，并不是简单的“科技+艺术”。它们共同指向瑞浦兰钧进入发展新阶段后的一",
-      "fetched_at": "2026-08-14T06:22:52.746100+00:00"
+      "fetched_at": "2026-08-14T08:23:58.733572+00:00"
     },
     {
       "id": "175167fbe6f99424",
@@ -385,7 +935,7 @@
       "category": "tech",
       "published_at": "2026-08-14T03:44:03+00:00",
       "summary": "那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅，是如何被你切片、重排并注入新生的？查看全文",
-      "fetched_at": "2026-08-14T06:22:54.095297+00:00"
+      "fetched_at": "2026-08-14T08:23:59.959491+00:00"
     },
     {
       "id": "1e22b5a9770b887f",
@@ -583,7 +1133,7 @@
       "category": "tech",
       "published_at": "2026-08-14T02:54:21+00:00",
       "summary": "DeskBox 让 Windows 桌面上散落的文件、待办和临时信息，都有一个顺手的位置。查看全文",
-      "fetched_at": "2026-08-14T06:22:54.095319+00:00"
+      "fetched_at": "2026-08-14T08:23:59.959504+00:00"
     },
     {
       "id": "21b22433f1824861",
@@ -770,7 +1320,7 @@
       "category": "tech",
       "published_at": "2026-08-14T02:22:17+00:00",
       "summary": "狂热可能正在退去，即便强如谷歌，也到了给盲目追求前沿的虚荣心画句号的时候。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-08-14T06:22:44.861224+00:00"
+      "fetched_at": "2026-08-14T08:23:49.765523+00:00"
     },
     {
       "id": "497ac669c513e558",
@@ -814,7 +1364,7 @@
       "category": "tech",
       "published_at": "2026-08-14T02:14:56+00:00",
       "summary": "Agent 时代，怎么挑选「高智效」模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-08-14T06:22:44.861242+00:00"
+      "fetched_at": "2026-08-14T08:23:49.765538+00:00"
     },
     {
       "id": "f7ffbe254633bf13",
@@ -1210,7 +1760,7 @@
       "category": "tech",
       "published_at": "2026-08-14T00:52:24+00:00",
       "summary": "阿里千问开放平台上线菜鸟智能体，Brave 和 Firefox 浏览器宣布将继续支持 uBlock Origin 扩展程序等。查看全文",
-      "fetched_at": "2026-08-14T06:22:54.095335+00:00"
+      "fetched_at": "2026-08-14T08:23:59.959519+00:00"
     },
     {
       "id": "ce8611a906b935ee",
@@ -1232,7 +1782,7 @@
       "category": "tech",
       "published_at": "2026-08-14T00:30:02+00:00",
       "summary": "· Anthropic 投资者押注秋季 IPO，预期估值或超过 2 万亿美元 · 比亚迪辅助驾驶车型保有量超过 352 万辆 · 张雪机车获红杉中国独家投资，月交付量破万台#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-08-14T06:22:44.861261+00:00"
+      "fetched_at": "2026-08-14T08:23:49.765555+00:00"
     },
     {
       "id": "55328181bc578473",
@@ -18514,490 +19064,6 @@
       "published_at": "2026-08-07T08:24:42+00:00",
       "summary": "IT之家 8 月 7 日消息，id Software 联合创始人、DOOM 之父约翰 · 罗梅罗（John Romero）在昨日举行的 QuakeCon 2026 活动上讲述了《毁灭战士》发行初期一段不为人知的往事。据介绍，上世纪 90 年代，他们为了将《毁灭战士》推广至当时几乎全被盗版占据的中国台湾市场，团队曾主动联系当地最大的盗版商，以低价出售官方包装盒，从而让当地玩家能够获得看起来正规的游戏",
       "fetched_at": "2026-08-07T09:11:46.559855+00:00"
-    },
-    {
-      "id": "2b7e5eef1680e474",
-      "title": "闪迪比英伟达还赚钱",
-      "link": "https://www.tmtpost.com/8094460.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-07T08:16:02+00:00",
-      "summary": "一家卖U盘和SD卡起家的公司，毛利率比英伟达还高。",
-      "fetched_at": "2026-08-07T15:05:15.905255+00:00"
-    },
-    {
-      "id": "44e9091318341ee1",
-      "title": "DeepSeek预告API涨价，AI低价红利落幕",
-      "link": "https://www.tmtpost.com/8094414.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-07T08:16:02+00:00",
-      "summary": "Agent拉动算力消耗，行业迎来成本回归。",
-      "fetched_at": "2026-08-07T11:03:22.304057+00:00"
-    },
-    {
-      "id": "ac12406008e8129f",
-      "title": "街电预热充电新品：主打共享 + 零售，本月上线",
-      "link": "https://www.ithome.com/0/987/051.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T08:12:40+00:00",
-      "summary": "IT之家 8 月 7 日消息，街电昨天预热一款充电新品。该产品将于本月上线，号称“开启充电极致体验新时代”。IT之家从街电官方公众号了解到，充电宝用户此前存在多种痛点：买了充电宝，有时候忘了充电、忘了带出门，最后只能在外面租个共享充电宝，花两份钱。而街电的这款新品将让用户“花一份钱，办两件事”，主打共享 + 零售，不过官方暂未确认其形态、运营模式和价格，IT之家将持续关注，第一时间带来最新消息。",
-      "fetched_at": "2026-08-07T09:11:46.559870+00:00"
-    },
-    {
-      "id": "0c2c4f16abc8adef",
-      "title": "SK 海力士回应股东声音：正积极研究额外回报方案，本季度公布细节",
-      "link": "https://www.ithome.com/0/987/050.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T08:10:04+00:00",
-      "summary": "IT之家 8 月 7 日消息，根据 SK 海力士今日提交的财务文件，该企业在今日的董事会上确认季度股息为每股 375 韩元（IT之家注：现汇率约合 1.8 元人民币）。SK 海力士同时表示：“本公司为提升股东价值，正在积极研究额外的股东回报方案，具体事项预计将于第三季度内确定并公布。”在 AI 浪潮带动的强劲存储半导体需求推动下，SK 海力士的营收持续走高。但与此同时，其股东除出售持股外并未从这轮",
-      "fetched_at": "2026-08-07T09:11:46.559892+00:00"
-    },
-    {
-      "id": "6bbe3f4cc9bc1f43",
-      "title": "东航官宣：提前 14 天可免费退改签机票",
-      "link": "https://www.ithome.com/0/987/049.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T08:07:13+00:00",
-      "summary": "IT之家 8 月 7 日消息，中国东方航空日前发布新版《国内客票自愿退票和自愿变更实施细则》，对于 2026 年 8 月 6 日（含）以后销售的 2026 年 8 月 6 日（含）以后开始旅行的国内客票，所有舱位提前 14 天自愿变更或自愿退票均免费。IT之家注意到，新版规则分五个时间段，距离起飞时间越近，变更和退票收取的费用越高。而东航上一版《国内客票自愿退票和自愿变更实施细则》于 2026 年",
-      "fetched_at": "2026-08-07T09:11:46.559925+00:00"
-    },
-    {
-      "id": "db9165b9d9a3b26b",
-      "title": "999 元的 8.4 英寸 LCD 小平板，酷比魔方掌玩 mini 4 官宣 8 月 15 日首发",
-      "link": "https://www.ithome.com/0/987/048.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T08:06:52+00:00",
-      "summary": "IT之家 8 月 7 日消息，酷比魔方官方今日宣布，掌玩 mini 4 平板将在 8 月 15 日首发。据介绍，新机是一款 8.4 英寸 LCD 小平板，屏幕还支持 90Hz 高刷，预售价 1399 元、首发 999 元。京东酷比魔方掌玩 mini 4999 元直达链接IT之家查询京东获悉，酷比魔方掌玩 mini 4 小平板将提供国内版和国际版两种版本，均采用 8GB+128GB 存储规格。商品详",
-      "fetched_at": "2026-08-07T09:11:46.559975+00:00"
-    },
-    {
-      "id": "f805c5ffe64e1c13",
-      "title": "索尼 & 任天堂《塞尔达传说》真人电影更多演员曝光：已故山姆 · 尼尔生前已完成拍摄，计划 2027 年 4 月上映",
-      "link": "https://www.ithome.com/0/987/047.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T08:02:26+00:00",
-      "summary": "IT之家 8 月 7 日消息，据 Deadline 今日报道，任天堂与索尼影业合作打造的《塞尔达传说》真人电影已经完成拍摄，具体剧情仍处于保密状态。该片计划于 2027 年 4 月在北美院线上映。Deadline 已确定反派角色加侬 / 盖侬多夫将由澳大利亚演员乌利 · 拉图基孚（Uli Latukefu）出演。拉图凯富已与片方签订多部影片合作协议，若电影取得成功，未来有望继续出演续作。拉图基孚曾",
-      "fetched_at": "2026-08-07T09:11:46.560025+00:00"
-    },
-    {
-      "id": "54838f9ed627e19f",
-      "title": "小米 REDMI Watch 5 全新版本先锋计划预计下周一启动，手表微信迎来升级",
-      "link": "https://www.ithome.com/0/987/046.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T07:50:39+00:00",
-      "summary": "IT之家 8 月 7 日消息，小米集团手机部副总裁、可穿戴部总经理张雷今日宣布，REDMI Watch 5 / Watch 5 eSIM 全新版本先锋计划预计下周一启动，招募时间上午 11 点开始。报名时间：2026 年 8 月 10 日，内测名额有限，报满后将暂停报名（计划招募 300 人）内测周期：2026 年 8 月 10 日 - 2026 年 8 月 16 日点击报名：请前往小米社区 Ap",
-      "fetched_at": "2026-08-07T09:11:46.560059+00:00"
-    },
-    {
-      "id": "762f5c1717052914",
-      "title": "奇瑞方盒子 SUV 捷途环游者新车申报：提供后驱 / 四驱版本，轴距 2735 mm",
-      "link": "https://www.ithome.com/0/987/045.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T07:50:38+00:00",
-      "summary": "IT之家 8 月 7 日消息，工信部发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示，奇瑞捷途环游者纯电动多用途乘用车完成申报。新车是捷途品牌首款纯电方盒子 SUV，主打城市通勤和轻户外用途，提供后驱版本和四驱版本选择。新车长度为 4475mm/4605mm，宽度均为 1880mm，高度为 1700/1710mm，轴距均为 2735 mm，额定载客均为 5 人，最高车速可达 180 ",
-      "fetched_at": "2026-08-07T09:11:46.560090+00:00"
-    },
-    {
-      "id": "ff181280ba28ee6b",
-      "title": "路虎揽胜目标进军豪华车领域，最顶级定制车没有价格上限",
-      "link": "https://www.ithome.com/0/987/043.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T07:49:22+00:00",
-      "summary": "IT之家 8 月 7 日消息，据英国汽车杂志 Autocar 今日报道，路虎揽胜品牌总经理马丁 · 林佩特（Martin Limpert）在接受采访时表示，该品牌不会为其最顶级的定制车型设定价格上限。捷豹路虎希望增加其定制产品，并稳步进军豪华车领域。马丁 · 林佩特表示：“我们不想以汽车公司的身份出现，我们想以现代豪华公司的身份出现。”他认为捷豹路虎可以而且将会走得更远：“我认为天空才是极限。我们",
-      "fetched_at": "2026-08-07T09:11:46.560119+00:00"
-    },
-    {
-      "id": "98ca05739c7b6cb1",
-      "title": "小红书发布《AI 治理规则公告》：鼓励主动披露 AI 生成，反对 AI 洗稿、合成他人声音、捏造新闻",
-      "link": "https://www.ithome.com/0/987/042.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T07:49:00+00:00",
-      "summary": "IT之家 8 月 7 日消息，小红书官方昨天发布《AI 治理规则公告》，明确 AI 账号的治理原则。IT之家从公告内容获悉，小红书平台创作者若使用 AI 虚拟人形象运营账号，则需要如实说明创作方式，主动说明后流量不会受到影响。AI 生成、润色的笔记需要主动披露，未主动标注的 AI 内容将由平台统一识别、添加标识。同时，小红书反对使用云端 AI 工具或手机脚本自动运营账号、冒充真人互动。或传授使用 ",
-      "fetched_at": "2026-08-07T09:11:46.560143+00:00"
-    },
-    {
-      "id": "ec16d06a404839e3",
-      "title": "SK 海力士宣布向龙仁 Y2、清州 M17 晶圆厂合计投资 54 万亿韩元",
-      "link": "https://www.ithome.com/0/987/041.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T07:41:07+00:00",
-      "summary": "IT之家 8 月 7 日消息，SK 海力士 (SK hynix) 韩国当地时间今日表示，公司董事会决议通过向龙仁 Y2、清州 M17 两座晶圆厂合计投资 54 万亿韩元（IT之家注：现汇率约合 2,567.16 亿元人民币），其中龙仁 Y2 投资额 35.2 万亿韩元（现汇率约合 1,673.41 亿元人民币）、清州 M17 投资额 19.1 万亿韩元（现汇率约合 908.01 亿元人民币）。SK",
-      "fetched_at": "2026-08-07T09:11:46.560199+00:00"
-    },
-    {
-      "id": "18986bc3572f2c1c",
-      "title": "[限时优惠] 数据分析：用好 Excel 中的数据透视表",
-      "link": "https://sspai.com/post/113108",
-      "source_id": "sspai",
-      "source_name": "少数派",
-      "category": "tech",
-      "published_at": "2026-08-07T07:39:58+00:00",
-      "summary": "编注：本文为Microsoft365工具生值包内随附专属定制教程的免费试读内容。接上级经销商通知，微软将于本月提高Microsoft365订阅的供应成本，后续软件售价也将随之进行相应调整。为此，我们特 ...查看全文",
-      "fetched_at": "2026-08-07T15:05:22.354839+00:00"
-    },
-    {
-      "id": "85471cfa1959345c",
-      "title": "阿里推出国内首个 AI 语音平台 CosyVoice Studio，限时免费体验",
-      "link": "https://www.ithome.com/0/987/040.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T07:37:57+00:00",
-      "summary": "IT之家 8 月 7 日消息，阿里巴巴今日宣布推出国内首个一站式 AI 语音生产力平台 CosyVoice Studio。官方表示，该平台基于自研语音模型 Qwen-Audio 打造，包含语音记录 CosyFlow、语音智能体 CosyAgent 和音频内容创作工具 CosyCreative 等功能。用户可在 iOS、Android、Mac 和 Windows 应用商店搜索“CosyVoice”下",
-      "fetched_at": "2026-08-07T09:11:46.560237+00:00"
-    },
-    {
-      "id": "af5defebc45de19f",
-      "title": "1 分 41.6 秒：兰博基尼 Revuelto SV 斩获德国 Hockenheimring 赛道量产车历史最快圈速记录",
-      "link": "https://www.ithome.com/0/987/039.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T07:37:50+00:00",
-      "summary": "IT之家 8 月 7 日消息，@兰博基尼汽车中国 今天（8 月 7 日）发布微博，宣布其 Revuelto SV（Superveloce）以 1 分 41.6 秒成绩，斩获德国 Hockenheimring 赛道量产车历史最快圈速记录。IT之家附上官方微博内容如下：进化，永不止步！全新兰博基尼 Revuelto SV 于德国 Hockenheimring 赛道斩获量产车历史最快圈速记录：1 分 4",
-      "fetched_at": "2026-08-07T09:11:46.560275+00:00"
-    },
-    {
-      "id": "2fbcb6f32449b43e",
-      "title": "补齐 Pixel 手机功能缺失，谷歌将为安卓系统推出应用锁功能",
-      "link": "https://www.ithome.com/0/987/038.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T07:33:32+00:00",
-      "summary": "IT之家 8 月 7 日消息，据科技媒体 Android Authority 今天报道，谷歌 Pixel 系列手机多年来一直缺少原生应用锁功能，不过如今 Android Canary 测试版系统将补齐这种缺陷。据报道，Android Canary 2608 版系统已经实装该功能，正式版系统预计将在后续支持，更新后的用户可在“设置--&gt; 安全与隐私--&gt; 应用锁”中找到。进入该页面后，如",
-      "fetched_at": "2026-08-07T09:11:46.560298+00:00"
-    },
-    {
-      "id": "29c213570f5bac29",
-      "title": "鸿蒙智行新款问界 M8 汽车更多配置申报：提供 5 / 6 座版本 + 增程 / 纯电动力可选",
-      "link": "https://www.ithome.com/0/987/037.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T07:30:56+00:00",
-      "summary": "IT之家 8 月 7 日消息，工信部发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示，鸿蒙智行新款问界 M8 多款车型完成申报。IT之家注意到，本次申报共有四款车型，包含两款增程版本、两款纯电版本，其中两款增程版本分别搭载磷酸铁锂电池和三元锂电池，两款纯电版本为不同整备质量配置。本次申报的问界 M8 车身尺寸均为长 5190×1999×1795mm，轴距为 3105mm，前轮距 17",
-      "fetched_at": "2026-08-07T09:11:46.560328+00:00"
-    },
-    {
-      "id": "72973084de3dafd9",
-      "title": "长城魏牌高山 9 完成申报，定位六座插混 MPV",
-      "link": "https://www.ithome.com/0/987/035.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T07:18:54+00:00",
-      "summary": "IT之家 8 月 7 日消息，工信部今天发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示，魏牌高山 9 完成申报。公示信息显示，魏牌高山 9 是一款六座 MPV 车型，长宽高分别为 5410*1960*1890mm，轴距 3275mm，总质量 3455kg，整备质量 2960kg。同时，该车采用插电式混合动力，搭载长城汽车股份有限公司生产的 GW4N20B 发动机，排量 1998ml",
-      "fetched_at": "2026-08-07T09:11:46.560351+00:00"
-    },
-    {
-      "id": "f08e6728745a8131",
-      "title": "周星驰电影《功夫女足》映期延长至 9 月 10 日晚，票房达 22 亿",
-      "link": "https://www.ithome.com/0/987/032.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T07:15:05+00:00",
-      "summary": "IT之家 8 月 7 日消息，周星驰电影《功夫女足》今日宣布映期延长至 2026 年 9 月 10 日 23:59 分。据猫眼专业版数据，电影《功夫女足》于 2026 年 7 月 11 日上映，截至当前累计票房 22.29 亿元。该影片由周星驰担任导演、编剧，张小斐、迪丽热巴、张艺兴领衔主演，刘嘉玲、佐藤健特别出演。该片结合少林功夫与足球元素，围绕女子足球队“峨眉队”征战展开，讲述了一群热爱足球的",
-      "fetched_at": "2026-08-07T09:11:46.560371+00:00"
-    },
-    {
-      "id": "6fc13413f6c9b7f2",
-      "title": "红蓝冠军涂装：张雪 820RR 摩托新车申报",
-      "link": "https://www.ithome.com/0/987/036.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T07:14:40+00:00",
-      "summary": "IT之家 8 月 7 日消息，工信部今日公布了第 410 批《道路机动车辆生产企业及产品公告》新产品目录，其中包括三款张雪机车的摩托车。IT之家总结如下：ZX800GS-4长 2050mm 宽 745mm 高 1160mm轴距 1420mm最高车速 290 km/h整备质量 185kg总质量 260kg轮胎规格：前 120/70ZR17、后 200/55ZR17发动机：张雪自产 ZX380MW-2",
-      "fetched_at": "2026-08-07T09:11:46.560411+00:00"
-    },
-    {
-      "id": "9d6c59cda4f2fbab",
-      "title": "2026 暑期档电影总票房（含预售）突破 80 亿元，连续 27 天单日票房过亿",
-      "link": "https://www.ithome.com/0/987/031.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T07:14:15+00:00",
-      "summary": "IT之家 8 月 7 日消息，据央视新闻报道，2026 暑期档电影总票房（含预售）已突破 80 亿元。《功夫女足》《八仙！》《蜘蛛侠：崭新之日》《给阿嬷的情书》《小黄人与大怪兽》暂列档期票房前 5 名。值得一提的是，2026 暑期档已连续 27 天单日票房过亿。暑期档有近 120 部中外影片陆续上映，包含历史、喜剧、动作、动画、科幻等多种类型。另外，2026 年度电影总票房（含预售）突破 237 ",
-      "fetched_at": "2026-08-07T07:37:43.213024+00:00"
-    },
-    {
-      "id": "978f6baa566be784",
-      "title": "2027 款奔驰“小 G”原型车路测图曝光：方正造型，预估推混动 / 纯电版",
-      "link": "https://www.ithome.com/0/987/030.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T07:13:29+00:00",
-      "summary": "IT之家 8 月 7 日消息，汽车媒体 thesupercarblog 今天（8 月 7 日）发布博文，分享了一组在德国慕尼黑街头抓拍的图片，展示了正在测试的 2027 款奔驰“小 G”（Baby G / Baby G-Class），预估 2027 年上市，会有混合动力和纯电版本。本次曝光的路测图中，奔驰“小 G”伪装严密，将沿用 G Wagon 的方正造型，并且会在后备箱内配备备胎。测试车还配备",
-      "fetched_at": "2026-08-07T07:37:43.213040+00:00"
-    },
-    {
-      "id": "26447d13bf1b9522",
-      "title": "希未预告 AideaMini R15 迷你主机，搭载 AMD 锐龙 3 5400U",
-      "link": "https://www.ithome.com/0/987/022.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T07:10:15+00:00",
-      "summary": "IT之家 8 月 7 日消息，希未 (SEAVIV) 今日宣布将推出基于 AMD 锐龙 3 5400U 四核 \"Cezanne\" APU 的 AideaMini R15。这一型号三维 127×127×43.9 (mm)，裸机质量 380g，标配 16GB DDR4-3200 内存和 512GB PCIe Gen3 SSD 存储。IT之家了解到，该产品配备联发科 MT7902BEN 无线网卡（支持双",
-      "fetched_at": "2026-08-07T07:37:43.213063+00:00"
-    },
-    {
-      "id": "d102b7a576b6aa9f",
-      "title": "吉利星越 L PLUS 新车申报：提供燃油 / 油混版本可选，轴距 2900 mm",
-      "link": "https://www.ithome.com/0/987/019.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T07:09:51+00:00",
-      "summary": "IT之家 8 月 7 日消息，工信部发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示，吉利星越 L PLUS 完成申报。本次申报共有两款油电混合动力版本车型和两款燃油版本车型，均为 5 座布局，车身尺寸保持一致，长宽高分别为 4955 / 1960 / 1769 mm，轴距为 2900 mm，前轮距 1697 mm，后轮距 1698 mm，额定载客人数为 5 人。IT之家注意到，两款",
-      "fetched_at": "2026-08-07T07:37:43.213103+00:00"
-    },
-    {
-      "id": "8769177d69afde16",
-      "title": "2026 全球票房冠军：漫威索尼《蜘蛛侠：崭新之日》上映 7 天收获 78 亿人民币票房",
-      "link": "https://www.ithome.com/0/987/017.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T07:08:41+00:00",
-      "summary": "IT之家 8 月 7 日消息，蜘蛛侠系列电影官方微博今日宣布，由漫威与索尼联合出品的《蜘蛛侠：崭新之日》上映 7 天收获 78 亿人民币票房，拿下 2026 全球票房冠军。据IT之家昨日报道，蜘蛛侠系列电影官方微博还宣布，索尼影业蜘蛛侠系列电影 11 部大银幕作品跨越 24 年时光，全球票房突破 685 亿人民币。值得一提的是，《蜘蛛侠：崭新之日》全球首周开画票房 62.59 亿人民币断层领跑，多",
-      "fetched_at": "2026-08-07T07:37:43.213129+00:00"
-    },
-    {
-      "id": "a18bc49f2f0f62b5",
-      "title": "梅赛德斯-奔驰纯电 MPV 车型 VLE 新车申报",
-      "link": "https://www.ithome.com/0/987/002.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T07:04:17+00:00",
-      "summary": "IT之家 8 月 7 日消息，工信部发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示，梅赛德斯-奔驰三款纯电 MPV 完成申报。本次申报的三款车型分别为 VLE 400 4MATIC 双电机版、VLE 300 单电机版、VLE 300 单电机选装版，均为 7 座布局，车身尺寸保持一致，长 5310 mm、宽 2000 mm、高 1922 mm，轴距 3340 mm，最高车速 170 ",
-      "fetched_at": "2026-08-07T07:37:43.213171+00:00"
-    },
-    {
-      "id": "b0b472dc15f3421e",
-      "title": "不只华为乾崑智驾 ADS 5：曝鸿蒙智行问界系列车型暑期版本 OTA 后，原生支持苹果 CarPlay",
-      "link": "https://www.ithome.com/0/986/999.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T07:03:25+00:00",
-      "summary": "IT之家 8 月 7 日消息，鸿蒙智行在 7 月 27 日发布了 OTA 问界暑期版本功能说明，带来数十项新增功能、体验优化，推送车型包含 M9 全系、M8 全系、M7 2026 款、新 M7 Ultra、新 M7 Pro、新 M7 Max、新 M7 Plus、M6 Ultra、M6 Max+、新 M5 Ultra、新 M5、M5 辅助驾驶版、M5 标准版。据多名网友 / 博主反馈，已获推送暑期版",
-      "fetched_at": "2026-08-07T07:37:43.213199+00:00"
-    },
-    {
-      "id": "f87ba78ca7259bdb",
-      "title": "锴威特16.5亿收购大客户：“小吞大”背后的股权接力与对赌反差",
-      "link": "https://www.tmtpost.com/8095185.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-07T07:03:14+00:00",
-      "summary": "“小吞大”背后的现实背景。",
-      "fetched_at": "2026-08-07T09:11:48.418263+00:00"
-    },
-    {
-      "id": "9f1f6d8f44ac7c8e",
-      "title": "长城魏牌 V9X EV 新车申报：大尺寸六座纯电 SUV，车长超 5.2 米",
-      "link": "https://www.ithome.com/0/986/985.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T06:56:24+00:00",
-      "summary": "IT之家 8 月 7 日消息，工信部发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示，魏牌 V9X EV 完成申报。IT之家注意到，这款新车为纯电动多用途乘用车，车身外形尺寸为长 5299 mm、宽 2025 mm、高 1825 mm，轴距达到 3150 mm，额定载客（含驾驶员）为 6 座。新车前轮距 1736 mm，后轮距 1726 mm，前悬 949 mm，后悬 1200 mm",
-      "fetched_at": "2026-08-07T07:37:43.213224+00:00"
-    },
-    {
-      "id": "84c3f56383e9e75f",
-      "title": "王兴兴：宇树科技将积极探索人形机器人、机甲等更多产品形态",
-      "link": "https://www.ithome.com/0/986/984.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T06:56:22+00:00",
-      "summary": "IT之家 8 月 7 日消息，据澎湃新闻消息，宇树科技董事长、总经理兼首席技术官王兴兴今天在网上路演时表示，本次登陆资本市场，是宇树科技全新的起点。王兴兴表示，宇树科技将持续攻坚具身大模型、场景数据采集与分析、强化学习、具身本体模型、核心零部件自研与高性能执行机构等软硬件关键技术，并将积极探索人形机器人、四足机器人、机甲等更多的产品形态和型号，推动机器人承接高强度、高风险体力劳动，释放人类的创造力",
-      "fetched_at": "2026-08-07T07:37:43.213245+00:00"
-    },
-    {
-      "id": "e807d6b0d5a99a95",
-      "title": "韩媒曝合肥产线良率仅三四成，维信诺否认称产线尚未建成、设备都还在搬运中",
-      "link": "https://www.ithome.com/0/986/978.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T06:52:44+00:00",
-      "summary": "IT之家 8 月 7 日消息，近日，韩国产业媒体 The Elec 发布行业报道，围绕维信诺合肥 V5 8.6 代 OLED 产线传出两大核心传闻：一期产线试生产良率仅 30%-40%，应用材料 AKT 立式蒸镀设备采购定价偏高；二期蒸镀设备开启对外招标，韩国设备厂商 YAS 将与应用材料形成直接竞争。据财闻报道，对于韩媒报道关于一期良率偏低的说法，维信诺相关负责人直接予以否认，称：“8.6 代产",
-      "fetched_at": "2026-08-07T07:37:43.213273+00:00"
-    },
-    {
-      "id": "fca385b00b39eee6",
-      "title": "索泰 Comiday30 联名款 GeForce RTX 5060 系列显卡亮相，独家定制外观",
-      "link": "https://www.ithome.com/0/986/974.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T06:51:21+00:00",
-      "summary": "IT之家 8 月 7 日消息，参考索泰 (ZOTAC) 与 Comiday 官方动态，索泰将在 8 月 8~9 日举行的第 30 届成都原创动漫交流会 (Comiday30) 上通过一系列活动赠送 CD30 特别联名定制版的 GeForce RTX 5060 系列显卡。此次赠送的显卡覆盖 GeForce RTX 5060 Ti 16GB、GeForce RTX 5060 Ti 8GB、GeForc",
-      "fetched_at": "2026-08-07T07:37:43.213292+00:00"
-    },
-    {
-      "id": "d76f9b344895ce35",
-      "title": "鸿蒙智行智界 RX 新版本申报：磷酸铁锂 / 三元锂电池，提供大量轮毂 / 车标样式可选",
-      "link": "https://www.ithome.com/0/986/969.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T06:49:45+00:00",
-      "summary": "IT之家 8 月 7 日消息，工信部发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示，鸿蒙智行智界 RX 完成新版本申报，并公开了更多信息。智界 RX 定位为纯电动多用途乘用车，由奇瑞汽车股份有限公司生产，尺寸为 5020×2007×1600/1585mm，轴距达到 3000mm，额定载客人数为 5 人。IT之家注意到，本次申报共有两款不同配置版本，分别搭载磷酸铁锂蓄电池和三元锂蓄电",
-      "fetched_at": "2026-08-07T07:37:43.213318+00:00"
-    },
-    {
-      "id": "63536bc498be8a76",
-      "title": "美国 Model Y 司机在枪击案中受伤后，车主请求特斯拉超充站增加一键解锁充电枪功能以便逃生",
-      "link": "https://www.ithome.com/0/986/968.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T06:48:42+00:00",
-      "summary": "IT之家 8 月 7 日消息，据外媒 Tesla Oracle 报道，当地时间 8 月 1 日，一名枪手在美国爱达荷州双瀑市 In-N-Out 汉堡店门外随机开枪行凶，导致一名驾驶特斯拉 Model Y 的出租车司机不幸中枪。据报道，这家刚开业的 In-N-Out 汉堡店配有一座特斯拉超级充电站，出租车司机 Terry Dudley 当时正在充电，枪手在店门口射击后跑到充电站区域将他射伤。虽然 T",
-      "fetched_at": "2026-08-07T07:37:43.213357+00:00"
-    },
-    {
-      "id": "d73ada6b0e0f8619",
-      "title": "谁是 DeepSeek V4 Flash 最佳编程搭档？Composio 测试 Codex 等 4 个 AI 工具",
-      "link": "https://www.ithome.com/0/986/967.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T06:48:10+00:00",
-      "summary": "IT之家 8 月 7 日消息，Composio 昨日（8 月 6 日）在 X 平台发布推文，使用 30 项任务测试 4 个 AI 编程智能体框架，观察哪个框架更能发挥 DeepSeek V4 Flash 正式版性能。IT之家查询公开资料，Composio 成立于 2023 年，总部位于旧金山，定位开源 AI 智能体工具集成平台，核心是打通大语言模型与各类外部应用的连接，帮助开发者快速搭建可落地的生",
-      "fetched_at": "2026-08-07T07:37:43.213387+00:00"
-    },
-    {
-      "id": "d0a7815973a6d4b9",
-      "title": "延长20年！上汽集团与通用汽车签署合资续约协议",
-      "link": "https://www.leiphone.com/category/industrynews/n8L9ojfqMPqsvH2u.html",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "tech",
-      "published_at": "2026-08-07T06:48:00+00:00",
-      "summary": "2026年8月5日 &nbsp; 今天，“共赴新境——上汽通用汽车合资续约签约仪式”在上海世界会客厅举行。上汽集团与通用汽车正式签署合资续约协议，将上汽通用汽车合资期限延长20年至2047年。双方表示，此次合作续约是基于近30年成功合作的基础，在全球汽车产业深刻变革背景下，上汽集团和通用汽车对中国汽车市场长期价值以及对上汽通用汽车转型能力和发展前景投下的一张信心票。双方股东将进一步协同技术研发、供",
-      "fetched_at": "2026-08-07T15:05:21.295991+00:00"
-    },
-    {
-      "id": "25b7e8488bf7446a",
-      "title": "宝马 iX3 40L 纯电 SUV 申报：轴距超 3 米，成都车展预售",
-      "link": "https://www.ithome.com/0/986/964.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T06:41:49+00:00",
-      "summary": "IT之家 8 月 7 日消息，工信部发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示，华晨宝马宝马 iX3 40L 完成申报。宝马 iX3 40L 为纯电动多用途乘用车，由华晨宝马汽车有限公司国产，定位中型纯电 SUV。车身尺寸方面，新车长宽高分别为 4885 mm / 1895 mm / 1634 mm，轴距达到 3005 mm，相比现款车型轴距有所加长；整备质量 2255 kg，",
-      "fetched_at": "2026-08-07T07:37:43.213413+00:00"
-    },
-    {
-      "id": "0b0ac71abc77e4e8",
-      "title": "男子利用外挂软件代抢 12306 火车票：成功率 70%~80%，牟利 2 万余元被判刑",
-      "link": "https://www.ithome.com/0/986/962.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T06:36:39+00:00",
-      "summary": "IT之家 8 月 7 日消息，据央视新闻今日报道，上海市静安区人民法院对一起利用外挂软件批量代抢火车票牟利案作出一审判决，被告人郑某某因非法获取计算机信息系统数据罪被判处有期徒刑一年六个月，缓刑一年六个月，并处罚金人民币五千元。这起案件源于 2025 年 2 月下旬，上海市公安局静安分局在日常网络巡查中发现，有人疑似利用外挂抢票软件在 12306 平台高频、大量刷票抢票，随即展开侦查并于当日抓获犯",
-      "fetched_at": "2026-08-07T07:37:43.213453+00:00"
-    },
-    {
-      "id": "e1fb91ae289dab55",
-      "title": "东风日产 NX7 新车申报：插电式混合动力 SUV，轴距 2815 mm",
-      "link": "https://www.ithome.com/0/986/961.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T06:35:36+00:00",
-      "summary": "IT之家 8 月 7 日消息，工信部发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示，东风日产 NX7 插电式混合动力运动型乘用车完成申报。东风日产 NX7 外形尺寸为长 4785 mm，宽 1920 / 1932 mm，高 1660 / 1665 mm，轴距 2815 mm，前轮距 1639 mm，后轮距 1657 mm，前悬 968 mm，后悬 1002 mm，额定载客（含驾驶员",
-      "fetched_at": "2026-08-07T07:37:43.213485+00:00"
-    },
-    {
-      "id": "b0f25c710e80839f",
-      "title": "上汽大众 ID. ERA 5X 新车申报：纯电动紧凑型 SUV",
-      "link": "https://www.ithome.com/0/986/960.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T06:35:19+00:00",
-      "summary": "IT之家 8 月 7 日消息，今日，工信部发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示，上汽大众 ID. ERA 5X 纯电动多用途乘用车完成申报。该车为纯电动多用途乘用车，整体定位紧凑型 SUV，车身尺寸为长 4560 mm、宽 1896 mm、高 1630 mm，轴距为 2815 mm，额定载客 5 人，整备质量 1685 kg，总质量 2135 kg，最高车速可达 175 ",
-      "fetched_at": "2026-08-07T07:37:43.213513+00:00"
-    },
-    {
-      "id": "9da20e1d96d461bf",
-      "title": "iQOO Neo11 至尊版官宣“下周一见”：国产顶级 2K 屏 + 超大电池",
-      "link": "https://www.ithome.com/0/986/959.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T06:32:46+00:00",
-      "summary": "IT之家 8 月 7 日消息，iQOO Neo 产品经理 @iQOO慧慧子 今日预告 iQOO Neo11 至尊版“下周一见”，届时有望公布更多消息。据其透露，这款新机将搭载国产顶级 2K 屏、Neo 史上最大电池，外观上从设计到工艺再到配色都进行了认真打磨，更护眼、更耐用、网络更稳定。IT之家注意到，博主 @数码闲聊站 于 8 月 3 日曝光一款 iQOO Neo 新机部分配置，包括基于天玑 9",
-      "fetched_at": "2026-08-07T07:37:43.213535+00:00"
-    },
-    {
-      "id": "a7d845779f8acd7a",
-      "title": "OpenAI 披露 ChatGPT 全球 10 亿用户画像：35 岁及以上用户用量上升",
-      "link": "https://www.ithome.com/0/986/957.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T06:28:51+00:00",
-      "summary": "IT之家 8 月 7 日消息，OpenAI 公司昨日（8 月 6 日）发布博文，报告称全球超过 10 亿用户使用 ChatGPT，且使用方式从“问答工具”转向“任务工具”。OpenAI 在报告中指出，在工作场景中，用户更频繁地用 ChatGPT 产出内容或执行任务，涵盖写作、编程、编辑和分析等。数据显示，用户在工作场景中用 ChatGPT 完成任务或创建内容的可能性，是非工作场景的 2 倍以上。相",
-      "fetched_at": "2026-08-07T07:37:43.213564+00:00"
-    },
-    {
-      "id": "a849039796826c85",
-      "title": "科摩思预告逐影机甲 DDR5 内存模组：16GB 单条，6000MT/s CL28",
-      "link": "https://www.ithome.com/0/986/956.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T06:26:22+00:00",
-      "summary": "IT之家 8 月 7 日消息，存储半导体模组企业科摩思今日宣布将推出“逐影机甲”系列 DDR5 UDIMM 内存模组。其采用 16GB 单条设计，支持 6000MT/s 传输速率，CAS 时延为 28 周期。这款内存条采用单面 8 DRAM 颗粒布局，基于“特挑”SK 海力士 16Gb A-Die；配备 1.5mm 厚度散热马甲，外观相对简洁，综合渐淡点阵、品牌徽标和斜向纹理。",
-      "fetched_at": "2026-08-07T07:37:43.213580+00:00"
-    },
-    {
-      "id": "8ef49a2d4f820a82",
-      "title": "广汽埃安 Ray 7 纯电轿车申报：华为 180kW 电机、宁德时代 / 因湃电池",
-      "link": "https://www.ithome.com/0/986/955.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-07T06:26:18+00:00",
-      "summary": "IT之家 8 月 7 日消息，广汽埃安今年 7 月宣布推出全新车系“Ray”，首款车型命名为“Ray 7”，号称是“年轻人热爱的超级纯电轿车”。工信部今日发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示，广汽埃安 Ray 7 完成申报。从申报图可以看到，广汽埃安 Ray 7 采用低趴宽体姿态以及流线舒展身形。该车尺寸为 4960 x 1900 x 1455mm，轴距 2920mm。该",
-      "fetched_at": "2026-08-07T07:37:43.213600+00:00"
     }
   ]
 }
