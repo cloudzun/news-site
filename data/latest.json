@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T22:32:49.069965+00:00",
-  "count": 1749,
+  "generated_at": "2026-08-15T23:30:33.492841+00:00",
+  "count": 1745,
   "sources": [
     {
       "id": "36kr",
@@ -34,6 +34,149 @@
     }
   ],
   "items": [
+    {
+      "id": "7c31485e3e847b34",
+      "title": "三星 Galaxy S26 FE 第三方手机壳渲染图曝光，直观展示机身外观设计",
+      "link": "https://www.ithome.com/0/990/205.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-15T23:25:49+00:00",
+      "summary": "IT之家 8 月 16 日消息，许多手机配件制造商会通过各种方式在新机发布之前获得手机的参数规格信息，以期提前铺货抢占市场。例如目前配件厂商 ARMOR-X 已在官网上架多款 Galaxy S26 FE 手机壳，产品渲染图机型为 Pistachio（开心果绿）版本，整体外观与现款 S25 FE 相似。综合外媒 sammyguru，当下三星 Galaxy S26 FE 完整规格已曝光，该机预计将于 ",
+      "fetched_at": "2026-08-15T23:30:16.259201+00:00"
+    },
+    {
+      "id": "5eb398074ceebc87",
+      "title": "玩家将桌面从木质换成金属后，笔记本电脑温度最多降低了 15 摄氏度",
+      "link": "https://www.ithome.com/0/990/204.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-15T23:24:47+00:00",
+      "summary": "IT之家 8 月 16 日消息，一位 Reddit 用户表示，将游戏本从木质书桌移到金属桌面上后，在玩高负载游戏时机身温度出现了明显下降，全程没有使用散热底座或其他额外硬件。这一结果表明，笔记本下方的接触面会直接影响散热表现，尤其是对于依靠机身底部进风口吸入冷空气的机型。IT之家注意到，这名用户 ID 为 MentalReserve2351，他在空调房内运行《赛博朋克 2077》完成测试后，将结果",
+      "fetched_at": "2026-08-15T23:30:16.259241+00:00"
+    },
+    {
+      "id": "a36f7b57b08c44b1",
+      "title": "英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元",
+      "link": "https://www.ithome.com/0/990/203.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-15T23:20:02+00:00",
+      "summary": "IT之家 8 月 16 日消息，英伟达 Vera Rubin 平台的量产扩张规模之大，如今已经传导到供应链中看似关联度不高的细分角落，比如 TLC NAND 现货市场。但回过头来看，TLC 现货价格上涨完全在情理之中，尤其是英伟达为 Vera Rubin 平台搭载了上下文内存扩展（Context Memory eXtension，简称 CMX）技术之后。随着 Vera Rubin 平台量产提速，C",
+      "fetched_at": "2026-08-15T23:30:16.259291+00:00"
+    },
+    {
+      "id": "da40ca4d1233b56d",
+      "title": "开发者为《我的世界》Java 版推出 Jellyfin 媒体库模组，允许玩家们一同欣赏媒体库内容",
+      "link": "https://www.ithome.com/0/990/202.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-15T23:15:31+00:00",
+      "summary": "IT之家 8 月 16 日消息，据外媒 XDA 报道，有开发者 choke527 为《我的世界（Minecraft）》Java 版 26.3-snapshot-5 版本开发了一款 Jellyfin 媒体库模组（基于 Fabric 加载器，后续计划支持 NeoForge 和 Forge），允许玩家们在游戏中与朋友一起观看媒体内容，IT之家附项目 GitHub 链接（点此访问）。虽然这个想法乍看之下有",
+      "fetched_at": "2026-08-15T23:30:16.259324+00:00"
+    },
+    {
+      "id": "6d1c338b6a0b083b",
+      "title": "Anthropic 发布 AI 风险报告：旗下智能体会攻击同类并隐藏自身违规痕迹",
+      "link": "https://www.ithome.com/0/990/201.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-15T23:09:18+00:00",
+      "summary": "IT之家 8 月 16 日消息，Claude 系列智能体正在“消灭”同类竞争对手智能体、钻系统漏洞掩盖自身痕迹，甚至还会表达道德层面的顾虑。这一结论来自 Anthropic 最新发布的风险报告，该报告汇总了公司研发并向公众开放的产品所潜藏的各类风险。报告中，Anthropic 表示已将对齐偏差风险评估（即 AI 模型产生与工程师设定规则相悖行为的可能性）等级从“极低”上调至“较低”。IT之家注意到",
+      "fetched_at": "2026-08-15T23:30:16.259369+00:00"
+    },
+    {
+      "id": "f5410bea05aa3ce4",
+      "title": "兰博基尼：目前暂无重新推出手动变速箱车型的计划",
+      "link": "https://www.ithome.com/0/990/200.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-15T23:06:57+00:00",
+      "summary": "IT之家 8 月 16 日消息，在 2026 年蒙特雷汽车周（Monterey Car Week）期间，兰博基尼董事长兼 CEO Stephan Winkelmann 在接受外媒 CarBuzz 采访时透露公司“没有重新推出手动变速箱车型的计划”。公开信息显示，兰博基尼最近一次提供手动变速箱还是 2014 款 Gallardo，其继任车型 Huracán 则全系采用 7 速双离合变速箱。此后，兰博",
+      "fetched_at": "2026-08-15T23:30:16.259406+00:00"
+    },
+    {
+      "id": "466f66d705b49dfe",
+      "title": "大众中国推出自研全场景辅助驾驶，预计 Q3 起搭载三家合资企业",
+      "link": "https://www.ithome.com/0/990/199.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-15T23:04:06+00:00",
+      "summary": "IT之家 8 月 16 日消息，CARIAD 官方近日宣布，大众汽车集团（中国）通过智能驾驶能力中心酷睿程（CARIZON）推出第一代自主研发的全场景驾驶辅助（L2++ ADAS）产品 —— 车载一段式端到端解决方案 HS8（Hyper Sense 8），专为中国用户日常面临的复杂路况与多元化交通场景量身打造。HS8 交付预告：预计 2026 年 Q3 起搭载于三家合资企业 7 款全新车型2027",
+      "fetched_at": "2026-08-15T23:30:16.259440+00:00"
+    },
+    {
+      "id": "bf668884c3b6e4cd",
+      "title": "整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问",
+      "link": "https://www.ithome.com/0/990/198.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-15T22:58:38+00:00",
+      "summary": "IT之家 8 月 16 日消息，网页项目 Your AI Slop Bores Me 近日上线，这款平台的精妙之处，藏在它极简的设计之中。平台设有两个标签页：真人提问端与 AI 扮演端。一侧输入需求，另一侧提交回答，但最核心的设定是，交互两端的操作者全都是真实的人。用户可以要求文字或图片形式的回复，扮演 AI 的一方则有 150 秒的作答时间。和真正的大语言模型一样，Your AI Slop Bo",
+      "fetched_at": "2026-08-15T23:30:16.259468+00:00"
+    },
+    {
+      "id": "c9e9dfda95d715e3",
+      "title": "特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元",
+      "link": "https://www.ithome.com/0/990/197.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-15T22:57:29+00:00",
+      "summary": "IT之家 8 月 16 日消息，特斯拉现已在美国市场为旗下 Model Y L 车型推出新款外供电适配器，允许车主利用车辆动力电池，以 120V、20A 的规格输出最高 2.4kW 电力，定价为 80 美元（IT之家注：现汇率约合 540.5 元人民币）。据介绍，该产品实际上是一款安装在特斯拉第三代移动充电连接器（Gen 3 Mobile Connector）末端的转接配件，用户需要将充电枪插入车",
+      "fetched_at": "2026-08-15T23:30:16.259495+00:00"
+    },
+    {
+      "id": "29a0e99b94f609df",
+      "title": "前 Square Enix 高管 Jacob Navok：索尼取消实体光盘有望促使 PS Store 数字游戏降价",
+      "link": "https://www.ithome.com/0/990/196.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-15T22:49:51+00:00",
+      "summary": "IT之家 8 月 16 日消息，据外媒 TweakTown 报道，前 Square Enix 商务开发部门负责人 Jacob Navok 发文，认为目前 PlayStation Store（PS Store）上的数字版游戏定价在很大程度上仍受到实体光盘零售价格影响。随着实体光盘逐渐退出市场，游戏发行商将不得不在 PS Store 内展开更加直接的价格竞争，其机制可能会逐渐接近 Steam，因此索尼",
+      "fetched_at": "2026-08-15T23:30:16.259536+00:00"
+    },
+    {
+      "id": "8ce8817e5c89decf",
+      "title": "行驶里程不到 400 公里，法拉利 Daytona SP3 拍出约 1.2 亿元天价",
+      "link": "https://www.ithome.com/0/990/195.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-15T22:48:35+00:00",
+      "summary": "IT之家 8 月 16 日消息，一辆 2023 款法拉利 Daytona SP3 凭借惊艳的配置和几乎全新的车况，在美国加州蒙特雷汽车周期间举行的 RM Sotheby's 拍卖会上拍出了令人瞠目结舌的价格。最终，一位神秘买家以 1,782.5 万美元（IT之家注：现汇率约合 1.2 亿元人民币）的价格将这辆来自“Driver's Philosophy Collection”收藏的法拉利收入囊中。",
+      "fetched_at": "2026-08-15T23:30:16.259650+00:00"
+    },
+    {
+      "id": "13fd714e2849e92e",
+      "title": "进一步打通手机电脑互联：消息称三星正在为 One UI 9.5 测试 App Mirroring 应用镜像功能",
+      "link": "https://www.ithome.com/0/990/194.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-15T22:43:51+00:00",
+      "summary": "IT之家 8 月 16 日消息，消息源 Fahad Ali Javed 发文，透露三星正在为 One UI 9.5 测试一项内置的 App Mirroring 应用镜像功能，可将 Galaxy 手机应用投射到 Galaxy Book 笔记本上。IT之家参考曝光截图，其中显示用户可通过无线方式直接在笔记本电脑上访问手机中的应用和通知。使用相应功能需要同时开启蓝牙和 Wi-Fi，并确保手机与电脑登录的",
+      "fetched_at": "2026-08-15T23:30:16.259682+00:00"
+    },
+    {
+      "id": "5af557ac5eefd14d",
+      "title": "安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍",
+      "link": "https://www.ithome.com/0/990/193.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-15T22:37:02+00:00",
+      "summary": "IT之家 8 月 16 日消息，安全公司 Surfshark 现已披露旗下 Surfshark Antivirus 反病毒业务数据报告，统计结果显示，Windows 用户遭遇恶意软件攻击的频率约为 macOS 用户的 6 倍。Surfshark 表示，其针对 2026 年 1 月至 7 月期间累计约 39.1 万次恶意软件检测记录进行了分析。结果显示，虽然 Windows 用户仅占 Surfsha",
+      "fetched_at": "2026-08-15T23:30:16.259723+00:00"
+    },
     {
       "id": "72a73af5b8774f81",
       "title": "AI 编曲控制台 Suno Studio 2.0 发布：新增 MIDI 支持、效果插件",
@@ -19085,193 +19228,6 @@
       "published_at": "2026-08-08T23:33:04+00:00",
       "summary": "IT之家 8 月 9 日消息，8 月 8 日，一篇名为《在 Mac 上配合 Apple 智能使用千问》的支持文档现身苹果官网 Mac 简体中文使用手册，其中明确提到 Apple 智能可配合阿里巴巴千问模型工作。然而，现在这份中文操作手册已从苹果官网被删除，原网页链接无法正常访问。据苹果官网此前所述，千问扩展适用于 macOS 26.6 或更高版本，用户满足以下三种情形之一可以开启：位于中国大陆且 ",
       "fetched_at": "2026-08-09T02:23:56.606567+00:00"
-    },
-    {
-      "id": "75246aec5602fda3",
-      "title": "未成年人建“吃瓜群”放任传播同学隐私，被判侵权",
-      "link": "https://www.ithome.com/0/987/466.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-08T23:30:03+00:00",
-      "summary": "IT之家 8 月 9 日消息，据央视新闻报道，北京市第四中级人民法院近日审结一起涉未成年人名誉权、肖像权纠纷案件。法院在该案件中明确，未成年人建立“吃瓜群”，放任群成员传播同学隐私视频、照片，其虽然并非视频的拍摄者、直接发布者，但仍会因其在传播过程中发挥组织、放任等作用，构成侵权并承担相应责任。IT之家参考报道获悉，小王与小李是高中同班同学，均是未成年人。一天，小王从小张（已另案处理）处获得了小李",
-      "fetched_at": "2026-08-08T23:38:51.611122+00:00"
-    },
-    {
-      "id": "fd4a19ca43a65c05",
-      "title": "研究：人们无法有效区分 AI 生成与人类原创短篇小说",
-      "link": "https://www.ithome.com/0/987/465.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-08T23:24:13+00:00",
-      "summary": "IT之家 8 月 9 日消息，从《奥德赛》到阿加莎 · 克里斯蒂的犯罪小说，人类创作了大量精彩故事，填满了一代又一代人的书架。但一项研究表明，如今人工智能或许已经开始成为人类作家的竞争对手。发表在《判断与决策》（Judgment and Decision Making）期刊上的一项研究显示，研究人员邀请 1,682 名成年人阅读 6 篇短篇小说，其中 3 篇由人类创作，另外 3 篇由 ChatGP",
-      "fetched_at": "2026-08-08T23:38:51.611184+00:00"
-    },
-    {
-      "id": "a535dd325c33e6b8",
-      "title": "115 网盘 API 开放平台即日起暂停服务",
-      "link": "https://www.ithome.com/0/987/464.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-08T23:23:17+00:00",
-      "summary": "IT之家 8 月 9 日消息，115 网盘发布公告，宣布 115 网盘 API 开放平台即日起暂停服务，恢复时间及后续安排，需以后续官方公告为准。IT之家获悉，115 网盘开放平台主要允许开发者和第三方应用通过标准接口接入其云存储服务。其采用 OAuth2.0 授权协议，用户可通过申请 API 密钥，获取文件上传、下载、分享、目录管理等核心功能。",
-      "fetched_at": "2026-08-08T23:38:51.611203+00:00"
-    },
-    {
-      "id": "20e21684f86cf042",
-      "title": "美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众",
-      "link": "https://www.ithome.com/0/987/463.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-08T23:19:05+00:00",
-      "summary": "IT之家 8 月 9 日消息，据央视新闻今日报道，据美国方面 7 日消息，美国内华达州最大能源供应商内华达能源公司已经正式起诉正在该州建造数据中心的一家开发商，指控其试图将电费成本转嫁给消费者。据称，内华达能源公司为内华达州 90% 的用户供电，而在建的两家数据中心建成后将消耗的电力，几乎占内华达能源公司总发电量的三分之一。内华达能源公司要求数据中心开发商必须启动价值 10 亿美元（IT之家注：现",
-      "fetched_at": "2026-08-08T23:38:51.611235+00:00"
-    },
-    {
-      "id": "8b2f5c4e32d283e8",
-      "title": "Ubisoft Connect 喜加一：经典游戏《幽灵行动：未来战士》免费领",
-      "link": "https://www.ithome.com/0/987/462.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-08T23:18:06+00:00",
-      "summary": "IT之家 8 月 9 日消息，育碧为庆祝《幽灵行动》（Ghost Recon）系列迎来 25 周年，即日起推出系列纪念活动，不仅开启全系列折扣促销，最低可享 95 折优惠，同时限时免费赠送 PC 版《幽灵行动：未来战士》（Tom Clancy's Ghost Recon：Future Soldier）。IT之家获悉，本次免费赠送的是 2012 年推出的 PC 版本，但该版本不支持，玩家只需在活动期",
-      "fetched_at": "2026-08-08T23:38:51.611273+00:00"
-    },
-    {
-      "id": "d7621aef8f48e38a",
-      "title": "Epic 喜加一：原价 3 元模拟经营游戏《happiness market》免费领",
-      "link": "https://www.ithome.com/0/987/461.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-08T23:09:27+00:00",
-      "summary": "IT之家 8 月 9 日消息，由独立开发者 luolei 制作的 2D 商店经营模拟游戏《happiness market》目前已在 Epic Games Store 开启限时免费领取“喜加一”活动，本作在国区定价为 3 元，活动将持续至北京时间 8 月 15 日凌晨 0 点结束。需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（https:/",
-      "fetched_at": "2026-08-08T23:38:51.611301+00:00"
-    },
-    {
-      "id": "077189b4321e4da7",
-      "title": "模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄",
-      "link": "https://www.ithome.com/0/987/460.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-08T23:07:19+00:00",
-      "summary": "IT之家 8 月 9 日消息，模块化、可维修电脑制造商 Framework 表示，由于一家商业智能服务提供商遭到网络攻击，黑客窃取了 Framework 客户的姓名、电子邮件地址、电话号码和实体地址。Framework 已通知所有受影响的客户。当地时间周四，多名 Framework 用户在社交媒体上表示，他们收到了公司发来的数据泄露通知邮件。Framework 发言人 Eric Schumache",
-      "fetched_at": "2026-08-08T23:38:51.611330+00:00"
-    },
-    {
-      "id": "383031c43c3844fa",
-      "title": "《毁灭战士》开发者抨击微软 XBOX“不理解艺术”，轻率裁员重创 id Software 工作室",
-      "link": "https://www.ithome.com/0/987/459.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-08T23:05:34+00:00",
-      "summary": "IT之家 8 月 9 日消息，《毁灭战士》（Doom）开发商 id Software 在今年 7 月经历裁员后，该工作室首席服务程序员 Chris Hays 在近期接受游戏播客《Auf ein Bier》主持人 Andre Peschke 采访时，对微软 Xbox 的管理方式提出了严厉批评，直言 Xbox “从根本上不理解艺术”。IT之家获悉，Hays 目前仍任职于 id Software，该工作",
-      "fetched_at": "2026-08-08T23:38:51.611364+00:00"
-    },
-    {
-      "id": "aeac7d27d5677ddb",
-      "title": "谷歌重新调整黑客组织命名体系，弃用 APT 命名改用易记名称",
-      "link": "https://www.ithome.com/0/987/458.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-08T22:59:50+00:00",
-      "summary": "IT之家 8 月 9 日消息，十多年来，网络安全行业一直在为不同的黑客组织命名。其中一些组织，例如 Fancy Bear（奇幻熊），凭借引人注目的网络攻击以及容易记忆的名字走入大众视野；另一些组织则只在网络安全行业内部为人所知。很多时候，就连业内人士也很难记清所有黑客组织的名称。部分原因在于，不同公司采用了不同的命名方式。因此，才会出现一些资料库，试图成为一个“一站式”参考工具，让网络安全从业者、",
-      "fetched_at": "2026-08-08T23:38:51.611437+00:00"
-    },
-    {
-      "id": "9def2c6903d9aafe",
-      "title": "我国渤海首个千亿方大气田 Ⅰ 期开发项目全面投产，日产油气超 5200 吨",
-      "link": "https://www.ithome.com/0/987/457.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-08T22:56:56+00:00",
-      "summary": "IT之家 8 月 9 日消息，据央视新闻报道，今天（8 月 9 日），记者从中国海油获悉，我国渤海首个千亿方大气田 —— 渤中 19-6 气田 Ⅰ 期开发项目全面投产，日产油气当量超 5200 吨。据介绍，渤中 19-6 气田位于渤海中部海域，探明天然气地质储量超 2000 亿立方米、探明石油液体地质储量超 2 亿立方米。气田埋藏深度超过 5000 米，油气藏分布范围广、储层类型复杂，开发难度远超",
-      "fetched_at": "2026-08-08T23:38:51.611480+00:00"
-    },
-    {
-      "id": "6f5c5d4677db77ae",
-      "title": "福特确认开发四门版 Mustang 车型，预计 2027 年底亮相",
-      "link": "https://www.ithome.com/0/987/456.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-08T22:54:27+00:00",
-      "summary": "IT之家 8 月 9 日消息，据外媒 autoevolution 报道，福特高层近日在拉斯维加斯举行的一场内部会议上确认，外界传闻多年的四门版 Mustang 确实正在开发中，起售价将低于 4 万美元（IT之家注：现汇率约合 27 万元人民币），预计将于明年（2027 年）年底亮相。据参加此次会议的两名消息人士透露，福特在会议期间还展示了相应车型的早期原型车，让经销商提前了解未来产品规划。该车尺寸",
-      "fetched_at": "2026-08-08T23:38:51.611514+00:00"
-    },
-    {
-      "id": "0dbbfb8267704d0e",
-      "title": "OpenAI 收购 AI 演示文稿初创公司 NextSlide",
-      "link": "https://www.ithome.com/0/987/455.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-08T22:54:22+00:00",
-      "summary": "IT之家 8 月 9 日消息，NextSlide 近日宣布加入 OpenAI，其团队成员现已投身于 ChatGPT 的开发工作。NextSlide 官网目前展示了一份由创始人 Ahmed Beshry 发布的说明。Beshry 在其中介绍称，NextSlide 的产品可以“将提示词、笔记、文档或研究资料转化为精美且可编辑的演示文稿”。Beshry 表示，公司的最终目标是“让视觉化沟通变得更加普及，",
-      "fetched_at": "2026-08-08T23:38:51.611541+00:00"
-    },
-    {
-      "id": "7b3486770063e7c7",
-      "title": "服装品牌李维斯遭黑客攻击，部分企业数据被窃取",
-      "link": "https://www.ithome.com/0/987/454.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-08T22:50:22+00:00",
-      "summary": "IT之家 8 月 9 日消息，据外媒 Cyber Insider 报道，以牛仔裤闻名的服装品牌李维斯（Levi Strauss）近日遭遇一起数据安全事件，黑客通过社交媒体对公司员工实施钓鱼攻击，随后疑似成功获取了 3 台员工电脑的访问权限，并进一步窃取了部分企业数据。目前，李维斯尚未公布黑客具体访问了哪些企业数据。不过公司称本次安全事件发生后内部已启动应急响应计划、采取遏制措施，并聘请外部网络安全",
-      "fetched_at": "2026-08-08T23:38:51.611562+00:00"
-    },
-    {
-      "id": "4b8fb2f2d0dd9e90",
-      "title": "亚马逊筹建得州数据中心，配套发电厂或成美国最大碳排放源",
-      "link": "https://www.ithome.com/0/987/453.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-08T22:50:19+00:00",
-      "summary": "IT之家 8 月 9 日消息，据《纽约时报》报道，亚马逊正在得克萨斯州佩科斯县筹建一座数据中心，并计划投资建设一座配套发电厂。按照目前的规划，这座发电厂未来可能成为美国最大的温室气体排放源。《纽约时报》称，这座发电厂将使用天然气发电，并已获准每年排放 3,300 万吨二氧化碳，排放量将超过美国目前任何一座发电厂。亚马逊发言人在一份声明中确认，该数据中心将“由新的现场发电设施供电，而且不会推高得州家",
-      "fetched_at": "2026-08-08T23:38:51.611583+00:00"
-    },
-    {
-      "id": "d96e14182cb734dd",
-      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-      "link": "https://www.ithome.com/0/987/452.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-08T22:46:14+00:00",
-      "summary": "IT之家 8 月 9 日消息，OpenAI 当地时间周四宣布，已更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持。用户现在可以直接通过语音与 ChatGPT 对话，控制 AI 智能体，并让其在电脑上执行各种任务。这项新功能基于 OpenAI 全新的语音模型系列 ChatGPT-Live。OpenAI 于本月早些时候推出了该系列模型。OpenAI 表示，ChatGPT Vo",
-      "fetched_at": "2026-08-08T23:38:51.611621+00:00"
-    },
-    {
-      "id": "0e7c940dec4e03aa",
-      "title": "X 平台将于 9 月 8 日推出全新“原创内容奖励计划”，要求至少拥有 500 名经过认证的粉丝才可参与",
-      "link": "https://www.ithome.com/0/987/451.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-08T22:42:31+00:00",
-      "summary": "IT之家 8 月 9 日消息，SpaceX AI 旗下负责创作者产品的高级产品经理 Allegra Jacchia 在 X 平台发文，宣布 X 平台将于 9 月 8 日推出全新的“原创内容奖励计划”（Original Content Rewards）。根据新计划，创作者需要满足一定条件才有资格参与，包括至少拥有 500 名经过认证的粉丝，并且过去 90 天内来自认证用户的主页时间线（Home Ti",
-      "fetched_at": "2026-08-08T23:38:51.611649+00:00"
-    },
-    {
-      "id": "86fe4fd11da75fac",
-      "title": "微软更新服务协议，移除部分老旧产品相关条款",
-      "link": "https://www.ithome.com/0/987/450.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-08T22:37:53+00:00",
-      "summary": "IT之家 8 月 9 日消息，微软现已更新面向用户的《微软服务协议》（Microsoft Services Agreement），主要移除了部分已停止运营的老旧产品，同时进行部分文字表述调整、语法修正以及错误修复。新版服务协议预计将于 9 月 30 日正式生效，在此之前，用户仍将继续受到现有版本协议的约束。具体来看，微软将 Groove（音乐）从“数字商品”相关章节中移除，不过目前该服务名称仍出现",
-      "fetched_at": "2026-08-08T23:38:51.611677+00:00"
     }
   ]
 }
