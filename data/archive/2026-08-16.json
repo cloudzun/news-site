@@ -1,7 +1,205 @@
 {
   "date": "2026-08-16",
-  "count": 1751,
+  "count": 1754,
   "items": [
+    {
+      "id": "3455a602a75a1654",
+      "title": "准确率 87%-91%，AI 可通过图片视觉线索识别拍照地点",
+      "link": "https://www.ithome.com/0/990/420.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-16T23:27:04+00:00",
+      "summary": "IT之家 8 月 17 日消息，如今，AI 工具已经能够通过分析社交媒体上分享的照片，判断照片拍摄者所在的位置。即使用户已经删除照片中的位置标签或 GPS 信息，这项技术仍然可能带来新的隐私风险。McAfee Labs 最近的一项研究发现，在测试的旅行照片中，AI 能够识别出照片拍摄地点的比例达到 87% 至 91%。这类技术并不只是依赖 GPS 元数据，而是通过分析照片本身包含的视觉线索来判断位",
+      "fetched_at": "2026-08-16T23:30:10.368604+00:00"
+    },
+    {
+      "id": "8e57cb7639dcb41e",
+      "title": "小米米家净水器 2 沸腾版发售：100℃ 真沸腾水、2000G 温热水流速，到手价 2832 元",
+      "link": "https://www.ithome.com/0/990/419.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-16T23:26:46+00:00",
+      "summary": "IT之家 8 月 17 日消息，小米米家净水器 2 沸腾版将于今晚 8 点正式发售，原价 3399 元，到手价 2832 元，政府补贴价 2549 元。京东小米米家净水器 2 沸腾版券后 2832 元点此访问这款净水器支持提供纯净水、温热水、沸水三种出水，轻触开水键即可出 100℃ 真沸腾水，采用先净化再烧开的方案；达到等效 2000G 温热水流速，温热水流速达 5.4L/min，开水挡流速 2L",
+      "fetched_at": "2026-08-16T23:30:10.368651+00:00"
+    },
+    {
+      "id": "2e05f760cf549ed2",
+      "title": "Linux 发行版 TUXEDO OS 开启新一代系统版本公测，底层从 Ubuntu 全面转向 Debian Testing 测试版分支",
+      "link": "https://www.ithome.com/0/990/418.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-16T23:23:04+00:00",
+      "summary": "IT之家 8 月 17 日消息，Linux 发行版 TUXEDO 开发团队宣布正式开启新一代 TUXEDO OS 公测，新版系统最大的变化是从 Ubuntu 全面转向 Debian Testing（Debian 测试版分支）。TUXEDO 开发团队表示，先前 TUXEDO OS 采用 Ubuntu LTS 作为底层，然而这给团队带来了较大的维护工作负载，同时由于 Canonical 日益强化对 S",
+      "fetched_at": "2026-08-16T23:30:10.368708+00:00"
+    },
+    {
+      "id": "621283007f385189",
+      "title": "AI 热潮推高存储需求，德国 DDR5 内存价格暴涨至去年同期近 5 倍",
+      "link": "https://www.ithome.com/0/990/417.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-16T23:21:18+00:00",
+      "summary": "IT之家 8 月 17 日消息，几乎所有 DDR5 内存套装的价格都出现了明显上涨，导致目前 DDR5 内存的平均价格已经接近 2025 年 7 月水平的 5 倍。内存价格上涨似乎没有尽头，在经历了 4 月和 5 月短暂的价格稳定后，内存价格从接下来的几个月开始迅速上涨。虽然本文主要分析德国市场的 DDR5 内存价格走势，但全球其他地区的情况基本也与之类似。AI 热潮持续推动内存价格上涨，如今想要",
+      "fetched_at": "2026-08-16T23:30:10.368752+00:00"
+    },
+    {
+      "id": "ff21eed0809cab75",
+      "title": "【钛晨报】跨国公司本外币跨境资金集中运营业务将推广至全国；1600亿翻倍牛股，签下超亿元芯片合同；今年以来最贵新股，定于8月18日上市",
+      "link": "https://www.tmtpost.com/8105146.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-16T23:20:00+00:00",
+      "summary": "国泰海通：中国股市将逐步迎来“金秋行情”；贵州茅台上半年净利润同比下降1.95%，商汤预计上半年转盈约5亿元至7亿元；智谱发布GLM-5.3、阿里开源Qwen3.8；中国2026暑期档票房超100亿；英伟达二季度新增持有SpaceX；Anthropic第二财季营收同比飙升至少13倍；广东首个词元经济“Token贷”发布。",
+      "fetched_at": "2026-08-16T23:30:12.990001+00:00"
+    },
+    {
+      "id": "098905567b07c227",
+      "title": "法拉利首款纯电车型 Luce 原型车拍出 4000 万美元天价，成交款全部用于慈善",
+      "link": "https://www.ithome.com/0/990/416.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-16T23:13:18+00:00",
+      "summary": "IT之家 8 月 17 日消息，第一辆 Ferrari Luce “Tailor Made”定制版，也就是底盘编号 #0 的原型车，刚刚在美国加州蒙特雷举行的 RM 拍卖会上以 4,000 万美元（IT之家注：现汇率约合 2.7 亿元人民币）成交，远超此前 110 万美元（现汇率约合 743.7 万元人民币）的预估价。更令人难以置信的是，这款车的起售价只有 60 万美元（现汇率约合 405.6 万",
+      "fetched_at": "2026-08-16T23:30:10.368824+00:00"
+    },
+    {
+      "id": "cd11a83d4a01f8ee",
+      "title": "Mozilla 宣布正为苹果 iOS 版 Firefox 火狐浏览器引入原生广告拦截功能",
+      "link": "https://www.ithome.com/0/990/415.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-16T23:12:00+00:00",
+      "summary": "IT之家 8 月 17 日消息，Mozilla 发文，计划为苹果 iOS 版 Firefox 火狐浏览器加入原生广告拦截功能，允许 iOS 版 Firefox 直接拦截广告，而无需依赖扩展等第三方解决方案。据 Mozilla 公布的支持文档，该功能使用了基于 EasyList 的过滤规则列表，可以在网络层面屏蔽多种广告内容，包括第三方广告网络、广告追踪器、网站中的第三方广告，以及弹窗广告、视频覆盖",
+      "fetched_at": "2026-08-16T23:30:10.368854+00:00"
+    },
+    {
+      "id": "92fc25f819373ef7",
+      "title": "建模交易平台 CGTrader：AI 生成的 3D 模型数量激增，但销售额仅占 1%",
+      "link": "https://www.ithome.com/0/990/414.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-16T23:07:04+00:00",
+      "summary": "IT之家 8 月 17 日消息，随着“图生 3D 模型”AI 工具逐步流行，目前许多 3D 建模交易平台都遭到各种 AI 生成的 3D 模型“轰炸”，不过参考 CGTrader 报告显示，尽管此类 AI 内容正在平台上快速增加，但相关商品的实际销售情况却并未同步增长。IT之家参考报告获悉，目前 CGTrader 平台约有六分之一的新上架商品由 AI 生成，不过相应商品的销售表现却十分有限，其销售额",
+      "fetched_at": "2026-08-16T23:30:10.368892+00:00"
+    },
+    {
+      "id": "629f61e57f0d7ef2",
+      "title": "DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍",
+      "link": "https://www.ithome.com/0/990/413.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-16T23:03:35+00:00",
+      "summary": "IT之家 8 月 17 日消息，8 月 13 日，深度求索官方宣布将对 DeepSeek API 价格进行更新调整，采用峰谷定价，空闲时段价格为高峰时段价格的一半。今日起，该定价方案正式生效。高峰时段为北京时间 9:00 - 12:00、14:00 - 18:00（IT之家注：其余为空闲时段）。新价格于北京时间 2026 年 8 月 17 日 00:00 开始生效，具体如下：模型百万 tokens",
+      "fetched_at": "2026-08-16T23:30:10.368935+00:00"
+    },
+    {
+      "id": "909c8aa668037867",
+      "title": "分析公司 Ampere Analysis：索尼放弃实体游戏光盘有助于控制 PS6 游戏机售价",
+      "link": "https://www.ithome.com/0/990/412.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-16T23:01:00+00:00",
+      "summary": "IT之家 8 月 17 日消息，近期业界硬件涨价潮导致外界对 PS6 售价产生了不少悲观预测，甚至有人担心新主机售价可能突破 1,000 美元（IT之家注：现汇率约合 6,761 元人民币）。不过，分析公司 Ampere Analysis 游戏研究负责人 Piers Harding-Rolls 认为，索尼近期官宣的“逐步放弃实体游戏光盘”反而可能帮助控制 PS6 售价。尽管外界一直批评 PlayS",
+      "fetched_at": "2026-08-16T23:30:10.368982+00:00"
+    },
+    {
+      "id": "924623f3dd008cab",
+      "title": "消息称英特尔计划推出入门级 Panther Lake 掌机芯片，配备 4 个 Xe3 核心",
+      "link": "https://www.ithome.com/0/990/411.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-16T22:59:21+00:00",
+      "summary": "IT之家 8 月 17 日消息，英特尔的掌机产品线可能即将迎来一款更便宜的小弟。据爆料人士 Jaykihn 透露（这位爆料者此前曾多次准确曝光英特尔产品规格），英特尔似乎正在准备一款采用“4+0+4+4”架构布局的 Panther Lake 掌机芯片。这一配置意味着芯片拥有 4 个 P-Core 性能核心、0 个 E-Core 能效核心、4 个 LPE 低功耗核心以及 4 个 Xe3 图形核心。相",
+      "fetched_at": "2026-08-16T23:30:10.369062+00:00"
+    },
+    {
+      "id": "8e0c2984b3b11ce7",
+      "title": "支付巨头 Stripe 敲定收购 AI 初创公司 OpenRouter，金额超 70 亿美元",
+      "link": "https://www.ithome.com/0/990/410.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-16T22:56:22+00:00",
+      "summary": "IT之家 8 月 17 日消息，据彭博社报道，支付巨头 Stripe 已经敲定收购 AI 基础设施初创公司 OpenRouter 的交易，收购金额超过 70 亿美元（IT之家注：现汇率约合 473.24 亿元人民币）。OpenRouter 主要帮助用户根据具体需求和预算，在不同 AI 模型之间进行选择，从而为不同任务匹配合适的模型。该公司今年 5 月宣布完成 1.13 亿美元（现汇率约合 7.64",
+      "fetched_at": "2026-08-16T23:30:10.369103+00:00"
+    },
+    {
+      "id": "db1a51427a255ba2",
+      "title": "凯迪拉克在北美市场全面转向 NACS 充电接口",
+      "link": "https://www.ithome.com/0/990/409.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-16T22:52:15+00:00",
+      "summary": "IT之家 8 月 17 日消息，凯迪拉克宣布正式转向 NACS 充电接口，公司将为旗下 2027 款 Escalade IQ 车型中换用 NACS 充电接口，后续其他车型也将陆续跟进。作为参考，目前凯迪拉克北美市场在售车辆中只有 Optiq 车型原生配备 NACS 充电接口。公开信息显示，NACS 充电接口目前已几乎成为北美地区统一的电动汽车充电接口标准。该标准最初由特斯拉于 2012 年为自家车",
+      "fetched_at": "2026-08-16T23:30:10.369127+00:00"
+    },
+    {
+      "id": "cb1a6e22e8181297",
+      "title": "告别老旧硬件：Linux 内核将 TSC 设为 x86 处理器硬性要求",
+      "link": "https://www.ithome.com/0/990/408.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-16T22:46:00+00:00",
+      "summary": "IT之家 8 月 17 日消息，Linux 内核终于将时间戳计数器（TSC）设为 x86 处理器的硬性要求，而微软早在十多年前就已经开始将其作为兼容 Windows 系统中高精度计时的首选依据。Linux 内核近期提交的一项修改，移除了剩余的配置逻辑，使 x86 内核无法在不支持 TSC 的情况下进行构建。这项提交名为“x86/cpu: Make CONFIG_X86_TSC unconditio",
+      "fetched_at": "2026-08-16T23:30:10.369216+00:00"
+    },
+    {
+      "id": "d2703b4f4e1b1b98",
+      "title": "HMD 2760 Flip 4G 翻盖机曝光：搭载安卓 13 Go 系统、展锐 T310 处理器",
+      "link": "https://www.ithome.com/0/990/407.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-16T22:45:40+00:00",
+      "summary": "IT之家 8 月 17 日消息，消息源 smashx_60 发文，透露 HMD Global 即将推出一款 HMD 2760 Flip 4G 翻盖机，该机提供黑色、青色和粉色三种选择，整体造型沿用诺基亚 2760 Flip，延续 2.8 英寸主屏、1.77 英寸外屏、500 万像素主摄。该机最大的特色是运行基于安卓 13 Go 的“Icon OS 13”系统，作为参考，先前诺基亚 2760 Fli",
+      "fetched_at": "2026-08-16T23:30:10.369251+00:00"
+    },
+    {
+      "id": "02589d1926365a40",
+      "title": "筹备 IPO 之际，消息称 OpenAI 已解散旗下风险防范团队",
+      "link": "https://www.ithome.com/0/990/406.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-16T22:42:30+00:00",
+      "summary": "IT之家 8 月 17 日消息，据《金融时报》报道，OpenAI 已于上月末解散旗下风险防范团队。该团队的核心工作是评估公司模型是否存在重大风险，并制定风险缓解措施，比如模型失控入侵其他企业这类极端场景。报道称，相关职责现已按生物安全、网络安全等细分领域拆分，并入公司现有业务团队。IT之家注意到，这是 OpenAI 近期最新的架构变动。眼下公司正筹备市场预期中规模空前的 IPO，内部始终处于动荡调",
+      "fetched_at": "2026-08-16T23:30:10.369275+00:00"
+    },
+    {
+      "id": "a3893680e00dd24e",
+      "title": "上线仅半年多，字节旗下付费小说 App“红烛故事”正式关停",
+      "link": "https://www.ithome.com/0/990/405.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-16T22:39:51+00:00",
+      "summary": "IT之家 8 月 17 日消息，综合字节跳动公告，字节旗下付费小说 App 红烛故事于今起正式停止服务，服务器正式关闭，届时及以后将无法登录 App 或访问相关服务。不同于字节旗下的“番茄免费小说”，红烛故事除了有免费专区外，还有会员专区，用户需付费开通会员，而一些付费书会员可以享 8 折优惠购买。从竞争格局看，当前市场早已形成“一超多强”态势。艾媒金榜《2025 年中国网文 IP 平台排行榜》显",
+      "fetched_at": "2026-08-16T23:30:10.369303+00:00"
+    },
+    {
+      "id": "f1839b5cb44fe7ca",
+      "title": "Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载",
+      "link": "https://www.ithome.com/0/990/404.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-16T22:36:24+00:00",
+      "summary": "IT之家 8 月 17 日消息，综合外媒 bleepingcomputer，Anthropic Claude 目前出现大规模服务故障，多名用户反馈无法正常登录，Anthropic 旗下多项服务的运行性能也受到影响。根据 Anthropic 通报，此次故障于 2026 年 8 月 17 日 5:58（北京时间）左右开始，目前影响 Claude.ai、Claude Code 和 Claude Cowo",
+      "fetched_at": "2026-08-16T23:30:10.369335+00:00"
+    },
     {
       "id": "539083299c560d68",
       "title": "奇瑞捷豹路虎神行者 8 预售订单突破 1 万台，售价 33.99 万元起",
@@ -19097,171 +19295,6 @@
       "published_at": "2026-08-09T23:30:59+00:00",
       "summary": "IT之家 8 月 10 日消息，据外媒 neowin 报道，近期博主 Zortos 与 dpadGuy 成功利用漏洞，进入了英伟达云游戏平台 GeForce NOW 服务底层运行的 Windows 桌面环境，将平台变成了“云电脑”，目前英伟达尚未对此进行回应。具体来看，整个过程以游戏《Trove》作为入口，Zortos 并非直接启动游戏，而是在配置过程中打开 Steam 内置网页浏览器，访问本地存",
       "fetched_at": "2026-08-09T23:40:55.420769+00:00"
-    },
-    {
-      "id": "f15181307fa690eb",
-      "title": "新生可提前 20 天预约购票，中国铁路发布官方指南",
-      "link": "https://www.ithome.com/0/987/653.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-09T23:27:32+00:00",
-      "summary": "IT之家 8 月 10 日消息，随着各大院校进入开学季，铁路将迎来学生旅客出行高峰，中国铁路 12306 手机客户端新增新生预约功能，并发布官方指南，IT之家整理如下。1、如何提交预约申请？2026 年 8 月 1 日至 30 日，火车票学生预约购票服务中新增新生预约功能，符合条件的 2026 级新生在铁路 12306 手机客户端“学生资质核验”版块填写相关信息后，可通过“学生预约购票服务”专区中",
-      "fetched_at": "2026-08-09T23:40:55.420816+00:00"
-    },
-    {
-      "id": "87dce48dc1be2f44",
-      "title": "硅谷 AI 抢人大战，光砸钱已经不够用了",
-      "link": "https://www.ithome.com/0/987/652.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-09T23:26:10+00:00",
-      "summary": "IT之家 8 月 10 日消息，据 Business Insider 报道，在争夺顶尖 AI 人才的大战中，薪资反而是最容易解决的问题。Cursor 是一家估值 600 亿美元（IT之家注：现汇率约合 4,059.04 亿元人民币）的公司，旗下拥有一系列广受欢迎的编程工具，近期已被 SpaceX 收购。对于 Cursor 来说，招聘顶尖人才有点像试图追求一个完全高攀不起的人。“完成招聘是一项团队运",
-      "fetched_at": "2026-08-09T23:40:55.420878+00:00"
-    },
-    {
-      "id": "0d8a19c9e02354af",
-      "title": "【钛晨报】7月物价温和运行：CPI同比上涨0.5%，AI消费电子成新兴涨价动能；原字节跳动机器人一号位加入小米；苹果被曝正在测试长鑫科技存储芯片，用于iPhone和MacBoo",
-      "link": "https://www.tmtpost.com/8096820.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-09T23:20:00+00:00",
-      "summary": "腾讯WorkBuddy手机端实现与桌面端跨设备协同；于东来发文回应关闭胖东来许昌生活广场店；苹果中国官网删除Apple智能接入阿里千问手册；马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该系统今年将实现年收200亿美元；摩尔线程：筹划发行H股股票并在港交所主板上市；遭遇持续高温，韩国电力需求创今年新高",
-      "fetched_at": "2026-08-10T02:28:53.121176+00:00"
-    },
-    {
-      "id": "9d9bfa7a6f5be5a8",
-      "title": "Purism 推出 Librem 16 Linux 笔记本：配备双物理隐私开关、搭酷睿 i7-13620H 处理器",
-      "link": "https://www.ithome.com/0/987/651.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-09T23:17:40+00:00",
-      "summary": "IT之家 8 月 10 日消息，制造商 Purism 宣布推出一款 Librem 16 Linux 笔记本，该机强调用户隐私保护，基础版本配备 16GB RAM 和 512GB SSD，售价为 2,899 美元（IT之家注：现汇率约合 19,612 元人民币）；顶配版本搭载 64GB RAM 和 16TB SSD，售价高达 9,799 美元（现汇率约合 66,291 元人民币）。Purism Li",
-      "fetched_at": "2026-08-09T23:40:55.420918+00:00"
-    },
-    {
-      "id": "55a509a75beb4f8d",
-      "title": "派早报：央视曝光酒店评级标识消费陷阱",
-      "link": "https://sspai.com/post/113268",
-      "source_id": "sspai",
-      "source_name": "少数派",
-      "category": "tech",
-      "published_at": "2026-08-09T23:08:03+00:00",
-      "summary": "央视曝光酒店评级标识消费陷阱《时代》网站展示仅 AI 可见广告Edge 浏览器将禁用 Manifest V2 扩展油价上涨致美国混动车需求激增廉价手机壳存在毒性隐患美国调查中国 AI 企业使用海外英伟达芯片看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文",
-      "fetched_at": "2026-08-10T15:11:38.356425+00:00"
-    },
-    {
-      "id": "b6c948326c5e6c83",
-      "title": "汽车行业全面转向数字音频，消息称目前美国市场仅有斯巴鲁旗下两款在售新车仍可选配 CD 播放器",
-      "link": "https://www.ithome.com/0/987/650.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-09T23:07:11+00:00",
-      "summary": "IT之家 8 月 10 日消息，据外媒 carscoops 报道，即便过去十年汽车行业已经全面转向数字音频，但目前在美国市场仍有两款在售新车可选装传统 CD 播放器，相应车型分别为 2026 款斯巴鲁 WRX 及 Ascent 车型。具体来看，用户可以在中央扶手区域加装 CD 播放器，不使用时可以隐藏起来。其中，WRX 的选装价格为 449.95 美元（IT之家注：现汇率约合 3,044 元人民币",
-      "fetched_at": "2026-08-09T23:40:55.420951+00:00"
-    },
-    {
-      "id": "73f2aed03782f9d0",
-      "title": "宇树科技今日启动申购，A 股迎来“人形机器人第一股”",
-      "link": "https://www.ithome.com/0/987/649.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-09T23:07:08+00:00",
-      "summary": "IT之家 8 月 10 日消息，8 月 10 日，宇树科技正式启动申购，A 股即将迎来“人形机器人第一股”。此前，宇树科技确定发行价为 150.80 元 / 股，对应市值约 609.93 亿元。本次拟公开发行 4044.64 万股，占发行后总股本 10%，预计募集资金总额约 60.99 亿元。据官方公布消息，宇树科技的发行市盈率为 219.23 倍，高于行业平均市盈率 38.56 倍。预计募集资金",
-      "fetched_at": "2026-08-09T23:40:55.420996+00:00"
-    },
-    {
-      "id": "7ee416ac801793e1",
-      "title": "小艇燃油耗尽搁浅，距离更近的扎克伯格超级游艇被指拒绝救援",
-      "link": "https://www.ithome.com/0/987/648.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-09T23:06:55+00:00",
-      "summary": "IT之家 8 月 10 日消息，本周早些时候，阿拉斯加一艘名为 Wilderness Legacy 的游轮在法拉格特湾（Farragut Bay）附近救助了一艘因燃油耗尽而搁浅的小艇。不过，据《Alaska Beacon》和 Halifax Shipping News 查阅船舶追踪数据后发现，当时距离这艘遇险小艇最近的船只其实是马克 · 扎克伯格（Mark Zuckerberg）的超级游艇 Lau",
-      "fetched_at": "2026-08-09T23:40:55.421035+00:00"
-    },
-    {
-      "id": "e763413c9353dab1",
-      "title": "OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制",
-      "link": "https://www.ithome.com/0/987/647.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-09T23:00:56+00:00",
-      "summary": "IT之家 8 月 10 日消息，OpenAI 宣布即将取消免费版和 Go 版用户在纯文本对话中的次数限制，从当地时间 8 月 10 日（今天）开始，免费账户和 Go 账户用户在进行普通文字聊天时，将不再受到消息数量上限限制，可以持续进行文本对话。不过，这并不代表 ChatGPT 免费版完全没有限制。图片生成、文件上传以及语音模式仍然会拥有各自独立的使用额度。因此，只要用户在对话中添加文件或图片，相",
-      "fetched_at": "2026-08-09T23:40:55.421071+00:00"
-    },
-    {
-      "id": "44f83c26dd2a110c",
-      "title": "古尔曼：苹果 iPhone 18 Pro / Ultra 发布会预计 9 月 9 日举行，预售避开 9·11",
-      "link": "https://www.ithome.com/0/987/646.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-09T22:58:08+00:00",
-      "summary": "IT之家 8 月 10 日消息，现在已经进入 8 月，距离 iPhone 18 Pro 和 iPhone Ultra 的发布会只剩大约一个月。苹果历年的 iPhone 发布节奏相当固定，但今年可能会出现一些变化。据彭博社记者马克 · 古尔曼 (Mark Gurman) 报道，苹果已经在紧锣密鼓地筹备这场发布会。被安排协助发布会的苹果零售店员工据称已经收到通知，发布会将在 9 月上旬举行。苹果通常会",
-      "fetched_at": "2026-08-09T23:40:55.421120+00:00"
-    },
-    {
-      "id": "8bfb5f574269760b",
-      "title": "Epic 喜加一：原价 31 元心理恐怖游戏《Cat Named Mojave》免费领",
-      "link": "https://www.ithome.com/0/987/645.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-09T22:54:15+00:00",
-      "summary": "IT之家 8 月 10 日消息，独立开发团队 Stargazers Studios 制作并发行的心理恐怖游戏《Cat Named Mojave》即日起在 Epic Games Store 开启限时免费领取“喜加一”活动，游戏在国区定价为 31 元，活动将持续至 8 月 15 日上午 11 点结束。需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页",
-      "fetched_at": "2026-08-09T23:40:55.421157+00:00"
-    },
-    {
-      "id": "c4552ea148d6681d",
-      "title": "古尔曼披露苹果折叠 iPhone Ultra 三年路线：2028 年推出大屏版本",
-      "link": "https://www.ithome.com/0/987/644.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-09T22:48:30+00:00",
-      "summary": "IT之家 8 月 10 日消息，据彭博社记者马克 · 古尔曼（Mark Gurman）透露，苹果已经开始规划第三代折叠屏 iPhone，最早有望于 2028 年推出。古尔曼在最新一期《Power On》时事通讯中表示，苹果首款折叠屏 iPhone 将于今年迎来他所称的该产品“首次真正具有革命性的设计变化”。与此同时，苹果已经制定了覆盖未来两代产品的研发路线图。按照计划，第二代折叠屏 iPhone ",
-      "fetched_at": "2026-08-09T23:40:55.421193+00:00"
-    },
-    {
-      "id": "ee3777a55d7dfd93",
-      "title": "联想 2026 款 P16v 笔记本“Ultra 7 251HX + 32G + 1T + RTX Pro 1000”版本首销，20999 元",
-      "link": "https://www.ithome.com/0/987/643.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-09T22:46:50+00:00",
-      "summary": "IT之家 8 月 10 日消息，联想旗下 2026 款 P16v 笔记本新增的英特尔 Ultra 7 251HX + 32GB RAM + 1TB SSD + RTX Pro 1000 版本目前已在京东开启首销，定价为 20999 元。京东 2026 款联想 P16v AI 笔记本 20999 元直达链接该机整体造型简洁，提供 MIL-STD-810H 认证，厚度 17.9mm，B 面匹配一块 2",
-      "fetched_at": "2026-08-09T23:40:55.421233+00:00"
-    },
-    {
-      "id": "b0d0a54b72eef5f9",
-      "title": "古尔曼：苹果 Apple Watch Series 12 有望推出陶瓷版",
-      "link": "https://www.ithome.com/0/987/642.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-09T22:44:59+00:00",
-      "summary": "IT之家 8 月 10 日消息，据彭博社记者马克 · 古尔曼（Mark Gurman）透露，苹果计划重新推出备受用户喜爱的陶瓷材质 Apple Watch。古尔曼表示，新款陶瓷 Apple Watch 最快可能会在今年上市。IT之家注意到，苹果上一次推出陶瓷材质 Apple Watch 还是在 2019 年，当时的产品名为“Apple Watch Edition Series 5”。彼时，苹果为采",
-      "fetched_at": "2026-08-09T23:40:55.421273+00:00"
-    },
-    {
-      "id": "a84be880c63b8658",
-      "title": "LG 能源与龙蟠科技进一步加深合作关系，签订超 5 万亿韩元磷酸铁锂正极材料大单",
-      "link": "https://www.ithome.com/0/987/641.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-09T22:44:47+00:00",
-      "summary": "IT之家 8 月 10 日消息，据外媒 The Elec 报道，LG 能源（LG Energy Solution）已同中国电池材料企业龙蟠科技（Lopal Tech）达成协议，将采购价值超过 5 万亿韩元（IT之家注：现汇率约合 237.6 亿元人民币）的磷酸铁锂（LFP）正极材料，进一步加深双方合作关系。龙蟠科技于 8 月 6 日披露，公司已与 LG 能源签署 LFP 正极材料供应协议。合同期限",
-      "fetched_at": "2026-08-09T23:40:55.421326+00:00"
     }
   ]
 }
