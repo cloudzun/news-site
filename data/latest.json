@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T21:35:19.357938+00:00",
-  "count": 1744,
+  "generated_at": "2026-08-17T22:35:33.734549+00:00",
+  "count": 1745,
   "sources": [
     {
       "id": "36kr",
@@ -35,6 +35,28 @@
   ],
   "items": [
     {
+      "id": "9c61a70c02954b64",
+      "title": "苹果发布 iOS / iPad OS 26.6.1 及 macOS 26.6.2：聚焦安全漏洞修复",
+      "link": "https://www.ithome.com/0/990/868.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-17T22:35:11+00:00",
+      "summary": "IT之家 8 月 18 日消息，苹果今天发布了 iOS 26.6.1、iPadOS 26.6.1 和 macOS 26.6.2，这些系统更新均以修复安全漏洞为主。根据苹果公布的安全更新说明，iOS / iPadOS 26.6.1 及 macOS 26.6.2 修复的漏洞此前已经在 iOS / macOS &nbsp;27 Beta 版本得到修复。其中，iOS / iPadOS 26.6.1 在 i",
+      "fetched_at": "2026-08-17T22:35:25.975777+00:00"
+    },
+    {
+      "id": "77c5fb868e575f60",
+      "title": "微软发布 Win11 Beta / Experimental 频道预览版：更新右键菜单、支持 Emoji 17.0",
+      "link": "https://www.ithome.com/0/990/866.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-17T21:20:51+00:00",
+      "summary": "IT之家 8 月 18 日消息，微软昨天（8 月 17 日）发布博文，邀请 Beta 和 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的多个预览版更新：Beta 通道： Build 26220.9209（26H2）、 Build 28020.2731（26H1）Experimental 通道： Build 26340.9212（26",
+      "fetched_at": "2026-08-17T22:35:25.975830+00:00"
+    },
+    {
       "id": "d2dd4b172fd595e3",
       "title": "苹果 visionOS 26.6.1 正式版发布",
       "link": "https://www.ithome.com/0/990/865.htm",
@@ -42,8 +64,8 @@
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-08-17T17:49:18+00:00",
-      "summary": "IT之家 8 月 18 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 26.6.1 更新（内部版本号：23O780），本次更新距离上次发布正式版间隔 21 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 26 发布历史",
-      "fetched_at": "2026-08-17T21:35:11.044957+00:00"
+      "summary": "IT之家 8 月 18 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 26.6.1 更新（内部版本号：23O780），本次更新距离上次发布正式版间隔 21 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。附 visionOS 26 发布历史：2026-07-28：visionOS 26.6 (23O",
+      "fetched_at": "2026-08-17T22:35:25.975928+00:00"
     },
     {
       "id": "78e57cbbf8ff6112",
@@ -53,8 +75,8 @@
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-08-17T17:49:17+00:00",
-      "summary": "【点此直达升级教程】 IT之家 8 月 18 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 6 更新（内部版本号：24R5353a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计",
-      "fetched_at": "2026-08-17T21:35:11.045002+00:00"
+      "summary": "【点此直达升级教程】IT之家 8 月 18 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 6 更新（内部版本号：24R5353a），本次更新距离上次发布 Beta / RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件",
+      "fetched_at": "2026-08-17T22:35:25.976055+00:00"
     },
     {
       "id": "b44950f4ac7bb933",
@@ -64,30 +86,30 @@
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-08-17T17:49:17+00:00",
-      "summary": "IT之家 8 月 18 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 开发者预览版 Beta 6 更新（内部版本号：24M5355a），本次更新距离上次发布 Beta/RC 间隔 7 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。",
-      "fetched_at": "2026-08-17T21:35:11.045030+00:00"
+      "summary": "IT之家 8 月 18 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 开发者预览版 Beta 6 更新（内部版本号：24M5355a），本次更新距离上次发布 Beta / RC 间隔 7 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。目前尚无关于软件更新内容的任何消息。watchOS、t",
+      "fetched_at": "2026-08-17T22:35:25.975964+00:00"
     },
     {
       "id": "86c707f309fb1bf0",
-      "title": "苹果 macOS 27.0 开发者预览版 Beta 6 发布",
+      "title": "苹果 macOS 27.0 开发者预览版 Beta 6 发布：新增两款金门大桥主体壁纸、“红绿灯”按钮新增液态玻璃效果",
       "link": "https://www.ithome.com/0/990/862.htm",
       "source_id": "ithome",
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-08-17T17:49:17+00:00",
-      "summary": "IT之家 8 月 18 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 6 更新（内部版本号：26A5416b），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新",
-      "fetched_at": "2026-08-17T21:35:11.045064+00:00"
+      "summary": "IT之家 8 月 18 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 6 更新（内部版本号：26A5416b），本次更新距离上次发布 Beta / RC 间隔 7 天。如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件更",
+      "fetched_at": "2026-08-17T22:35:25.976011+00:00"
     },
     {
       "id": "e1e78d92347aff7f",
-      "title": "苹果 iOS/iPadOS 27.0 开发者预览版 Beta 6 发布",
+      "title": "苹果 iOS / iPadOS 27.0 开发者预览版 Beta 6 发布：更新弹窗通知动画效果",
       "link": "https://www.ithome.com/0/990/861.htm",
       "source_id": "ithome",
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-08-17T17:49:16+00:00",
-      "summary": "【点此直达升级教程】 IT之家 8 月 18 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.0 开发者预览版 Beta 6 更新（内部版本号：24A5418b），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta",
-      "fetched_at": "2026-08-17T21:35:11.045099+00:00"
+      "summary": "【点此直达升级教程】IT之家 8 月 18 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.0 开发者预览版 Beta 6 更新（内部版本号：24A5418b），本次更新距离上次发布 Beta / RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple B",
+      "fetched_at": "2026-08-17T22:35:25.976098+00:00"
     },
     {
       "id": "ebe6f7cc7b888f93",
@@ -98,7 +120,7 @@
       "category": "tech",
       "published_at": "2026-08-17T16:24:23+00:00",
       "summary": "IT之家 8 月 18 日消息，奇妙工具箱数据显示，华为鸿蒙 HarmonyOS 装机量突破 8000 万台，目前已达 8010.91 万台。据IT之家此前报道，在今年 3 月的直播中，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东透露，鸿蒙系统用户规模正经历急剧增长，预计将在今年冬季前突破 1 亿大关。而在当时，搭载鸿蒙 5 和鸿蒙 6 的终端设备数量就已突破 4700 万台。今",
-      "fetched_at": "2026-08-17T21:35:11.045130+00:00"
+      "fetched_at": "2026-08-17T22:35:25.976134+00:00"
     },
     {
       "id": "b0ad05c11d85e339",
@@ -19206,17 +19228,6 @@
       "published_at": "2026-08-10T22:40:34+00:00",
       "summary": "IT之家 8 月 11 日消息，苹果正在再次探索 Apple Vision Pro 上的 Apple Immersive 沉浸式内容体验。该公司宣布，将通过 Apple Immersive Video（沉浸式视频）形式，为 Apple Vision Pro 用户直播四场即将到来的“周五夜棒球”（Friday Night Baseball）比赛。今年早些时候，苹果曾通过 Apple Immersiv",
       "fetched_at": "2026-08-10T23:46:41.692284+00:00"
-    },
-    {
-      "id": "88e7546238ba7d4a",
-      "title": "iOS 27 代码显示苹果正开发 Apple Reference Image 认证功能，用于检测 iPhone 拍摄照片真实性",
-      "link": "https://www.ithome.com/0/988/068.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-10T22:33:41+00:00",
-      "summary": "IT之家 8 月 11 日消息，外媒 9to5Mac 在挖掘苹果 iOS 27 开发者预览版 Beta 5 代码信息时发现苹果正在开发一项名为 Apple Reference Image 的新功能，用于认证 iPhone 拍摄照片的来源真实性。随着生成式 AI 图像技术快速发展，AI 生成或经过深度修改的图片越来越容易伪装成真实照片，过去需要专业摄影后期人员花费数小时的图像修改，如今只需输入简单提",
-      "fetched_at": "2026-08-10T23:46:41.692318+00:00"
     }
   ]
 }
