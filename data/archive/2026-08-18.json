@@ -1,7 +1,458 @@
 {
   "date": "2026-08-18",
-  "count": 1756,
+  "count": 1764,
   "items": [
+    {
+      "id": "161a244f51c82d60",
+      "title": "《影之刃零》PS5 版宣传片公布，支持自适应扳机、3D 音效、触觉反馈",
+      "link": "https://www.ithome.com/0/991/011.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T03:04:26+00:00",
+      "summary": "IT之家 8 月 18 日消息，索尼于今日上午 10:00（北京时间）为国产游戏《影之刃零》举办了一场专属 State of Play 发布会，带来首次公开的游戏演示、PlayStation 5 版的独特性能、朋克武侠世界如何呈现。发布会中，《影之刃零》创意监制甄子丹开场，制作人梁其伟讲述，带领玩家深入游戏的故事、世界与战斗系统，以及深度结合 PS5 和 DualSense 无线控制器特性的沉浸体",
+      "fetched_at": "2026-08-18T03:04:45.965175+00:00"
+    },
+    {
+      "id": "e9d597003fb4842a",
+      "title": "谷歌 Gboard 输入法酝酿快速插入功能：一键调取联系人 / 图片等 6 类内容",
+      "link": "https://www.ithome.com/0/991/009.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T03:03:50+00:00",
+      "summary": "IT之家 8 月 18 日消息，科技媒体 Android Authority 昨日（8 月 17 日）发布博文，报道称谷歌计划升级安卓版 Gboard 输入法，引入“快速插入”（Quick insert）工具。该媒体通过拆解 18.0.3.954559732-beta-arm64-v8a 测试版 Gboard 输入法，在代码字符串中发现谷歌正在测试名为“快速插入”的工具。该工具的入口图标是一个菱形",
+      "fetched_at": "2026-08-18T03:04:45.965213+00:00"
+    },
+    {
+      "id": "8c42bf179211737a",
+      "title": "Pimax 小派为 Dream Air SE 头显推出 ProFit 面罩，带来更大可视视场",
+      "link": "https://www.ithome.com/0/991/006.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T02:59:39+00:00",
+      "summary": "IT之家 8 月 18 日消息，小派科技 (Pimax) 本月 14 日为其 PCVR 头显 Dream Air SE 推出 ProFit 面罩。新面罩在提供更为舒适的长时间佩戴体验的同时拉近了眼睛和镜片的距离，从而明显扩大可视视场。ProFit 面罩采用泡沫密度更高的 Studioform 面料垫片，将压力分散在颧骨而非眉骨上，还具有更出色的遮光性能。新面罩并未改变画面渲染 FOV，但用户头部位",
+      "fetched_at": "2026-08-18T03:04:45.965242+00:00"
+    },
+    {
+      "id": "dab6f25ead638a68",
+      "title": "磷酸铁锂龙头湖南裕能最新赴港递表，比亚迪和宁德时代此前双双减持，业绩已缩水八成",
+      "link": "https://www.tmtpost.com/8106540.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-18T02:59:00+00:00",
+      "summary": "湖南裕能赴港递表，存客户、现金流等多重挑战。",
+      "fetched_at": "2026-08-18T03:04:48.522187+00:00"
+    },
+    {
+      "id": "8328d9ae21471126",
+      "title": "神舟推出 2026 款战神 T9 笔记本：i7-14700HX + RTX5070 售 8999 元",
+      "link": "https://www.ithome.com/0/991/001.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T02:55:28+00:00",
+      "summary": "IT之家 8 月 18 日消息，神舟现已在京东上架 2026 款战神 T9 笔记本，该机采用英特尔酷睿 i7-14700HX + 16GB RAM + 500GB SSD + RTX5070 规格，定价为 8999 元，将于 8 月 26 日开启预约。该机整体重量 2.45 千克，B 面配备一块 16 英寸 2560x1600 分辨率 180Hz IPS 面板（亮度 500 尼特，覆盖 100% ",
+      "fetched_at": "2026-08-18T03:04:45.965277+00:00"
+    },
+    {
+      "id": "e3787e2e09340f01",
+      "title": "三星 One UI 9 将原生支持设置 Motion Photos 为动态壁纸",
+      "link": "https://www.ithome.com/0/991/000.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T02:54:05+00:00",
+      "summary": "IT之家 8 月 18 日消息，科技媒体 SamMobile 昨日（8 月 17 日）发布博文，报道称在 One UI 9 更新中，三星计划原生支持将 Motion Photos 设置为壁纸。IT之家援引博文介绍，在适配机型方面，三星 Galaxy Z Fold8、Galaxy Z Fold8 Ultra 以及 Galaxy Z Flip8 三款折叠手机已出现相关选项。不过三星 Galaxy S2",
+      "fetched_at": "2026-08-18T03:04:45.965309+00:00"
+    },
+    {
+      "id": "38a9d57ce6cbcda9",
+      "title": "夫妻店养大的汇通达，要抢夫妻店的生意？",
+      "link": "https://www.tmtpost.com/8106484.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-18T02:53:00+00:00",
+      "summary": "向下沉零售市场发起猛攻。",
+      "fetched_at": "2026-08-18T03:04:48.522206+00:00"
+    },
+    {
+      "id": "9a7aa2645bce6bb3",
+      "title": "从“像人”到“超人”，IPO前夜宇树悄然变化的传播策略",
+      "link": "https://www.tmtpost.com/8106294.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-18T02:48:09+00:00",
+      "summary": "8月19日，宇树即将在科创板正式挂牌",
+      "fetched_at": "2026-08-18T03:04:48.522218+00:00"
+    },
+    {
+      "id": "9db29d7c14cbcd22",
+      "title": "国资持有充换电站 + 委托蔚来运营模式将全国推广，武汉率先全面落地",
+      "link": "https://www.ithome.com/0/990/999.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T02:47:45+00:00",
+      "summary": "IT之家 8 月 18 日消息，蔚来能源与光谷交通集团于上周在湖北武汉举办首批合作充换电站交付仪式暨光谷空轨换电站上线三周年活动，双方在武汉市合作共建运营的首批 36 座充换电站正式完成交付。蔚来表示，此次交付的充换电站是蔚来能源与光谷交通集团共同打造的产业合作样板，也是蔚来能源「国资合作方持有资产 + 蔚来专业运营」模式在湖北区域的重要实践。这批充换电站资产由光谷交通集团持有，依托蔚来能源的技术",
+      "fetched_at": "2026-08-18T03:04:45.965340+00:00"
+    },
+    {
+      "id": "e63b8a43e91b7a7e",
+      "title": "武汉人的白月光汽水，终究是“败”了",
+      "link": "https://www.tmtpost.com/8106401.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-18T02:46:38+00:00",
+      "summary": "“时代抛弃你时，连一声再见都不会说。”",
+      "fetched_at": "2026-08-18T03:04:48.522229+00:00"
+    },
+    {
+      "id": "736f9b24d013acbe",
+      "title": "长安基金成立15年规模不足百亿，新东家入主一周即换帅",
+      "link": "https://www.tmtpost.com/8106304.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-18T02:46:32+00:00",
+      "summary": "董事会同步“换血”。",
+      "fetched_at": "2026-08-18T03:04:48.522240+00:00"
+    },
+    {
+      "id": "9b634724d0cd4f69",
+      "title": "汉王推出 6 英寸黑白墨水屏电纸书 N6 Pro：6.8mm 厚度 189g 重量、8192 级压感手写，2199 元",
+      "link": "https://www.ithome.com/0/990/998.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T02:46:27+00:00",
+      "summary": "IT之家 8 月 18 日消息，汉王现已推出 N6 Pro 黑白墨水屏电纸书，该机整体造型小巧，适合作为墨水屏笔记本使用，定价为 2199 元。京东汉王 N6Pro 电纸书 2199 元直达链接该电纸书提供晨曦金、摩卡棕两种配色，整体厚度 6.8mm，重量 189g，正面配备一块 6 英寸 1448x1072 分辨率黑白墨水屏面板，支持 8192 级压感手写。该机搭载“8 核心 2.2GHz 处理",
+      "fetched_at": "2026-08-18T03:04:45.965369+00:00"
+    },
+    {
+      "id": "a12b45a2dacab9b3",
+      "title": "假如用AI搓一部《牛来》，得花多少钱？",
+      "link": "https://www.tmtpost.com/8106427.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-18T02:40:13+00:00",
+      "summary": "都2026年了，影史投资回报率的惊人奇迹该出现了。",
+      "fetched_at": "2026-08-18T03:04:48.522251+00:00"
+    },
+    {
+      "id": "38fe81bb72b9122e",
+      "title": "优派推出 Fast IPS 显示器 VX27G26-2K-10：27\" QHD 超频 340Hz",
+      "link": "https://www.ithome.com/0/990/996.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T02:39:23+00:00",
+      "summary": "IT之家 8 月 18 日消息，ViewSonic（优派）近日带来了网咖电竞游戏显示器 VX27G26-2K-10。这一型号采用 27\" Fast IPS 面板，拥有 2560×1440 分辨率，原生刷新率 320Hz 并超频至 340Hz。VX27G26-2K-10 最大亮度 450nits，静态对比度 1300:1；灰阶 (GtG) 响应时间 1ms；支持 8bit + FRC 色深，色域 1",
+      "fetched_at": "2026-08-18T03:04:45.965401+00:00"
+    },
+    {
+      "id": "1f914ec0f4526acb",
+      "title": "魏桥集团增资210亿，山东首富三兄妹夯实控制权",
+      "link": "https://www.tmtpost.com/8106297.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-18T02:37:00+00:00",
+      "summary": "持股超75%。",
+      "fetched_at": "2026-08-18T03:04:48.522261+00:00"
+    },
+    {
+      "id": "e93640ae1d575978",
+      "title": "石头迷你洗烘一体机 Z1 Mini Pro 体验：当第二台洗衣机成为有娃家庭的新刚需",
+      "link": "https://www.ithome.com/0/990/995.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T02:36:39+00:00",
+      "summary": "8 月 18 日，石头迷你洗烘一体机 Z1 Mini Pro 正式上市。这是一款面向精细化洗护场景的迷你洗烘产品，重点放在了小容量机身下的洗净、除菌、烘干以及衣物护理能力上，满足宝宝衣物、贴身衣物等小件织物的独立洗护需求。事实上，随着家庭生活方式不断变化，洗衣这件事也正在变得更加细分。过去，一台大容量洗衣机基本可以覆盖一家人的日常衣物清洁需求，衣服集中洗、集中烘也是不少家庭的常见选择。宝宝衣物、女",
+      "fetched_at": "2026-08-18T03:04:45.965620+00:00"
+    },
+    {
+      "id": "cbdcdb3f3d8a9f04",
+      "title": "《牛来》拿到暑期档大结果了？",
+      "link": "https://www.tmtpost.com/8106288.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-18T02:35:00+00:00",
+      "summary": "你来不来牛都来了。",
+      "fetched_at": "2026-08-18T03:04:48.522272+00:00"
+    },
+    {
+      "id": "c904a544cd2b97a7",
+      "title": "伪造下单页面、诱导共享屏幕，总台揭秘免费探店、免费试吃诈骗链条",
+      "link": "https://www.ithome.com/0/990/994.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T02:34:00+00:00",
+      "summary": "IT之家 8 月 18 日消息，中央广播电视总台中国之声今日揭秘了免费探店、免费试吃诈骗链条。免费探店、免费试吃，是指商家提供免费餐食，消费者体验后发布图文笔记。然而这类推广模式正在被诈骗分子盯上，一些诈骗分子在社交平台发布“免费探店”“素人也可报名”等信息，以高额餐券、先付款后返还等方式，将消费者引向伪造的下单页面。除此之外，随着餐饮品牌与热门 IP 联名活动增多，类似套路又延伸到“免费代吃”“",
+      "fetched_at": "2026-08-18T03:04:45.965665+00:00"
+    },
+    {
+      "id": "30c102056d7b1e32",
+      "title": "独到科技完成近亿元A+轮融资，赛富领投，清华系AI Agent公司打造业务世界的Agent编译器｜独家",
+      "link": "https://www.tmtpost.com/8106792.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-18T02:33:02+00:00",
+      "summary": "独到科技创始人、首席执行官张文浩博士毕业于清华大学计算机系人工智能研究所，师从中国科学院院士、清华大学人工智能研究院名誉院长张钹教授，公司核心高管团队全部来自清华大学。",
+      "fetched_at": "2026-08-18T03:04:48.522283+00:00"
+    },
+    {
+      "id": "35ae3a3b8efd5fbb",
+      "title": "Signal65 报告：高通骁龙 X2 Elite Extreme 芯片多核比 AMD Ryzen AI 9 465 快 83%",
+      "link": "https://www.ithome.com/0/990/989.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T02:30:04+00:00",
+      "summary": "IT之家 8 月 18 日消息，第三方机构 Signal65 今天（8 月 18 日）在 X 平台发布推文，指出在电池供电、平衡模式下，搭载高通骁龙 X2 Elite Extreme 芯片的笔记本的性能要优于英特尔酷睿 Ultra X9 388H 和 AMD Ryzen AI 9 465 处理器。该机构对比测试以下芯片：高通骁龙 X2 Elite Extreme X2E-96-100：拥有 18 ",
+      "fetched_at": "2026-08-18T03:04:45.965754+00:00"
+    },
+    {
+      "id": "597f8e37062d5899",
+      "title": "谷歌悄悄上架 Desktop Camera 文件扫描应用，为 Googlebook 上市铺路",
+      "link": "https://www.ithome.com/0/990/988.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T02:26:27+00:00",
+      "summary": "IT之家 8 月 18 日消息，谷歌现已在 Play 商店悄悄上架了 Desktop Camera 相机应用，相应应用主要为 Googlebook 设计，主要用于帮助相应笔记本调用摄像头进行二维码扫描和文档扫描。事实上，该应用也提前展示了 Googlebook 软件界面设计风格，可帮助用户了解相应产品设计思路，其整体操作逻辑与 Pixel Tablet 上的 Pixel Camera 应用有些类似",
+      "fetched_at": "2026-08-18T03:04:45.965779+00:00"
+    },
+    {
+      "id": "49ecb63bc5967db4",
+      "title": "“老登股”，迷失2026",
+      "link": "https://www.tmtpost.com/8106558.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-18T02:23:00+00:00",
+      "summary": "AI新贵上位，“老登股”如何证明自己？",
+      "fetched_at": "2026-08-18T03:04:48.522293+00:00"
+    },
+    {
+      "id": "6342d6abddc4115f",
+      "title": "致态 Ti600s 固态硬盘发售：新一代 Xtacking 4.0 QLC，随机写入提升 114%",
+      "link": "https://www.ithome.com/0/990/981.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T02:18:20+00:00",
+      "summary": "IT之家 8 月 18 日消息，致态 (ZHITAI) 此前在 2023 年推出了基于 Xtacking 3.0 QLC NAND 闪存的 M.2 固态硬盘 Ti600。而在今日，致态宣布推出升级至 Xtacking 4.0 QLC 的 Ti600s。Ti600s 依旧采用 PCIe Gen4 ×4 接口，符合 NVMe 2.0 协议。其最高顺序读写速率从前代的 7000MB/s 与 6000MB",
+      "fetched_at": "2026-08-18T03:04:45.965817+00:00"
+    },
+    {
+      "id": "1146c54e8740a954",
+      "title": "五人开发流水破亿，连环造富的Steam品类，又出了个全球Top 2？",
+      "link": "https://www.tmtpost.com/8106552.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-18T02:16:00+00:00",
+      "summary": "“大鹅”之后是“大走”。",
+      "fetched_at": "2026-08-18T03:04:48.522302+00:00"
+    },
+    {
+      "id": "d73605083728fd07",
+      "title": "22家亏超200亿，光伏上市公司上半年报预告出炉，光伏这次真的在渡劫",
+      "link": "https://www.tmtpost.com/8106547.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-18T02:15:00+00:00",
+      "summary": "光伏全链亏损，供需失衡，出口算电协同谋出路。",
+      "fetched_at": "2026-08-18T03:04:48.522312+00:00"
+    },
+    {
+      "id": "136f80e49a071b2a",
+      "title": "海南文昌商业航天发射场 1、2 号工位实现常态化运营，卫星超级工厂进入试生产",
+      "link": "https://www.ithome.com/0/990/973.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T02:14:03+00:00",
+      "summary": "IT之家 8 月 18 日消息，据海南日报今日报道，8 月 17 日上午，海南省“开局起步‘十五五’”系列主题新闻发布会迎来市县层面第二场 —— 文昌市专场。面向未来五年，文昌将锚定航天强国使命，全力建设国际一流航天科技城，形成具有全球影响力的航天产业集群，加速实现“文昌造、文昌发”。文昌国际航天城管理局副局长袁世英表示，文昌着力提升发射制造能级，目前商业发射场 1、2 号工位已实现常态化运营，卫",
+      "fetched_at": "2026-08-18T03:04:45.965852+00:00"
+    },
+    {
+      "id": "02fbcc7f8b34a358",
+      "title": "酷态科推出 CP 模块风扇 Plus“夹式延长线套装”：底座支持夹 / 立两用，109 元",
+      "link": "https://www.ithome.com/0/990/972.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T02:13:45+00:00",
+      "summary": "IT之家 8 月 18 日消息，酷态科宣布推出 CP 模块风扇 Plus“夹式延长线套装”，其中套装版定价为 109 元，延长线单体版定价为 49 元。据介绍，相应夹式延长线配备 Power-Pin 磁吸接口，可以快速连接 CP 模块风扇 Plus，为其进行 1 米距离的有线供电。同时延长线底座支持夹 / 立两用，支持 360° 旋转，线缆本身使用 48 锭编织线身，具有较高强度。IT之家附产品参",
+      "fetched_at": "2026-08-18T03:04:45.965873+00:00"
+    },
+    {
+      "id": "47b23925fca221bb",
+      "title": "胖东来无法复制胖东来",
+      "link": "https://www.tmtpost.com/8106328.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-18T02:12:37+00:00",
+      "summary": "叫停“胖改”，走不出许昌。",
+      "fetched_at": "2026-08-18T03:04:48.522322+00:00"
+    },
+    {
+      "id": "dd53d20cbe258ab0",
+      "title": "越像欧洲车，越难赢欧洲",
+      "link": "https://www.tmtpost.com/8106299.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-18T02:12:15+00:00",
+      "summary": "中国车去欧洲，过去总先想一件事，怎么变得更“欧洲”。但现在更多车企开车尝试把中国已经跑通的产品直接搬过去，反而先做出了规模。",
+      "fetched_at": "2026-08-18T03:04:48.522332+00:00"
+    },
+    {
+      "id": "067d83c35a2633a6",
+      "title": "零跑汽车登陆阿根廷市场，B10、C10 增程版打头阵",
+      "link": "https://www.ithome.com/0/990/969.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T02:11:50+00:00",
+      "summary": "IT之家 8 月 18 日消息，据零跑汽车官方消息，近日，零跑汽车携零跑 B10、零跑 C10 两款全球车型正式登陆阿根廷市场，进一步深化品牌在南美的市场布局。零跑汽车因地制宜，针对不同海外市场需求制定产品规划。本次阿根廷首发阵容包含零跑 B10 和零跑 C10 两款全球车型的增程版本。依托与 Stellantis 集团的长期深度战略合作，零跑汽车全面共享其深耕阿根廷市场多年的全国经销商网络、标准",
+      "fetched_at": "2026-08-18T03:04:45.965907+00:00"
+    },
+    {
+      "id": "4592251fb29f51d8",
+      "title": "智神星一号，能帮星河动力抢到IPO第三席吗？",
+      "link": "https://www.tmtpost.com/8106384.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-18T02:09:30+00:00",
+      "summary": "对手已经领先，星河动力最关键的一飞就要来了。",
+      "fetched_at": "2026-08-18T03:04:48.522342+00:00"
+    },
+    {
+      "id": "ef766234569f46bc",
+      "title": "每3个成年人就有1个要控糖：低GI主食，正在重写中国人的“饭碗”",
+      "link": "https://www.tmtpost.com/8106239.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-18T02:05:57+00:00",
+      "summary": "低GI主食产业的崛起，不是传统意义上的风口，而是国民健康膳食升级、消费认知迭代、政策规范引导三股力量共同作用的必然结果。",
+      "fetched_at": "2026-08-18T03:04:48.522352+00:00"
+    },
+    {
+      "id": "e2dd89cf224fd45e",
+      "title": "电影《牛来》爆火，大批股民刷影“许愿”",
+      "link": "https://www.tmtpost.com/8106223.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-18T02:05:50+00:00",
+      "summary": "真正的“牛”，从来不是靠一个名字召唤出来的。",
+      "fetched_at": "2026-08-18T03:04:48.522361+00:00"
+    },
+    {
+      "id": "da0bde607eeb6651",
+      "title": "需求超预期：华硕 RTX Spark 笔记本 ProArt P16/P14 首批配额售罄",
+      "link": "https://www.ithome.com/0/990/952.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T02:04:41+00:00",
+      "summary": "IT之家 8 月 18 日消息，科技媒体 videocardz 昨日（8 月 17 日）发布博文，报道称在 2026 年第 2 季度财报电话会议上，华硕表示首批搭载英伟达 RTX Spark 的产品已被渠道合作伙伴订购一空。作为首批推出 RTX Spark 平台产品的厂商，华硕表示搭载 NVIDIA RTX Spark 的 ProArt P16 与 ProArt P14 预售需求远超预期，面向零售",
+      "fetched_at": "2026-08-18T03:04:45.965951+00:00"
+    },
+    {
+      "id": "2c4fc1c3a4b17eab",
+      "title": "Steam 开启 2026 年度“弹球、弹珠机与保龄球游戏节”促销活动，《BALL x PIT》6.6 折后 38.28 元等",
+      "link": "https://www.ithome.com/0/990/946.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T02:03:28+00:00",
+      "summary": "IT之家 8 月 18 日消息，Steam 平台现已开启 2026 年度“弹球、弹珠机与保龄球游戏节”活动，多款益智策略类游戏迎来折扣，活动将于北京时间 8 月 21 日凌晨 1 点结束，IT之家附游戏促销页（https://store.steampowered.com/category/pins_pegs）。《BALL x PIT》：原价 58 元，6.6 折后 38.28 元《财富磨坊》：原价",
+      "fetched_at": "2026-08-18T03:04:45.965993+00:00"
+    },
+    {
+      "id": "be5cc908ab4676a5",
+      "title": "Counterpoint：未来五年超 1.3 亿颗先进封装 AI 芯片出货，英特尔挑战台积电",
+      "link": "https://www.ithome.com/0/990/924.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T01:58:57+00:00",
+      "summary": "IT之家 8 月 18 日消息，市场研究机构 Counterpoint 今日发文，AI 加速器的出货量将大规模推动先进封装的需求：预计未来五年内，将有超过 1.3 亿颗 GPU / AI ASIC 芯片采用先进封装的片上计算内存，从而创造近 2 万亿美元（IT之家注：现汇率约合 13.51 万亿元人民币）的计算收入。报告认为，封装而非逻辑扩展已成为新的竞争战场，因为业界正努力突破内存壁垒、性能壁垒",
+      "fetched_at": "2026-08-18T03:04:45.966026+00:00"
+    },
+    {
+      "id": "ef265550ecb9f8fe",
+      "title": "华硕 GPU Tweak III 获 v2.1.8.0 稳定版更新，为兼容显卡带来自动安全关机",
+      "link": "https://www.ithome.com/0/990/938.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T01:56:05+00:00",
+      "summary": "IT之家 8 月 18 日消息，由华硕 (ASUS) 推出的 GPU Tweak III 是一款便捷的显卡超频、设定、监控工具应用程序。而在当地时间 17 日，该软件迎来了 v2.1.8.0 稳定版更新。新版本进一步围绕华硕部分高端显卡支持的功率侦测器 + (Power Detector+) 丰富功能，在此前 12+N Pin 12V 供电异常红色警告的基础上提供了自动安全关机，保障用户价值不菲的",
+      "fetched_at": "2026-08-18T03:04:45.966048+00:00"
+    },
+    {
+      "id": "2895fd81c2e9971d",
+      "title": "美国为什么造不出宇树？",
+      "link": "https://www.tmtpost.com/8106108.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-18T01:54:56+00:00",
+      "summary": "一个倒在量产前，一个正在重新尝试。两位美国创业者发现，让机器人站起来和把它变成商品，根本不是一回事。美国缺的是，把机器人像普通商品一样公开标价、持续降价、批量交付，并且从中赚到钱。",
+      "fetched_at": "2026-08-18T03:04:48.522371+00:00"
+    },
+    {
+      "id": "affb399245052c10",
+      "title": "初探微软 Win11 新版右键菜单定制选项，支持 8 项动作开关",
+      "link": "https://www.ithome.com/0/990/936.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T01:52:32+00:00",
+      "summary": "IT之家 8 月 18 日消息，科技媒体 Windows Central 昨日（8 月 17 日）发布博文，分享了 Windows 11 新版右键菜单的“自定义菜单”（Customize menu）使用体验。用户需要预设相关操作，首次点击“自定义菜单”后会跳转到 Windows 设置应用，调整右键菜单显示的动作与布局。该媒体指出目前微软官方支持用户定制以下操作：Send to（发送到）Print（",
+      "fetched_at": "2026-08-18T03:04:45.966095+00:00"
+    },
+    {
+      "id": "c2a7badade6c88a3",
+      "title": "捷途山海 L7 PLUS 激光雷达版 8 月 19 日上市，预计配备猎鹰 700 驾驶辅助系统",
+      "link": "https://www.ithome.com/0/990/929.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T01:49:07+00:00",
+      "summary": "IT之家 8 月 18 日消息，奇瑞汽车宣布旗下捷途山海 L7 PLUS 激光雷达版车型将于 8 月 19 日上市，该车预计将配备猎鹰 700 驾驶辅助系统，支持城市 / 高速全场景导航驾驶 NOA。作为参考，目前在售捷途山海 L7 PLUS 共有 10 款车型，售价区间为 11.99-16.59 万元。新车仍延续现款造型设计，配备一字型日间行车灯，灯组两端延伸出“J”形造型，灯组下方与前包围位置",
+      "fetched_at": "2026-08-18T03:04:45.966130+00:00"
+    },
+    {
+      "id": "c49eb916346ddbd7",
+      "title": "限量 1499 台，法拉利 12Cilindri Manuale 国内售价 888.8 万元",
+      "link": "https://www.ithome.com/0/990/925.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T01:47:34+00:00",
+      "summary": "IT之家 8 月 18 日消息，法拉利已公布 12Cilindri Manuale 限量特别版车型的中国市场定价，新车建议零售价为 888.8 万元。据IT之家了解，这款基于前置 V12 双座跑车 12Cilindri 打造的特别版本，最大技术革新在于搭载了品牌自主研发的 Manuale 线控手动换挡系统，在保留 8 速双离合变速箱底层架构的同时，为驾驶者提供了实体换挡杆与离合器踏板的纯粹操控界面",
+      "fetched_at": "2026-08-18T03:04:45.966208+00:00"
+    },
     {
       "id": "efb67538744731e6",
       "title": "泰坦军团推出“P2710R3”27 英寸显示器：2K 245Hz 超频，866 元",
@@ -11,7 +462,7 @@
       "category": "tech",
       "published_at": "2026-08-18T01:41:12+00:00",
       "summary": "IT之家 8 月 18 日消息，泰坦军团现已在京东上架“P2710R3”27 英寸显示器，该机主打 2K 245Hz，定价为 866 元。京东泰坦军团 P2710R3 显示器 866 元直达链接该机配备一块 2560x1440 分辨率 245Hz 超频（原生 200Hz）Fast IPS 面板，GtG 响应速度 1ms，静态对比度 1000:1，显示器提供 400 尼特亮度，支持 10-Bit 色",
-      "fetched_at": "2026-08-18T01:46:35.017666+00:00"
+      "fetched_at": "2026-08-18T03:04:45.966239+00:00"
     },
     {
       "id": "4f6e9b79cbd78fb7",
@@ -22,7 +473,7 @@
       "category": "tech",
       "published_at": "2026-08-18T01:39:56+00:00",
       "summary": "这已经不是他第一次用天价买下法拉利。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-08-18T01:46:32.602050+00:00"
+      "fetched_at": "2026-08-18T03:04:43.401118+00:00"
     },
     {
       "id": "6de37f08c12e2be7",
@@ -33,7 +484,7 @@
       "category": "tech",
       "published_at": "2026-08-18T01:39:26+00:00",
       "summary": "IT之家 8 月 18 日消息，很多 PlayStation 玩家可能会觉得，PS5 这一代主机似乎才刚刚开始，但实际上距离 PS5 发售已经快 6 年了。按照以往的规律，下一代主机应该已经进入准备阶段。不过，PS6 或许并没有我们想象中那么快到来。据《华尔街日报》报道，索尼 CEO 十时裕树表示，目前还没有最终确定 PS6 的上市日期。熟悉游戏行业的人都知道，主机一代通常会持续约 6 至 7 年",
-      "fetched_at": "2026-08-18T01:46:35.017711+00:00"
+      "fetched_at": "2026-08-18T03:04:45.966275+00:00"
     },
     {
       "id": "11ac799b6d78b411",
@@ -55,7 +506,7 @@
       "category": "tech",
       "published_at": "2026-08-18T01:36:23+00:00",
       "summary": "IT之家 8 月 18 日消息，时尚品牌 Supreme 近日公布了其 2026 年秋冬季产品阵容，其中“配件”部分包含多款科技硬件在内的一系列联名商品。Supreme 联名 Analogue Pocket 掌机拥有一体式铝合金机身，表面覆盖定制红色亮光涂层或 24K 镀金。其采用竖版设计，兼容 2780+ Game Boy 系列掌机游戏卡带，正反均压印有 Supreme 徽标。Supreme 还",
-      "fetched_at": "2026-08-18T01:46:35.017738+00:00"
+      "fetched_at": "2026-08-18T03:04:45.966298+00:00"
     },
     {
       "id": "2a1769f90c002735",
@@ -66,7 +517,7 @@
       "category": "tech",
       "published_at": "2026-08-18T01:35:26+00:00",
       "summary": "IT之家 8 月 18 日消息，科技媒体 Windows Central 昨日（8 月 17 日）发布博文，对比了 Windows 11 发布约 5 年间的前后变化差异。IT之家注：微软于 2021 年 6 月 24 日首次公开展示 Windows 11 系统，首个正式版（21H2）于 2021 年 10 月 5 日发布。过去 5 年间，微软通过年度功能更新、数十次累积更新和数千项漏洞修复，补回任",
-      "fetched_at": "2026-08-18T01:46:35.017824+00:00"
+      "fetched_at": "2026-08-18T03:04:45.966383+00:00"
     },
     {
       "id": "00153a26ae1880c6",
@@ -77,7 +528,7 @@
       "category": "tech",
       "published_at": "2026-08-18T01:33:32+00:00",
       "summary": "IT之家 8 月 18 日消息，根据 MacRumors 在 macOS Tahoe 26.7 RC 中发现的一段视频，证实苹果正在研发配备摄像头的 AirPods，而且这款产品似乎已经接近正式推出。IT之家注意到，在这段简短的演示视频中，一名男子拿起一本书，让 AirPods 上的摄像头拍摄书名。画外音文字写道：“借助视觉智能，你所看到的世界都可以被保存。看到喜欢的东西？只要告诉我，我就能帮你保",
-      "fetched_at": "2026-08-18T01:46:35.017880+00:00"
+      "fetched_at": "2026-08-18T03:04:45.966418+00:00"
     },
     {
       "id": "29e79b9c6faaa66a",
@@ -88,7 +539,7 @@
       "category": "tech",
       "published_at": "2026-08-18T01:33:16+00:00",
       "summary": "IT之家 8 月 18 日消息，追觅宣布推出一款 Micro Mist 5“精华灌注高速吹风机”，首发价 849 元，部分地区国补后 798 元。这款机型最大亮点就是搭载 Micro Mist“精华灌注技术”，把精油护发功能整合到吹风流程，不用手动涂抹护发精油，吹发同步完成发丝护理。官方称，该吹风机整套结构可以隔菌防尘，每一支精华弹都处于独立密封环境，锁住精华活性。开启护理模式之后，设备将精华雾化",
-      "fetched_at": "2026-08-18T01:46:35.017914+00:00"
+      "fetched_at": "2026-08-18T03:04:45.966448+00:00"
     },
     {
       "id": "1107895ee294cf06",
@@ -99,7 +550,7 @@
       "category": "tech",
       "published_at": "2026-08-18T01:31:01+00:00",
       "summary": "IT之家 8 月 18 日消息，荣耀 Robot Phone 今日（8 月 18 日）10:08 正式开售，售价 9,999 元起。12GB RAM + 512GB 存储空间：9,999 元16GB RAM + 1TB 存储空间：12,999 元京东荣耀 Robot Phone9999 元直达链接IT之家附荣耀 Robot Phone 主要亮点如下：行业首创钛合金灵巧云台，4 自由度全新 YOYO",
-      "fetched_at": "2026-08-18T01:46:35.017981+00:00"
+      "fetched_at": "2026-08-18T03:04:45.966510+00:00"
     },
     {
       "id": "2b1b182f2b5ed8a9",
@@ -352,7 +803,7 @@
       "category": "tech",
       "published_at": "2026-08-18T00:47:21+00:00",
       "summary": "· OpenAI 解散安全储备团队，安全评估职责拆入现有部门 · 阿里与信宸资本达成交易，灵犀互娱将更换股东 · 宇树科技将于 8 月 19 日登陆科创板#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-08-18T01:46:32.602086+00:00"
+      "fetched_at": "2026-08-18T03:04:43.401155+00:00"
     },
     {
       "id": "0b473a2a0c5c70ce",
@@ -385,7 +836,7 @@
       "category": "tech",
       "published_at": "2026-08-18T00:39:58+00:00",
       "summary": "万物皆可复刻#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-08-18T01:46:32.602103+00:00"
+      "fetched_at": "2026-08-18T03:04:43.401170+00:00"
     },
     {
       "id": "2e0f03f8e1f08e23",
@@ -451,7 +902,7 @@
       "category": "tech",
       "published_at": "2026-08-18T00:04:07+00:00",
       "summary": "少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章成 ...查看全文",
-      "fetched_at": "2026-08-18T01:46:43.851482+00:00"
+      "fetched_at": "2026-08-18T03:04:53.828877+00:00"
     },
     {
       "id": "87fc2ca07b3cd83f",
@@ -18954,369 +19405,6 @@
       "published_at": "2026-08-11T03:07:35+00:00",
       "summary": "IT之家 8 月 11 日消息，中国摩托车商会今日宣布，第二十四届中国国际摩托车博览会（以下简称中国摩博会）将于 2026 年 9 月 19 日-22 日在重庆国际博览中心举行。展会同期，2026 中国摩托车重庆论坛将于 9 月 19 日举办。作为我国唯一的国家级摩托车专业博览会，中国摩博会创办于 2002 年，历经二十三年的发展，成为全球摩托车新产品、新技术的重要发布平台。IT之家从公告获悉，2",
       "fetched_at": "2026-08-11T04:35:58.749934+00:00"
-    },
-    {
-      "id": "e753c5854985fa98",
-      "title": "豆包多收 4% 佣金：AI 流量贵在哪？",
-      "link": "https://www.tmtpost.com/8098474.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-11T03:03:32+00:00",
-      "summary": "字节开始收租，阿里还在招商。",
-      "fetched_at": "2026-08-11T09:13:43.280343+00:00"
-    },
-    {
-      "id": "4dd8ecf5e895f589",
-      "title": "三星 Galaxy S26 等手机有望迎原生深色应用图标",
-      "link": "https://www.ithome.com/0/988/221.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T03:02:28+00:00",
-      "summary": "IT之家 8 月 11 日消息，科技媒体 sammyguru 昨日（8 月 10 日）发布博文，通过挖掘 v1.3.07.3791 版 Nearby Device 应用程序，三星计划在 One UI 9.5 更新中，为应用引入原生深色主题图标。在手机视觉体验上，Galaxy 手机用户遇到的问题之一，就是在深色主屏和壁纸上，应用图标仍保留白色背景，夜间使用时显得突兀。三星原生界面此前不会根据主题设置",
-      "fetched_at": "2026-08-11T04:35:58.749962+00:00"
-    },
-    {
-      "id": "5f83401b06e3e6de",
-      "title": "国产FPGA，机会来了",
-      "link": "https://www.tmtpost.com/8098056.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-11T02:53:23+00:00",
-      "summary": "FPGA供给收紧，国产厂商迎来良机。",
-      "fetched_at": "2026-08-11T09:13:43.280352+00:00"
-    },
-    {
-      "id": "1f4cc2517a5ad252",
-      "title": "我国第四艘 075 两栖攻击舰“湖北舰”通过全训考核，形成整体作战能力",
-      "link": "https://www.ithome.com/0/988/220.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T02:50:24+00:00",
-      "summary": "IT之家 8 月 11 日消息，据央视新闻今日报道，全训考核是海军舰艇从新舰入列到全面形成战斗力的关键一步。近日，075 型两栖攻击舰湖北舰，顺利通过南部战区海军组织的全训考核，形成了平台整体作战能力。抵达训练海域后，湖北舰随即展开舰炮对空抗击课目考核。火控系统操作舰炮对目标进行跟踪；射击指挥员下发射击诸元；操作手锁定目标开火，成功击落靶机。随后，考核组又下达“蛙人渗透”特情。官兵们迅速布设反蛙人",
-      "fetched_at": "2026-08-11T04:35:58.749988+00:00"
-    },
-    {
-      "id": "ce81c2094eb4ce55",
-      "title": "消息称英特尔股票发行吸引超千亿美元认购，最终规模或破 200 亿美元",
-      "link": "https://www.ithome.com/0/988/219.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T02:50:19+00:00",
-      "summary": "IT之家 8 月 11 日消息，Intel（英特尔）当地时间昨日宣布拟进行 150 亿美元（现汇率约合 1,013.31 亿元人民币）股票发行。而根据彭博社从消息人士处得到的消息，如果超额配售选择权被行使，此次发行规模的最终实际规模可能超过 200 亿美元（现汇率约合 1,351.07 亿元人民币）。知情人士透露，英特尔计划将发行价定在每股 95 美元左右。截至IT之家发稿时，英特尔的股价在盘后交",
-      "fetched_at": "2026-08-11T04:35:58.750014+00:00"
-    },
-    {
-      "id": "faeb93158c1a4202",
-      "title": "达尔优 A3 Max 头戴式耳机新增“粉白”配色版：53mm 动圈、底座集成 2.4GHz 信号接收功能，299 元",
-      "link": "https://www.ithome.com/0/988/218.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T02:50:18+00:00",
-      "summary": "IT之家 8 月 11 日消息，达尔优现已为旗下 A3 MAX 头戴式电竞无线耳机新增“粉白”版本，定价为 299 元。京东达尔优 A3 Max 游戏耳机“粉白色”版本 299 元直达链接该耳机重量 270g；配备钕铁硼强磁体和生物振膜；拥有惰性海绵护垫，耳罩隔音透气，头梁为锰钢材质，支臂为可旋转设计并提供 9 档调节空间；还搭载支持 ENC 环境降噪的麦克风。该耳机搭载 53mm 驱动单元，支持",
-      "fetched_at": "2026-08-11T04:35:58.750044+00:00"
-    },
-    {
-      "id": "0b4ad592249690c5",
-      "title": "三星 Galaxy S26 FE 手机规格曝光：8GB 内存、4900mAh 电池",
-      "link": "https://www.ithome.com/0/988/217.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T02:49:52+00:00",
-      "summary": "IT之家 8 月 11 日消息，科技媒体 WinFuture &nbsp;昨日（8 月 10 日）发布博文，分享了三星 Galaxy S26 FE 手机的完整规格参数，预估将于 2026 年 9 月上旬发布。外观方面，消息称 Galaxy S26 FE 手机最薄处为 7.4 毫米，重量 193 克，并支持 IP68 等级防水。三星计划提供深灰色（Graphite）、绿色（Pistachio）和紫色",
-      "fetched_at": "2026-08-11T04:35:58.750093+00:00"
-    },
-    {
-      "id": "2985562a5bc75abd",
-      "title": "消息称 Anthropic 与云计算公司 Riot Platforms 达成 91 亿美元算力协议",
-      "link": "https://www.ithome.com/0/988/216.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T02:44:54+00:00",
-      "summary": "IT之家 8 月 11 日消息，据彭博社报道，知情人士透露，人工智能公司 Anthropic 已与比特币挖矿企业 Riot Platforms 达成一项价值 91 亿美元（IT之家注：现汇率约合 614.74 亿元人民币）的协议。Riot Platforms 近期开始将数据中心算力出售给人工智能企业。这一交易凸显出 Anthropic 正在加紧争夺计算资源，以满足客户不断增长的 AI 服务需求。R",
-      "fetched_at": "2026-08-11T04:35:58.750148+00:00"
-    },
-    {
-      "id": "eedd871f9aeb9aa1",
-      "title": "闪鳞闪核 NOVA 系列 110mm SFX-L 电源新增 750W 版，499 元起",
-      "link": "https://www.ithome.com/0/988/214.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T02:37:32+00:00",
-      "summary": "IT之家 8 月 11 日消息，闪鳞 (Shiny Snake) 去年 12 月推出了 650W 的闪核 NOVA 系列 110mm SFX-L 电源。而在今日，该品牌宣布追加推出 750W 版本的 NOVA 电源，黑色款售价 499 元、白色款售价 519 元。闪核 NOVA 系列外形规格介于标准 SFX 与标准 SFX-L 之间，长度 110mm。其符合 ATX12V 3.X 与 PCIe C",
-      "fetched_at": "2026-08-11T04:35:58.750190+00:00"
-    },
-    {
-      "id": "120ea1cfefd13e24",
-      "title": "七彩虹推出 CF700 桌面环绕音箱：“黄金仰角”设计、双 45mm 单元，175 元",
-      "link": "https://www.ithome.com/0/988/211.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T02:36:03+00:00",
-      "summary": "IT之家 8 月 11 日消息，七彩虹现已在京东上架一款型号为 CF700 的桌面环绕音箱，该机主打“黄金仰角”设计，定价为 175 元，部分地区国补后 157.5 元。京东七彩虹 CF700 桌面环绕音箱 175 元直达链接该音箱尺寸为 350 x 53 x 80mm，采用金属网面设计，底部带有 RGB 炫彩灯光设计，支持约 1680 万色和三种模式、五种氛围灯效。官方强调其采用“黄金三角”仰角",
-      "fetched_at": "2026-08-11T04:35:58.750218+00:00"
-    },
-    {
-      "id": "b5a0454e31615d92",
-      "title": "只失业了一秒钟！离开谷歌后，“AI教父”创业了",
-      "link": "https://www.tmtpost.com/8098009.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-11T02:31:02+00:00",
-      "summary": "Jeff Dean告别谷歌，创办Discovery Loop。",
-      "fetched_at": "2026-08-11T09:13:43.280362+00:00"
-    },
-    {
-      "id": "d8708cb0952fb6d0",
-      "title": "铠侠第一大股东易主：东芝减持放弃宝座，SK 海力士关联投资实体成“新王”",
-      "link": "https://www.ithome.com/0/988/202.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T02:30:14+00:00",
-      "summary": "IT之家 8 月 11 日消息，日本半导体存储器制造商铠侠控股 8 月 10 日发布公告称，公司向关东财务局提交报告，确认第一大股东（系其主要股东之一）发生变更。由贝恩资本设立的 BCPE Pangea Cayman2 以 14.19% 的持股比例，成为公司第一大股东；东芝公司不再为公司第一大股东。从变更记录来看，BCPE Pangea Cayman2 的所持股份没有变化；而东芝在本月减持了铠侠的",
-      "fetched_at": "2026-08-11T04:35:58.750251+00:00"
-    },
-    {
-      "id": "bfed488c84b795aa",
-      "title": "BlueFerry 上线：通过蓝牙让 Linux 直接收发 iPhone 17 等设备消息",
-      "link": "https://www.ithome.com/0/988/199.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T02:29:30+00:00",
-      "summary": "IT之家 8 月 11 日消息，科技媒体 Linuxiac 昨日（8 月 10 日）发布博文，报道称开源项目 BlueFerry 近期在 GitHub 平台上线，通过蓝牙方式，为 Linux 用户提供了一种直接收发 iPhone 17 等机型消息的方案。在操作体验方面，用户借助 BlueFerry 项目配对 iPhone 与 Linux 电脑后，在桌面上会显示 iPhone 端收到的 iMessa",
-      "fetched_at": "2026-08-11T04:35:58.750295+00:00"
-    },
-    {
-      "id": "ba41040e7c4f1ac3",
-      "title": "对话智界赵长江：用旧时代的逻辑，经营不好 AI 时代的汽车公司",
-      "link": "https://www.ifanr.com/1674637?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source_id": "ifanr",
-      "source_name": "爱范儿",
-      "category": "tech",
-      "published_at": "2026-08-11T02:27:27+00:00",
-      "summary": "未来领先的汽车企业，生产的不只是汽车。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-08-11T15:11:41.065361+00:00"
-    },
-    {
-      "id": "6698c42be15e8cf1",
-      "title": "彭博社称苹果“全玻璃 iPhone”没有被取消，将按计划在明年推出",
-      "link": "https://www.ithome.com/0/988/191.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T02:24:56+00:00",
-      "summary": "IT之家 8 月 11 日消息，此前有报道称，苹果已经取消了传闻已久、原本计划在 iPhone 诞生 20 周年之际推出的“全玻璃 iPhone”。不过，彭博社最新报道称，该款机型的重新设计工作仍按计划推进，将应用于明年的 Pro 系列机型。IT之家注意到，今天早些时候，杰富瑞集团（Jefferies）下调了苹果股票的评级。该机构援引供应链调查结果称，苹果似乎已经取消了传闻中的“全玻璃 iPhon",
-      "fetched_at": "2026-08-11T04:35:58.750333+00:00"
-    },
-    {
-      "id": "495f8a47d542be9f",
-      "title": "QCY T13 Pro 耳机发售：50dB 降噪、至高 49 小时续航，99 元",
-      "link": "https://www.ithome.com/0/988/184.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T02:20:14+00:00",
-      "summary": "IT之家 8 月 11 日消息，QCY 现已在京东上架 T13 Pro 蓝牙耳机，该产品提供 50dB 降噪，配备 13mm 动圈，定价为 99 元。京东 QCY T13 Pro 耳机 99 元直达链接该耳机提供“皓月白”与“冰海蓝”两种配色。其充电仓尺寸为 57.8x51.7x26.5mm，单只耳机重量为 4.5 克。产品包装内附赠了三种不同尺寸的大、中、小硅胶耳帽，以便用户根据自身的耳道大小进",
-      "fetched_at": "2026-08-11T04:35:58.750369+00:00"
-    },
-    {
-      "id": "dccb0e78795fca3f",
-      "title": "不喜欢对照式译文的阅读体验？Ovid 让你「按需」查看原版书籍",
-      "link": "https://sspai.com/post/113263",
-      "source_id": "sspai",
-      "source_name": "少数派",
-      "category": "tech",
-      "published_at": "2026-08-11T02:17:21+00:00",
-      "summary": "因为不太喜欢传统的那种原文、译文按段落或按分页对照的那种双语书形式，我做了一款可以让你按需查看译文的 ovid。查看全文",
-      "fetched_at": "2026-08-11T15:11:50.058809+00:00"
-    },
-    {
-      "id": "936e9d59ebf6609c",
-      "title": "消息称贝索斯拟收购利物浦足球俱乐部部分股权，开启个人体育投资首秀",
-      "link": "https://www.ithome.com/0/988/171.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T02:15:17+00:00",
-      "summary": "IT之家 8 月 11 日消息，据《卫报》报道，亚马逊创始人杰夫 · 贝索斯正试图加入越来越多美国超级富豪投资英国足球俱乐部的行列。据报道，贝索斯正与包括 Facebook 联合创始人爱德华多 · 萨维林在内的其他投资者洽谈，计划以 13.5 亿英镑（IT之家注：现汇率约合 123.01 亿元人民币）的估值，收购英格兰足球俱乐部利物浦至少 30% 的股份。如果交易最终达成，这将成为贝索斯首次投资体",
-      "fetched_at": "2026-08-11T04:35:58.750418+00:00"
-    },
-    {
-      "id": "16edbe8435de6114",
-      "title": "2026 第 5 个镜像：8 月 CachyOS 更新推出，Zig 和 Rust 重构部分发行版组件",
-      "link": "https://www.ithome.com/0/988/168.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T02:13:49+00:00",
-      "summary": "IT之家 8 月 11 日消息，科技媒体 Linuxiac 昨日（8 月 10 日）发布博文，报道称 CachyOS 更新发布 8 月安装镜像，基于 Linux 7.1 内核，也是该 Arch 系发行版今年第 5 次 ISO 更新。功能方面，CachyOS 重构了默认的图形包管理器 Shelly，从 C# 迁移到 Zig，并加入欢迎页、列表与网格视图等功能。AUR 用户可以直接预览 PKGBUIL",
-      "fetched_at": "2026-08-11T04:35:58.750456+00:00"
-    },
-    {
-      "id": "c460b813ece2cf2a",
-      "title": "联想拯救者官宣 Y700 无极平板电脑 8 月 25 日 19:00 发布",
-      "link": "https://www.ithome.com/0/988/165.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T02:11:27+00:00",
-      "summary": "IT之家 8 月 11 日消息，联想 (Lenovo) 拯救者 (Legion) 官方稍早前正式宣布，联想 AI 平板拯救者 Y700 无极将于 8 月 25 日 19:00 发布。从此前预热节奏来看，联想拯救者云游戏掌机 C700 届时也有望同场亮相。这款游戏平板电脑现已开启预约，预约用户可享价值可达 / 超 2000 元的一系列首销购机权益，包括 6 期免息、保值换新、碎屏险、电池延保等。此前",
-      "fetched_at": "2026-08-11T04:35:58.750483+00:00"
-    },
-    {
-      "id": "3335f2c4fac80a31",
-      "title": "HKC 推出“27Q200”27 英寸显示器：2K 200Hz/1080P 400Hz 双模，849 元",
-      "link": "https://www.ithome.com/0/988/163.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T02:10:37+00:00",
-      "summary": "IT之家 8 月 11 日消息，HKC 现已在京东上架一款型号为“27Q200”的 27 英寸显示器，该机主打 2K 200Hz/1080P 400Hz 双模，定价为 899 元，首发价 849 元。京东 HKC“27Q200”显示器 849 元直达链接该机配备的 Fast IPS 面板支持以 2560x1440 分辨率 200Hz 或 1920x1080 分辨率 400Hz 显示，其响应速度 1",
-      "fetched_at": "2026-08-11T02:22:15.262724+00:00"
-    },
-    {
-      "id": "b76be80af92d3004",
-      "title": "消息称蓝箭航天朱雀三号遥二运载火箭今日发射任务推迟",
-      "link": "https://www.ithome.com/0/988/161.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T02:10:11+00:00",
-      "summary": "IT之家 8 月 11 日消息，据第一财经今日报道，有知情人士确认，蓝箭航天朱雀三号遥二运载火箭原定于 8 月 11 日早上的发射推迟。此前根据通告，酒泉卫星发射中心相关空域的临时管制时段为北京时间 2026 年 8 月 11 日 7 时 40 分至 8 时 27 分。6 月 29 日，蓝箭航天朱雀三号重复使用遥二运载火箭在东风商业航天创新试验区顺利完成静态点火试验。IT之家注：朱雀三号是蓝箭航天",
-      "fetched_at": "2026-08-11T02:22:15.262751+00:00"
-    },
-    {
-      "id": "75f3df05b417a7da",
-      "title": "宇树IPO，谁都输不起",
-      "link": "https://www.tmtpost.com/8098378.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-11T02:09:20+00:00",
-      "summary": "一次不能输的样板工程。",
-      "fetched_at": "2026-08-11T07:22:49.224556+00:00"
-    },
-    {
-      "id": "52972ddc48725e12",
-      "title": "算法费减免为0，元气森林鲸吞无人零售？",
-      "link": "https://www.tmtpost.com/8097996.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-11T02:09:18+00:00",
-      "summary": "四年不披露营收后，元气森林把增长押给货柜。",
-      "fetched_at": "2026-08-11T07:22:49.224565+00:00"
-    },
-    {
-      "id": "4c091ff8567cd693",
-      "title": "2026，跨境电商奔向“Agent 2 Agent”时刻",
-      "link": "https://www.tmtpost.com/8098002.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-11T02:09:16+00:00",
-      "summary": "选好AI，做好新电商的第一步。",
-      "fetched_at": "2026-08-11T07:22:49.224574+00:00"
-    },
-    {
-      "id": "0e6c557a6e999ee3",
-      "title": "我国科学家研制出 455Wh/kg 高能量密度水系锌碘软包电池，800 圈稳定循环",
-      "link": "https://www.ithome.com/0/988/146.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T02:04:50+00:00",
-      "summary": "IT之家 8 月 11 日消息，中国科学院大连化物所能源催化转化全国重点实验室动力电池与系统研究部（DNL29）陈忠伟院士、汪冬冬研究员团队在高能量水系锌电池研究领域取得新进展。团队提出一种“双界面配位调控”电解液设计策略，通过系统筛选多类含氮阳离子配体，确定 N-甲基咪唑氯盐（MImCl）作为电解液双界面多功能添加剂，可实现对四电子锌碘电池正负极界面的同步稳定。该策略通过 MIm+在电池运行过程",
-      "fetched_at": "2026-08-11T02:22:15.262797+00:00"
-    },
-    {
-      "id": "aeea8c8e6b347e8e",
-      "title": "酷冷至尊带来 Elite Platinum 1000W 铂金电源，12 年长质保",
-      "link": "https://www.ithome.com/0/988/140.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T01:57:55+00:00",
-      "summary": "IT之家 8 月 11 日消息，CoolerMaster（酷码 / 酷冷至尊）现已在其官网上线 ATX 全模组 80 PLUS 铂金电源 Elite Platinum 1000W。该系列产品覆盖 850W~1300W 额定功率，但其它型号的详细规格尚不明确。Elite Platinum 1000W 采用 140mm 标准长度设计，符合 ATX12V 3.1 和 PCIe CEM 5.1 规范，提供",
-      "fetched_at": "2026-08-11T02:22:15.262851+00:00"
-    },
-    {
-      "id": "c5e580f09d6ac376",
-      "title": "因维护者分歧，开源 BitTorrent 客户端 Transmission 分叉出 ReTransmission",
-      "link": "https://www.ithome.com/0/988/139.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T01:57:38+00:00",
-      "summary": "IT之家 8 月 11 日消息，科技媒体 Linuxiac 于 8 月 9 日发布博文，报道称热门开源 BitTorrent 客户端 Transmission 因维护者长期存在的分歧，分叉出新项目 ReTransmission。IT之家注：Transmission 是一款开源、跨平台且极其轻量级的 BitTorrent 下载客户端，以资源占用少、界面简洁无广告而闻名。消息称在项目管理方式上，维护者",
-      "fetched_at": "2026-08-11T02:22:15.262897+00:00"
-    },
-    {
-      "id": "a7443d2de22bdb19",
-      "title": "2026 款微星泰坦 18 笔记本“Ultra 9 275HX + 16G + 1T + RTX 5070Ti”版本发售，18999 元",
-      "link": "https://www.ithome.com/0/988/137.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T01:54:46+00:00",
-      "summary": "IT之家 8 月 11 日消息，2026 款微星泰坦 18 笔记本新增的“Ultra 9 275HX + 16GB RAM + 1TB SSD + RTX 5070Ti”版本将于今天 10 点在京东发售，定价为 18999 元，部分地区可享 15% 国补。该机重 3.6kg，B 面配备一块 18 英寸 2560×1600 分辨率 240Hz 16:10 屏幕（亮度 500nits，色域覆盖 100",
-      "fetched_at": "2026-08-11T02:22:15.262938+00:00"
-    },
-    {
-      "id": "7fd49bb446f758cf",
-      "title": "AI吃掉SaaS利润后：Zoho为什么自研服务器",
-      "link": "https://www.tmtpost.com/8098550.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-11T01:54:10+00:00",
-      "summary": "一家成立30年的软件企业，在AI时代切入硬件研发赛道。",
-      "fetched_at": "2026-08-11T07:22:49.224582+00:00"
-    },
-    {
-      "id": "fe36d5856dba51b1",
-      "title": "DeepSeek 被曝偷偷给用户取外号，AI 回应称只是临时“打标签”、不会记忆",
-      "link": "https://www.ithome.com/0/988/136.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T01:50:17+00:00",
-      "summary": "IT之家 8 月 11 日消息，有网友 8 月 10 日在社交平台发文称，DeepSeek 在深度思考模式里会偷偷给人取外号，比如“墨墨”，相关话题冲上热搜。DeepSeek 在询问中回复称：“取外号”的真相是“打标签”，在这个推理过程中，确实会在心里临时给问题打个标签，比如：“这位用户喜欢刨根问底”（对应你）、“这位在故意刁难我”（对应某些测试题）。但这绝对不叫“偷偷取外号”，而是“上下文占位符",
-      "fetched_at": "2026-08-11T02:22:15.262959+00:00"
-    },
-    {
-      "id": "b889de1be997b676",
-      "title": "荣耀畅玩 80 手机发售：搭载天玑 6300 处理器，1029 元起",
-      "link": "https://www.ithome.com/0/988/134.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T01:49:12+00:00",
-      "summary": "IT之家 8 月 11 日消息，荣耀现已在京东上架畅玩 80 手机，该机搭载联发科天玑 6300 处理器，定价为 1049 元起，首发价 1029 元起，IT之家整理价格如下：4GB RAM + 128GB 存储空间：1049 元，首发价 1029 元6GB RAM + 128GB 存储空间：1099 元该机厚度 7.89mm，重量 186g，可选碧空蓝、海湖青、墨岩黑三种配色，手机正面配备一块 ",
-      "fetched_at": "2026-08-11T02:22:15.262997+00:00"
-    },
-    {
-      "id": "da7bdd3491fa7179",
-      "title": "开源兼容层 Wine 11.15 发布：修复 Steam 鼠标操作异常等 41 个 Bug",
-      "link": "https://www.ithome.com/0/988/133.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T01:48:31+00:00",
-      "summary": "IT之家 8 月 11 日消息，科技媒体 Linuxiac 昨日（8 月 10 日）发布博文，报道称 Wine 11.5 开源兼容层发布，可帮助用户在 Linux 及其他类 Unix 操作系统上运行 Windows 应用和游戏。新增功能方面，Wine 11.5 最值得关注的更新，在于 MinGW 模式下支持构建 ARM64EC 程序。IT之家注：ARM64EC 是微软推出的应用二进制接口，允许原生",
-      "fetched_at": "2026-08-11T02:22:15.263031+00:00"
     }
   ]
 }
