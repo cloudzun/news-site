@@ -1,7 +1,216 @@
 {
   "date": "2026-08-18",
-  "count": 1846,
+  "count": 1852,
   "items": [
+    {
+      "id": "93bb88119f802f1c",
+      "title": "谷歌安卓开发者验证计划逐步落地，“高级绕过”模式首个版本开启分阶段推送",
+      "link": "https://www.ithome.com/0/991/389.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T23:31:43+00:00",
+      "summary": "IT之家 8 月 19 日消息，谷歌 Android 社区参与经理 Mishaal Rahman 透露，目前谷歌已开始逐步推行安卓开发者验证计划。IT之家注：安卓开发者验证（Android Developer Verification，简称 ADV）是谷歌推出的身份认证机制，要求安卓应用开发者提供有效信息（如政府 ID 或企业资质）完成注册，通过验证的应用才能被正常安装。该验证机制主要是为了在源头",
+      "fetched_at": "2026-08-18T23:32:09.740672+00:00"
+    },
+    {
+      "id": "624819d5cfce7eef",
+      "title": "占比约 41%：苹果 Safari 26.6.1 修复 22 个漏洞，9 个通过 OpenAI Codex Security 发现",
+      "link": "https://www.ithome.com/0/991/388.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T23:31:42+00:00",
+      "summary": "IT之家 8 月 19 日消息，科技媒体 9to5Mac 昨日（8 月 18 日）发布博文，报道称苹果公司最新公示 Safari 浏览器 26.6.1 更新安全日志，共计修复 22 个涉及 WebKit 的 CVE 安全漏洞，其中 9 个是 OpenAI Codex Security 发现的，占比约为 41%。IT之家注：OpenAI Codex Security 是一款专为工程和安全团队打造的 ",
+      "fetched_at": "2026-08-18T23:32:09.740714+00:00"
+    },
+    {
+      "id": "aea16cde43ded913",
+      "title": "OpenAI 宣布新安全政策，加强模型开发监控与网络隔离",
+      "link": "https://www.ithome.com/0/991/387.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T23:28:14+00:00",
+      "summary": "IT之家 8 月 19 日消息，当地时间周二，OpenAI 宣布了一批新的安全政策，重点是控制模型在测试期间可能发生的安全事件。新的安全措施包括在模型开发过程中进行更加细致的监控，同时在训练后阶段进一步加强对模型对齐和安全性的重视。IT之家注意到，OpenAI 在一篇博客文章中表示：“随着模型能力不断增强，在内部开发和测试这些模型过程中所面临的风险也在增加。我们在监控、对齐和安全方面制定的标准必须",
+      "fetched_at": "2026-08-18T23:32:09.740762+00:00"
+    },
+    {
+      "id": "d5f377fe1b408e22",
+      "title": "通用汽车向维修机构发布新规：只能用全新原厂零部件修理车辆辅助驾驶系统",
+      "link": "https://www.ithome.com/0/991/386.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T23:22:01+00:00",
+      "summary": "IT之家 8 月 19 日消息，通用汽车（GM）近日向维修机构发布立场声明，要求维修机构修理车辆辅助驾驶系统模块时只能使用全新原厂通用汽车零部件（涉及雷达、摄像头、传感器、控制模块、线束、支架等）。通用汽车表示，包括拆车件、回收件、翻新件、再制造件、售后市场零部件、二手市场零部件此类非原厂零部件属于“严格禁止”使用的范围，如果在车辆辅助驾驶系统（ADAS）使用非原厂全新零部件，可能影响系统的可靠性",
+      "fetched_at": "2026-08-18T23:32:09.740785+00:00"
+    },
+    {
+      "id": "d06ec413f67498f9",
+      "title": "【钛晨报】李强签署国务院令，公布《国务院关于修改〈住房公积金管理条例〉的决定》；灵巧手从5万降到万元内，国内灵巧手赛道融资暴涨1500%；百度、小米二季报出炉",
+      "link": "https://www.tmtpost.com/8107897.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-18T23:20:00+00:00",
+      "summary": "阿里巴巴投资的机器人制造商逐际动力据悉计划在香港IPO；部分地区入学要查验适龄女孩是否打了HPV疫苗；商务部：出台18条举措进一步激发下沉市场活力；OpenAI宣布推出ChatGPT青少年版；苹果罕见松口：坦言监管重压下，千亿服务业务正受到侵蚀；字节跳动与美国电影协会签署AI版权协议",
+      "fetched_at": "2026-08-18T23:32:12.835431+00:00"
+    },
+    {
+      "id": "08fb00e39503b27e",
+      "title": "苹果 tvOS 27 应用列表新增 Siri 条目，Apple TV 4K 将整合 Siri AI",
+      "link": "https://www.ithome.com/0/991/385.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T23:19:53+00:00",
+      "summary": "IT之家 8 月 19 日消息，科技媒体 9to5Mac 昨日（8 月 18 日）发布博文，报道称在 tvOS 27 系统中，苹果公司计划为 Apple TV 4K 等设备，推送整合 Siri AI。该媒体通过挖掘 tvOS 27 Beta 6 代码，发现苹果在系统内部应用列表中加入了 Siri 条目，并关联字符串“com.apple.campo”，其中“campo”是苹果为 Siri AI 使用",
+      "fetched_at": "2026-08-18T23:32:09.740814+00:00"
+    },
+    {
+      "id": "e85d244d8a2ed3fd",
+      "title": "Anthropic 推出 AI 文本水印后，各类去水印工具开始涌现",
+      "link": "https://www.ithome.com/0/991/384.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T23:18:50+00:00",
+      "summary": "IT之家 8 月 19 日消息，Anthropic 希望让 AI 生成的文本更容易被识别，但一些软件开发者已经开始开发专门用于消除这些标记的工具。这家 AI 公司上周表示，部分 Claude 模型生成的文本会带有一种“不可感知的水印”。由于这种水印是通过 Claude 的选词方式形成的统计模式，因此即使用户复制粘贴文本，水印也会随之保留下来。一些人认为，AI 水印能够提高内容透明度，是一项值得欢迎",
+      "fetched_at": "2026-08-18T23:32:09.740930+00:00"
+    },
+    {
+      "id": "9af43843a928f57b",
+      "title": "泄露代码暗示：苹果家庭中枢产品 Home Hub 将搭载小组件库",
+      "link": "https://www.ithome.com/0/991/383.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T23:11:45+00:00",
+      "summary": "IT之家 8 月 19 日消息，据 Macrumors 报道，苹果正在开发一款搭载 Siri AI 的家庭中枢设备（Home Hub），最早有望于今年发布。这款家庭中枢将配备“Widget Gallery（小组件图库）”，用户可以通过它选择希望显示在设备主屏幕上的内容。macOS Tahoe 26.7 的系统文件中发现了“Widget Gallery”的相关信息，而该更新此前泄露了一长串尚未发布的",
+      "fetched_at": "2026-08-18T23:32:09.740977+00:00"
+    },
+    {
+      "id": "5817f7fb63dae3fe",
+      "title": "联想 FCNT 旗下 arrows Alpha 2 手机价格公布：天玑 8350 Extreme、5370mAh 电池，94900 日元起",
+      "link": "https://www.ithome.com/0/991/382.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T23:09:27+00:00",
+      "summary": "IT之家 8 月 19 日消息，联想旗下 FCNT 新一代旗舰机机型 arrows Alpha 2 于今年 6 月发布，目前官方正式揭晓了这款产品上市时间及具体售价，该机定价为 94,900 日元（IT之家注：现汇率约合 4,020 元人民币）起，8 月 27 日在日本市场正式发售。8GB RAM + 256GB 存储空间：94,900 日元（现汇率约合 4,020 元人民币）12GB RAM +",
+      "fetched_at": "2026-08-18T23:32:09.741039+00:00"
+    },
+    {
+      "id": "b550f18f1d3f85bc",
+      "title": "苹果 AirPods 5 耳机曝光，预估升级 H3 芯片",
+      "link": "https://www.ithome.com/0/991/381.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T23:07:39+00:00",
+      "summary": "IT之家 8 月 19 日消息，科技媒体 MacRumors 昨日（8 月 18 日）发布博文，报道称在 macOS 26.7 Tahoe 系统更新中，发现 B868M 和 B868E 两款内部设备代码，关联苹果 AirPods 5。IT之家援引博文介绍，苹果公司于 2024 年 9 月发布的 AirPods 4 内部代号为 B768M 和 B768E，因此从信号判断应该是指 AirPods 5 ",
+      "fetched_at": "2026-08-18T23:32:09.741068+00:00"
+    },
+    {
+      "id": "4feb0fe9e7b424e1",
+      "title": "消息称谷歌 Googlebook 系列笔记本新品预览活动将于 9 月 15 日举行",
+      "link": "https://www.ithome.com/0/991/380.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T23:05:59+00:00",
+      "summary": "IT之家 8 月 19 日消息，据外媒 Chrome Unboxed 报道，谷歌已悄悄向部分媒体发出邀请，透露公司将于 9 月 15 日举办 Googlebook 新品预览活动，届时除了产品演示外，媒体还可以现场体验这些新款笔记本。谷歌在今年 2026 年 I/O 开发者大会期间首次公布了 Googlebook 高端安卓笔记本，将由 Acer、ASUS、Dell、HP、Lenovo 率先推出首批高",
+      "fetched_at": "2026-08-18T23:32:09.741098+00:00"
+    },
+    {
+      "id": "66e24a11a47cfc65",
+      "title": "Sensor Tower：《GTA 6》预购收入已达 4.29 亿美元，PS5 平台占比 77%",
+      "link": "https://www.ithome.com/0/991/379.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T23:01:53+00:00",
+      "summary": "IT之家 8 月 19 日消息，大家都知道《GTA 6》很可能会打破各种纪录，但现在，围绕这款游戏的热度终于有了一些具体数字。分析机构 Sensor Tower 最新估算显示，《GTA 6》目前的预购收入已经达到约 4.29 亿美元（IT之家注：现汇率约合 28.97 亿元人民币），全球预购销量约为 438 万份。而距离游戏正式发售还有数月，官方定于 11 月 19 日推出《GTA 6》。Sens",
+      "fetched_at": "2026-08-18T23:32:09.741164+00:00"
+    },
+    {
+      "id": "3310b4a1c2946f24",
+      "title": "三星为 Galaxy Z Flip8 / Fold8 系列手机引入全新“保修与服务”功能，用户可在系统设置快速获取售后支持",
+      "link": "https://www.ithome.com/0/991/378.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T22:58:44+00:00",
+      "summary": "IT之家 8 月 19 日消息，三星现已悄悄为 Galaxy Z Flip8 / Fold8 / Fold8 Ultra 三款折叠屏手机系统设置中引入全新“保修与服务”功能，用户可以在相应设置选项中快速查询设备保修、获取设备诊断与售后支持。除了显示用户当前使用的手机信息外，相应“保修与服务”功能也会显示用户本身账号名下还有 Galaxy Watch、Galaxy Buds、Galaxy Tab 等",
+      "fetched_at": "2026-08-18T23:32:09.741192+00:00"
+    },
+    {
+      "id": "cfd4230c048734bd",
+      "title": "消息称苹果 iPhone 18 Pro Max 独占可变光圈升级",
+      "link": "https://www.ithome.com/0/991/377.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T22:58:25+00:00",
+      "summary": "IT之家 8 月 19 日消息，消息源 @i冰宇宙 昨日（8 月 18 日）发布微博，在#曝iPhone18ProMax独占可变光圈#话题下，表示“想体验满级影像只能忍受砖头重量这件事苹果也不能幸免了”。供应链消息称苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 除了电池和屏幕方面的差异外，在影像方面也会存在差别。电池方面，IT之家此前报道 iPhone 18 Pro 配",
+      "fetched_at": "2026-08-18T23:32:09.741248+00:00"
+    },
+    {
+      "id": "8b44a4bfd0b05524",
+      "title": "《GTA 6》多段实机视频泄露，被指为早期游戏版本",
+      "link": "https://www.ithome.com/0/991/376.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T22:55:19+00:00",
+      "summary": "IT之家 8 月 19 日消息，今天，一批《GTA 6》的泄露内容在网上出现，多段游戏实机视频和地图图片在社交媒体上迅速传播。这些视频很快引发玩家热议，一些人甚至质疑它们究竟是真实泄露，还是由 AI 生成。不过，最新消息显示，这些视频可能确实来自《GTA 6》，只是其内容可能比部分玩家预想的要早得多。知名爆料人 NateTheHate 表示，此次泄露的《GTA 6》实机视频已经有一年多的历史。他还",
+      "fetched_at": "2026-08-18T23:32:09.741280+00:00"
+    },
+    {
+      "id": "dfe1019de93396a4",
+      "title": "迪士尼旗下 ABC 起诉 FCC，指控其调查是特朗普政府的报复行动",
+      "link": "https://www.ithome.com/0/991/375.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T22:49:40+00:00",
+      "summary": "IT之家 8 月 19 日消息，迪士尼旗下美国广播公司（ABC）当地时间周二向法院起诉美国联邦通信委员会（FCC），指责该政府机构针对 ABC 展开的调查是特朗普政府发起的一场“报复性行动”，目的是压制该电视网的言论自由。近一年来，ABC 一直因对特朗普总统的批评性报道与特朗普政府存在矛盾。去年 9 月，ABC 曾在 FCC 施压后暂停脱口秀主持人吉米 · 坎摩尔（Jimmy Kimmel）的节目",
+      "fetched_at": "2026-08-18T23:32:09.741336+00:00"
+    },
+    {
+      "id": "e4c056af1f77754f",
+      "title": "Framework Laptop 12 笔记本升级，搭载英特尔 Core 3 系列处理器",
+      "link": "https://www.ithome.com/0/991/374.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T22:44:22+00:00",
+      "summary": "IT之家 8 月 19 日消息，Framework 在推出 13 英寸高端笔记本新机型后，又将目光转向了旗下色彩丰富、体积小巧的另一款产品。全新升级的 Framework Laptop 12 配备英特尔最新 Core Series 3 系列处理器，并新增可选背光键盘和指纹识别器，为这款外观讨喜但价格不低的笔记本带来了颇具意义的硬件升级。Framework 表示，英特尔 Core Ultra Ser",
+      "fetched_at": "2026-08-18T23:32:09.741400+00:00"
+    },
+    {
+      "id": "bea3c210886cef14",
+      "title": "COSMIC Desktop 1.6 桌面环境发布：Rust 编写，新增“按应用分别设置音量”功能",
+      "link": "https://www.ithome.com/0/991/373.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T22:43:56+00:00",
+      "summary": "IT之家 8 月 19 日消息，科技媒体 Linuxiac 发布博文，报道称 System76 公司发布 COSMIC Desktop 1.6 桌面环境，主要新增“按应用分别设置音量”功能，同时修复多项 Bug。IT之家注：COSMIC Desktop 是由 System76 为 Linux 开发的下一代现代桌面环境，完全使用 Rust 语言从头编写并基于 Wayland 显示协议构建。它最初为 ",
+      "fetched_at": "2026-08-18T23:32:09.741444+00:00"
+    },
+    {
+      "id": "15d6a771e5f522f3",
+      "title": "索尼 PS5 首款官方桌面游戏无线音箱 Pulse Elevate 将于 9 月 1 日开启预购，219.99 美元",
+      "link": "https://www.ithome.com/0/991/372.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T22:37:59+00:00",
+      "summary": "IT之家 8 月 19 日消息，索尼 SIE（索尼互动娱乐）在去年 9 月推出了旗下首款桌面游戏无线音箱 Pulse Elevate，但当时官方仅宣布这款产品将于今年（2026 年）上市。目前，索尼 SIE 正式公布了这款产品的具体预订时间、上市日期以及售价。该机在美国售价为 219.99 美元（IT之家注：现汇率约合 1,486 元人民币），欧洲售价 219.99 欧元（现汇率约合 1,720 ",
+      "fetched_at": "2026-08-18T23:32:09.741598+00:00"
+    },
     {
       "id": "354780cbc385f911",
       "title": "中通快递 2026 财年半年报归母净利润 51.69 亿元，同比增长 31.5%",
@@ -11,7 +220,7 @@
       "category": "tech",
       "published_at": "2026-08-18T22:15:04+00:00",
       "summary": "IT之家 8 月 19 日消息，中通快递今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 6 月）报告：营业总收入：278.32 亿元，同比增长 22.5%毛利润：69.68 亿元，同比增长 23.7%毛利率：25%，同比增长 0.2 个百分点归母净利润：51.69 亿元，同比增长 31.5%经营现金流：73.53 亿元，同比增长 ",
-      "fetched_at": "2026-08-18T22:35:57.257449+00:00"
+      "fetched_at": "2026-08-18T23:32:09.741665+00:00"
     },
     {
       "id": "a691704880497ceb",
@@ -22,7 +231,18 @@
       "category": "tech",
       "published_at": "2026-08-18T16:19:32+00:00",
       "summary": "IT之家 8 月 19 日消息，奕境 X9 “第二代家庭旗舰 SUV”今晚正式开启预售，号称满配华为乾崑全栈智能，拥有华为乾崑智驾、鸿蒙座舱、乾崑赤兔平台、乾崑车载光、乾崑车云、鲸鳍通信等，预售价 29.98 万-37.98 万元。增程 四驱 Ultra+ 旗舰 长续航版：37.98 万元增程 四驱 Ultra+ 长续航版：33.98 万元增程 Max 长续航版：29.98 万元按照惯例，各品牌新",
-      "fetched_at": "2026-08-18T22:35:57.257489+00:00"
+      "fetched_at": "2026-08-18T23:32:09.741698+00:00"
+    },
+    {
+      "id": "d7dd58cbd3bdd8e5",
+      "title": "苹果变更欧盟地区 App 商业条款：App Store 外发行的 App 内数字交易费率 5%",
+      "link": "https://www.ithome.com/0/991/366.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-18T16:03:41+00:00",
+      "summary": "IT之家 8 月 19 日消息，苹果公司昨日（8 月 18 日）宣布，经与欧盟委员会密切合作，对欧盟地区的 app 商业条款进行变更。这些变更解决了 Apple 与欧盟委员会在商业条款和替代发行方案上的分歧。此外，这些变更将所有在欧盟发行 app 的开发者纳入同一组商业条款，从而简化了发行程序。开发者即日起可签署新条款，相关变更将于 10 月 1 日生效。适用于在欧盟发行 app 的开发者统一商业",
+      "fetched_at": "2026-08-18T23:32:09.741536+00:00"
     },
     {
       "id": "25b1f21fbcb77cd8",
@@ -33,7 +253,7 @@
       "category": "tech",
       "published_at": "2026-08-18T16:00:03+00:00",
       "summary": "IT之家 8 月 19 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰刚刚发文预告：“静待 9 月，精彩纷呈。”值得一提的是，有网友在评论区留言：“小米大会师的产品要来了，非常期待 9 月的新品。”卢伟冰以“[爱心]”作为回复，暗示小米“大会师”新品将至。参考IT之家此前报道，在今年 1 月的 2025 小米“千万技术大奖”颁奖典礼上，小米集团创始人、董事长兼 CEO 雷军提到",
-      "fetched_at": "2026-08-18T22:35:57.257521+00:00"
+      "fetched_at": "2026-08-18T23:32:09.741727+00:00"
     },
     {
       "id": "79ce5a3939cc2c54",
@@ -20153,160 +20373,6 @@
       "published_at": "2026-08-11T23:37:25+00:00",
       "summary": "IT之家 8 月 12 日消息，Reddit 上一名用户近日晒出了一组看起来非常真实的微软 Xbox 原型手柄照片，而它几乎可以确定就是传闻中的 Xbox Elite Series 3。更令人意外的是，这名用户声称自己是在 OfferUp 上花 200 美元（IT之家注：现汇率约合 1,351 元人民币）买到这款手柄的。今年 5 月，巴西监管机构泄露的图片显示，Xbox Elite Series ",
       "fetched_at": "2026-08-11T23:53:16.014594+00:00"
-    },
-    {
-      "id": "09de8acc0d0b96a7",
-      "title": "三星 Galaxy Tab S12+/S12 Ultra 平板曝光：天玑 9500 芯片",
-      "link": "https://www.ithome.com/0/988/558.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T23:29:55+00:00",
-      "summary": "IT之家 8 月 12 日消息，科技媒体 SamMobile 昨日（8 月 11 日）发布博文，报道称在蓝牙技术联盟（Bluetooth SIG）官网上，发现三星 Galaxy Tab S12+ 和 Galaxy Tab S12 Ultra 两款平板踪迹。连接方面，认证页面显示三星 Galaxy Tab S12+ 和 Galaxy Tab S12 Ultra 两款平板均会推出 Wi-Fi 网络版和",
-      "fetched_at": "2026-08-11T23:53:16.014626+00:00"
-    },
-    {
-      "id": "4c8bd0587987d0a3",
-      "title": "超 653 公里 / 小时，JCB Hydromax 创下氢动力车陆地速度新纪录",
-      "link": "https://www.ithome.com/0/988/557.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T23:25:59+00:00",
-      "summary": "IT之家 8 月 12 日消息，在以 368.347 英里 / 小时（592.797 公里 / 小时）的速度创造纪录数天后，JCB Hydromax 又在美国邦纳维尔盐滩创造了一项新的国际汽联（FIA）世界陆地速度纪录。今天凌晨，这款氢动力车型首次出场便跑出了 400.623 英里 / 小时（644.740 公里 / 小时）的平均速度。随后，赛车掉头驶向相反方向，最终跑出了惊人的 412.135 ",
-      "fetched_at": "2026-08-11T23:53:16.014677+00:00"
-    },
-    {
-      "id": "5e6d26633f31cdd4",
-      "title": "【钛晨报】上海：到2030年，产业规模力争达到4万亿元；报道称SK海力士重启中国NAND闪存生产基地2号工厂建设，将产能扩大约50%；英特尔公布普通股公开发行定价，规模扩大至200亿美元",
-      "link": "https://www.tmtpost.com/8099470.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-11T23:20:00+00:00",
-      "summary": "朋友圈文案、评论点评也能AI代写了？腾讯客服：小范围内测中；腾讯WorkBuddy宣布支持“多端同步”；淘宝闪购在上海、杭州内测到家餐饮项目；波音777宽体客机改装货机生产线落地青岛，计划9月投产；三星SDI将完全接管与通用汽车在美合资企业，同意联合开发电动汽车电池；涉及电风扇、玩具等产品，市场监管总局撤销764张CCC认证证书；2026年具身智能产业图谱征集工作启动；科创板再添硬科技巨头，国仪量",
-      "fetched_at": "2026-08-11T23:53:18.985000+00:00"
-    },
-    {
-      "id": "be1c37bf80441d54",
-      "title": "OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献",
-      "link": "https://www.ithome.com/0/988/556.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T23:19:12+00:00",
-      "summary": "IT之家 8 月 12 日消息，OpenAI 高级主管布拉德 · 莱特卡普（Brad Lightcap）今天（8 月 12 日）在 X 平台发布推文，宣布将离职创业。IT之家查询公开资料，莱特卡普此前和 OpenAI 现任首席执行官萨姆 · 奥尔特曼（Sam Altman）在风险投资公司 Y Combinator 共事，于 2018 年加入 OpenAI 公司。莱特卡普于今年 4 月发生人事调动，",
-      "fetched_at": "2026-08-11T23:53:16.014702+00:00"
-    },
-    {
-      "id": "ac53ebccdd9db9af",
-      "title": "从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs",
-      "link": "https://www.ithome.com/0/988/555.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T23:14:27+00:00",
-      "summary": "IT之家 8 月 12 日消息，林俊旸（yáng）今日宣布，他在上海创办了一家新公司 Pragmatik Labs（语用科技），简称 p7k。新公司的研究方向为横跨数字世界和物理世界的下一代智能体（Agent）。公开资料显示，出生于 1993 年的林俊旸，曾是阿里最年轻的 P10 级技术专家，与智谱 AI 创始人唐杰、月之暗面（Kimi）创始人杨植麟、腾讯首席 AI 科学家姚顺雨并称为“基模四杰”",
-      "fetched_at": "2026-08-11T23:53:16.014735+00:00"
-    },
-    {
-      "id": "69777a2fd23ec766",
-      "title": "Sonos Ace Ultra 高端耳机曝光：预计 9 月发布，融入 AI 能力",
-      "link": "https://www.ithome.com/0/988/554.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T23:12:41+00:00",
-      "summary": "IT之家 8 月 12 日消息，两年前，Sonos 从无线音箱领域跨入头戴式耳机市场。如今，这家公司似乎正准备推出一款定位更高端、融入更多 AI 能力的新产品。据彭博社记者 Chris Welch 报道，Sonos 正在开发 Sonos Ace Ultra，这将是 2024 年推出的 Sonos Ace 耳机的高端升级版。当地时间周一曝光的一份美国联邦通信委员会（FCC）文件中出现了这款产品的名称",
-      "fetched_at": "2026-08-11T23:53:16.014772+00:00"
-    },
-    {
-      "id": "22a153fa51d1ba41",
-      "title": "官宣已 8 年：微软 XBOX 夏尔马试玩《上古卷轴 6》游戏，称叙事宏大、剧情精彩",
-      "link": "https://www.ithome.com/0/988/553.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T23:09:11+00:00",
-      "summary": "IT之家 8 月 12 日消息，微软 XBOX 首席执行官阿莎 · 夏尔马（Asha Sharma）今天（8 月 12 日）在 X 平台发布推文，表示其试玩了《上古卷轴 6》游戏，评价称游戏叙事宏大，气势磅礴，令人叹为观止，游戏剧情更是精彩绝伦。游戏媒体 gamesradar 今天发布博文，指出本次“现场演示”具备重要意义，很可能是 Bethesda 开发团队（可能包括首席执行官 Todd How",
-      "fetched_at": "2026-08-11T23:53:16.014803+00:00"
-    },
-    {
-      "id": "bc4b05c7a80069db",
-      "title": "谷歌有史以来增长最快的产品：Gemini 应用月活跃用户达 10 亿",
-      "link": "https://www.ithome.com/0/988/552.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T22:59:14+00:00",
-      "summary": "IT之家 8 月 12 日消息，谷歌 CEO 桑达尔 · 皮查伊（Sundar Pichai）宣布，Gemini 应用月活跃用户达到 10 亿，是谷歌有史以来增长最快的产品，也是该公司第 14 款跨越十亿用户大关的产品。据IT之家此前报道，今年 6 月，谷歌宣布 Gemini 应用月活跃用户数超过 9 亿，为该公司当时所拥有的 13 款超 10 亿用户产品提供支持，其中包括 5 款用户量超过 30",
-      "fetched_at": "2026-08-11T23:53:16.014917+00:00"
-    },
-    {
-      "id": "3e1ff2db452c908c",
-      "title": "苹果 AirPods Pro 3/2 等耳机迎来公测版固件 9A5336b",
-      "link": "https://www.ithome.com/0/988/551.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T22:56:47+00:00",
-      "summary": "IT之家 8 月 12 日消息，苹果今天发布了 iOS 27 公测版 Beta 3，与此同时，AirPods Pro 3、AirPods Pro 2 等机型也迎来了新的测试版固件。上周，苹果已经向开发者推送了适用于部分 AirPods 机型的新固件。该测试版固件的版本号为 9A5336b，最初仅面向开发者测试版用户开放。今日，同一版本的固件现已开始向公测版用户推送。IT之家注意到，此次获得新测试版",
-      "fetched_at": "2026-08-11T23:53:16.014947+00:00"
-    },
-    {
-      "id": "8e61e49267ffe220",
-      "title": "苹果首款折叠 iPhone 名称爆料，公司内部均称其为“Ultra”",
-      "link": "https://www.ithome.com/0/988/550.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T22:53:01+00:00",
-      "summary": "IT之家 8 月 12 日消息，彭博社的马克 · 古尔曼（Mark Gurman）昨日（8 月 11 日）发布博文，爆料称在苹果公司内部，对于苹果公司即将推出的首款折叠手机，“几乎所有人”都称其为 iPhone Ultra。科技分析师与行业评论员 Max Weinbach 昨日在 X 平台发布推文，不认为苹果首款折叠手机会叫 iPhone Ultra。古尔曼随后转发该条推文，并表示：“苹果内部几乎",
-      "fetched_at": "2026-08-11T23:53:16.014970+00:00"
-    },
-    {
-      "id": "b7b5d0e751ac1d05",
-      "title": "消息称苹果考虑竞购高尔夫英国公开赛美国市场转播权",
-      "link": "https://www.ithome.com/0/988/549.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T22:50:42+00:00",
-      "summary": "IT之家 8 月 12 日消息，据英国《卫报》报道，苹果正在与相关方面洽谈，考虑竞购高尔夫四大男子大满贯赛事之一、英国公开赛（The Open Championship）在美国市场的转播权。Netflix 和亚马逊预计也对这项转播权感兴趣。据IT之家了解，英国公开赛于 1860 年首次在苏格兰举行，是高尔夫四大男子大满贯赛事中历史最悠久的一项，由英国皇家古老高尔夫俱乐部（R&amp;A）负责运营。",
-      "fetched_at": "2026-08-11T23:53:16.015003+00:00"
-    },
-    {
-      "id": "7dd69fd450c49c71",
-      "title": "苹果 2026 返校季活动延长至 9 月 24 日：中国大陆用户买 Mac / iPad 送 AirTags",
-      "link": "https://www.ithome.com/0/988/548.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T22:47:39+00:00",
-      "summary": "IT之家 8 月 12 日消息，苹果 2026 年返校促销活动于 7 月 16 日开始，原定结束日期为 8 月 27 日，现已延长至 9 月 24 日。IT之家从苹果官网获悉，为教育目的，有资格从 Apple Store 教育商店购买之人包括如下教师、员工、学生及父母（均为“有资格的购买人”）：幼儿园、小学和中学 — 中国大陆的公立或私立幼儿园、小学或中学的任何雇员。高等教育机构 — 中国大陆高校",
-      "fetched_at": "2026-08-11T23:53:16.015047+00:00"
-    },
-    {
-      "id": "bdd02f199843e42b",
-      "title": "苹果推迟 Epic 案的申请被驳回，须在 24 小时内就 App Store 抽成做出说明",
-      "link": "https://www.ithome.com/0/988/547.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T22:47:31+00:00",
-      "summary": "IT之家 8 月 12 日消息，Epic Games CEO 蒂姆 · 斯威尼表示，法官 Yvonne Gonzalez Rogers 已驳回苹果暂停 App Store 费用相关诉讼程序的请求。苹果此前希望在美国最高法院审理其藐视法庭裁决期间，暂缓下级法院的相关程序。上个月，苹果向法院提交动议，希望暂停相关诉讼程序。这起诉讼将决定苹果针对 App Store 之外完成的购买交易，可以收取多少佣金",
-      "fetched_at": "2026-08-11T23:53:16.015099+00:00"
-    },
-    {
-      "id": "cca9c18e90d8b8a7",
-      "title": "效力超 25 年，消息称苹果 Apple Pay 负责人贝利 10 月退休",
-      "link": "https://www.ithome.com/0/988/546.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-11T22:38:43+00:00",
-      "summary": "IT之家 8 月 12 日消息，彭博社昨日（8 月 11 日）报道称，负责 Apple Pay（苹果支付）和 Apple Wallet（苹果钱包）的苹果副总裁詹妮弗 · 贝利（Jennifer Bailey）将于 10 月退休。IT之家援引博文介绍，贝利效力苹果公司超过 25 年，于 2000 年代初期加入苹果公司，2003 年起负责 Apple Online Store 团队，2014 年出任 ",
-      "fetched_at": "2026-08-11T23:53:16.015135+00:00"
     }
   ]
 }
