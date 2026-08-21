@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T16:47:02.958583+00:00",
-  "count": 1936,
+  "generated_at": "2026-08-21T17:38:29.429295+00:00",
+  "count": 1935,
   "sources": [
     {
       "id": "36kr",
@@ -21318,17 +21318,6 @@
       "published_at": "2026-08-14T22:53:56+00:00",
       "summary": "IT之家 8 月 15 日消息，英伟达官方账号 @NVIDIAAIInfra 昨日（8 月 14 日）在 X 平台发布推文，官宣已全面投产 Spectrum-X 以太网光子交换机，成为全球首款量产的 200G/lane 共封装光器件（CPO）以太网交换机系统。IT之家注：G/lane 是高速通信、芯片设计和数据中心领域中衡量单通道（Lane）数据传输速率的核心技术指标，表示每个物理通道每秒能传输多",
       "fetched_at": "2026-08-15T01:45:47.677392+00:00"
-    },
-    {
-      "id": "bed90fc86c1f031f",
-      "title": "微软发布 Win11 26H1 RP 28000.2796 预览版：文件管理器适配 KB / MB / GB 单位",
-      "link": "https://www.ithome.com/0/989/969.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-14T17:23:30+00:00",
-      "summary": "IT之家 8 月 15 日消息，微软昨天（8 月 14 日）发布博文，邀请 Release Preview 频道的 Windows Insider 项目成员，测试适用于不同版本 Windows 11 的最新预览版更新，具体内容如下：Windows 11 版本 24H2：更新后版本号升至 Build 26100.9267Windows 11 版本 25H2：更新后版本号升至 Build 26200.",
-      "fetched_at": "2026-08-15T01:45:47.677246+00:00"
     }
   ]
 }
