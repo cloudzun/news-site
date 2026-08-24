@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T20:42:49.293690+00:00",
-  "count": 1969,
+  "generated_at": "2026-08-24T21:38:52.417337+00:00",
+  "count": 1967,
   "sources": [
     {
       "id": "36kr",
@@ -43,7 +43,7 @@
       "category": "tech",
       "published_at": "2026-08-24T17:53:16+00:00",
       "summary": "【点此直达升级教程】 IT之家 8 月 25 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 7 更新（内部版本号：24R5358a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计",
-      "fetched_at": "2026-08-24T20:42:41.970931+00:00"
+      "fetched_at": "2026-08-24T21:38:45.582913+00:00"
     },
     {
       "id": "84c757893f096626",
@@ -54,7 +54,7 @@
       "category": "tech",
       "published_at": "2026-08-24T17:53:15+00:00",
       "summary": "IT之家 8 月 25 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 开发者预览版 Beta 7 更新（内部版本号：24M5359a），本次更新距离上次发布 Beta/RC 间隔 7 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。",
-      "fetched_at": "2026-08-24T20:42:41.970967+00:00"
+      "fetched_at": "2026-08-24T21:38:45.582960+00:00"
     },
     {
       "id": "53d8a188dc9f6b5e",
@@ -65,7 +65,7 @@
       "category": "tech",
       "published_at": "2026-08-24T17:53:15+00:00",
       "summary": "IT之家 8 月 25 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 7 更新（内部版本号：26A5421a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新",
-      "fetched_at": "2026-08-24T20:42:41.971005+00:00"
+      "fetched_at": "2026-08-24T21:38:45.583010+00:00"
     },
     {
       "id": "59cd1a19497c20a3",
@@ -76,7 +76,7 @@
       "category": "tech",
       "published_at": "2026-08-24T17:53:14+00:00",
       "summary": "【点此直达升级教程】 IT之家 8 月 25 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.0 开发者预览版 Beta 7 更新（内部版本号：24A5424a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta",
-      "fetched_at": "2026-08-24T20:42:41.971041+00:00"
+      "fetched_at": "2026-08-24T21:38:45.583057+00:00"
     },
     {
       "id": "fb5f639b98f57af6",
@@ -21670,28 +21670,6 @@
       "published_at": "2026-08-17T22:35:11+00:00",
       "summary": "IT之家 8 月 18 日消息，苹果今天发布了 iOS 26.6.1、iPadOS 26.6.1 和 macOS 26.6.2，这些系统更新均以修复安全漏洞为主。根据苹果公布的安全更新说明，iOS / iPadOS 26.6.1 及 macOS 26.6.2 修复的漏洞此前已经在 iOS / macOS &nbsp;27 Beta 版本得到修复。其中，iOS / iPadOS 26.6.1 在 i",
       "fetched_at": "2026-08-17T23:32:19.108905+00:00"
-    },
-    {
-      "id": "44d3245b088e5bde",
-      "title": "微软发布 Win11 Experimental 频道预览版：改进文件管理器与右键菜单",
-      "link": "https://www.ithome.com/0/990/867.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-17T21:23:01+00:00",
-      "summary": "IT之家 8 月 18 日消息，微软昨天（8 月 17 日）发布博文，邀请 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的预览版更新，重点带来文件资源管理器和右键上下文菜单的多项改进。IT之家附 Windows 11 改进进展如下：1、性能与可靠性优化：微软本次首先着重优化了文件资源管理器的性能与响应速度，加快了文件资源管理器启动速",
-      "fetched_at": "2026-08-17T23:32:19.108880+00:00"
-    },
-    {
-      "id": "77c5fb868e575f60",
-      "title": "微软发布 Win11 Beta / Experimental 频道预览版：更新右键菜单、支持 Emoji 17.0",
-      "link": "https://www.ithome.com/0/990/866.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-17T21:20:51+00:00",
-      "summary": "IT之家 8 月 18 日消息，微软昨天（8 月 17 日）发布博文，邀请 Beta 和 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的多个预览版更新：Beta 通道： Build 26220.9209（26H2）、 Build 28020.2731（26H1）Experimental 通道： Build 26340.9212（26",
-      "fetched_at": "2026-08-17T23:32:19.108938+00:00"
     }
   ]
 }
