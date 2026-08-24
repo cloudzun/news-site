@@ -1,7 +1,51 @@
 {
   "date": "2026-08-24",
-  "count": 1967,
+  "count": 1970,
   "items": [
+    {
+      "id": "3bf5b1d3f3785510",
+      "title": "苹果为库克举办卸任聚会，约 200 人出席",
+      "link": "https://www.ithome.com/0/993/767.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-24T22:37:56+00:00",
+      "summary": "IT之家 8 月 25 日消息，科技媒体 MacRumors 昨日（8 月 24 日）发布博文，报道称苹果公司于 8 月 23 日在 Apple Park 园区内，为苹果现任首席执行官蒂姆 · 库克（Tim Cook）举办卸任聚会，约 200 人出席，OneRepublic 乐队现场表演。报道称苹果公司于当地时间 8 月 23 日在 Apple Park 的 Caffé Macs 餐厅，为库克举办",
+      "fetched_at": "2026-08-24T22:38:04.488129+00:00"
+    },
+    {
+      "id": "86f4fce070c5bc37",
+      "title": "小米“米家智能宠物饮水机 2 除菌版”首销：3L 储水容量、99% 除菌率，199 元",
+      "link": "https://www.ithome.com/0/993/766.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-24T22:35:41+00:00",
+      "summary": "IT之家 8 月 25 日消息，小米“米家智能宠物饮水机 2 除菌版”将于今天 10 点开启首销，该产品主打 99% 除菌率，定价为 199 元。京东小米米家无线智能宠物饮水机 2 除菌版 199 元直达链接该产品产品尺寸为 190x230x180mm，机身配有透明视窗以便于直观观察水量。顶部的倾斜饮水盘能适当减轻宠物饮水时的颈部负担。主机与饮水盘采用一体衔接与大圆角设计，快拆结构让日常拆装更轻松",
+      "fetched_at": "2026-08-24T22:38:04.488178+00:00"
+    },
+    {
+      "id": "1109a2b87f0c9a68",
+      "title": "代码显示苹果 HomeHub 智能家居中枢设备支持识别用户面容，以便实现自动切换不同账号",
+      "link": "https://www.ithome.com/0/993/765.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-24T22:31:25+00:00",
+      "summary": "IT之家 8 月 25 日消息，据在 macOS Tahoe 26.7 更新中发现的代码，苹果正在开发的智能家居中枢设备 HomeHub 将支持多用户配置文件，能够通过识别用户面容来自动切换不同账号。从代码信息来看，这款家居中枢能够针对不同家庭成员显示“个人内容（Personal Content）”，用户也可以通过设备的控制中心或“设置”App 手动选择自己的配置文件。由于该设备预计运行类似 tv",
+      "fetched_at": "2026-08-24T22:38:04.488209+00:00"
+    },
+    {
+      "id": "79669a7ebc7c01fb",
+      "title": "苹果听取用户反馈，放弃 iCloud+“隐藏邮件地址”域名变更计划",
+      "link": "https://www.ithome.com/0/993/764.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-24T22:27:52+00:00",
+      "summary": "IT之家 8 月 25 日消息，苹果宣布，将放弃变更 iCloud+“隐藏邮件地址”（Hide My Email）域名，相关网站将继续使用 icloud.com 域名。IT之家注意到，苹果这一决定距离最初公布调整方案仅约两个月。在今年 6 月时，苹果曾宣布将为“通过 Apple 登录”（Sign in with Apple）和“隐藏邮件地址”启用统一的新邮箱域名 private.icloud.co",
+      "fetched_at": "2026-08-24T22:38:04.488251+00:00"
+    },
     {
       "id": "aa753be4d282cc18",
       "title": "苹果 watchOS 27.0 开发者预览版 Beta 7 发布",
@@ -10,8 +54,8 @@
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-08-24T17:53:16+00:00",
-      "summary": "【点此直达升级教程】 IT之家 8 月 25 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 7 更新（内部版本号：24R5358a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计",
-      "fetched_at": "2026-08-24T21:38:45.582913+00:00"
+      "summary": "【点此直达升级教程】IT之家 8 月 25 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 7 更新（内部版本号：24R5358a），本次更新距离上次发布 Beta / RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件",
+      "fetched_at": "2026-08-24T22:38:04.488300+00:00"
     },
     {
       "id": "84c757893f096626",
@@ -21,8 +65,8 @@
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-08-24T17:53:15+00:00",
-      "summary": "IT之家 8 月 25 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 开发者预览版 Beta 7 更新（内部版本号：24M5359a），本次更新距离上次发布 Beta/RC 间隔 7 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。",
-      "fetched_at": "2026-08-24T21:38:45.582960+00:00"
+      "summary": "IT之家 8 月 25 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 开发者预览版 Beta 7 更新（内部版本号：24M5359a），本次更新距离上次发布 Beta / RC 间隔 7 天。 目前尚无关于软件更新内容的任何消息。watchOS、tvOS 和 visionOS 每次发布新测试版通常只会增加少量功能，更新主要集中在修复漏洞和提升性能方面。需要注意的",
+      "fetched_at": "2026-08-24T22:38:04.488379+00:00"
     },
     {
       "id": "53d8a188dc9f6b5e",
@@ -32,19 +76,19 @@
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-08-24T17:53:15+00:00",
-      "summary": "IT之家 8 月 25 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 7 更新（内部版本号：26A5421a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新",
-      "fetched_at": "2026-08-24T21:38:45.583010+00:00"
+      "summary": "IT之家 8 月 25 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 7 更新（内部版本号：26A5421a），本次更新距离上次发布 Beta / RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件",
+      "fetched_at": "2026-08-24T22:38:04.488344+00:00"
     },
     {
       "id": "59cd1a19497c20a3",
-      "title": "苹果 iOS/iPadOS 27.0 开发者预览版 Beta 7 发布",
+      "title": "苹果 iOS / iPadOS 27.0 开发者预览版 Beta 7 发布",
       "link": "https://www.ithome.com/0/993/760.htm",
       "source_id": "ithome",
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-08-24T17:53:14+00:00",
-      "summary": "【点此直达升级教程】 IT之家 8 月 25 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.0 开发者预览版 Beta 7 更新（内部版本号：24A5424a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta",
-      "fetched_at": "2026-08-24T21:38:45.583057+00:00"
+      "summary": "【点此直达升级教程】IT之家 8 月 25 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.0 开发者预览版 Beta 7 更新（内部版本号：24A5424a），本次更新距离上次发布 Beta / RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple B",
+      "fetched_at": "2026-08-24T22:38:04.488424+00:00"
     },
     {
       "id": "fb5f639b98f57af6",
@@ -21627,17 +21671,6 @@
       "published_at": "2026-08-17T22:41:04+00:00",
       "summary": "IT之家 8 月 18 日消息，苹果于今年 5 月在美国市场同意支付 2.5 亿美元（IT之家注：现汇率约合 16.87 亿元人民币），以和解因 Siri AI 功能延迟推出而引发的集体诉讼。符合条件的 iPhone 用户最高可获得 95 美元（现汇率约合 641.1 元人民币）赔偿。该和解方案已于上月获得初步批准，但根据最新法院文件，最终批准预计要等到明年。负责审理此案的法官上周将最终批准听证会",
       "fetched_at": "2026-08-17T23:32:19.108845+00:00"
-    },
-    {
-      "id": "9c61a70c02954b64",
-      "title": "苹果发布 iOS / iPadOS 26.6.1 及 macOS 26.6.2：聚焦安全漏洞修复",
-      "link": "https://www.ithome.com/0/990/868.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-17T22:35:11+00:00",
-      "summary": "IT之家 8 月 18 日消息，苹果今天发布了 iOS 26.6.1、iPadOS 26.6.1 和 macOS 26.6.2，这些系统更新均以修复安全漏洞为主。根据苹果公布的安全更新说明，iOS / iPadOS 26.6.1 及 macOS 26.6.2 修复的漏洞此前已经在 iOS / macOS &nbsp;27 Beta 版本得到修复。其中，iOS / iPadOS 26.6.1 在 i",
-      "fetched_at": "2026-08-17T23:32:19.108905+00:00"
     }
   ]
 }
