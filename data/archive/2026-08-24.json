@@ -1,7 +1,51 @@
 {
   "date": "2026-08-24",
-  "count": 1970,
+  "count": 1969,
   "items": [
+    {
+      "id": "aa753be4d282cc18",
+      "title": "苹果 watchOS 27.0 开发者预览版 Beta 7 发布",
+      "link": "https://www.ithome.com/0/993/763.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-24T17:53:16+00:00",
+      "summary": "【点此直达升级教程】 IT之家 8 月 25 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 7 更新（内部版本号：24R5358a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计",
+      "fetched_at": "2026-08-24T18:54:08.696595+00:00"
+    },
+    {
+      "id": "84c757893f096626",
+      "title": "苹果 visionOS 27.0 开发者预览版 Beta 7 发布",
+      "link": "https://www.ithome.com/0/993/762.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-24T17:53:15+00:00",
+      "summary": "IT之家 8 月 25 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 开发者预览版 Beta 7 更新（内部版本号：24M5359a），本次更新距离上次发布 Beta/RC 间隔 7 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。",
+      "fetched_at": "2026-08-24T18:54:08.696643+00:00"
+    },
+    {
+      "id": "53d8a188dc9f6b5e",
+      "title": "苹果 macOS 27.0 开发者预览版 Beta 7 发布",
+      "link": "https://www.ithome.com/0/993/761.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-24T17:53:15+00:00",
+      "summary": "IT之家 8 月 25 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 7 更新（内部版本号：26A5421a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新",
+      "fetched_at": "2026-08-24T18:54:08.696692+00:00"
+    },
+    {
+      "id": "59cd1a19497c20a3",
+      "title": "苹果 iOS/iPadOS 27.0 开发者预览版 Beta 7 发布",
+      "link": "https://www.ithome.com/0/993/760.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-24T17:53:14+00:00",
+      "summary": "【点此直达升级教程】 IT之家 8 月 25 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.0 开发者预览版 Beta 7 更新（内部版本号：24A5424a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta",
+      "fetched_at": "2026-08-24T18:54:08.696741+00:00"
+    },
     {
       "id": "fb5f639b98f57af6",
       "title": "CDPR：《巫师 4》预计 2028 年推出",
@@ -21616,61 +21660,6 @@
       "published_at": "2026-08-17T21:20:51+00:00",
       "summary": "IT之家 8 月 18 日消息，微软昨天（8 月 17 日）发布博文，邀请 Beta 和 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的多个预览版更新：Beta 通道： Build 26220.9209（26H2）、 Build 28020.2731（26H1）Experimental 通道： Build 26340.9212（26",
       "fetched_at": "2026-08-17T23:32:19.108938+00:00"
-    },
-    {
-      "id": "d2dd4b172fd595e3",
-      "title": "苹果 visionOS 26.6.1 正式版发布",
-      "link": "https://www.ithome.com/0/990/865.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-17T17:49:18+00:00",
-      "summary": "IT之家 8 月 18 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 26.6.1 更新（内部版本号：23O780），本次更新距离上次发布正式版间隔 21 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。附 visionOS 26 发布历史：2026-07-28：visionOS 26.6 (23O",
-      "fetched_at": "2026-08-17T23:32:19.109022+00:00"
-    },
-    {
-      "id": "78e57cbbf8ff6112",
-      "title": "苹果 watchOS 27.0 开发者预览版 Beta 6 发布",
-      "link": "https://www.ithome.com/0/990/864.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-17T17:49:17+00:00",
-      "summary": "【点此直达升级教程】IT之家 8 月 18 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 6 更新（内部版本号：24R5353a），本次更新距离上次发布 Beta / RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件",
-      "fetched_at": "2026-08-17T23:32:19.109124+00:00"
-    },
-    {
-      "id": "b44950f4ac7bb933",
-      "title": "苹果 visionOS 27.0 开发者预览版 Beta 6 发布",
-      "link": "https://www.ithome.com/0/990/863.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-17T17:49:17+00:00",
-      "summary": "IT之家 8 月 18 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 开发者预览版 Beta 6 更新（内部版本号：24M5355a），本次更新距离上次发布 Beta / RC 间隔 7 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。目前尚无关于软件更新内容的任何消息。watchOS、t",
-      "fetched_at": "2026-08-17T23:32:19.109049+00:00"
-    },
-    {
-      "id": "86c707f309fb1bf0",
-      "title": "苹果 macOS 27.0 开发者预览版 Beta 6 发布：新增两款金门大桥主体壁纸、“红绿灯”按钮新增液态玻璃效果",
-      "link": "https://www.ithome.com/0/990/862.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-17T17:49:17+00:00",
-      "summary": "IT之家 8 月 18 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 6 更新（内部版本号：26A5416b），本次更新距离上次发布 Beta / RC 间隔 7 天。如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件更",
-      "fetched_at": "2026-08-17T23:32:19.109088+00:00"
-    },
-    {
-      "id": "e1e78d92347aff7f",
-      "title": "苹果 iOS / iPadOS 27.0 开发者预览版 Beta 6 发布：更新弹窗通知动画效果",
-      "link": "https://www.ithome.com/0/990/861.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-17T17:49:16+00:00",
-      "summary": "【点此直达升级教程】IT之家 8 月 18 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.0 开发者预览版 Beta 6 更新（内部版本号：24A5418b），本次更新距离上次发布 Beta / RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple B",
-      "fetched_at": "2026-08-17T23:32:19.109159+00:00"
     }
   ]
 }
