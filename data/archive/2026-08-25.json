@@ -1,7 +1,238 @@
 {
   "date": "2026-08-25",
-  "count": 1978,
+  "count": 1981,
   "items": [
+    {
+      "id": "cb52fe15fb088bcd",
+      "title": "Steam 喜加一：原价 74 元《微软模拟飞行 2024》游戏数字原声带免费领",
+      "link": "https://www.ithome.com/0/994/308.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-25T23:30:22+00:00",
+      "summary": "IT之家 8 月 26 日消息，随着《微软模拟飞行 2020》系列游戏迎来 6 周年纪念，官方在 Steam 平台为《微软模拟飞行 2024》推出数字原声带（原生音轨）《Microsoft Flight Simulator Suite：Themes Reimagined》。相应原生音轨在 Steam 国区定价为 74 元，玩家可以在 9 月 2 日前免费“喜加一”，即使没有购买《微软模拟飞行 20",
+      "fetched_at": "2026-08-25T23:33:44.592645+00:00"
+    },
+    {
+      "id": "9a27468e7dd80f1d",
+      "title": "Nothing OS 5.0 发布：基于 Android 17 打造，推送计划公布",
+      "link": "https://www.ithome.com/0/994/307.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-25T23:25:54+00:00",
+      "summary": "IT之家 8 月 26 日消息，Nothing OS 5.0 已发布，基于 Android 17 打造，将于北京时间 8 月 26 日 18:00 开启公开测试。IT之家注意到，首批仅支持 Nothing Phone (3)。未来几个月还会有更多设备加入，Nothing Phone (4a) Pro 将于 9 月初加入，Phone (4a)、Phone (3a) 和 (3a) Pro 将于 9 月",
+      "fetched_at": "2026-08-25T23:33:44.592695+00:00"
+    },
+    {
+      "id": "abab74d25736ebe9",
+      "title": "OpenAI 首款自研芯片 Jalapeño 性能首秀：DeepSeek R1 每瓦 AI 吞吐量是 GB300 的 1.7 倍",
+      "link": "https://www.ithome.com/0/994/306.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-25T23:25:37+00:00",
+      "summary": "IT之家 8 月 26 日消息，OpenAI 昨日（8 月 25 日）发布博文，展示其首款自研 Jalapeño 芯片，并表示无论是单用户 token 处理量，还是每千瓦吞吐量，都超过了目前市面上的顶尖推理处理器。在官方博文中，OpenAI 使用半导体研究公司 SemiAnalysis 开发的公共基准测试工具 InferenceX，通过 GPT-OSS 120B、DeepSeek R1 670B ",
+      "fetched_at": "2026-08-25T23:33:44.592767+00:00"
+    },
+    {
+      "id": "e5b457bf5e192a21",
+      "title": "外媒追查《GTA6》泄露者 Cyberleek“大葱哥”，发现其视频在公开发布前曾在 Discord 私下流传",
+      "link": "https://www.ithome.com/0/994/305.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-25T23:24:47+00:00",
+      "summary": "IT之家 8 月 26 日消息，外媒 Videotech 在追查《GTA6》曝光者 Cyberleek“大葱哥”身份时，发现早在 Cyberleek 公开发布《GTA6》打篮球泄露视频前，就有用户 stayonthegrindd 在 Discord 平台一个非官方《GTA6》服务器频道中放出相应视频片段。当时不少玩家认为视频可能是伪造的，但 stayonthegrindd 坚持称其来自 2026 ",
+      "fetched_at": "2026-08-25T23:33:44.592796+00:00"
+    },
+    {
+      "id": "99401b6f9b84f5e5",
+      "title": "斥资 1000 亿美元，SpaceX 拟于路易斯安那建造全球最大火箭发射基地",
+      "link": "https://www.ithome.com/0/994/304.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-25T23:22:04+00:00",
+      "summary": "IT之家 8 月 26 日消息，SpaceX 当地时间周二公布了在路易斯安那州建设一座大型太空港的计划，项目投资规模高达 1,000 亿美元（IT之家注：现汇率约合 6,738.71 亿元人民币）。该公司计划未来每年从这里发射数千次庞大的“星舰”（Starship）火箭。据当地经济发展网站介绍，这座太空港预计将于明年底前在路易斯安那州南部沿海的维尔米利恩教区附近动工，最早可能于 2029 年执行首",
+      "fetched_at": "2026-08-25T23:33:44.592865+00:00"
+    },
+    {
+      "id": "25520013b8afb4e3",
+      "title": "【钛晨报】农产品相关“十五五”规划出炉，点名AI流通、农民主播、海外仓等；马云出手，与管理层合计增持阿里巴巴超8亿港元；章建平新进成为杭电股份第三大股东",
+      "link": "https://www.tmtpost.com/8116546.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-25T23:20:00+00:00",
+      "summary": "人形机器人百米竞速再次刷新纪录；中国商业航天企业首次面向东南亚整星出口；中国聚变等9家企业将协同攻关高温超导强场托卡马克磁体研制；国家发改委召开“六网协同”协调推进工作会，研究“六张网”投融资机制和支持政策；高盛重申：预计到2026年底金价将达到每盎司4900美元。",
+      "fetched_at": "2026-08-25T23:33:47.159102+00:00"
+    },
+    {
+      "id": "57a7e9a23bef5ab6",
+      "title": "NVIDIA 发布机器人计算机 Jetson Orin Nano 2，带来双倍算力或四成节能",
+      "link": "https://www.ithome.com/0/994/303.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-25T23:18:40+00:00",
+      "summary": "IT之家 8 月 26 日消息，NVIDIA（英伟达）当地时间 25 日宣布推出面向入门级边缘人工智能的 Jetson Orin Nano 2 机器人计算机。这一产品预计将在 2027H1 以模组及开发套件的形态上市。Jetson Orin Nano 2 采用与 Jetson Orin Nano Super 相同的外形规格，却能提供前代 2 倍的 AI 推理计算能力；而如果将性能控制在前代相同水平",
+      "fetched_at": "2026-08-25T23:33:44.592890+00:00"
+    },
+    {
+      "id": "589fbe80904a3d7d",
+      "title": "X 发律师函要求关停 Nitter，免登录浏览 X 帖文项目被迫下线",
+      "link": "https://www.ithome.com/0/994/302.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-25T23:16:40+00:00",
+      "summary": "IT之家 8 月 26 日消息，Nitter 是一个开源项目，允许用户无需登录，甚至无需打开 X 应用，就能阅读 X 上的帖子。如今，X 已向 Nitter 发出停止侵权并终止相关活动的律师函，要求其关闭。该消息通过 Nitter 网站上的一则简短公告对外公布，此前 X 已经尝试通过技术手段让 Nitter 下线。Nitter 还为包括 XCancel 在内的一些其他网站提供支持，这些网站同样允许",
+      "fetched_at": "2026-08-25T23:33:44.592943+00:00"
+    },
+    {
+      "id": "89b622e9e9ccad9e",
+      "title": "V社透露将于 9 月 14 日开启 Steam VR 促销活动，届时有望公布 Steam Frame 头显更多信息",
+      "link": "https://www.ithome.com/0/994/301.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-25T23:16:06+00:00",
+      "summary": "IT之家 8 月 26 日消息，消息源 HardwareSteam 发文，透露V社目前正在向 VR 游戏开发者发送邀请邮件，询问他们是否愿意参加即将举行的 Steam VR 促销活动，并为旗下作品提供折扣。IT之家注意到，相应邮件显示 Steam VR 促销活动计划于 9 月 14 日至 9 月 21 日举行。值得注意的是，V社此前公布的《Steam 2026 年促销与活动日程》中并未列出这项活动",
+      "fetched_at": "2026-08-25T23:33:44.592968+00:00"
+    },
+    {
+      "id": "6bcf62a2ce8f51ec",
+      "title": "安伯尼克 Anbernic RG 55G1 安卓掌机规格曝光：外形酷似任天堂 Switch Lite、搭骁龙 G1 Gen 2 处理器",
+      "link": "https://www.ithome.com/0/994/300.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-25T23:09:47+00:00",
+      "summary": "IT之家 8 月 26 日消息，制造商安伯尼克 Anbernic 现已披露旗下全新安卓掌机 RG 55G1 规格信息，该机整体造型酷似任天堂 Switch Lite。该机整体重量 339 克，提供蓝 / 灰 / 黑三种配色可选，匹配一块 5.5 英寸 1080P IPS LCD 面板，采用霍尔摇杆。该机主要用于游玩安卓游戏和模拟器游戏，其搭载高通骁龙 G1 Gen 2 处理器，匹配 4/8GB R",
+      "fetched_at": "2026-08-25T23:33:44.592992+00:00"
+    },
+    {
+      "id": "f31472e832a803bc",
+      "title": "双“绿”联手：雷蛇推出 3 款 XBOX 25 周年纪念版外设",
+      "link": "https://www.ithome.com/0/994/299.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-25T23:09:37+00:00",
+      "summary": "IT之家 8 月 26 日消息，Razer（雷蛇）当地时间昨日宣布推出 Microsoft（微软）XBOX 25 周年纪念外设。这一限量发售的产品组合由双方合作开发，采用致敬初代 XBOX 的半透明绿色设计，全部拥有 \"XBOX 25\" 徽记，其中键盘配备四色方向键。IT之家附上外设具体型号：鼠标：雷蛇巴塞利斯蛇 V3 专业版 35K - XBOX 25 纪念版；键盘：雷蛇黑寡妇蜘蛛 V4 75%",
+      "fetched_at": "2026-08-25T23:33:44.593013+00:00"
+    },
+    {
+      "id": "f0fb27d1f3759823",
+      "title": "苹果 Apple TV+ 原创喜剧《兄弟》定档 9 月 23 日，马修 · 麦康纳和伍迪 · 哈里森联袂主演",
+      "link": "https://www.ithome.com/0/994/298.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-25T23:07:03+00:00",
+      "summary": "IT之家 8 月 26 日消息，Apple TV+ 下个月将推出一部全新的原创喜剧《兄弟》（Brothers），由马修 · 麦康纳和伍迪 · 哈里森联袂主演。苹果日前公布了该剧的预告片。马修 · 麦康纳和伍迪 · 哈里森将在《兄弟》中出演经过虚构化处理的“自己”。这部剧将于 9 月 23 日星期三首播，首日上线两集，之后每周更新一集，直至 11 月 4 日。该剧的主创是李 · 艾森伯格，他曾是经典",
+      "fetched_at": "2026-08-25T23:33:44.593045+00:00"
+    },
+    {
+      "id": "c5a0e304d13454d1",
+      "title": "AI 竞赛升温：曝 OpenAI 已预训练 Bel 模型：超 10T 参数，冲击通用人工智能",
+      "link": "https://www.ithome.com/0/994/296.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-25T23:00:23+00:00",
+      "summary": "IT之家 8 月 26 日消息，消息源 @synthwavedd 今天（8 月 26 日）在 X 平台发布推文，爆料称 OpenAI 已完成预训练下一代模型，内部代号为 Bel，是 Doug 模型的直接继任者，总产数量超过 10T。消息称 OpenAI 希望将 Bel 模型打造成为 GPT-6 之后的基座模型，甚至冲击通用人工智能（AGI）阈值模型。通用人工智能（Artificial Genera",
+      "fetched_at": "2026-08-25T23:33:44.593072+00:00"
+    },
+    {
+      "id": "af4b7d7b21289db7",
+      "title": "Anthropic 更新 Claude 记忆机制，打通 Cowork 与聊天的记忆功能",
+      "link": "https://www.ithome.com/0/994/295.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-25T22:59:38+00:00",
+      "summary": "IT之家 8 月 26 日消息，Anthropic 宣布更新 Claude Cowork 与聊天功能之间的记忆机制。此次更新将两个系统的记忆功能打通，实现统一管理。Anthropic 表示：“Cowork 现在拥有了记忆功能，而且与您在聊天中使用的是同一套记忆。这意味着您无需反复解释背景信息，Claude 也能更好地接续此前的工作。”Anthropic 进一步解释称，当 Cowork 在云端执行任",
+      "fetched_at": "2026-08-25T23:33:44.593097+00:00"
+    },
+    {
+      "id": "e9c7fae7fc5fe14d",
+      "title": "OpenAI 发布适用于 ChatGPT Work 和 Codex 的 Admin 插件，管理员可通过对话管理用户和权限",
+      "link": "https://www.ithome.com/0/994/294.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-25T22:55:08+00:00",
+      "summary": "IT之家 8 月 26 日消息，OpenAI 推出了一款全新的 ChatGPT Admin 插件，让工作区管理员可以直接通过对话管理用户和权限、分析使用情况，并根据相关数据生成报告。OpenAI 今日宣布，面向 ChatGPT Work 和 Codex 推出全新的 Admin 管理插件。这项工具允许工作区管理员直接在 ChatGPT 中调整设置、提出问题，并根据工作区的使用情况和活动数据生成报告。",
+      "fetched_at": "2026-08-25T23:33:44.593130+00:00"
+    },
+    {
+      "id": "96d36ca601e12e4a",
+      "title": "Commodore 联合 CDPR 推出《赛博朋克 2077》主题特别版 Commodore 77 复古电脑，377 美元",
+      "link": "https://www.ithome.com/0/994/293.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-25T22:54:16+00:00",
+      "summary": "IT之家 8 月 26 日消息，Commodore 联手 CD PROJEKT RED，为旗下 Commodore 77 复古电脑推出一款《赛博朋克 2077》主题特别版，这是 Commodore 品牌历史上首次推出基于游戏 IP 打造的联名硬件，目前已经开启预订，售价 377 美元（IT之家注：现汇率约合 2,540 元人民币），预计 2027 年初发货。该产品以 Commodore 64 Ul",
+      "fetched_at": "2026-08-25T23:33:44.593164+00:00"
+    },
+    {
+      "id": "d33e255535515548",
+      "title": "古尔曼：苹果智能家居显示屏仍有望于今年推出",
+      "link": "https://www.ithome.com/0/994/292.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-25T22:48:18+00:00",
+      "summary": "IT之家 8 月 26 日消息，据彭博社记者马克・古尔曼（Mark Gurman）透露，苹果仍按计划将在今年年底前推出首款配备屏幕的智能家居设备。古尔曼再次表示，这款设备将通过面部识别判断站在屏幕前的是谁，并为不同用户提供个性化内容。这一说法与本周早些时候在 macOS Tahoe 26.7 代码中发现的信息相吻合。相关代码显示，这款智能家居中枢将支持多个用户配置文件，并通过“环境感知”功能确认用",
+      "fetched_at": "2026-08-25T23:33:44.593184+00:00"
+    },
+    {
+      "id": "7d2679278a73286a",
+      "title": "Piston V 迷你主机开启众筹：自带 4 英寸圆形触控屏、AMD 锐龙 AI 9 365 处理器",
+      "link": "https://www.ithome.com/0/994/291.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-25T22:47:08+00:00",
+      "summary": "IT之家 8 月 26 日消息，制造商 Piston V 宣布推出一款同名 Piston V 迷你主机，该机现已在 Kickstarter 开启众筹并已众筹成功，该机自带一块圆形触控屏，匹配 16GB RAM 和 500GB M.2 SSD，超级早鸟价为 559 美元（IT之家注：现汇率约合 3,767 元人民币）。Piston V 整体造型俏皮，采用银灰 + 橙色撞色设计，正面配备一块 4 英寸",
+      "fetched_at": "2026-08-25T23:33:44.593211+00:00"
+    },
+    {
+      "id": "273f8863f22d8ab5",
+      "title": "三星 Galaxy S27 Ultra 手机渲染图曝光：背面相机模组迎最大变化，保留 S Pen 插槽",
+      "link": "https://www.ithome.com/0/994/290.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-25T22:45:48+00:00",
+      "summary": "IT之家 8 月 26 日消息，科技媒体 Android Headline 昨日（8 月 25 日）发布博文，分享了一组渲染图，展示了三星 Galaxy S27 Ultra 旗舰手机。外观方面，三星 Galaxy S27 Ultra 大体延续 Galaxy S26 Ultra 的设计，最大变化是摄像头模组。渲染图显示三星将原本沿机身左侧纵向排列的镜头，改为位于机身顶部的“摄像头矩阵”。该媒体认为，",
+      "fetched_at": "2026-08-25T23:33:44.593259+00:00"
+    },
+    {
+      "id": "3d96c9832d150567",
+      "title": "苹果地图广告正式在美国、加拿大上线，且无法关闭",
+      "link": "https://www.ithome.com/0/994/289.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-25T22:44:40+00:00",
+      "summary": "IT之家 8 月 26 日消息，苹果地图中的广告已经正式在美国和加拿大上线，这意味着 iPhone 和 iPad 用户在搜索地点以及查看“推荐地点”时，都可能看到广告内容。苹果早在今年 3 月就宣布，计划在地图 App 中引入广告，并表示该功能将从夏末开始陆续推出。苹果近日向 9to5Mac 证实，过去几天里，部分用户已经开始看到地图广告，未来几周广告的投放范围还将进一步扩大。用户在发起搜索时，“",
+      "fetched_at": "2026-08-25T23:33:44.593294+00:00"
+    },
+    {
+      "id": "23ce72a9a1ab89f4",
+      "title": "八位堂推出“凝焰”XBOX 手柄 25 周年特别纪念款无线充电底座套装，国行定价 199 元",
+      "link": "https://www.ithome.com/0/994/288.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-25T22:39:12+00:00",
+      "summary": "IT之家 8 月 26 日消息，为庆祝微软 XBOX 诞生 25 周年，8BitDo（八位堂）现推出一款“凝焰”XBOX 手柄 25 周年特别纪念款无线充电底座套装，国行定价为 199 元。京东八位堂“凝焰”XBOX 手柄 25 周年特别纪念款 无线充电底座套装 199 元直达链接该产品兼容微软官方推出的 XBOX 25 周年特别纪念版手柄，内置被动风道散热系统，配套 1000mAh 半固态锂电池",
+      "fetched_at": "2026-08-25T23:33:44.593317+00:00"
+    },
     {
       "id": "5a272ec504ace1f9",
       "title": "法国光学巨头依视路陆逊梯卡大量增持尼康股份，逼近 20% 法律上限",
@@ -11,7 +242,7 @@
       "category": "tech",
       "published_at": "2026-08-25T20:51:20+00:00",
       "summary": "IT之家 8 月 26 日消息，消息源 Nikon Rumors 上周（8 月 23 日）发文称，法国光学巨头依视路陆逊梯卡正在迅速增持尼康股份，当前持股比例已接近 20%。部分人士认为，依视路这种行为是在为收购尼康铺平道路。IT之家在此援引 Nikon Rumors，依视路陆逊梯卡从 2024 年开始持续增持尼康股份，2024 年 10 月披露持股比例达 5.1%。到 2025 年 10 月，该",
-      "fetched_at": "2026-08-25T22:38:50.901805+00:00"
+      "fetched_at": "2026-08-25T23:33:44.593349+00:00"
     },
     {
       "id": "4df3c21880d5aed5",
@@ -22,7 +253,7 @@
       "category": "tech",
       "published_at": "2026-08-25T20:35:03+00:00",
       "summary": "IT之家 8 月 26 日消息，史克威尔艾尼克斯今天在 2026 科隆游戏展放出《最终幻想 7：启示录》的第二支预告片。本作将于 2027 年春季发售，登陆 PC、Switch 2、PS5 和 Xbox Series X|S 平台。IT之家了解到，《最终幻想 7：启示录》是《最终幻想 7》重制三部曲的终章。主角克劳德 · 史特莱夫将在游戏中乘坐飞空艇“海温德号”遨游天际，自由探索广袤的开放世界。本",
-      "fetched_at": "2026-08-25T22:38:50.901845+00:00"
+      "fetched_at": "2026-08-25T23:33:44.593368+00:00"
     },
     {
       "id": "f21b22bd79e2bc90",
@@ -33,7 +264,7 @@
       "category": "tech",
       "published_at": "2026-08-25T20:25:41+00:00",
       "summary": "IT之家 8 月 26 日消息，在今日的 2026 科隆游戏展开幕夜首秀直播中，城市模拟游戏《乐高：天际线》正式公布。作为乐高和《都市：天际线》两大 IP 的联合作品，《乐高：天际线》将登陆 PC、Xbox Series X|S、PS5、Switch 2 平台。在这款自由度拉满的城市建造游戏里，你的每个抉择都将唤醒一座充满生机的都市。你可以大兴土木，也可以静心雕琢细微之处。没有条条框框，只有无限的",
-      "fetched_at": "2026-08-25T22:38:50.901871+00:00"
+      "fetched_at": "2026-08-25T23:33:44.593385+00:00"
     },
     {
       "id": "a6261753c6125871",
@@ -44,7 +275,7 @@
       "category": "tech",
       "published_at": "2026-08-25T20:23:50+00:00",
       "summary": "IT之家 8 月 26 日消息，雅达利今天在 2026 科隆游戏展公布《过山车大亨 Wonderworks》，意味着《过山车大亨》这款沉寂多年的模拟经营系列游戏终于迎来重启。IT之家了解到，《过山车大亨》上一次推出新作还是 2016 年的《过山车大亨世界》，但这款游戏当时口碑不佳，如今雅达利选择再次启用这一经典 IP。据介绍，《过山车大亨 Wonderworks》由 Springloaded 开发",
-      "fetched_at": "2026-08-25T22:38:50.901899+00:00"
+      "fetched_at": "2026-08-25T23:33:44.593406+00:00"
     },
     {
       "id": "a05abc01bdaea631",
@@ -55,7 +286,7 @@
       "category": "tech",
       "published_at": "2026-08-25T20:15:56+00:00",
       "summary": "IT之家 8 月 26 日消息，国产抗日 FPS 游戏《抵抗者》今日亮相 2026 科隆游戏展，公布了最新实机演示视频。《抵抗者》由杭州浩汤科技开发、4Divinity 发行，是一款以 20 世纪 40 年代中国抗日战争为背景的第一人称射击游戏。IT之家此前报道，游戏官方此前已经在 7 月 30 日公布了最新实机演示，并在 ChinaJoy 上开放试玩。这款游戏采用虚幻 5 引擎开发，在 FPS ",
-      "fetched_at": "2026-08-25T22:38:50.901927+00:00"
+      "fetched_at": "2026-08-25T23:33:44.593428+00:00"
     },
     {
       "id": "7655489fead7c9f0",
@@ -66,7 +297,7 @@
       "category": "tech",
       "published_at": "2026-08-25T20:05:04+00:00",
       "summary": "IT之家 8 月 26 日消息，在今日的 2026 科隆游戏展开幕夜首秀直播中，CDPR 官宣《巫师 3：狂猎 — 重制版》游戏将于 9 月 29 日上线，所有已拥有游戏的玩家均可免费升级。《巫师 3：狂猎 — 重制版》将带来一系列改进，包括画面、玩法等多方面升级。游戏将于 9 月 29 日上线，且所有已在 GOG、Steam、Epic Games Store、PlayStation 5 和 Xb",
-      "fetched_at": "2026-08-25T22:38:50.901969+00:00"
+      "fetched_at": "2026-08-25T23:33:44.593454+00:00"
     },
     {
       "id": "a28079b39e99f94f",
@@ -77,7 +308,7 @@
       "category": "tech",
       "published_at": "2026-08-25T20:02:21+00:00",
       "summary": "IT之家 8 月 26 日消息，科乐美今天在 2026 科隆游戏展公布《Silent Hill：Townfall》（寂静岭：小镇陷落）的全新预告片。本作将于 9 月 24 日正式发售，登陆 PC（Steam、Epic）和 PS5 平台。IT之家从预告视频中获悉，《寂静岭：小镇陷落》是《寂静岭》系列最新作品。游戏内讲述男主 Simon O'Dell（西蒙 · 奥德尔）踏上圣阿梅莉亚岛（St. Ame",
-      "fetched_at": "2026-08-25T22:38:50.901993+00:00"
+      "fetched_at": "2026-08-25T23:33:44.593474+00:00"
     },
     {
       "id": "ec79344f922686c7",
@@ -88,7 +319,7 @@
       "category": "tech",
       "published_at": "2026-08-25T19:55:54+00:00",
       "summary": "IT之家 8 月 26 日消息，在今日的 2026 科隆游戏展开幕夜首秀直播中，国产游戏《动物朋克》公布了一段全新实机演示视频。《动物朋克》是由《暗影火炬城》原班团队钛核工作室打造的国产动作游戏，本次带来全新的游戏实机演示内容，展示了新的战斗画面与场景。打碎枷锁，夺回家园！兔子雷顿率领动物小队深入神秘的獭獭村，机械军团的铁蹄已悄然踏进这片宁静的水泽秘境。世代栖居的獭獭居民、兵刃相向的水獭与旱獭勇士",
-      "fetched_at": "2026-08-25T22:38:50.902019+00:00"
+      "fetched_at": "2026-08-25T23:33:44.593493+00:00"
     },
     {
       "id": "15c6a094f3332432",
@@ -99,7 +330,7 @@
       "category": "tech",
       "published_at": "2026-08-25T19:51:06+00:00",
       "summary": "IT之家 8 月 26 日消息，由铃空游戏开发的《昭和米国物语》今日亮相 2026 科隆游戏展。本作是一款角色扮演游戏，预计今年发售。IT之家了解到，官方在科隆游戏展现场还放出了本作的实机预告片，以下是视频：官方还在现场公布了本作的日语配音演员阵容，主角千草蝶子将由日笠阳子担任声优，其他角色如下：Michael Hero（迈克尔 · 英雄）：石川英郎Baba（巴巴）：大塚芳忠睦月晶虎：绿川光剧情方",
-      "fetched_at": "2026-08-25T22:38:50.902052+00:00"
+      "fetched_at": "2026-08-25T23:33:44.593517+00:00"
     },
     {
       "id": "a83175f5e43f0bab",
@@ -110,7 +341,7 @@
       "category": "tech",
       "published_at": "2026-08-25T19:49:13+00:00",
       "summary": "IT之家 8 月 26 日消息，育碧《魔法门之英雄无敌 3 重制版》游戏今日亮相 2026 科隆游戏展开幕夜直播，发售日待定，支持中文。IT之家查询发现，游戏已上架 Steam 商店，定名为《上古起源》。在这部重制版中，玩家将再度体验这部最受欢迎、广受好评的《魔法门之英雄无敌》作品，及其两部资料片，感受回合制策略游戏的魅力。玩家将看到统一的故事线来体验原版的战役，还有新增序幕、尾声及电影级的过场动",
-      "fetched_at": "2026-08-25T22:38:50.902079+00:00"
+      "fetched_at": "2026-08-25T23:33:44.593538+00:00"
     },
     {
       "id": "2fce0e324b54786b",
@@ -21561,204 +21792,6 @@
       "published_at": "2026-08-18T23:52:16+00:00",
       "summary": "IT之家 8 月 19 日消息，据外媒 Tom's Hardware 内存价格追踪报告，过去一年内，RAM 内存条套装的价格出现惊人涨幅，部分高容量 DDR5 产品甚至上涨近 500%，让原本准备组装游戏 PC 的消费者面临越来越高的成本压力。外媒表示，以某厂商 96GB DDR5-6000 内存套装为例，其美国最低售价曾一度降至 189 美元（IT之家注：现汇率约合 1,276 元人民币），如今",
       "fetched_at": "2026-08-19T01:48:19.402132+00:00"
-    },
-    {
-      "id": "93bb88119f802f1c",
-      "title": "谷歌安卓开发者验证计划逐步落地，“高级绕过”模式首个版本开启分阶段推送",
-      "link": "https://www.ithome.com/0/991/389.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-18T23:31:43+00:00",
-      "summary": "IT之家 8 月 19 日消息，谷歌 Android 社区参与经理 Mishaal Rahman 透露，目前谷歌已开始逐步推行安卓开发者验证计划。IT之家注：安卓开发者验证（Android Developer Verification，简称 ADV）是谷歌推出的身份认证机制，要求安卓应用开发者提供有效信息（如政府 ID 或企业资质）完成注册，通过验证的应用才能被正常安装。该验证机制主要是为了在源头",
-      "fetched_at": "2026-08-18T23:32:09.740672+00:00"
-    },
-    {
-      "id": "624819d5cfce7eef",
-      "title": "占比约 41%：苹果 Safari 26.6.1 修复 22 个漏洞，9 个通过 OpenAI Codex Security 发现",
-      "link": "https://www.ithome.com/0/991/388.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-18T23:31:42+00:00",
-      "summary": "IT之家 8 月 19 日消息，科技媒体 9to5Mac 昨日（8 月 18 日）发布博文，报道称苹果公司最新公示 Safari 浏览器 26.6.1 更新安全日志，共计修复 22 个涉及 WebKit 的 CVE 安全漏洞，其中 9 个是 OpenAI Codex Security 发现的，占比约为 41%。IT之家注：OpenAI Codex Security 是一款专为工程和安全团队打造的 ",
-      "fetched_at": "2026-08-18T23:32:09.740714+00:00"
-    },
-    {
-      "id": "aea16cde43ded913",
-      "title": "OpenAI 宣布新安全政策，加强模型开发监控与网络隔离",
-      "link": "https://www.ithome.com/0/991/387.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-18T23:28:14+00:00",
-      "summary": "IT之家 8 月 19 日消息，当地时间周二，OpenAI 宣布了一批新的安全政策，重点是控制模型在测试期间可能发生的安全事件。新的安全措施包括在模型开发过程中进行更加细致的监控，同时在训练后阶段进一步加强对模型对齐和安全性的重视。IT之家注意到，OpenAI 在一篇博客文章中表示：“随着模型能力不断增强，在内部开发和测试这些模型过程中所面临的风险也在增加。我们在监控、对齐和安全方面制定的标准必须",
-      "fetched_at": "2026-08-18T23:32:09.740762+00:00"
-    },
-    {
-      "id": "d5f377fe1b408e22",
-      "title": "通用汽车向维修机构发布新规：只能用全新原厂零部件修理车辆辅助驾驶系统",
-      "link": "https://www.ithome.com/0/991/386.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-18T23:22:01+00:00",
-      "summary": "IT之家 8 月 19 日消息，通用汽车（GM）近日向维修机构发布立场声明，要求维修机构修理车辆辅助驾驶系统模块时只能使用全新原厂通用汽车零部件（涉及雷达、摄像头、传感器、控制模块、线束、支架等）。通用汽车表示，包括拆车件、回收件、翻新件、再制造件、售后市场零部件、二手市场零部件此类非原厂零部件属于“严格禁止”使用的范围，如果在车辆辅助驾驶系统（ADAS）使用非原厂全新零部件，可能影响系统的可靠性",
-      "fetched_at": "2026-08-18T23:32:09.740785+00:00"
-    },
-    {
-      "id": "d06ec413f67498f9",
-      "title": "【钛晨报】李强签署国务院令，公布《国务院关于修改〈住房公积金管理条例〉的决定》；灵巧手从5万降到万元内，国内灵巧手赛道融资暴涨1500%；百度、小米二季报出炉",
-      "link": "https://www.tmtpost.com/8107897.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-18T23:20:00+00:00",
-      "summary": "阿里巴巴投资的机器人制造商逐际动力据悉计划在香港IPO；部分地区入学要查验适龄女孩是否打了HPV疫苗；商务部：出台18条举措进一步激发下沉市场活力；OpenAI宣布推出ChatGPT青少年版；苹果罕见松口：坦言监管重压下，千亿服务业务正受到侵蚀；字节跳动与美国电影协会签署AI版权协议",
-      "fetched_at": "2026-08-19T01:48:21.326805+00:00"
-    },
-    {
-      "id": "08fb00e39503b27e",
-      "title": "苹果 tvOS 27 应用列表新增 Siri 条目，Apple TV 4K 将整合 Siri AI",
-      "link": "https://www.ithome.com/0/991/385.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-18T23:19:53+00:00",
-      "summary": "IT之家 8 月 19 日消息，科技媒体 9to5Mac 昨日（8 月 18 日）发布博文，报道称在 tvOS 27 系统中，苹果公司计划为 Apple TV 4K 等设备，推送整合 Siri AI。该媒体通过挖掘 tvOS 27 Beta 6 代码，发现苹果在系统内部应用列表中加入了 Siri 条目，并关联字符串“com.apple.campo”，其中“campo”是苹果为 Siri AI 使用",
-      "fetched_at": "2026-08-18T23:32:09.740814+00:00"
-    },
-    {
-      "id": "e85d244d8a2ed3fd",
-      "title": "Anthropic 推出 AI 文本水印后，各类去水印工具开始涌现",
-      "link": "https://www.ithome.com/0/991/384.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-18T23:18:50+00:00",
-      "summary": "IT之家 8 月 19 日消息，Anthropic 希望让 AI 生成的文本更容易被识别，但一些软件开发者已经开始开发专门用于消除这些标记的工具。这家 AI 公司上周表示，部分 Claude 模型生成的文本会带有一种“不可感知的水印”。由于这种水印是通过 Claude 的选词方式形成的统计模式，因此即使用户复制粘贴文本，水印也会随之保留下来。一些人认为，AI 水印能够提高内容透明度，是一项值得欢迎",
-      "fetched_at": "2026-08-18T23:32:09.740930+00:00"
-    },
-    {
-      "id": "9af43843a928f57b",
-      "title": "泄露代码暗示：苹果家庭中枢产品 Home Hub 将搭载小组件库",
-      "link": "https://www.ithome.com/0/991/383.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-18T23:11:45+00:00",
-      "summary": "IT之家 8 月 19 日消息，据 Macrumors 报道，苹果正在开发一款搭载 Siri AI 的家庭中枢设备（Home Hub），最早有望于今年发布。这款家庭中枢将配备“Widget Gallery（小组件图库）”，用户可以通过它选择希望显示在设备主屏幕上的内容。macOS Tahoe 26.7 的系统文件中发现了“Widget Gallery”的相关信息，而该更新此前泄露了一长串尚未发布的",
-      "fetched_at": "2026-08-18T23:32:09.740977+00:00"
-    },
-    {
-      "id": "5817f7fb63dae3fe",
-      "title": "联想 FCNT 旗下 arrows Alpha 2 手机价格公布：天玑 8350 Extreme、5370mAh 电池，94900 日元起",
-      "link": "https://www.ithome.com/0/991/382.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-18T23:09:27+00:00",
-      "summary": "IT之家 8 月 19 日消息，联想旗下 FCNT 新一代旗舰机机型 arrows Alpha 2 于今年 6 月发布，目前官方正式揭晓了这款产品上市时间及具体售价，该机定价为 94,900 日元（IT之家注：现汇率约合 4,020 元人民币）起，8 月 27 日在日本市场正式发售。8GB RAM + 256GB 存储空间：94,900 日元（现汇率约合 4,020 元人民币）12GB RAM +",
-      "fetched_at": "2026-08-18T23:32:09.741039+00:00"
-    },
-    {
-      "id": "b550f18f1d3f85bc",
-      "title": "苹果 AirPods 5 耳机曝光，预估升级 H3 芯片",
-      "link": "https://www.ithome.com/0/991/381.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-18T23:07:39+00:00",
-      "summary": "IT之家 8 月 19 日消息，科技媒体 MacRumors 昨日（8 月 18 日）发布博文，报道称在 macOS 26.7 Tahoe 系统更新中，发现 B868M 和 B868E 两款内部设备代码，关联苹果 AirPods 5。IT之家援引博文介绍，苹果公司于 2024 年 9 月发布的 AirPods 4 内部代号为 B768M 和 B768E，因此从信号判断应该是指 AirPods 5 ",
-      "fetched_at": "2026-08-18T23:32:09.741068+00:00"
-    },
-    {
-      "id": "4feb0fe9e7b424e1",
-      "title": "消息称谷歌 Googlebook 系列笔记本新品预览活动将于 9 月 15 日举行",
-      "link": "https://www.ithome.com/0/991/380.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-18T23:05:59+00:00",
-      "summary": "IT之家 8 月 19 日消息，据外媒 Chrome Unboxed 报道，谷歌已悄悄向部分媒体发出邀请，透露公司将于 9 月 15 日举办 Googlebook 新品预览活动，届时除了产品演示外，媒体还可以现场体验这些新款笔记本。谷歌在今年 2026 年 I/O 开发者大会期间首次公布了 Googlebook 高端安卓笔记本，将由 Acer、ASUS、Dell、HP、Lenovo 率先推出首批高",
-      "fetched_at": "2026-08-18T23:32:09.741098+00:00"
-    },
-    {
-      "id": "66e24a11a47cfc65",
-      "title": "Sensor Tower：《GTA 6》预购收入已达 4.29 亿美元，PS5 平台占比 77%",
-      "link": "https://www.ithome.com/0/991/379.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-18T23:01:53+00:00",
-      "summary": "IT之家 8 月 19 日消息，大家都知道《GTA 6》很可能会打破各种纪录，但现在，围绕这款游戏的热度终于有了一些具体数字。分析机构 Sensor Tower 最新估算显示，《GTA 6》目前的预购收入已经达到约 4.29 亿美元（IT之家注：现汇率约合 28.97 亿元人民币），全球预购销量约为 438 万份。而距离游戏正式发售还有数月，官方定于 11 月 19 日推出《GTA 6》。Sens",
-      "fetched_at": "2026-08-18T23:32:09.741164+00:00"
-    },
-    {
-      "id": "3310b4a1c2946f24",
-      "title": "三星为 Galaxy Z Flip8 / Fold8 系列手机引入全新“保修与服务”功能，用户可在系统设置快速获取售后支持",
-      "link": "https://www.ithome.com/0/991/378.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-18T22:58:44+00:00",
-      "summary": "IT之家 8 月 19 日消息，三星现已悄悄为 Galaxy Z Flip8 / Fold8 / Fold8 Ultra 三款折叠屏手机系统设置中引入全新“保修与服务”功能，用户可以在相应设置选项中快速查询设备保修、获取设备诊断与售后支持。除了显示用户当前使用的手机信息外，相应“保修与服务”功能也会显示用户本身账号名下还有 Galaxy Watch、Galaxy Buds、Galaxy Tab 等",
-      "fetched_at": "2026-08-18T23:32:09.741192+00:00"
-    },
-    {
-      "id": "cfd4230c048734bd",
-      "title": "消息称苹果 iPhone 18 Pro Max 独占可变光圈升级",
-      "link": "https://www.ithome.com/0/991/377.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-18T22:58:25+00:00",
-      "summary": "IT之家 8 月 19 日消息，消息源 @i冰宇宙 昨日（8 月 18 日）发布微博，在#曝iPhone18ProMax独占可变光圈#话题下，表示“想体验满级影像只能忍受砖头重量这件事苹果也不能幸免了”。供应链消息称苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 除了电池和屏幕方面的差异外，在影像方面也会存在差别。电池方面，IT之家此前报道 iPhone 18 Pro 配",
-      "fetched_at": "2026-08-18T23:32:09.741248+00:00"
-    },
-    {
-      "id": "8b44a4bfd0b05524",
-      "title": "《GTA 6》多段实机视频泄露，被指为早期游戏版本",
-      "link": "https://www.ithome.com/0/991/376.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-18T22:55:19+00:00",
-      "summary": "IT之家 8 月 19 日消息，今天，一批《GTA 6》的泄露内容在网上出现，多段游戏实机视频和地图图片在社交媒体上迅速传播。这些视频很快引发玩家热议，一些人甚至质疑它们究竟是真实泄露，还是由 AI 生成。不过，最新消息显示，这些视频可能确实来自《GTA 6》，只是其内容可能比部分玩家预想的要早得多。知名爆料人 NateTheHate 表示，此次泄露的《GTA 6》实机视频已经有一年多的历史。他还",
-      "fetched_at": "2026-08-18T23:32:09.741280+00:00"
-    },
-    {
-      "id": "dfe1019de93396a4",
-      "title": "迪士尼旗下 ABC 起诉 FCC，指控其调查是特朗普政府的报复行动",
-      "link": "https://www.ithome.com/0/991/375.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-18T22:49:40+00:00",
-      "summary": "IT之家 8 月 19 日消息，迪士尼旗下美国广播公司（ABC）当地时间周二向法院起诉美国联邦通信委员会（FCC），指责该政府机构针对 ABC 展开的调查是特朗普政府发起的一场“报复性行动”，目的是压制该电视网的言论自由。近一年来，ABC 一直因对特朗普总统的批评性报道与特朗普政府存在矛盾。去年 9 月，ABC 曾在 FCC 施压后暂停脱口秀主持人吉米 · 坎摩尔（Jimmy Kimmel）的节目",
-      "fetched_at": "2026-08-18T23:32:09.741336+00:00"
-    },
-    {
-      "id": "e4c056af1f77754f",
-      "title": "Framework Laptop 12 笔记本升级，搭载英特尔 Core 3 系列处理器",
-      "link": "https://www.ithome.com/0/991/374.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-18T22:44:22+00:00",
-      "summary": "IT之家 8 月 19 日消息，Framework 在推出 13 英寸高端笔记本新机型后，又将目光转向了旗下色彩丰富、体积小巧的另一款产品。全新升级的 Framework Laptop 12 配备英特尔最新 Core Series 3 系列处理器，并新增可选背光键盘和指纹识别器，为这款外观讨喜但价格不低的笔记本带来了颇具意义的硬件升级。Framework 表示，英特尔 Core Ultra Ser",
-      "fetched_at": "2026-08-18T23:32:09.741400+00:00"
-    },
-    {
-      "id": "bea3c210886cef14",
-      "title": "COSMIC Desktop 1.6 桌面环境发布：Rust 编写，新增“按应用分别设置音量”功能",
-      "link": "https://www.ithome.com/0/991/373.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-18T22:43:56+00:00",
-      "summary": "IT之家 8 月 19 日消息，科技媒体 Linuxiac 发布博文，报道称 System76 公司发布 COSMIC Desktop 1.6 桌面环境，主要新增“按应用分别设置音量”功能，同时修复多项 Bug。IT之家注：COSMIC Desktop 是由 System76 为 Linux 开发的下一代现代桌面环境，完全使用 Rust 语言从头编写并基于 Wayland 显示协议构建。它最初为 ",
-      "fetched_at": "2026-08-18T23:32:09.741444+00:00"
     }
   ]
 }
