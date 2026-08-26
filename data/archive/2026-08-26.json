@@ -1,7 +1,73 @@
 {
   "date": "2026-08-26",
-  "count": 1996,
+  "count": 1993,
   "items": [
+    {
+      "id": "40b1a1c75a43762c",
+      "title": "OpenAI 发布 Hugging Face 安全事件官方报告，还原 AI 模型沙箱逃逸全过程",
+      "link": "https://www.ithome.com/0/994/797.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-26T23:21:48+00:00",
+      "summary": "IT之家 8 月 27 日消息，OpenAI 当地时间周三发布了关于 Hugging Face 遭入侵事件的官方报告，首次较为完整地还原了这起事件的经过：一系列罕见因素叠加，导致一款 AI 模型突破测试环境限制，最终引发了一场波及范围广泛的网络安全事件。IT之家注意到，这份报告距离事件首次曝光已超过一个月，其中涉及多起相互关联、但彼此独立的网络安全入侵事件。OpenAI 在报告中表示：“此次事件反",
+      "fetched_at": "2026-08-26T23:23:33.339762+00:00"
+    },
+    {
+      "id": "e31133fad93e1823",
+      "title": "Anthropic 豪掷 450 亿美元向 Nscale 租赁 AI 算力，2027 年底启用英伟达 Vera Rubin 芯片算力",
+      "link": "https://www.ithome.com/0/994/796.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-26T23:17:55+00:00",
+      "summary": "IT之家 8 月 27 日消息，Anthropic 已与英国 AI 基础设施公司 Nscale 达成协议，将租用价值约 450 亿美元（IT之家注：现汇率约合 3,031.66 亿元人民币）的 AI 算力。一位知情人士向 TechCrunch 透露了这一消息。成立仅两年的 Nscale 已经与微软等科技巨头达成合作。根据此次协议，Nscale 将通过英伟达最新的 Vera Rubin 芯片系统，为",
+      "fetched_at": "2026-08-26T23:23:33.339829+00:00"
+    },
+    {
+      "id": "e1a03ad715af1e4f",
+      "title": "英伟达黄仁勋：AI 已迈过商业化拐点，全球产业进入 AI 变现时代",
+      "link": "https://www.ithome.com/0/994/795.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-26T22:36:16+00:00",
+      "summary": "IT之家 8 月 27 日消息，雅虎财经今天（8 月 27 日）发布博文，报道称在英伟达最新财报电话会议上，公司首席执行官黄仁勋明确指出，人工智能（AI）已正式迈过历史性的“拐点”（Inflection Point）。AI 正在从小规模的实验室技术和概念验证，全面转化为具备高生产力与商业获利能力的实质工具，象征着全球产业正式进入 AI 变现时代。黄仁勋表示，过去几年业界主要聚焦于 AI 模型的训练",
+      "fetched_at": "2026-08-26T23:23:33.340060+00:00"
+    },
+    {
+      "id": "0d1232e8ef09e598",
+      "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+      "link": "https://www.ithome.com/0/994/791.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-26T20:25:54+00:00",
+      "summary": "IT之家 8 月 27 日消息，英伟达今日发布 2027 财年（2026 年 1 月 26 日～2027 年 1 月 31 日）半年报（2026 年 1 月 26 日～2026 年 7 月 26 日）及第二财季（2026 年 4 月 26 日～2026 年 7 月 26 日）报告：2027 财年半年报营业总收入：1778.37 亿美元毛利润：1332.99 亿美元毛利率：75%归母净利润：1180",
+      "fetched_at": "2026-08-26T23:23:33.340029+00:00"
+    },
+    {
+      "id": "09aa7d4ddb6740ea",
+      "title": "新思科技 2026 财年第三财季归母净利润 5.46 亿美元，同比增长 125.06%",
+      "link": "https://www.ithome.com/0/994/790.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-26T20:25:11+00:00",
+      "summary": "IT之家 8 月 27 日消息，新思科技今日发布 2026 财年（2025 年 11 月 1 日～2026 年 10 月 31 日）第三财季（2026 年 5 月 1 日～2026 年 7 月 31 日）报告：营业总收入：24.77 亿美元（IT之家注：现汇率约合 166.88 亿元人民币），同比增长 42.37%毛利润：17.97 亿美元（现汇率约合 121.06 亿元人民币），同比增长 32.",
+      "fetched_at": "2026-08-26T23:23:33.339928+00:00"
+    },
+    {
+      "id": "0ab058e08469035d",
+      "title": "惠普 2026 财年第三财季归母净利润 6.61 亿美元，同比下降 13%",
+      "link": "https://www.ithome.com/0/994/789.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-26T20:22:33+00:00",
+      "summary": "IT之家 8 月 27 日消息，惠普今日发布 2026 财年（2025 年 11 月 1 日～2026 年 10 月 31 日）第三财季（2026 年 5 月 1 日～2026 年 7 月 31 日）及半年报（2025 年 11 月 1 日～2026 年 7 月 31 日）报告：2026 财年第三财季营业总收入：156.77 亿美元（IT之家注：现汇率约合 1056.16 亿元人民币），同比增长 ",
+      "fetched_at": "2026-08-26T23:23:33.340163+00:00"
+    },
     {
       "id": "082a1ddc660a5d2c",
       "title": "开启 iPhone 18 Pro / Ultra 系列新篇章，苹果发布会官宣定档 9 月 10 日",
@@ -11,7 +77,7 @@
       "category": "tech",
       "published_at": "2026-08-26T16:06:30+00:00",
       "summary": "IT之家 8 月 27 日消息，苹果官方宣布将于当地时间 9 月 9 日（北京时间 9 月 10 日凌晨 1 点）举行秋季新品发布会，主题为“惊喜闪耀”（Surprise and shine）。这将是约翰 · 特努斯（John Ternus）于 9 月 1 日正式接任苹果 CEO 后的首场发布会，预计将推出全新一代 iPhone 18 Pro / Max 以及 Ultra 系列折叠屏新机。后续，苹",
-      "fetched_at": "2026-08-26T19:15:05.970591+00:00"
+      "fetched_at": "2026-08-26T23:23:33.340220+00:00"
     },
     {
       "id": "2f81a949d0ae8efb",
@@ -21858,105 +21924,6 @@
       "published_at": "2026-08-19T23:26:42+00:00",
       "summary": "IT之家 8 月 20 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今天（8 月 20 日）在 X 平台发布推文，带摄像头的 AirPods 耳机内部代号为 B790，苹果公司计划在 2027 年发布。古尔曼在博文中认为，苹果公司目前正在研发 B790 和 B798 两款耳机。其中 B790 就是带摄像头的 AirPod Pro 3 增强版，而 B798 是带有摄像头的 AirPod",
       "fetched_at": "2026-08-19T23:32:16.394486+00:00"
-    },
-    {
-      "id": "8ac4e5f36501bd76",
-      "title": "Valve Steam Frame VR 头显官方教学视频泄露：佩戴、登录与配件细节曝光",
-      "link": "https://www.ithome.com/0/991/873.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-19T23:20:14+00:00",
-      "summary": "IT之家 8 月 20 日消息，Valve 今天在一次 ARM 版 Steam 客户端更新中意外发布了 8 段关于 Steam Frame VR 头显的视频。在这些教学视频被删除之前，用户已经发现、保存并在网上分享了它们。Valve 后来主动发布了其中一部分，剩下的视频也任由它们继续在网络上传播。这些视频并没有透露什么令人震惊的新信息，但对 Steam Frame 的登录流程、头显佩戴方式以及随附",
-      "fetched_at": "2026-08-19T23:32:16.394540+00:00"
-    },
-    {
-      "id": "854bada9e6c72232",
-      "title": "【钛晨报】事关每个人看病报销，全民医保“十五五”规划发布；宇树科技上市首日收涨460%，京东也发布机器人战略；三星据悉上调芯片代工价格，SK海力士抛出40万亿韩元回购",
-      "link": "https://www.tmtpost.com/8109408.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-19T23:20:00+00:00",
-      "summary": "特斯拉上线豆包大模型；韩国QFI已买入长鑫科技；“大家电BU解散”风波四起，追觅相关人士回应；中微公司上半年净利润同比增长300%；恒瑞医药拟以10亿至20亿元回购公司A股股份；国家发改委召开“六张网”重大项目协调调度机制会，完善“六网协同”工作推进机制。",
-      "fetched_at": "2026-08-20T01:47:30.307280+00:00"
-    },
-    {
-      "id": "149f923a6ba77f06",
-      "title": "三星宣布将于 8 月 27 日举办 Galaxy 发布会，有望推出 S26 FE",
-      "link": "https://www.ithome.com/0/991/872.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-19T23:14:48+00:00",
-      "summary": "IT之家 8 月 20 日消息，三星官网今日发文称，Galaxy S26 系列凭借迄今为止力度最大的影像与人工智能创新树立了全新标杆，让用户日常拍摄、创作与互联变得更加轻松。三星电子将于 8 月 27 日举办“2026 年 8 月 Galaxy 发布会”，推出 Galaxy S26 系列全新机型。据官方介绍，这款新品经过精心打造，面向注重核心体验的用户，完整搭载 Galaxy S26 系列从影像到",
-      "fetched_at": "2026-08-19T23:32:16.394583+00:00"
-    },
-    {
-      "id": "d247881087146050",
-      "title": "特朗普力挺 AI 数据中心：反对建设的州和社区将被甩在后面",
-      "link": "https://www.ithome.com/0/991/871.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-19T23:14:18+00:00",
-      "summary": "IT之家 8 月 20 日消息，美国总统唐纳德 · 特朗普表示，数据中心可能需要重新树立公众形象。特朗普当地时间周三在一场聚焦加密货币的活动结束后对记者表示：“我想说，它可能需要在公共关系方面得到一些帮助。”特朗普明确表示，无论公众对数据中心的观感如何，他仍然坚定支持 AI 产业，以及 AI 企业为训练未来模型、满足预期市场需求而需要建设的相关设施。他说：“如果我是州长或市长，我会希望我的社区拥有",
-      "fetched_at": "2026-08-19T23:32:16.394630+00:00"
-    },
-    {
-      "id": "7cc6ebd1cfe77006",
-      "title": "三星 Galaxy A58 和 Galaxy Xcover FR 手机踪迹曝光",
-      "link": "https://www.ithome.com/0/991/870.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-19T23:10:51+00:00",
-      "summary": "IT之家 8 月 20 日消息，科技媒体 SamMobile 昨日（8 月 19 日）发布博文，报道称在 GSMA IMEI 数据库中，发现了三星 Galaxy A58 以及 Galaxy Xcover FR 两款手机的踪迹。上图为 Galaxy A57 手机三星于 2026 年 3 月 25 日发布 Galaxy A57 手机，而作为继任机型，Galaxy A58 已经现身 GSMA IMEI ",
-      "fetched_at": "2026-08-19T23:32:16.394659+00:00"
-    },
-    {
-      "id": "5bb55da83f26985a",
-      "title": "美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势",
-      "link": "https://www.ithome.com/0/991/869.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-19T22:58:31+00:00",
-      "summary": "IT之家 8 月 20 日消息，据美国银行（Bank of America）数据，台积电（TSMC）位于美国亚利桑那州的工厂在整个集团营收和利润中的占比持续提升。台积电亚利桑那园区拥有其在美国最先进的芯片生产线，但自项目启动以来，美国更高的建设成本一直引发外界担忧。目前，台积电亚利桑那园区共规划三个阶段，其中第一阶段已经投入运营，主要采用 4 纳米制程工艺生产半导体。近期有报道称，亚利桑那工厂正在",
-      "fetched_at": "2026-08-19T23:32:16.394693+00:00"
-    },
-    {
-      "id": "0c8023c2deb8b1f1",
-      "title": "OpenAI 扩展零数据留存安全机制，自动化分析跨交互风险",
-      "link": "https://www.ithome.com/0/991/868.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-19T22:58:16+00:00",
-      "summary": "IT之家 8 月 20 日消息，OpenAI 公司今天（8 月 20 日）发布博文，宣布面向符合资格的前沿模型 API 客户，扩展“零数据留存”（Zero Data Retention）服务，自动化系统可识别跨交互风险模式。IT之家援引博文介绍，OpenAI 公司强调请求处理完成后，不保留提示词或模型回复，员工无法审阅客户内容，企业数据也不会用于训练模型（除非客户明确选择加入）。OpenAI 指出",
-      "fetched_at": "2026-08-19T23:32:16.394723+00:00"
-    },
-    {
-      "id": "0761a938e2d07be5",
-      "title": "苹果 Beats 360 头戴式耳机偷跑：主动降噪最高达 Beats Studio Pro 的 1.75 倍",
-      "link": "https://www.ithome.com/0/991/867.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-19T22:45:32+00:00",
-      "summary": "IT之家 8 月 20 日消息，科技媒体 MacRumors 今天（8 月 20 日）发布博文，报道称在亚马逊英国等多家电商平台上，发现了苹果 Beats 360 头戴式耳机的踪迹，在此前 macOS Tahoe 26.7 更新曝光的诸多产品中，该耳机可能关联 B518。外观方面，有别于现有 Beats Studio Pro，这款 Beats 360 采用更圆润的设计，耳罩和头梁加入类似 AirP",
-      "fetched_at": "2026-08-19T23:32:16.394757+00:00"
-    },
-    {
-      "id": "7ba55bd20a6049c5",
-      "title": "Meta 推出 Meta AI 原生 Mac 应用：支持窗口共享、跨应用听写",
-      "link": "https://www.ithome.com/0/991/866.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-19T22:45:30+00:00",
-      "summary": "IT之家 8 月 20 日消息，Meta 今天推出了全新的 Mac 版 Meta AI 应用，目前以测试版形式提供。这款应用主要面向企业和内容创作者，并与 Facebook 和 Instagram 集成。应用内置分析工具，可以回答有关账号表现的问题，同时还支持连接 Google Workspace，以访问相关文档。需要注意的是，使用 Google Workspace 访问功能必须拥有专业版 Fac",
-      "fetched_at": "2026-08-19T23:32:16.394786+00:00"
     }
   ]
 }
