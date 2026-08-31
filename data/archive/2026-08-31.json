@@ -1,7 +1,128 @@
 {
   "date": "2026-08-31",
-  "count": 1187,
+  "count": 1177,
   "items": [
+    {
+      "id": "ff3a6f2092de6858",
+      "title": "华为、小米、荣耀手机今日集体调价",
+      "link": "https://www.ithome.com/0/996/694.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T17:54:32+00:00",
+      "summary": "IT之家 9 月 1 日消息，据博主 @旺仔百事通 消息，华为 Mate 80 系列和华为畅享 90 Pro Max 今日（9 月 1 日）进行调价。华为 Mate 80：12GB+256GB 调价前 4,699 元，调价后 5,499 元12GB+512GB 调价前 5,199 元，调价后 5,999 元16GB+512GB 调价前 5,499 元，调价后 6,299 元16GB+1TB 调价前",
+      "fetched_at": "2026-08-31T19:58:17.560254+00:00"
+    },
+    {
+      "id": "2f81bb6275472271",
+      "title": "苹果 watchOS 27.0 开发者预览版 Beta 8 发布",
+      "link": "https://www.ithome.com/0/996/693.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T17:30:07+00:00",
+      "summary": "【点此直达升级教程】 IT之家 9 月 1 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 8 更新（内部版本号：24R5360a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划",
+      "fetched_at": "2026-08-31T19:58:17.560317+00:00"
+    },
+    {
+      "id": "a72d958250f7d89a",
+      "title": "苹果 visionOS 27.0 开发者预览版 Beta 8 发布",
+      "link": "https://www.ithome.com/0/996/692.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T17:30:07+00:00",
+      "summary": "IT之家 9 月 1 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 开发者预览版 Beta 8 更新（内部版本号：24M5361a），本次更新距离上次发布 Beta/RC 间隔 7 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 ",
+      "fetched_at": "2026-08-31T19:58:17.560374+00:00"
+    },
+    {
+      "id": "31b2af684dadb348",
+      "title": "苹果 macOS 27.0 开发者预览版 Beta 8 发布",
+      "link": "https://www.ithome.com/0/996/691.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T17:30:07+00:00",
+      "summary": "IT之家 9 月 1 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 8 更新（内部版本号：26A5425a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】",
+      "fetched_at": "2026-08-31T19:58:17.560424+00:00"
+    },
+    {
+      "id": "390282ffe9e64619",
+      "title": "苹果 iOS/iPadOS 27.0 开发者预览版 Beta 8 发布",
+      "link": "https://www.ithome.com/0/996/690.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T17:30:06+00:00",
+      "summary": "【点此直达升级教程】 IT之家 9 月 1 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.0 开发者预览版 Beta 8 更新（内部版本号：24A5430a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta ",
+      "fetched_at": "2026-08-31T19:58:17.560473+00:00"
+    },
+    {
+      "id": "61c63835ccbef446",
+      "title": "菲尔 · 席勒卸任苹果 App Store 及产品发布会负责人职务",
+      "link": "https://www.ithome.com/0/996/689.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T17:23:32+00:00",
+      "summary": "IT之家 9 月 1 日消息，据彭博社今日报道，Phil Schiller（菲尔 · 席勒）将辞去领导 App Store 和苹果发布会的职务。公开资料显示，菲尔 · 席勒（Phil Schiller）于 1960 年 6 月 8 日出生，毕业于波士顿学院并获得生物学学士学位，现任苹果院士（Apple Fellow）。菲尔 · 席勒于 1987 年加入苹果公司，1997 年随史蒂夫 · 乔布斯回归",
+      "fetched_at": "2026-08-31T19:58:17.560512+00:00"
+    },
+    {
+      "id": "4f05c06fe58e6ea3",
+      "title": "2026 年 8 月全球桌面浏览器排行：Chrome 73.28%、Edge 10.46%、Firefox 5.31%",
+      "link": "https://www.ithome.com/0/996/687.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T17:13:33+00:00",
+      "summary": "IT之家 9 月 1 日消息，根据市场调查机构 Statcounter 公布的最新报告，2026 年 8 月全球桌面浏览器市场中，Chrome 依然稳居第一，占比 73.28%；Edge 以 10.46% 的份额占据第二，Firefox 以 5.31% 位居第三。全球桌面浏览器Chrome 占比 73.28%，环比上升 2.61 个百分点Edge 占比 10.46%，环比下降 0.68 个百分点F",
+      "fetched_at": "2026-08-31T19:58:17.560594+00:00"
+    },
+    {
+      "id": "e119d89da8344f09",
+      "title": "2026 年 8 月中国桌面 Windows 份额：Win11 占比 49.16%，环比下降 0.85 个百分点",
+      "link": "https://www.ithome.com/0/996/686.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T17:10:46+00:00",
+      "summary": "IT之家 9 月 1 日消息，根据市场调查机构 Statcounter 公布的 2026 年 8 月 Windows 版本分布数据，中国桌面 Windows 系统中，Win11 以 49.16% 的份额位居第一，Win10 以 44.67% 的份额占据第二，Win7 以 4.36% 的份额位居第三。中国桌面平台Win11 占比 49.16%，环比下降 0.85 个百分点Win10 占比 44.67",
+      "fetched_at": "2026-08-31T19:58:17.560633+00:00"
+    },
+    {
+      "id": "32a8562f991461c7",
+      "title": "2026 年 8 月全球桌面 Windows 份额：Win11 占比 68.60%，环比下降 0.28 个百分点",
+      "link": "https://www.ithome.com/0/996/685.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T17:08:29+00:00",
+      "summary": "IT之家 9 月 1 日消息，根据市场调查机构 Statcounter 公布的 2026 年 8 月 Windows 版本分布数据，Win11 依然占据第一位置，Win10 紧随其后，Win7 排名第三。全球桌面市场Win11 占比 68.6%，环比下降 0.28 个百分点Win10 占比 30.14%，环比上升 0.26 个百分点Win7 占比 0.96%，环比下降 0.05 个百分点WinXP",
+      "fetched_at": "2026-08-31T19:58:17.560676+00:00"
+    },
+    {
+      "id": "2af60d8632fb23a4",
+      "title": "库克担任苹果 CEO 最后一天给员工发告别信：将公司交给约翰 · 特努斯让我无比安心",
+      "link": "https://www.ithome.com/0/996/684.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T16:00:02+00:00",
+      "summary": "IT之家 8 月 31 日消息，今天是蒂姆 · 库克担任苹果首席执行官的最后一天。现任苹果硬件工程高级副总裁约翰 · 特努斯将在明天接任他的工作，库克后续会转任苹果董事会执行主席，并继续负责与全球政策制定者沟通等事务。为了纪念自己 CEO 任期的最后一天，库克今天早上向苹果员工发送了一封充满感情的备忘录，这封告别信回顾了库克在苹果度过的时光，还对特努斯表达了期许。IT之家附库克备忘录全文如下：今天",
+      "fetched_at": "2026-08-31T19:58:17.560720+00:00"
+    },
+    {
+      "id": "8357b5012e6d3381",
+      "title": "七彩虹 iGame X870E VULCAN W OC 主板发售：超频旗舰，3999 元",
+      "link": "https://www.ithome.com/0/996/683.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T16:00:00+00:00",
+      "summary": "IT之家 8 月 31 日消息，七彩虹 (Colorful) 超频旗舰主板 iGame X870E VULCAN W OC V14“白火神”现已发售，定价 3999 元。京东七彩虹 iGame X870E VULCAN W OC V14 主板 3999 元直达链接iGame X870E VULCAN W OC V14 可视为 iGame X870E VULCAN OC V14“黑火神”调整 + 白",
+      "fetched_at": "2026-08-31T19:58:17.560762+00:00"
+    },
     {
       "id": "2d5666b909822347",
       "title": "微软 XBOX 确认：《神鬼寓言》主线通关需 15-20 小时",
@@ -12827,237 +12948,6 @@
       "published_at": "2026-08-24T22:27:52+00:00",
       "summary": "IT之家 8 月 25 日消息，苹果宣布，将放弃变更 iCloud+“隐藏邮件地址”（Hide My Email）域名，相关网站将继续使用 icloud.com 域名。IT之家注意到，苹果这一决定距离最初公布调整方案仅约两个月。在今年 6 月时，苹果曾宣布将为“通过 Apple 登录”（Sign in with Apple）和“隐藏邮件地址”启用统一的新邮箱域名 private.icloud.co",
       "fetched_at": "2026-08-24T23:30:54.410678+00:00"
-    },
-    {
-      "id": "aa753be4d282cc18",
-      "title": "苹果 watchOS 27.0 开发者预览版 Beta 7 发布",
-      "link": "https://www.ithome.com/0/993/763.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T17:53:16+00:00",
-      "summary": "【点此直达升级教程】IT之家 8 月 25 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 7 更新（内部版本号：24R5358a），本次更新距离上次发布 Beta / RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件",
-      "fetched_at": "2026-08-24T23:30:54.410723+00:00"
-    },
-    {
-      "id": "84c757893f096626",
-      "title": "苹果 visionOS 27.0 开发者预览版 Beta 7 发布",
-      "link": "https://www.ithome.com/0/993/762.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T17:53:15+00:00",
-      "summary": "IT之家 8 月 25 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 开发者预览版 Beta 7 更新（内部版本号：24M5359a），本次更新距离上次发布 Beta / RC 间隔 7 天。 目前尚无关于软件更新内容的任何消息。watchOS、tvOS 和 visionOS 每次发布新测试版通常只会增加少量功能，更新主要集中在修复漏洞和提升性能方面。需要注意的",
-      "fetched_at": "2026-08-24T23:30:54.410797+00:00"
-    },
-    {
-      "id": "53d8a188dc9f6b5e",
-      "title": "苹果 macOS 27.0 开发者预览版 Beta 7 发布",
-      "link": "https://www.ithome.com/0/993/761.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T17:53:15+00:00",
-      "summary": "IT之家 8 月 25 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 7 更新（内部版本号：26A5421a），本次更新距离上次发布 Beta / RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件",
-      "fetched_at": "2026-08-24T23:30:54.410764+00:00"
-    },
-    {
-      "id": "59cd1a19497c20a3",
-      "title": "苹果 iOS / iPadOS 27.0 开发者预览版 Beta 7 发布",
-      "link": "https://www.ithome.com/0/993/760.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T17:53:14+00:00",
-      "summary": "【点此直达升级教程】IT之家 8 月 25 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.0 开发者预览版 Beta 7 更新（内部版本号：24A5424a），本次更新距离上次发布 Beta / RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple B",
-      "fetched_at": "2026-08-24T23:30:54.410841+00:00"
-    },
-    {
-      "id": "fb5f639b98f57af6",
-      "title": "CDPR：《巫师 4》预计 2028 年推出",
-      "link": "https://www.ithome.com/0/993/759.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T15:46:56+00:00",
-      "summary": "IT之家 8 月 24 日消息，TGA 官方通过社交平台宣布，CD Projekt Red 确认，《巫师 4》预计将于 2028 年发行。CDPR 曾在今年 3 月发布的 2025 财年报告中提到，公司正在大幅扩充《巫师 4》开发团队。截至 2026 年 2 月 28 日，该项目已有 499 名开发人员参与。诺布尔证券公司分析师马特乌什・赫扎诺夫斯基曾在今年 1 月预测，CDPR 在《巫师 4》的",
-      "fetched_at": "2026-08-24T15:50:46.122793+00:00"
-    },
-    {
-      "id": "c058d12cc6e70064",
-      "title": "ACEMAGIC 推出 F2A 迷你主机：酷睿 Ultra X7 358H 处理器、32GB 内存",
-      "link": "https://www.ithome.com/0/993/758.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T15:41:11+00:00",
-      "summary": "IT之家 8 月 24 日消息，ACEMAGIC 现已推出新一代迷你主机 F2A，新品主打小巧机身，搭载英特尔 Panther Lake 平台。IT之家注意到，这款迷你主机采用英特尔酷睿 Ultra X7 358H 处理器，拥有 16 核心 16 线程，其 NPU 的 AI 算力最高可达 50 TOPS，配备 Arc B390 核显，整机 AI 性能最高可达 180 TOPS。规格方面，该迷你主机",
-      "fetched_at": "2026-08-24T15:50:46.122842+00:00"
-    },
-    {
-      "id": "7f6dba5febdb4059",
-      "title": "比亚迪明天举办仰望 U7 驾驶者大会，将带来“史无前例的极限挑战”",
-      "link": "https://www.ithome.com/0/993/757.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T15:35:16+00:00",
-      "summary": "IT之家 8 月 24 日消息，比亚迪旗下高端豪华品牌仰望汽车今天（24 日）宣布，仰望 U7 驾驶者大会将于 8 月 25 日举办。届时，一台未经特调的量产版 U7 将带来一场“史无前例的极限挑战”。随后在今天晚些时候，仰望销售事业部总经理胡晓庆发文透露，仰望 U7 还在高温高湿的南宁发起了一场超长的耐力测试，速度 240km/h，全程换人不换车。这次耐力测试的结果，也会在仰望 U7 驾驶者大会",
-      "fetched_at": "2026-08-24T15:50:46.122880+00:00"
-    },
-    {
-      "id": "04eb41185c2c2f37",
-      "title": "直接问你要钱还是坚持使命，Anthropic 面试流程曝光",
-      "link": "https://www.ithome.com/0/993/756.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T15:33:48+00:00",
-      "summary": "IT之家 8 月 24 日消息，据外媒 Axios 今日报道，熟悉 Anthropic 招聘流程的人士透露，这家前沿人工智能实验室会在招人时问一个相当直接的问题：如果公司的使命与金钱发生冲突时，你会如何选择？据报道，所有 Anthropic 求职者都需要参与一次文化面试，让公司评估应聘者的价值观。一位匿名人士透露，他曾在面试环节被问到：“如果公司有一天为了安全放弃 AI 业务，导致股价归零，你有何",
-      "fetched_at": "2026-08-24T15:50:46.122921+00:00"
-    },
-    {
-      "id": "73d82167be513447",
-      "title": "微信鸿蒙版 App 获 8.0.21.16 版本邀测升级",
-      "link": "https://www.ithome.com/0/993/755.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T15:28:23+00:00",
-      "summary": "IT之家 8 月 24 日消息，微信鸿蒙版 App 今日在华为应用市场（App Gallery）开启了 8.0.21.16 (8394000) 版本邀测升级（需收到短信通知后点击链接跳转安装，未收到短信需继续等待），测试时间为 2026/8/24-2026/9/24。和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据用户反馈，此前 8.0.20 版本的微信新增了如下特性：聊天中的笔记查看时",
-      "fetched_at": "2026-08-24T15:50:46.122992+00:00"
-    },
-    {
-      "id": "fadb14a8ec60d089",
-      "title": "iPhone 18 Pro 与折叠屏 iPhone 即将登场，苹果 2026 秋季新品发布会何时举办？",
-      "link": "https://www.ithome.com/0/993/754.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T15:13:02+00:00",
-      "summary": "IT之家 8 月 24 日消息，苹果 2026 秋季新品发布会即将到来，届时 iPhone 18 Pro，以及最受大伙期待的折叠屏 iPhone 将会登场。外媒 MacRumors 今日发文，分析这场发布会的具体举办时间。澳大利亚媒体 ChannelNews 近日发文称，iPhone 18 Pro 和 iPhone Ultra 的发布会将于 9 月 8 日举行。但这种说法比较站不住脚，苹果从未在美",
-      "fetched_at": "2026-08-24T15:50:46.123069+00:00"
-    },
-    {
-      "id": "7f8b59455b15accc",
-      "title": "小米集团副总裁朱丹：芯片研发投入是为下一个十年买“入场券”",
-      "link": "https://www.ithome.com/0/993/753.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T15:10:26+00:00",
-      "summary": "IT之家 8 月 24 日消息，小米今天（24 日）发布了三款自研芯片，随后在当天晚间登上央视财经频道。小米集团副总裁朱丹在采访中介绍，小米的判断很明确，AI 时代算力是一切智能体验的根基，不掌握芯片能力，就无法从底层定义产品体验。所以这笔投入不是“烧钱”，是在为下一个十年买“入场券”。报道援引业内人士的分析称，国内多家企业持续加码芯片自研，通过长期高额的技术投入，完善全场景算力布局，是产业链自主",
-      "fetched_at": "2026-08-24T15:50:46.123109+00:00"
-    },
-    {
-      "id": "7afccb42812c4a69",
-      "title": "Lava 推出 Virat V1 Pro 5G 手机：6.75 寸 720P LCD 屏幕、紫光展锐 T8200 芯片",
-      "link": "https://www.ithome.com/0/993/747.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T14:56:48+00:00",
-      "summary": "IT之家 8 月 24 日消息，Lava 今天在印度市场推出 Virat V1 Pro 5G 手机，新品定位中低端，采用 720P 屏幕和紫光展锐芯片。据介绍，这款手机配备 6.75 英寸的 LCD 屏幕，分辨率为 720*1600，支持 120Hz 高刷。搭载紫光展锐 T8200 芯片，拥有 6GB 内存和 128GB 存储空间。同时，这款手机的尺寸是 168.29*77.64*8.68mm，重",
-      "fetched_at": "2026-08-24T15:50:46.123137+00:00"
-    },
-    {
-      "id": "dc22ef9483434f49",
-      "title": "美国音乐人 Dr. Dre 公开支持 AI 音乐，将其类比鼓机、合成器",
-      "link": "https://www.ithome.com/0/993/745.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T14:34:21+00:00",
-      "summary": "IT之家 8 月 24 日消息，据科技媒体 TechRadar 今天报道，美国音乐人安德烈 · 罗梅勒 · 杨（艺名 Dr. Dre）近日公然承认自己在音乐创作时使用 AI。IT之家从原报道了解到，Dr. Dre 对此表示：“这是一种全新的创意工具，我拥抱它，并迫不及待想看看它最终能带来什么。”他还将 AI 工具与鼓机、合成器等进行类比，并说这些当今时代十分普遍的工具，最初出现时同样遭到了强烈抵制",
-      "fetched_at": "2026-08-24T15:50:46.123170+00:00"
-    },
-    {
-      "id": "042697974e857a17",
-      "title": "法国出台有关法律，今秋新学年起实施高中校园手机禁令",
-      "link": "https://www.ithome.com/0/993/744.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T14:29:02+00:00",
-      "summary": "IT之家 8 月 24 日消息，据央视新闻，当地时间 8 月 24 日，法国总统马克龙表示，他已颁布有关法律，从今年秋季新学年起禁止高中生在校使用手机。马克龙表示，保护儿童免受电子屏幕带来的负面影响已刻不容缓，“没有手机的学校意味着重新找回安宁的学习环境”。法国议会此前于 7 月 21 日通过旨在保护未成年人免受社交网络风险影响的相关法律。法律规定，学生在小学、初中和高中校园内不得使用手机或其他电",
-      "fetched_at": "2026-08-24T15:50:46.123198+00:00"
-    },
-    {
-      "id": "a9cf5c774ee07194",
-      "title": "消息称三星 Galaxy S27 Ultra 手机尺寸与前代几乎完全相同，主要重新设计摄像头布局",
-      "link": "https://www.ithome.com/0/993/743.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T14:26:24+00:00",
-      "summary": "IT之家 8 月 24 日消息，博主 @i冰宇宙 今日透露，三星 Galaxy S27 Ultra 的尺寸和显示屏尺寸将与 Galaxy S26 Ultra 几乎完全相同。博主称新机的 S Pen 将继续位于左侧，扬声器也将保留在左侧。除了重新设计的摄像头布局外，这两款手机的外观几乎一模一样，仅有一些细微的差异。作为参考，三星 Galaxy S26 Ultra 手机搭载 6.9 英寸 AMOLED",
-      "fetched_at": "2026-08-24T15:50:46.123232+00:00"
-    },
-    {
-      "id": "ee169d5a9ba58818",
-      "title": "苹果 Apple Store 应用 AI 助手悄悄上线，目前处于早期预览状态",
-      "link": "https://www.ithome.com/0/993/742.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T14:19:49+00:00",
-      "summary": "IT之家 8 月 24 日消息，据 X 平台博主 ShrimpApplePro 今日发文，苹果 Apple Store 应用已在逐步推送 AI 助手，截图显示其处于“早期预览”（IT之家注：Early Preview）状态。具体而言，该功能可以列出不同苹果产品、比较两款 iPhone、查询订单和处理以旧换新等。苹果给出的实例提示语是“帮我挑选一款 Apple Watch”，这意味着该助手可根据用户",
-      "fetched_at": "2026-08-24T15:50:46.123257+00:00"
-    },
-    {
-      "id": "3286edab5f7aa957",
-      "title": "卡迪夫大学新研究：AI 尚无法像人类教师一样可靠地批改作业",
-      "link": "https://www.ithome.com/0/993/741.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T14:16:15+00:00",
-      "summary": "IT之家 8 月 24 日消息，据外媒 Phys.org 今天（24 日）报道，卡迪夫大学和墨尔本大学的一项新研究发现，生成式人工智能（GenAI）目前还无法像人类教师一样可靠地评判学生的书面作业。研究人员使用 ChatGPT 的两个版本，对 50 篇生物科学专业本科生论文进行评分，以测试大模型评估学生作业的能力。ChatGPT 需要按照 7 项标准批改这些论文，研究人员还采用了 4 种不同的提示",
-      "fetched_at": "2026-08-24T15:50:46.123294+00:00"
-    },
-    {
-      "id": "47fb48239dfe80a9",
-      "title": "成功举起 16 公斤，第二届世界人形机器人运动会首个举重冠军诞生",
-      "link": "https://www.ithome.com/0/993/740.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T14:05:51+00:00",
-      "summary": "IT之家 8 月 24 日消息，据央视新闻报道，今晚（8 月 24 日），第二届世界人形机器人运动会举重项目完赛。IT之家获悉，北京人形-华科联队的机器人在 15 公斤基础重量上连续加码，最终成功举起 16 公斤，夺得本赛事首个人形机器人举重冠军。据介绍，本届赛事共吸引了六大洲 16 个国家的 666 支队伍、2056 台机器人同台竞技，队伍总量同比增长 138%，机器人数量翻了两番。本届赛事赛项",
-      "fetched_at": "2026-08-24T15:50:46.123323+00:00"
-    },
-    {
-      "id": "a555f53e8a12eb5d",
-      "title": "路透社母公司汤森路透花 4000 万美元研发 AI 模型，基于阿里千问",
-      "link": "https://www.ithome.com/0/993/738.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T13:57:55+00:00",
-      "summary": "IT之家 8 月 24 日消息，路透社母公司汤森路透集团近日正式公布其首款大语言模型“Thomson”。该模型基于阿里千问构建，号称拥有顶级表现。据介绍，该模型的研发成本大约是 4,000 万美元（IT之家注：现汇率约合 2.69 亿元人民币），外界广泛传播的 45 万美元（现汇率约合 302.8 万元人民币）数字只是最后一次训练成本。该模型的基础模型源自阿里巴巴的千问，目前使用的版本为 Qwen",
-      "fetched_at": "2026-08-24T15:50:46.123356+00:00"
-    },
-    {
-      "id": "cce493c0def11a2e",
-      "title": "一代经典越野车宣告回归，三菱全新帕杰罗 9 月 2 日全球首秀",
-      "link": "https://www.ithome.com/0/993/737.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T13:52:27+00:00",
-      "summary": "IT之家 8 月 24 日消息，三菱第五代帕杰罗将于 2026 年 9 月 2 日全球首发，新车确认重新采用梯形车架底盘，而非上一代车型的承载式车身。据外媒 motor1 今天（24 日）报道，新帕杰罗还将搭载与 Triton 皮卡相同的 Super All-Wheel Control（S-AWC）四驱控制系统。目前流出的设计信息显示，新帕杰罗有望针对不同市场采用两种前脸设计。新车最大的机械亮点是",
-      "fetched_at": "2026-08-24T15:50:46.123389+00:00"
-    },
-    {
-      "id": "7f6cc4219eaad4cd",
-      "title": "纯电 K-Car：铃木推出 e Sky 小车，26 kWh 磷酸铁锂电池、310 公里续航",
-      "link": "https://www.ithome.com/0/993/736.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T13:35:13+00:00",
-      "summary": "IT之家 8 月 24 日消息，铃木现已在日本公布 e Sky，这款汽车属于纯电 K-Car（軽乗用 EV）品类，今年秋季在日本上市，预计明年登陆欧洲市场。据介绍，这款汽车定位城市代步出行，强调平顺加速感、舒适乘坐感。该车的外观基本延续了 Vision e-Sky 概念车的设计思路，车头采用大尺寸 LED 大灯，并配有深色灯罩，铃木徽标位于雕刻感明显的车头中央，保险杠加入独立散热口。规格方面，该车",
-      "fetched_at": "2026-08-24T15:50:46.123423+00:00"
     }
   ]
 }
