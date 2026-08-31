@@ -1,7 +1,150 @@
 {
   "date": "2026-08-31",
-  "count": 1177,
+  "count": 1161,
   "items": [
+    {
+      "id": "f2490fc70749d8c0",
+      "title": "IT早报 0901：华为、小米、荣耀手机今日集体调价；库克担任苹果 CEO 最后一天给员工发告别信；曝网易全系产品将登陆华为鸿蒙系统；国内首部 AIGC 长剧《后西游记》开播...",
+      "link": "https://www.ithome.com/0/996/709.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T23:44:23+00:00",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 9 月 1 日星期二，今天的重要科技资讯有：1. 华为、小米、荣耀手机 9 月 1 日集体调价华为 Mate 80 系列和华为畅享 90 Pro Max 9 月 1 日进行调价。荣耀 Power2 和 Magic8 两款产品今日进行调价。小米 17 系列、REDMI K90 系列等进行了调价。&gt;&gt; 查看详情2. 库克发文告别苹果 CEO ",
+      "fetched_at": "2026-08-31T23:46:10.539165+00:00"
+    },
+    {
+      "id": "c3ab842a5c79f852",
+      "title": "2027 款上汽大众帕萨特 Pro 车型正式上市：官方指导价 17.2 万元起，限时优惠价 13.99 万元起",
+      "link": "https://www.ithome.com/0/996/708.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T23:33:58+00:00",
+      "summary": "IT之家 9 月 1 日消息，上汽大众 2027 款帕萨特 Pro 昨日正式上市。新车共推出 5 款车型，官方指导价 17.2-23.99 万元，限时一口价 13.99-20.99 万元。此次上市的 2027 款帕萨特 Pro 为年度改款车型，定位纯燃油中型家轿。上市权益包括动力总成终身质保、最高 1.2 万元以旧换新补贴、2 年 0 息金融政策及无忧流量权益等。外观延续了现款设计，前脸为标志性 ",
+      "fetched_at": "2026-08-31T23:46:10.539216+00:00"
+    },
+    {
+      "id": "36d0dd35a4ee740a",
+      "title": "奕境曾清林：中国新能源车能领跑全球除了“换道”巧劲，更离不开“直道”上攒下的硬实力",
+      "link": "https://www.ithome.com/0/996/707.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T23:30:59+00:00",
+      "summary": "IT之家 9 月 1 日消息，奕境汽车品牌总经理曾清林今日凌晨发文，谈及了“中国新能源车为何能领跑全球”这一话题，并分享了自己的体会。据曾清林回忆，他从油车时代就从技术员干起，已经工作了 20 年。他的绝大部分经验的积累都来自燃油车时代。在自己的印象中，2015 年到 2020 年期间，中国燃油车质量、技术水平进步也非常迅速，已经快速逼近合资品牌的水平。只是差一个临界点和标志性事件来改变用户的心智",
+      "fetched_at": "2026-08-31T23:46:10.539258+00:00"
+    },
+    {
+      "id": "63fdf1e416f76d65",
+      "title": "【钛晨报】七部门打出扩消费“组合拳”：破汽车限购、推适老机器人、建AI消费场景等；华为上半年收入4678亿增9.55%，研发投入1213.8亿创新高；燧原科技发行价确定",
+      "link": "https://www.tmtpost.com/8123455.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-08-31T23:26:09+00:00",
+      "summary": "国家人工智能基金14亿元入股可灵AI；智谱上半年收入同比增近400%；欧菲光澄清“掏空资产”传闻；中际旭创拟回购40亿至80亿元股份；*ST闻泰：法院裁定冻结安世及安泰可相关股权财产；中国巨石据悉已正式上调9月份电子布价格；工信部：探索通过首购首用、风险补偿等模式，加大大模型、智能体、Token等服务采购力度。",
+      "fetched_at": "2026-08-31T23:46:13.493179+00:00"
+    },
+    {
+      "id": "017395f86edfef51",
+      "title": "苹果摄像头版 AirPods 爆料：可拍摄 100 万像素彩照，改进空间音频体验",
+      "link": "https://www.ithome.com/0/996/706.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T23:24:19+00:00",
+      "summary": "IT之家 9 月 1 日消息，网友 mactracker 昨日（8 月 31 日）在 MacRumors 论坛发帖，进一步挖掘 macOS 26.7 候选版本固件代码，发现苹果摄像头版 AirPods 可能配备彩色摄像头，并可拍摄 100 万像素图片。根据代码内容显示，这款耳机内部开发代号为 B790，除了拍摄外，这套摄像头还可能用于识别用户正在观看的实体屏幕，进而校正空间音频的头部追踪误差。系统",
+      "fetched_at": "2026-08-31T23:46:10.539286+00:00"
+    },
+    {
+      "id": "679b3db4b05d9281",
+      "title": "微信鸿蒙版 App 获 8.0.21.34 版本邀测升级，修复了一些已知问题",
+      "link": "https://www.ithome.com/0/996/705.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T23:24:00+00:00",
+      "summary": "IT之家 9 月 1 日消息，微信鸿蒙版 App 昨日在华为应用市场（App Gallery）开启了 8.0.21.34 (8394018) 版本邀测升级（需收到短信通知后点击链接跳转安装，未收到短信需继续等待），测试时间为 2026/8/31-2026/9/30。微信鸿蒙版 8.0.20 系列自 7 月底以来已连续推送多个邀测与尝鲜版本，官方更新日志均为“修复了一些已知问题”。IT之家这里也提供",
+      "fetched_at": "2026-08-31T23:46:10.539388+00:00"
+    },
+    {
+      "id": "ef5c317b5c53b9db",
+      "title": "华为 Mate XT 2 非凡大师三折叠手机首搭灵盾防窥屏，杨幂在片场首秀内屏防窥模式",
+      "link": "https://www.ithome.com/0/996/704.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T23:20:40+00:00",
+      "summary": "IT之家 9 月 1 日消息，华为 Mate XT 2 非凡大师全新展翼三折叠手机已于昨日 10:08 开启预订。根据华为官网信息，华为 Mate XT 2 非凡大师的 16GB+1TB 规格可选“灵盾防窥屏”版本，同时紫色款的 16GB+2TB 规格则标配“灵盾防窥屏”。这也是华为首次在手机上提供“灵盾防窥屏”可选。IT之家注意到，杨幂片场路透显示，她已用上了这款全新展翼三折叠手机。此前各路博主",
+      "fetched_at": "2026-08-31T23:46:10.539416+00:00"
+    },
+    {
+      "id": "54e4bd12a9f28ac9",
+      "title": "苹果 MacBook Neo 8GB 被曝 SSD 寿命隐患：3 小时写入近 900GB，高强度下寿命不足两月",
+      "link": "https://www.ithome.com/0/996/703.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T23:15:41+00:00",
+      "summary": "IT之家 9 月 1 日消息，YouTube 频道 UFD Tech 经过测试发现，苹果 MacBook Neo 存在 SSD 寿命隐患，其 8GB 内存配置可能因过度依赖 SSD 交换文件而严重影响硬盘使用寿命。测试中，UFD Tech 使用 SSD 写入工具发现，256GB 版 MacBook Neo 在写入 20TB 数据后消耗了约 5% 的 SSD 寿命，据此推算其总写入寿命约为 414T",
+      "fetched_at": "2026-08-31T23:46:10.539456+00:00"
+    },
+    {
+      "id": "833ca31c130d07c8",
+      "title": "苹果披露“惊人证据”：前员工已将机密文件用于 OpenAI，且知情者众多",
+      "link": "https://www.ithome.com/0/996/702.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T23:07:00+00:00",
+      "summary": "IT之家 9 月 1 日消息，根据苹果当地时间 8 月 31 日向法院提交的最新文件，公司在对前工程师 Chang Liu 使用过的一台 MacBook 进行初步取证分析后，发现了新的“令人震惊的证据”。苹果于今年 7 月正式提起诉讼，指控这名前工程师及另一位前高管 Tan Yew Tan 将商业秘密带至 OpenAI，用于其消费级硬件研发。公开报道显示，Chang Liu 原为苹果高级系统电气工",
+      "fetched_at": "2026-08-31T23:46:10.539501+00:00"
+    },
+    {
+      "id": "b7b8f24189b6fbe5",
+      "title": "稳定版发布倒计时，苹果推送 iOS / iPadOS 27 第 6 个公测版",
+      "link": "https://www.ithome.com/0/996/701.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T23:06:53+00:00",
+      "summary": "IT之家 9 月 1 日消息，苹果公司今天（9 月 1 日）推送 iOS / iPadOS 27 Beta 8 更新数小时后，还放出了 iOS 27、iPadOS 27、 macOS 27 以及 tvOS 27 的第 6 个公测版，显示测试周期进入收尾阶段。IT之家附上相关截图如下：在发布节奏方面，科技媒体 9to5Mac 认为按照既有节奏，iOS 27 候选版（RC）或在 9 月 9 日发布会后",
+      "fetched_at": "2026-08-31T23:46:10.539534+00:00"
+    },
+    {
+      "id": "7216603368dc6810",
+      "title": "库克发文告别苹果 CEO 一职：头衔会变，但对 Apple 社区的热爱永远不会改变",
+      "link": "https://www.ithome.com/0/996/700.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T23:05:18+00:00",
+      "summary": "IT之家 9 月 1 日消息，现任苹果硬件工程高级副总裁约翰 · 特努斯将于当地时间 9 月 1 日正式接任苹果首席执行官。届时，蒂姆 · 库克将出任苹果董事会执行董事长。蒂姆 · 库克在担任苹果 CEO 的最后一天，发文告别了这一职位：在担任 Apple CEO 的最后一天，向 Apple 社区送上满满的爱。明天我的头衔会变，但我对 Apple 社区的热爱永远不会改变。感谢你们一直以来成为我灵感",
+      "fetched_at": "2026-08-31T23:46:10.539601+00:00"
+    },
+    {
+      "id": "5b9b111e881c7314",
+      "title": "2017/2018 款 MacBook Pro 与 2018 款 MacBook Air 正式进入苹果过时名单",
+      "link": "https://www.ithome.com/0/996/699.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T22:29:09+00:00",
+      "summary": "IT之家 9 月 1 日消息，苹果今日更新了过时产品名单，新增的设备包括：2018 款 13 英寸视网膜显示屏 MacBook Air；配备四个雷雳 3 端口的 2018 款 13 英寸 MacBook Pro；配备两个雷雳 3 端口的 2017 款 13 英寸 MacBook Pro。根据苹果的政策，当一款产品停止销售满五年即被归为“老旧产品”（Vintage），满七年则被列为“过时产品”（Ob",
+      "fetched_at": "2026-08-31T23:46:10.539735+00:00"
+    },
+    {
+      "id": "9634c7744b92af28",
+      "title": "微软更新 Win11 26H1 预览版 28020.2818/28120.2824：升级 WinRE 联网，修复壁纸变黑 Bug 等",
+      "link": "https://www.ithome.com/0/996/695.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T21:01:34+00:00",
+      "summary": "IT之家 9 月 1 日消息，微软昨天（8 月 31 日）发布博文，邀请 Beta 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的最新预览版更新。版本号方面，适用于 26H1 的 Beta 版本号为 Build 28020.2818；适用于 26H1 的 Experimental 版本号为 Build 28120.2824。在更新内容方面，此次更新的最大亮点",
+      "fetched_at": "2026-08-31T23:46:10.539700+00:00"
+    },
     {
       "id": "ff3a6f2092de6858",
       "title": "华为、小米、荣耀手机今日集体调价",
@@ -11,7 +154,7 @@
       "category": "tech",
       "published_at": "2026-08-31T17:54:32+00:00",
       "summary": "IT之家 9 月 1 日消息，据博主 @旺仔百事通 消息，华为 Mate 80 系列和华为畅享 90 Pro Max 今日（9 月 1 日）进行调价。华为 Mate 80：12GB+256GB 调价前 4,699 元，调价后 5,499 元12GB+512GB 调价前 5,199 元，调价后 5,999 元16GB+512GB 调价前 5,499 元，调价后 6,299 元16GB+1TB 调价前",
-      "fetched_at": "2026-08-31T19:58:17.560254+00:00"
+      "fetched_at": "2026-08-31T23:46:10.539822+00:00"
     },
     {
       "id": "2f81bb6275472271",
@@ -21,8 +164,8 @@
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-08-31T17:30:07+00:00",
-      "summary": "【点此直达升级教程】 IT之家 9 月 1 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 8 更新（内部版本号：24R5360a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划",
-      "fetched_at": "2026-08-31T19:58:17.560317+00:00"
+      "summary": "【点此直达升级教程】IT之家 9 月 1 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 8 更新（内部版本号：24R5360a），本次更新距离上次发布 Beta / RC 间隔 7 天。开发者可通过 iPhone 上的 Watch App，使用免费开发者账户下载更新。安装时手表需连接充电器、接入 Wi-Fi，且电量保持在 50% 以上。w",
+      "fetched_at": "2026-08-31T23:46:10.539988+00:00"
     },
     {
       "id": "a72d958250f7d89a",
@@ -32,8 +175,8 @@
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-08-31T17:30:07+00:00",
-      "summary": "IT之家 9 月 1 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 开发者预览版 Beta 8 更新（内部版本号：24M5361a），本次更新距离上次发布 Beta/RC 间隔 7 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 ",
-      "fetched_at": "2026-08-31T19:58:17.560374+00:00"
+      "summary": "IT之家 9 月 1 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 开发者预览版 Beta 8 更新（内部版本号：24M5361a），本次更新距离上次发布 Beta / RC 间隔 7 天。开发者可在 Vision Pro 上打开“设置”应用，进入“软件更新”并开启“Beta 更新”即可安装。需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升",
+      "fetched_at": "2026-08-31T23:46:10.539929+00:00"
     },
     {
       "id": "31b2af684dadb348",
@@ -43,19 +186,19 @@
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-08-31T17:30:07+00:00",
-      "summary": "IT之家 9 月 1 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 8 更新（内部版本号：26A5425a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】",
-      "fetched_at": "2026-08-31T19:58:17.560424+00:00"
+      "summary": "IT之家 9 月 1 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 8 更新（内部版本号：26A5425a），本次更新距离上次发布 Beta / RC 间隔 7 天。开发者可在系统设置 &gt; 通用 &gt; 软件更新中下载，需开启 Beta 更新并登录免费开发者账户。macOS Golden Gate（IT之家注：命名源自美国旧金山的金门大桥）带来多",
+      "fetched_at": "2026-08-31T23:46:10.539884+00:00"
     },
     {
       "id": "390282ffe9e64619",
-      "title": "苹果 iOS/iPadOS 27.0 开发者预览版 Beta 8 发布",
+      "title": "开发迈入尾声，苹果发布 iOS / iPadOS 27 开发者预览版 Beta 8",
       "link": "https://www.ithome.com/0/996/690.htm",
       "source_id": "ithome",
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-08-31T17:30:06+00:00",
-      "summary": "【点此直达升级教程】 IT之家 9 月 1 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.0 开发者预览版 Beta 8 更新（内部版本号：24A5430a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta ",
-      "fetched_at": "2026-08-31T19:58:17.560473+00:00"
+      "summary": "【点此直达升级教程】IT之家 9 月 1 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.0 开发者预览版 Beta 8 更新（内部版本号：24A5430a），本次更新距离上次发布 Beta / RC 间隔 7 天。 更新节奏方面，Beta 8 版本后缀为 a，包括 9to5Mac 在内的多家海外媒体认为距离苹果发布 iOS 27 RC 候选版本已经不远",
+      "fetched_at": "2026-08-31T23:46:10.540047+00:00"
     },
     {
       "id": "61c63835ccbef446",
@@ -66,7 +209,18 @@
       "category": "tech",
       "published_at": "2026-08-31T17:23:32+00:00",
       "summary": "IT之家 9 月 1 日消息，据彭博社今日报道，Phil Schiller（菲尔 · 席勒）将辞去领导 App Store 和苹果发布会的职务。公开资料显示，菲尔 · 席勒（Phil Schiller）于 1960 年 6 月 8 日出生，毕业于波士顿学院并获得生物学学士学位，现任苹果院士（Apple Fellow）。菲尔 · 席勒于 1987 年加入苹果公司，1997 年随史蒂夫 · 乔布斯回归",
-      "fetched_at": "2026-08-31T19:58:17.560512+00:00"
+      "fetched_at": "2026-08-31T23:46:10.540083+00:00"
+    },
+    {
+      "id": "e8fb3d52d2e2967e",
+      "title": "Steam PvE 生存建造节开启：《幻兽帕鲁》七折 75.6 元、《雾锁王国》新史低，持续至 9 月 8 日",
+      "link": "https://www.ithome.com/0/996/688.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-08-31T17:20:27+00:00",
+      "summary": "IT之家 9 月 1 日消息，Steam 现已开启 PvE 生存建造节特卖活动，本次活动将持续至北京时间约为 9 月 8 日凌晨 1 点，活动期间大量 PvE 生存建造类游戏将提供折扣优惠，点数商店也推出了新头像、边框、贴纸。本次特卖涵盖各类别生存建造题材游戏，测试玩家在不同恶劣环境下的求生能力，包括海上漂流、深海探险、太空生存、荒岛求生等不同主题作品均参与折扣。在此次活动中，《幻兽帕鲁》七折平史",
+      "fetched_at": "2026-08-31T23:46:10.539642+00:00"
     },
     {
       "id": "4f05c06fe58e6ea3",
@@ -77,7 +231,7 @@
       "category": "tech",
       "published_at": "2026-08-31T17:13:33+00:00",
       "summary": "IT之家 9 月 1 日消息，根据市场调查机构 Statcounter 公布的最新报告，2026 年 8 月全球桌面浏览器市场中，Chrome 依然稳居第一，占比 73.28%；Edge 以 10.46% 的份额占据第二，Firefox 以 5.31% 位居第三。全球桌面浏览器Chrome 占比 73.28%，环比上升 2.61 个百分点Edge 占比 10.46%，环比下降 0.68 个百分点F",
-      "fetched_at": "2026-08-31T19:58:17.560594+00:00"
+      "fetched_at": "2026-08-31T23:46:10.540158+00:00"
     },
     {
       "id": "e119d89da8344f09",
@@ -88,7 +242,7 @@
       "category": "tech",
       "published_at": "2026-08-31T17:10:46+00:00",
       "summary": "IT之家 9 月 1 日消息，根据市场调查机构 Statcounter 公布的 2026 年 8 月 Windows 版本分布数据，中国桌面 Windows 系统中，Win11 以 49.16% 的份额位居第一，Win10 以 44.67% 的份额占据第二，Win7 以 4.36% 的份额位居第三。中国桌面平台Win11 占比 49.16%，环比下降 0.85 个百分点Win10 占比 44.67",
-      "fetched_at": "2026-08-31T19:58:17.560633+00:00"
+      "fetched_at": "2026-08-31T23:46:10.540197+00:00"
     },
     {
       "id": "32a8562f991461c7",
@@ -99,7 +253,7 @@
       "category": "tech",
       "published_at": "2026-08-31T17:08:29+00:00",
       "summary": "IT之家 9 月 1 日消息，根据市场调查机构 Statcounter 公布的 2026 年 8 月 Windows 版本分布数据，Win11 依然占据第一位置，Win10 紧随其后，Win7 排名第三。全球桌面市场Win11 占比 68.6%，环比下降 0.28 个百分点Win10 占比 30.14%，环比上升 0.26 个百分点Win7 占比 0.96%，环比下降 0.05 个百分点WinXP",
-      "fetched_at": "2026-08-31T19:58:17.560676+00:00"
+      "fetched_at": "2026-08-31T23:46:10.540233+00:00"
     },
     {
       "id": "2af60d8632fb23a4",
@@ -110,7 +264,7 @@
       "category": "tech",
       "published_at": "2026-08-31T16:00:02+00:00",
       "summary": "IT之家 8 月 31 日消息，今天是蒂姆 · 库克担任苹果首席执行官的最后一天。现任苹果硬件工程高级副总裁约翰 · 特努斯将在明天接任他的工作，库克后续会转任苹果董事会执行主席，并继续负责与全球政策制定者沟通等事务。为了纪念自己 CEO 任期的最后一天，库克今天早上向苹果员工发送了一封充满感情的备忘录，这封告别信回顾了库克在苹果度过的时光，还对特努斯表达了期许。IT之家附库克备忘录全文如下：今天",
-      "fetched_at": "2026-08-31T19:58:17.560720+00:00"
+      "fetched_at": "2026-08-31T23:46:10.540272+00:00"
     },
     {
       "id": "8357b5012e6d3381",
@@ -121,7 +275,7 @@
       "category": "tech",
       "published_at": "2026-08-31T16:00:00+00:00",
       "summary": "IT之家 8 月 31 日消息，七彩虹 (Colorful) 超频旗舰主板 iGame X870E VULCAN W OC V14“白火神”现已发售，定价 3999 元。京东七彩虹 iGame X870E VULCAN W OC V14 主板 3999 元直达链接iGame X870E VULCAN W OC V14 可视为 iGame X870E VULCAN OC V14“黑火神”调整 + 白",
-      "fetched_at": "2026-08-31T19:58:17.560762+00:00"
+      "fetched_at": "2026-08-31T23:46:10.540311+00:00"
     },
     {
       "id": "2d5666b909822347",
@@ -12618,336 +12772,6 @@
       "published_at": "2026-08-24T23:49:08+00:00",
       "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 25 日星期二，今天的重要科技资讯有：1. 2026 胡润中国品牌榜发布：苹果蝉联第一，抖音与微信并列，华为重返前十，AIGC 品牌首次入榜胡润研究院发布《2026 胡润中国品牌榜》，苹果蝉联第一，AIGC 行业首次独立入榜，华为重返总榜前十，本文带来完整榜单信息。&gt;&gt; 查看详情2. 首报震级 7.7 级，成都高新减灾研究所就宜宾",
       "fetched_at": "2026-08-25T01:47:45.329972+00:00"
-    },
-    {
-      "id": "64a45dbed59045b5",
-      "title": "联想承认 BIOS 更新导致 Legion Go 掌机变砖，受影响设备可免费维修",
-      "link": "https://www.ithome.com/0/993/791.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T23:42:25+00:00",
-      "summary": "IT之家 8 月 25 日消息，大约一个月前，多名联想 Legion Go 用户开始反映，在安装 BIOS 版本 N3CN42WW 后，他们的掌机变得无法使用。随着相关报告不断增加，联想最终悄悄从官方网站撤下了这个 BIOS 更新。不过，当时联想并未解释问题究竟是什么原因导致的，也没有说明受影响用户应该如何处理。更让一些用户感到不满的是，据报道，一些设备变砖的用户甚至被要求支付维修费用，尽管问题是",
-      "fetched_at": "2026-08-25T01:47:45.330008+00:00"
-    },
-    {
-      "id": "bfdc0800c4fdcb3a",
-      "title": "苹果 20 周年纪念版 iPhone 新渲染图曝光：后置双摄、前置单挖孔设计",
-      "link": "https://www.ithome.com/0/993/790.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T23:36:00+00:00",
-      "summary": "IT之家 8 月 25 日消息，消息源 Yogesh Brar 发文，展示了苹果 20 周年版 iPhone 新渲染图。相应图片显示，20 周年版 iPhone 正面采用四曲面屏设计，匹配单打孔摄像头，手机背面也采用了曲面设计。此外，图片还显示该机采用后置水平双摄设计，整体风格有点类似网传的 iPhone Air 2。IT之家注意到，此前消息显示苹果 20 周年版 iPhone 无边四曲面使用 2",
-      "fetched_at": "2026-08-25T01:47:45.330030+00:00"
-    },
-    {
-      "id": "8e43d4c0223acc6d",
-      "title": "三星 2026 上半年研发投入超 27 万亿韩元，全球专利总量逼近 30 万件",
-      "link": "https://www.ithome.com/0/993/789.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T23:35:16+00:00",
-      "summary": "IT之家 8 月 25 日消息，三星是全球研发投入最为激进的企业之一。今年上半年，这家韩国企业的研发支出已经超过 27.36 万亿韩元（IT之家注：现汇率约合 1,326.96 亿元人民币），同时其全球专利总量也即将突破 30 万件。据 JoongAng Economy News 报道，三星电子目前在全球拥有 296,468 项专利，距离 30 万件这一重要里程碑仅一步之遥。今年上半年，三星新申请",
-      "fetched_at": "2026-08-25T01:47:45.330061+00:00"
-    },
-    {
-      "id": "55b4c30a023265bb",
-      "title": "第四季刷新 Apple TV 首播纪录后，曝《足球教练》第五季明年 1 月开拍",
-      "link": "https://www.ithome.com/0/993/788.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T23:33:35+00:00",
-      "summary": "IT之家 8 月 25 日消息，消息源 @sigjudge 昨日（8 月 24 日）在 X 平台发布推文，爆料称苹果公司正为《足球教练》（Ted Lasso）第 5 季制作做准备，拍摄暂定于 2027 年 1 月启动。IT之家此前报道，苹果公司援引尼尔森（Nielsen）调查公司数据，称在 2026 年 8 月 4 日和 5 日两天时间里，《足球教练》在美国首播斩获 2.966 亿分钟观看时长，刷",
-      "fetched_at": "2026-08-25T01:47:45.330090+00:00"
-    },
-    {
-      "id": "bfdcfd68cb30a027",
-      "title": "佳明旗下 Fenix 9/Pro 智能手表曝光：可选半反半透屏太阳能充电版本",
-      "link": "https://www.ithome.com/0/993/787.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T23:29:23+00:00",
-      "summary": "IT之家 8 月 25 日消息，外媒 gamerasnap 现已曝光了佳明旗下 Fenix 9/Pro 智能手表，其中 Pro 版本中部分机型将配备支持太阳能充电，预计将于明天发布。系列手表仍延续 Fenix 系列经典家族式设计，引入钛合金一体式机身设计，机身右侧还加入了蚀刻的“Fenix”字样，同时保留了 5 个实体按键。▲ Pro 版本 AMOLED 机型▲ Pro 版本半反半透屏太阳能充电机",
-      "fetched_at": "2026-08-25T01:47:45.330115+00:00"
-    },
-    {
-      "id": "c73c375a4891c36f",
-      "title": "马斯克证实：SpaceX 将在星舰稳定运营后逐步退役猎鹰 9 火箭",
-      "link": "https://www.ithome.com/0/993/786.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T23:29:09+00:00",
-      "summary": "IT之家 8 月 25 日消息，传闻如今得到了证实。SpaceX 计划在其巨型下一代火箭“星舰”（Starship）开始定期执行运营任务后，逐步退役目前公司的主力火箭“猎鹰 9”（Falcon 9）。SpaceX 于 2010 年首次发射猎鹰 9，此后这款火箭很快在航天史上留下了浓墨重彩的一笔。迄今为止，猎鹰 9 已经发射近 700 次，并成为人类历史上首款能够让轨道级火箭一级助推器着陆并重复使用",
-      "fetched_at": "2026-08-24T23:30:54.409821+00:00"
-    },
-    {
-      "id": "f649ce7cc8cdd055",
-      "title": "CyberLeek 再次泄露《GTA 6》实机片段，展示升级版 NPC 模拟系统",
-      "link": "https://www.ithome.com/0/993/785.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T23:25:17+00:00",
-      "summary": "IT之家 8 月 25 日消息，尽管 Take-Two Interactive 方面施加的压力越来越大，但神秘的《GTA 6》泄密者 CyberLeek 似乎仍在不断曝光游戏内容。在 Netflix 即将在几天后正式公布《GTA 6》相关内容之前，玩家已经提前看到了不少游戏机制和互动细节。如今，一段最新泄露视频又让玩家得以进一步了解 Rockstar Games 疑似升级后的 NPC 模拟系统。I",
-      "fetched_at": "2026-08-24T23:30:54.409866+00:00"
-    },
-    {
-      "id": "446b8014ca368d0d",
-      "title": "Tesla Adds a Chinese Large Model to Its China Cars for the First Time",
-      "link": "https://www.tmtpost.com/8115448.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-24T23:24:03+00:00",
-      "summary": "The company has begun rolling out ByteDance’s Doubao model inside its China vehicle software, a rare departure from its preference for in-house systems. The move addresses cabin experience and local r",
-      "fetched_at": "2026-08-25T05:41:21.786656+00:00"
-    },
-    {
-      "id": "deb64fbd48b8f187",
-      "title": "Steam 喜加一：原价 49 元 RPG 游戏《Dokimon Quest》免费领",
-      "link": "https://www.ithome.com/0/993/784.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T23:21:48+00:00",
-      "summary": "IT之家 8 月 25 日消息，由 Yanako RPGs 开发的像素风怪物驯化 RPG《Dokimon Quest》目前正在 Steam 平台开启限时免费“喜加一”活动，本作在国区定价为 49 元，玩家可在北京时间 8 月 27 日前登录 Steam 账号领取，IT之家附游戏商品页（https://store.steampowered.com/app/2019300/Dokimon_Quest/",
-      "fetched_at": "2026-08-24T23:30:54.409897+00:00"
-    },
-    {
-      "id": "87b78290e8bc0943",
-      "title": "【钛晨报】上海\"十五五\"产业规划出炉，新增三大万亿级产业集群；国管公积金新政，首套房最高可贷款340万元；TRAE、扣子并入豆包，字节将推“豆包工作”",
-      "link": "https://www.tmtpost.com/8115315.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-24T23:20:00+00:00",
-      "summary": "王沪宁会见第三届中美1.5轨对话美方代表；特朗普称加拿大汽车钢铁关税提至50%；全球资金流入黄金ETF，一个月大增380亿元；交易所收紧IPO？求证：要求券商从源头提升申报质量；配售800亿后，蔡崇信、吴泳铭再出手增持1.2亿港元阿里股票；小米公布玄戒O3芯片架构；欧盟六国要求对石油公司征税",
-      "fetched_at": "2026-08-25T04:49:12.490835+00:00"
-    },
-    {
-      "id": "476fd142b0727dd3",
-      "title": "macOS 27 已标记弃用磁盘镜像工具 hdiutil，苹果推荐改用 diskutil",
-      "link": "https://www.ithome.com/0/993/783.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T23:19:49+00:00",
-      "summary": "IT之家 8 月 25 日消息，科技媒体 AppleInsider 昨日（8 月 24 日）发布博文，报道称在 macOS 27 Golden Gate 更新中，苹果公司已将终端命令 hdiutil 标记为弃用，预估会在未来版本中移除。IT之家注：hdiutil 是苹果 macOS 终端中的磁盘镜像工具，自早期 Mac OS X 时代起就用于处理磁盘镜像，可执行挂载、创建、调整和弹出镜像文件等操作",
-      "fetched_at": "2026-08-24T23:30:54.409956+00:00"
-    },
-    {
-      "id": "bcaf4941355d455f",
-      "title": "消息称三星联合康宁研发自修复玻璃，Galaxy S27 Ultra 手机有望搭载",
-      "link": "https://www.ithome.com/0/993/782.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T23:17:42+00:00",
-      "summary": "IT之家 8 月 25 日消息，三星 Galaxy S27 Ultra 可能会拥有一项颇为有趣的新特性，而且如果传闻属实，这项功能或许能给用户带来实实在在的好处。有消息称，三星即将推出的 Ultra 旗舰手机将采用一种具备自修复能力的玻璃，可以自行修复轻微划痕。IT之家注意到，上周末，行业观察人士 Schrödinger 在 X 上表示，康宁与三星正在联合研发一种“全新的自修复表面涂层”，计划用于",
-      "fetched_at": "2026-08-24T23:30:54.409996+00:00"
-    },
-    {
-      "id": "c5d1996f1ec24830",
-      "title": "研究团队调查发现超七成英语生物医学论文已使用 AI 辅助写作，呼吁业界建立完善监管机制",
-      "link": "https://www.ithome.com/0/993/781.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T23:14:40+00:00",
-      "summary": "IT之家 8 月 25 日消息，据外媒 phys 报道，近期 Lena Holzwarth 带头的研究团队分析了来自 PubMed Central 平台的 119 万余篇英文生物医学论文，发现生成式 AI 正迅速融入学术论文写作。研究人员通过分析论文中的“AI 高频用词”（例“delves”“exacerbating”和“invaluable”等）并建立数学模型估算论文中的 AI 使用比例，其中 ",
-      "fetched_at": "2026-08-24T23:30:54.410034+00:00"
-    },
-    {
-      "id": "8184d573e63634b8",
-      "title": "通用汽车与加拿大 Unifor 工会达成临时协议，涉及 4600 余名员工",
-      "link": "https://www.ithome.com/0/993/780.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T23:10:45+00:00",
-      "summary": "IT之家 8 月 25 日消息，尽管加拿大和美国目前深陷贸易战，但通用汽车已经与加拿大 Unifor 工会达成了一项临时协议。这项协议于周末公布，距离双方于 8 月 10 日开始谈判还不到两周时间。协议的具体内容将于下周末向工会成员公布，不过，这项临时协议已经获得 Unifor 通用汽车总谈判委员会的一致支持。Unifor 全国主席 Lana Payne 表示，这份合同将在“我们历史上一些最具挑战",
-      "fetched_at": "2026-08-24T23:30:54.410076+00:00"
-    },
-    {
-      "id": "296d685b815fa548",
-      "title": "部分用户反馈 Spotify 音乐 App 在 Android Auto 上出现 Bug，提示“应用未响应”",
-      "link": "https://www.ithome.com/0/993/779.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T23:06:25+00:00",
-      "summary": "IT之家 8 月 25 日消息，据外媒 AndroidAuthority 报道，近期有部分用户发现 Spotify 音乐 App 在 Android Auto 上无法使用。当他们通过 Android Auto 打开 Spotify 时，系统会弹出“Spotify 未响应”的提示，只能选择退出应用。综合 Reddit 平台，预计相应问题是 Spotify 本身的原因，不过也有部分用户表示可以通过退出",
-      "fetched_at": "2026-08-24T23:30:54.410100+00:00"
-    },
-    {
-      "id": "26a9ff6dda6e6556",
-      "title": "苹果 AI 服务器内部结构首曝：M5 系列芯片、2U 机架，Mac Studio 负责软件控制",
-      "link": "https://www.ithome.com/0/993/778.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T23:04:53+00:00",
-      "summary": "IT之家 8 月 25 日消息，消息源 @hsuchingpo 昨日（8 月 24 日）在 X 平台发布推文，分享了 4 张图片，展示了苹果自研 Apple Silicon AI 服务器内部布局，采用定制 2U 机架，内部设有 4 列硬件，每列包含 8 个计算单元，整机或搭载 32 颗处理器。消息源在配图说明中称：“苹果 M5 服务器”，在网友询问这是否为苹果 Private Cloud Comp",
-      "fetched_at": "2026-08-24T23:30:54.410139+00:00"
-    },
-    {
-      "id": "5b785af462b3ef32",
-      "title": "美国阿拉巴马州向 OpenAI 发出传票，就其模型入侵 Hugging Face 事件展开调查",
-      "link": "https://www.ithome.com/0/993/777.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T23:04:52+00:00",
-      "summary": "IT之家 8 月 25 日消息，美国阿拉巴马州总检察长当地时间周一宣布，已向 OpenAI 发出传票，就该公司在 Hugging Face 事件中涉嫌存在“完全缺乏监管和充分安全保障”的问题展开调查。此次调查发生在数周前。当时 OpenAI 承认，该公司一款尚未发布、且没有设置安全护栏的网络安全模型逃离了隔离环境，连接到互联网，并入侵了 AI 数据集平台 Hugging Face。路透社此前报道称",
-      "fetched_at": "2026-08-24T23:30:54.410180+00:00"
-    },
-    {
-      "id": "42dfaa4614616091",
-      "title": "法国与沙特合作，计划在巴黎附近建设 60 亿欧元《龙珠 Z》主题公园",
-      "link": "https://www.ithome.com/0/993/776.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T23:00:35+00:00",
-      "summary": "IT之家 8 月 25 日消息，法国和沙特阿拉伯似乎一致认为，世界需要一座《龙珠 Z》主题公园。因此，双方计划在巴黎附近建设这样一座大型主题公园，项目投资高达 60 亿欧元（IT之家注：现汇率约合 471.15 亿元人民币）。法国总统府爱丽舍宫于 8 月 23 日、沙特王储穆罕默德 · 本 · 萨勒曼访问巴黎期间公布了这一消息。据报道，这一想法最早源于沙特王储去年访问巴黎。当时，他与法国总统埃马纽",
-      "fetched_at": "2026-08-24T23:30:54.410228+00:00"
-    },
-    {
-      "id": "23f617a4872d885d",
-      "title": "代码显示谷歌正在为 Google Play 商店应用开发 AI 图片搜索功能",
-      "link": "https://www.ithome.com/0/993/775.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T22:56:42+00:00",
-      "summary": "IT之家 8 月 25 日消息，外媒 Android Authority 在挖掘谷歌 Google Play 商店应用 v52.8.55-34 版本时发现，谷歌正在为应用内置的 AI 搜索功能 Ask Play 开发图片搜索功能。目前，Android Authority 已成功在应用中启用了部分相关功能，用户可以直接上传图片，或者使用相机拍摄照片以搜索应用。例如，用户可能在网上看到一张非常漂亮的手",
-      "fetched_at": "2026-08-24T23:30:54.410257+00:00"
-    },
-    {
-      "id": "8893f38d75f6cb0e",
-      "title": "索尼 PS5 全新广告重提游戏独占，消息称第一方大作不会登陆 PC",
-      "link": "https://www.ithome.com/0/993/774.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T22:55:23+00:00",
-      "summary": "IT之家 8 月 25 日消息，索尼最新发布的一则 PlayStation 5 广告，再次启用了自本世代主机推出以来已经很少出现的“独占”宣传措辞。此前有报道称，索尼已经决定停止将旗下大型单人游戏移植到 PC。索尼全新的“Only on PS5”广告目前已开始在社交媒体平台投放，其中展示了多款旗下近期及即将推出的重要游戏。值得注意的是，视频中多次出现“PlayStation 5 独占”的表述。广告",
-      "fetched_at": "2026-08-24T23:30:54.410301+00:00"
-    },
-    {
-      "id": "2dba24eea8eea3bb",
-      "title": "苹果 iOS 27 版 Safari 浏览器前瞻：AI 自动整理标签页、定制创建扩展等",
-      "link": "https://www.ithome.com/0/993/773.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T22:51:00+00:00",
-      "summary": "IT之家 8 月 25 日消息，科技媒体 MacRumors 昨日（8 月 24 日）发布博文，汇总梳理了 iOS 27 版苹果 Safari 浏览器的诸多新功能 / 新特性，包括利用 Apple Intelligence（苹果智能）自动整理标签页、按需求创建自定义扩展、监测网站变化等。一、整合 Apple Intelligence 技能iOS 27 版 Safari 浏览器引入多项 Apple ",
-      "fetched_at": "2026-08-24T23:30:54.410357+00:00"
-    },
-    {
-      "id": "cd861f27280284c8",
-      "title": "谷歌为 Pixel 11 系列手机测试 Gemini 驱动的“设备帮助”工具，可对话式排查手机故障",
-      "link": "https://www.ithome.com/0/993/772.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T22:49:18+00:00",
-      "summary": "IT之家 8 月 25 日消息，谷歌目前正在为 Pixel 11 系列测试一项由 Gemini 驱动的“设备帮助”（Device help）功能。用户可以直接与 Gemini 对话，咨询手机使用过程中遇到的各种问题，并获得故障排查和操作指导。“设备帮助”位于 Gemini 的“加号”菜单中，在列表底部，“个人智能”（Personal Intelligence）选项的上方。不过，目前这项功能似乎仍处",
-      "fetched_at": "2026-08-24T23:30:54.410385+00:00"
-    },
-    {
-      "id": "a4c5e858f1df0bb6",
-      "title": "GrapheneOS 官宣将于明年支持联想旗下摩托罗拉手机，优先适配传统直板旗舰机型",
-      "link": "https://www.ithome.com/0/993/771.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T22:48:28+00:00",
-      "summary": "IT之家 8 月 25 日消息，GrapheneOS 基金会宣布旗下“注重隐私的开源移动操作系统”GrapheneOS 将于明年支持联想旗下摩托罗拉智能手机，开发团队初期将优先支持摩托罗拉传统直板旗舰机型，随后再扩展至折叠屏设备。与普通安卓系统相比，GrapheneOS 更强调硬件级安全机制。系统会移除内置追踪功能，并将 Google Play 服务限制在隔离的应用沙箱中，同时加入系统级隐私保护功",
-      "fetched_at": "2026-08-24T23:30:54.410408+00:00"
-    },
-    {
-      "id": "cc7fec9f59c1710d",
-      "title": "宏碁暗影骑士 · 龙 8 Pro 游戏本首销：9955HX3D + RTX5070 Ti，22999 元",
-      "link": "https://www.ithome.com/0/993/770.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T22:42:38+00:00",
-      "summary": "IT之家 8 月 25 日消息，宏碁 (Acer) 旗下上架暗影骑士 · 龙 8 Pro 游戏笔记本电脑将于今天 10 点开启首销，当前上架配置提供 32GB DDR5 SO-DIMM 内存和 1TB SSD 存储，标价 22999 元（可在此基础上享受国家补贴）。京东宏碁暗影骑士 · 龙 8 Pro 游戏本 22999 元直达链接暗影骑士 · 龙 8 Pro 也就是全球市场的 Nitro 16 ",
-      "fetched_at": "2026-08-24T23:30:54.410455+00:00"
-    },
-    {
-      "id": "eb5a955c1790537d",
-      "title": "Epic 反对苹果申请封存诉讼材料：外部购买佣金核心数据应当公开",
-      "link": "https://www.ithome.com/0/993/769.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T22:41:58+00:00",
-      "summary": "IT之家 8 月 25 日消息，Epic 表示，苹果提出了过于宽泛的封存请求，试图对其认为与确定公司可向开发者收取“关联外购”费用至关重要的信息进行保密。Epic 称苹果试图“向公众隐瞒信息”几天前，苹果提交了其提案，概述了其认为应被允许就通过外部链接在 App Store 之外完成的购买收取多少佣金。苹果的提案要求：标准应用收取 15%，此类应用需缴纳 30% 的应用内购买（“IAP”）佣金；视",
-      "fetched_at": "2026-08-24T23:30:54.410494+00:00"
-    },
-    {
-      "id": "dba9201b1a8639b5",
-      "title": "铭凡 M2 Pro 迷你主机海外上市：搭酷睿 Ultra X7 358H、板载 32GB RAM，1439 美元",
-      "link": "https://www.ithome.com/0/993/768.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T22:40:50+00:00",
-      "summary": "IT之家 8 月 25 日消息，MINISFORUM 铭凡旗下英特尔酷睿 Ultra 处理器（第三代）\"Panther Lake\" 的迷你主机产品 M2 Pro 现已在海外上市，目前该机仅提供英特尔酷睿 Ultra X7 358H 一种配置可选，匹配 32GB RAM + 1TB SSD，在美国市场首发价 1,439 美元（IT之家注：现汇率约合 9,683 元人民币），在欧洲市场首发价为 1,5",
-      "fetched_at": "2026-08-24T23:30:54.410525+00:00"
-    },
-    {
-      "id": "3bf5b1d3f3785510",
-      "title": "苹果为库克举办卸任聚会，约 200 人出席",
-      "link": "https://www.ithome.com/0/993/767.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T22:37:56+00:00",
-      "summary": "IT之家 8 月 25 日消息，科技媒体 MacRumors 昨日（8 月 24 日）发布博文，报道称苹果公司于 8 月 23 日在 Apple Park 园区内，为苹果现任首席执行官蒂姆 · 库克（Tim Cook）举办卸任聚会，约 200 人出席，OneRepublic 乐队现场表演。报道称苹果公司于当地时间 8 月 23 日在 Apple Park 的 Caffé Macs 餐厅，为库克举办",
-      "fetched_at": "2026-08-24T23:30:54.410576+00:00"
-    },
-    {
-      "id": "86f4fce070c5bc37",
-      "title": "小米“米家智能宠物饮水机 2 除菌版”首销：3L 储水容量、99% 除菌率，199 元",
-      "link": "https://www.ithome.com/0/993/766.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T22:35:41+00:00",
-      "summary": "IT之家 8 月 25 日消息，小米“米家智能宠物饮水机 2 除菌版”将于今天 10 点开启首销，该产品主打 99% 除菌率，定价为 199 元。京东小米米家无线智能宠物饮水机 2 除菌版 199 元直达链接该产品产品尺寸为 190x230x180mm，机身配有透明视窗以便于直观观察水量。顶部的倾斜饮水盘能适当减轻宠物饮水时的颈部负担。主机与饮水盘采用一体衔接与大圆角设计，快拆结构让日常拆装更轻松",
-      "fetched_at": "2026-08-24T23:30:54.410610+00:00"
-    },
-    {
-      "id": "1109a2b87f0c9a68",
-      "title": "代码显示苹果 HomeHub 智能家居中枢设备支持识别用户面容，以便实现自动切换不同账号",
-      "link": "https://www.ithome.com/0/993/765.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T22:31:25+00:00",
-      "summary": "IT之家 8 月 25 日消息，据在 macOS Tahoe 26.7 更新中发现的代码，苹果正在开发的智能家居中枢设备 HomeHub 将支持多用户配置文件，能够通过识别用户面容来自动切换不同账号。从代码信息来看，这款家居中枢能够针对不同家庭成员显示“个人内容（Personal Content）”，用户也可以通过设备的控制中心或“设置”App 手动选择自己的配置文件。由于该设备预计运行类似 tv",
-      "fetched_at": "2026-08-24T23:30:54.410638+00:00"
-    },
-    {
-      "id": "79669a7ebc7c01fb",
-      "title": "苹果听取用户反馈，放弃 iCloud+“隐藏邮件地址”域名变更计划",
-      "link": "https://www.ithome.com/0/993/764.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-24T22:27:52+00:00",
-      "summary": "IT之家 8 月 25 日消息，苹果宣布，将放弃变更 iCloud+“隐藏邮件地址”（Hide My Email）域名，相关网站将继续使用 icloud.com 域名。IT之家注意到，苹果这一决定距离最初公布调整方案仅约两个月。在今年 6 月时，苹果曾宣布将为“通过 Apple 登录”（Sign in with Apple）和“隐藏邮件地址”启用统一的新邮箱域名 private.icloud.co",
-      "fetched_at": "2026-08-24T23:30:54.410678+00:00"
     }
   ]
 }
