@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T19:45:35.646260+00:00",
+  "generated_at": "2026-09-03T22:30:16.585782+00:00",
   "count": 915,
   "sources": [
     {
@@ -35,6 +35,17 @@
   ],
   "items": [
     {
+      "id": "f1758036cc27806c",
+      "title": "OpenAI GPT-6 Astra 发布，首次达到“关键”级网络安全能力门槛",
+      "link": "https://www.ithome.com/0/998/208.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-03T22:28:07+00:00",
+      "summary": "IT之家 9 月 4 日消息，当地时间 9 月 3 日，OpenAI 宣布推出新一代 GPT-6 Astra 模型，这是该公司迄今为止最强大、最广泛部署的大语言模型。据介绍，Astra 是 OpenAI 旗下首个达到其“准备框架”（Preparedness Framework）中“关键”（Critical）网络安全能力门槛的模型。据 OpenAI 介绍，Astra 在网络安全能力上实现了显著跃升。",
+      "fetched_at": "2026-09-03T22:30:09.452778+00:00"
+    },
+    {
       "id": "5cb294013c3e3e62",
       "title": "Six Years, Three Cities, One IPO: SHEIN Finally Lands in Hong Kong",
       "link": "https://www.tmtpost.com/8128080.html",
@@ -43,7 +54,7 @@
       "category": "finance",
       "published_at": "2026-09-03T16:04:04+00:00",
       "summary": "From Guangzhou.",
-      "fetched_at": "2026-09-03T19:45:31.445092+00:00"
+      "fetched_at": "2026-09-03T22:30:11.973093+00:00"
     },
     {
       "id": "321e02ad81bd9a2e",
@@ -54,7 +65,7 @@
       "category": "tech",
       "published_at": "2026-09-03T16:00:06+00:00",
       "summary": "IT之家 9 月 4 日消息，英伟达今天宣布，全新 RTX Spark Windows PC 将于 10 月上市，为 AI 发烧友、开发者提供更多创作方式。据介绍，英伟达合作伙伴已在 IFA 2026 大会上展示相关硬件。全新发布的产品设计将与现有 6 家 OEM 厂商的产品一同于 10 月出货。例如宏碁本次展示了 RTX Spark 高能效桌面主机的概念设计，联想则发布了 Yoga Pro 9n",
-      "fetched_at": "2026-09-03T19:45:28.793383+00:00"
+      "fetched_at": "2026-09-03T22:30:09.452835+00:00"
     },
     {
       "id": "05b7555954788327",
@@ -10087,17 +10098,6 @@
       "published_at": "2026-08-27T23:43:29+00:00",
       "summary": "老式游戏工业的余晖#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "fetched_at": "2026-08-28T05:19:02.368459+00:00"
-    },
-    {
-      "id": "82ec680dc68339bb",
-      "title": "昔日“彩电一哥”康佳宣布主动申请退市，2026 上半年归母净亏损 1.73 亿元",
-      "link": "https://www.ithome.com/0/995/332.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-27T19:57:15+00:00",
-      "summary": "IT之家 8 月 28 日消息，昔日“彩电一哥”康佳 8 月 27 日晚发布公告，以股东会决议方式主动终止公司股票上市。康佳公告称，鉴于康佳集团股份有限公司（以下简称“公司”或“康佳集团”）2025 年度经审计期末净资产为负值，公司股票已被实施退市风险警示，依据《深圳证券交易所股票上市规则》（以下简称《深交所股票上市规则》）相关条款规定，若公司 2026 年度经审计期末净资产持续为负值，公司股票将",
-      "fetched_at": "2026-08-27T20:20:26.791383+00:00"
     }
   ]
 }
