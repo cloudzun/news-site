@@ -1,7 +1,29 @@
 {
   "date": "2026-09-03",
-  "count": 915,
+  "count": 916,
   "items": [
+    {
+      "id": "5cb294013c3e3e62",
+      "title": "Six Years, Three Cities, One IPO: SHEIN Finally Lands in Hong Kong",
+      "link": "https://www.tmtpost.com/8128080.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-03T16:04:04+00:00",
+      "summary": "From Guangzhou.",
+      "fetched_at": "2026-09-03T16:20:42.450718+00:00"
+    },
+    {
+      "id": "321e02ad81bd9a2e",
+      "title": "英伟达 RTX Spark 紧凑型 Win PC 主机下月上市，含宏碁、联想等 6 家 OEM 厂商产品",
+      "link": "https://www.ithome.com/0/998/202.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-03T16:00:06+00:00",
+      "summary": "IT之家 9 月 4 日消息，英伟达今天宣布，全新 RTX Spark Windows PC 将于 10 月上市，为 AI 发烧友、开发者提供更多创作方式。据介绍，英伟达合作伙伴已在 IFA 2026 大会上展示相关硬件。全新发布的产品设计将与现有 6 家 OEM 厂商的产品一同于 10 月出货。例如宏碁本次展示了 RTX Spark 高能效桌面主机的概念设计，联想则发布了 Yoga Pro 9n",
+      "fetched_at": "2026-09-03T16:20:39.897399+00:00"
+    },
     {
       "id": "05b7555954788327",
       "title": "特斯拉 FSD 高级驾驶辅助系统在法国上路测试",
@@ -10055,17 +10077,6 @@
       "published_at": "2026-08-27T19:33:20+00:00",
       "summary": "IT之家 8 月 28 日消息，Rockstar Games 于北京时间今日（8 月 28 日）凌晨 3 点在 Netflix 平台独家首播了《GTA6》全新加长版实机预告《GTA 6：分量十足的一瞥》，以下为该预告片的公开宣传短片：根据 Rockstar Games 官方的说法，该预告片将于美国东部时间 8 月 27 日晚上 9 点（IT之家注：北京时间 8 月 28 日上午 9 点）在 Roc",
       "fetched_at": "2026-08-27T20:20:26.791416+00:00"
-    },
-    {
-      "id": "82007d256df5b072",
-      "title": "豆瓣 IMDb 双榜第一：影史经典《肖申克的救赎》4K 修复版首次登陆中国内地院线，IMAX 版本系全球首度呈现",
-      "link": "https://www.ithome.com/0/995/326.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-27T16:00:12+00:00",
-      "summary": "IT之家 8 月 28 日消息，影史经典《肖申克的救赎》4K 修复版今日正式登陆中国内地院线。这是该片自 1994 年上映以来，首次在中国内地大银幕公映。此次公映由华纳兄弟电影发行，提供 2D、CINITY LED 及 IMAX 等多种制式。IT之家注意到，IMAX 版本系全球首度呈现。《肖申克的救赎》由弗兰克 · 德拉邦特执导并编剧，蒂姆 · 罗宾斯与摩根 · 弗里曼联袂主演。该片在 1995 ",
-      "fetched_at": "2026-08-27T20:20:26.791448+00:00"
     }
   ]
 }
