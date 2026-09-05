@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T13:50:09.757154+00:00",
-  "count": 1057,
+  "generated_at": "2026-09-05T16:46:10.833305+00:00",
+  "count": 1051,
   "sources": [
     {
       "id": "36kr",
@@ -34,6 +34,17 @@
     }
   ],
   "items": [
+    {
+      "id": "185013a2dcfe5f61",
+      "title": "再造百万销量机器人，科沃斯把爆款做成了“流水线”",
+      "link": "https://www.tmtpost.com/8129844.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-05T16:06:26+00:00",
+      "summary": "这不是实验室里的概念演示，而是科沃斯窗宝面向欧洲市场的实景秀场。",
+      "fetched_at": "2026-09-05T16:46:06.106661+00:00"
+    },
     {
       "id": "1dbea4528cf3b53b",
       "title": "HTC 黄昭颖：手机发展至今很难再找到新的创新突破，眼下资源转向 AI 眼镜",
@@ -11583,83 +11594,6 @@
       "published_at": "2026-08-29T22:44:37+00:00",
       "summary": "IT之家 8 月 30 日消息，科技媒体 9to5Mac 昨日（8 月 29 日）报道，苹果计划最早 2027 年推出其首款 AI 智能眼镜，预估会在 2027 年全球开发者大会（WWDC27）上面向开发者公布，并在当年晚些时候出货。发布节奏方面，该媒体梳理现有爆料信息，认为苹果公司可能会在明年 6 月召开的 WWDC27 期间，面向开发者推出其首款 AI 智能眼镜，邀请开发者提前适配相关软件与服",
       "fetched_at": "2026-08-30T00:11:40.457582+00:00"
-    },
-    {
-      "id": "68c47ee1436a9452",
-      "title": "绿联推出新款二合一折叠无线充：支持 25W Qi2.2，59 美元",
-      "link": "https://www.ithome.com/0/996/048.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-29T14:44:55+00:00",
-      "summary": "IT之家 8 月 29 日消息，绿联现已在美国市场推出全新二合一折叠无线充电器，该产品设计类似苹果已经停产的 MagSafe Duo，可同时为 iPhone 和 AirPods 充电。据介绍，这款产品支持 25W Qi2.2 无线充电，带有磁吸，兼容 iPhone 等设备，官方建议搭配 45W 以上的电源适配器使用。第二个充电板的最高输出功率仅有 5W，可为 AirPods 或 AirPods P",
-      "fetched_at": "2026-08-29T15:01:01.101080+00:00"
-    },
-    {
-      "id": "12017cdc9ea7e5dc",
-      "title": "近 400 万观众观看各类主播直播《GTA 6》实机演示，创今年游戏直播最高纪录",
-      "link": "https://www.ithome.com/0/996/047.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-29T14:44:19+00:00",
-      "summary": "IT之家 8 月 29 日消息，据外媒 Eurogamer 今天（29 日）报道，围绕《GTA 6》首次实机展示“分量十足的一瞥”进行的“主播反应”直播，在各大直播平台的峰值观看人数合计达到 3970738 人，创下 2026 年至今游戏直播的最高纪录。Streams Charts 最新数据显示，共有 9038 名主播直播观看或解说了 R 星在 Netflix 公布的《GTA 6》内容，累计观看时",
-      "fetched_at": "2026-08-29T15:01:01.101154+00:00"
-    },
-    {
-      "id": "7ee14215086cd14d",
-      "title": "R 星确认《GTA6》新增压制火力机制，可避免击杀警察与无辜平民",
-      "link": "https://www.ithome.com/0/996/046.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-29T14:29:44+00:00",
-      "summary": "IT之家 8 月 29 日消息，日媒 Fami 通昨日发布博文，报道称 Rockstar North 工作室近日发布《GTA6》加长实机预告片，开发负责人罗伯 · 尼尔森（Rob Nelson）也在近期回答了玩家关心的游戏机制、细节玩法问题。罗伯表示，玩家在游戏中除了偷车，还可以靠抢劫商店来赚钱。当你靠近商店准备举枪闯入时，旁边好心的路人可能会报警。这时候如果你已经完成洗劫并准备推门离开，警察可能",
-      "fetched_at": "2026-08-29T15:01:01.101193+00:00"
-    },
-    {
-      "id": "3e6688865688691c",
-      "title": "英伟达 RTX 5090 显卡供电接口熔毁怎么避免？超频团队直接将电源线焊在 PCB 上",
-      "link": "https://www.ithome.com/0/996/045.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-29T14:12:54+00:00",
-      "summary": "IT之家 8 月 29 日消息，巴西超频团队 TecLab 昨日发布视频，展示了一种绕过 RTX 5090 供电接口的改装方案 —— 直接将电源线焊到显卡 PCB 原 16pin 接口的供电线路上，从而抛弃这一接口。如此一来，没有了 16pin 供电接口，就从根本上解决了 16pin 供电接口熔毁的问题。TecLab 此次测试使用的是影驰名人堂 GeForce RTX 5090 D HOF OC ",
-      "fetched_at": "2026-08-29T15:01:01.101243+00:00"
-    },
-    {
-      "id": "ff65abcc81962f99",
-      "title": "国家数据局：截至 7 月底，我国智算总规模达到 245 万 PFLOPS",
-      "link": "https://www.ithome.com/0/996/044.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-29T14:08:47+00:00",
-      "summary": "IT之家 8 月 29 日消息，据新华社报道，8 月 29 日，国家数据局相关负责人在 2026 中国国际大数据产业博览会主题交流活动上表示，截至 2026 年 7 月底，全国智算总规模达 245 万 PFLOPS（FP16），八大国家算力枢纽和三个算电协同发展区已建成智算规模占全国比重超 85%，已有 145 万 PFLOPS 智能算力纳入国家级监测调度平台监测范围，算力资源集约化利用、一体化调",
-      "fetched_at": "2026-08-29T15:01:01.101274+00:00"
-    },
-    {
-      "id": "9c65bf97ae89fe77",
-      "title": "一用户宏碁游戏本因 14900HX 过热送修后，免费升级至 U9 275HX + RTX 5070 Ti 最新款",
-      "link": "https://www.ithome.com/0/996/043.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-29T13:56:51+00:00",
-      "summary": "IT之家 8 月 29 日消息，据 Wccftech 今日报道，一名宏碁掠夺者战斧 16（Predator Helios 16）游戏本用户因 i9-14900HX 处理器异常过热而送修后，意外获得了一次升级最新机型的机会。Reddit 用户“Admirable_Job8155”今日发帖称，其原笔记本搭载英特尔酷睿 i9-14900HX、RTX 4080 和 32GB DDR5-5400 内存，新机",
-      "fetched_at": "2026-08-29T15:01:01.101318+00:00"
-    },
-    {
-      "id": "76cba5aa0254b15c",
-      "title": "微软 Win11 原生 WinUI 框架现已开源",
-      "link": "https://www.ithome.com/0/996/042.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-29T13:50:29+00:00",
-      "summary": "IT之家 8 月 29 日消息，据科技媒体 neowin 今天报道，微软现已完成 WinUI 开源工作，该项目的主线开发工作已在 GitHub 平台公开进行。作为参考，WinUI 是 Windows 11 操作系统使用的原生 UI 框架。IT之家了解到，微软于一年多以前宣布开源 WinUI。如今微软宣布，WinUI 的主线开发已经正式转移至 GitHub，开发者可在项目下创建分支或 PR，并进行代",
-      "fetched_at": "2026-08-29T15:01:01.101345+00:00"
     }
   ]
 }
