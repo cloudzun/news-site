@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T16:24:43.414394+00:00",
-  "count": 1071,
+  "generated_at": "2026-09-07T20:30:42.527574+00:00",
+  "count": 1061,
   "sources": [
     {
       "id": "36kr",
@@ -11704,116 +11704,6 @@
       "published_at": "2026-08-31T21:01:34+00:00",
       "summary": "IT之家 9 月 1 日消息，微软昨天（8 月 31 日）发布博文，邀请 Beta 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的最新预览版更新。版本号方面，适用于 26H1 的 Beta 版本号为 Build 28020.2818；适用于 26H1 的 Experimental 版本号为 Build 28120.2824。在更新内容方面，此次更新的最大亮点",
       "fetched_at": "2026-08-31T23:46:10.539700+00:00"
-    },
-    {
-      "id": "ff3a6f2092de6858",
-      "title": "华为、小米、荣耀手机今日集体调价",
-      "link": "https://www.ithome.com/0/996/694.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-31T17:54:32+00:00",
-      "summary": "IT之家 9 月 1 日消息，据博主 @旺仔百事通 消息，华为 Mate 80 系列和华为畅享 90 Pro Max 今日（9 月 1 日）进行调价。华为 Mate 80：12GB+256GB 调价前 4,699 元，调价后 5,499 元12GB+512GB 调价前 5,199 元，调价后 5,999 元16GB+512GB 调价前 5,499 元，调价后 6,299 元16GB+1TB 调价前",
-      "fetched_at": "2026-08-31T23:46:10.539822+00:00"
-    },
-    {
-      "id": "2f81bb6275472271",
-      "title": "苹果 watchOS 27.0 开发者预览版 Beta 8 发布",
-      "link": "https://www.ithome.com/0/996/693.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-31T17:30:07+00:00",
-      "summary": "【点此直达升级教程】IT之家 9 月 1 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 8 更新（内部版本号：24R5360a），本次更新距离上次发布 Beta / RC 间隔 7 天。开发者可通过 iPhone 上的 Watch App，使用免费开发者账户下载更新。安装时手表需连接充电器、接入 Wi-Fi，且电量保持在 50% 以上。w",
-      "fetched_at": "2026-08-31T23:46:10.539988+00:00"
-    },
-    {
-      "id": "a72d958250f7d89a",
-      "title": "苹果 visionOS 27.0 开发者预览版 Beta 8 发布",
-      "link": "https://www.ithome.com/0/996/692.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-31T17:30:07+00:00",
-      "summary": "IT之家 9 月 1 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 开发者预览版 Beta 8 更新（内部版本号：24M5361a），本次更新距离上次发布 Beta / RC 间隔 7 天。开发者可在 Vision Pro 上打开“设置”应用，进入“软件更新”并开启“Beta 更新”即可安装。需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升",
-      "fetched_at": "2026-08-31T23:46:10.539929+00:00"
-    },
-    {
-      "id": "31b2af684dadb348",
-      "title": "苹果 macOS 27.0 开发者预览版 Beta 8 发布",
-      "link": "https://www.ithome.com/0/996/691.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-31T17:30:07+00:00",
-      "summary": "IT之家 9 月 1 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 8 更新（内部版本号：26A5425a），本次更新距离上次发布 Beta / RC 间隔 7 天。开发者可在系统设置 &gt; 通用 &gt; 软件更新中下载，需开启 Beta 更新并登录免费开发者账户。macOS Golden Gate（IT之家注：命名源自美国旧金山的金门大桥）带来多",
-      "fetched_at": "2026-08-31T23:46:10.539884+00:00"
-    },
-    {
-      "id": "390282ffe9e64619",
-      "title": "开发迈入尾声，苹果发布 iOS / iPadOS 27 开发者预览版 Beta 8",
-      "link": "https://www.ithome.com/0/996/690.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-31T17:30:06+00:00",
-      "summary": "【点此直达升级教程】IT之家 9 月 1 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.0 开发者预览版 Beta 8 更新（内部版本号：24A5430a），本次更新距离上次发布 Beta / RC 间隔 7 天。 更新节奏方面，Beta 8 版本后缀为 a，包括 9to5Mac 在内的多家海外媒体认为距离苹果发布 iOS 27 RC 候选版本已经不远",
-      "fetched_at": "2026-08-31T23:46:10.540047+00:00"
-    },
-    {
-      "id": "61c63835ccbef446",
-      "title": "菲尔 · 席勒卸任苹果 App Store 及产品发布会负责人职务",
-      "link": "https://www.ithome.com/0/996/689.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-31T17:23:32+00:00",
-      "summary": "IT之家 9 月 1 日消息，据彭博社今日报道，Phil Schiller（菲尔 · 席勒）将辞去领导 App Store 和苹果发布会的职务。公开资料显示，菲尔 · 席勒（Phil Schiller）于 1960 年 6 月 8 日出生，毕业于波士顿学院并获得生物学学士学位，现任苹果院士（Apple Fellow）。菲尔 · 席勒于 1987 年加入苹果公司，1997 年随史蒂夫 · 乔布斯回归",
-      "fetched_at": "2026-08-31T23:46:10.540083+00:00"
-    },
-    {
-      "id": "e8fb3d52d2e2967e",
-      "title": "Steam PvE 生存建造节开启：《幻兽帕鲁》七折 75.6 元、《雾锁王国》新史低，持续至 9 月 8 日",
-      "link": "https://www.ithome.com/0/996/688.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-31T17:20:27+00:00",
-      "summary": "IT之家 9 月 1 日消息，Steam 现已开启 PvE 生存建造节特卖活动，本次活动将持续至北京时间约为 9 月 8 日凌晨 1 点，活动期间大量 PvE 生存建造类游戏将提供折扣优惠，点数商店也推出了新头像、边框、贴纸。本次特卖涵盖各类别生存建造题材游戏，测试玩家在不同恶劣环境下的求生能力，包括海上漂流、深海探险、太空生存、荒岛求生等不同主题作品均参与折扣。在此次活动中，《幻兽帕鲁》七折平史",
-      "fetched_at": "2026-08-31T23:46:10.539642+00:00"
-    },
-    {
-      "id": "4f05c06fe58e6ea3",
-      "title": "2026 年 8 月全球桌面浏览器排行：Chrome 73.28%、Edge 10.46%、Firefox 5.31%",
-      "link": "https://www.ithome.com/0/996/687.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-31T17:13:33+00:00",
-      "summary": "IT之家 9 月 1 日消息，根据市场调查机构 Statcounter 公布的最新报告，2026 年 8 月全球桌面浏览器市场中，Chrome 依然稳居第一，占比 73.28%；Edge 以 10.46% 的份额占据第二，Firefox 以 5.31% 位居第三。全球桌面浏览器Chrome 占比 73.28%，环比上升 2.61 个百分点Edge 占比 10.46%，环比下降 0.68 个百分点F",
-      "fetched_at": "2026-08-31T23:46:10.540158+00:00"
-    },
-    {
-      "id": "e119d89da8344f09",
-      "title": "2026 年 8 月中国桌面 Windows 份额：Win11 占比 49.16%，环比下降 0.85 个百分点",
-      "link": "https://www.ithome.com/0/996/686.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-31T17:10:46+00:00",
-      "summary": "IT之家 9 月 1 日消息，根据市场调查机构 Statcounter 公布的 2026 年 8 月 Windows 版本分布数据，中国桌面 Windows 系统中，Win11 以 49.16% 的份额位居第一，Win10 以 44.67% 的份额占据第二，Win7 以 4.36% 的份额位居第三。中国桌面平台Win11 占比 49.16%，环比下降 0.85 个百分点Win10 占比 44.67",
-      "fetched_at": "2026-08-31T23:46:10.540197+00:00"
-    },
-    {
-      "id": "32a8562f991461c7",
-      "title": "2026 年 8 月全球桌面 Windows 份额：Win11 占比 68.60%，环比下降 0.28 个百分点",
-      "link": "https://www.ithome.com/0/996/685.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-31T17:08:29+00:00",
-      "summary": "IT之家 9 月 1 日消息，根据市场调查机构 Statcounter 公布的 2026 年 8 月 Windows 版本分布数据，Win11 依然占据第一位置，Win10 紧随其后，Win7 排名第三。全球桌面市场Win11 占比 68.6%，环比下降 0.28 个百分点Win10 占比 30.14%，环比上升 0.26 个百分点Win7 占比 0.96%，环比下降 0.05 个百分点WinXP",
-      "fetched_at": "2026-08-31T23:46:10.540233+00:00"
     }
   ]
 }
