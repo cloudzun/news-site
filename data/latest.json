@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T04:26:36.993660+00:00",
-  "count": 1089,
+  "generated_at": "2026-09-07T10:10:35.909156+00:00",
+  "count": 1116,
   "sources": [
     {
       "id": "36kr",
@@ -34,6 +34,622 @@
     }
   ],
   "items": [
+    {
+      "id": "21aa34c84f04f8cf",
+      "title": "腾讯 WorkBuddy 华为鸿蒙手表端上线，支持多端状态实时同步",
+      "link": "https://www.ithome.com/0/999/407.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T10:03:27+00:00",
+      "summary": "IT之家 9 月 7 日消息，腾讯 WorkBuddy 今日宣布，WorkBuddy 鸿蒙手表端正式上线。WorkBuddy 手表端目前已适配 HUAWEI WATCH 多个系列产品，包括今日发布的华为 WATCH 6 系列。WorkBuddy 鸿蒙手表端支持多端状态实时同步，待办任务、突发灵感和 AI 对话记录可在手表、手机、平板、电脑与云端之间自动同步。官方表示，电脑端生成的总结报告或思维导图",
+      "fetched_at": "2026-09-07T10:10:27.926990+00:00"
+    },
+    {
+      "id": "9dcb504330ec0341",
+      "title": "Stellantis 推出翻新高压动力电池，性能和质保与原厂件保持一致",
+      "link": "https://www.ithome.com/0/999/406.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T10:01:23+00:00",
+      "summary": "IT之家 9 月 7 日消息，Stellantis 的循环经济业务部门 SUSTAINera 致力于通过“4R”战略，即再制造（Remanufacturing）、维修（Repair）、再利用（Reuse）和回收（Recycle），开发能够延长产品使用寿命、减少浪费、节约资源并降低二氧化碳排放的解决方案。其中一项重要业务，就是拆解和翻新汽车零部件，使其能够作为备件重新用于其他车辆。如今，SUSTAI",
+      "fetched_at": "2026-09-07T10:10:27.927022+00:00"
+    },
+    {
+      "id": "47d679f8e66f8223",
+      "title": "AIGC标识一周年：当李飞飞把真假边界抹平，只有信用分层追得上",
+      "link": "https://www.tmtpost.com/8130806.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-07T09:57:56+00:00",
+      "summary": "市场把AIGC标识一周年读成合规成本账，误读了制度底色。当Atlas把生成精度推到肉眼难辨，惩罚治理已触顶。本文以历史同构与信号理论证明：标识不是惩罚烙印，而是信用存单——C2PA溯源市场正从20.6亿向51.2亿美元扩容，信用分层才是下一阶红利。",
+      "fetched_at": "2026-09-07T10:10:31.251897+00:00"
+    },
+    {
+      "id": "96f3b6ea5f825541",
+      "title": "442款创新医疗器械产品，有多少销售额能过亿？",
+      "link": "https://www.tmtpost.com/8130919.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-07T09:57:39+00:00",
+      "summary": "商业化为何受阻，三类典型“卡点”。",
+      "fetched_at": "2026-09-07T10:10:31.251914+00:00"
+    },
+    {
+      "id": "03083459b4ce63d6",
+      "title": "中科院上海光机所在多维复用光计算领域取得进展",
+      "link": "https://www.ithome.com/0/999/400.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T09:54:21+00:00",
+      "summary": "IT之家 9 月 7 日消息，据中科院上海光机所消息，中国科学院上海光学精密机械研究所空天激光技术与系统部谢鹏研究员团队近期在多维复用光计算领域取得进展。相关成果发表于 Laser&amp;PhotonicsReviews。据IT之家了解，研究团队在“流星一号”超高并行光计算集成芯片研究基础上，进一步拓展波分复用、空分复用的融合和多任务矩阵网络共享，构建多维复用的光计算架构，实现多任务、多模态信息",
+      "fetched_at": "2026-09-07T10:10:27.927048+00:00"
+    },
+    {
+      "id": "10d698bfba8697fa",
+      "title": "奥迪 A2 E-Tron 纯电小车官图公布，预计今年秋季发布",
+      "link": "https://www.ithome.com/0/999/396.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T09:53:19+00:00",
+      "summary": "IT之家 9 月 7 日消息，奥迪 A2 E-Tron 纯电小车官图今日公布，奥迪预计将于今年秋季正式发布 2026 款 A2，并在 2027 年年初上市发售。从图上可以看到，这款新车采用了圆润造型设计，搭配清新的荧光绿配色，与奥迪常规配色形成鲜明对比，年轻化是这款新车的卖点之一。内饰方面，该车采用了家族式设计语言，例如曲面双联屏，整体设计较为简洁。IT之家注意到，A2 E-Tron 的技术规格仍",
+      "fetched_at": "2026-09-07T10:10:27.927081+00:00"
+    },
+    {
+      "id": "bc68a264591ca167",
+      "title": "机器人触觉的爆发前夜：五大技术路线、数据困局与模型之争",
+      "link": "https://www.tmtpost.com/8131169.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-07T09:52:15+00:00",
+      "summary": "让机器人学习“人类的第一语言”。",
+      "fetched_at": "2026-09-07T10:10:31.251924+00:00"
+    },
+    {
+      "id": "180599fd868f8060",
+      "title": "A股有常山，却无赵子龙",
+      "link": "https://www.tmtpost.com/8131205.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-07T09:51:51+00:00",
+      "summary": "没有一个能打的",
+      "fetched_at": "2026-09-07T10:10:31.251932+00:00"
+    },
+    {
+      "id": "1149a1f06654fabd",
+      "title": "四份文件锁死产能，谁在为高煤价买单？",
+      "link": "https://www.tmtpost.com/8131200.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-07T09:51:45+00:00",
+      "summary": "煤价涨了800，焦炭跟了350，钢厂亏了七成。整个产业链的利润，卡在了煤矿。",
+      "fetched_at": "2026-09-07T10:10:31.251939+00:00"
+    },
+    {
+      "id": "fafa8f5dfaa5a51a",
+      "title": "工信部：对应付账款规模大、故意拉长账期或投诉较多的汽车企业，联合相关部门开展约谈并督促整改",
+      "link": "https://www.ithome.com/0/999/395.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T09:49:28+00:00",
+      "summary": "IT之家 9 月 7 日消息，近日，工业和信息化部、市场监管总局联合印发《关于推动汽车企业规范供应商账款支付优化账期管理的通知》（工信厅联通装函〔2026〕424 号）（以下简称《通知》）。工业和信息化部相关负责人就《通知》有关内容回答了记者提问。IT之家附具体问答内容如下：问题 1：《通知》出台的背景是什么？答：党中央、国务院高度重视规范汽车产业竞争秩序工作。习近平总书记多次作出重要指示批示，国",
+      "fetched_at": "2026-09-07T10:10:27.927196+00:00"
+    },
+    {
+      "id": "42ed9793f6aec6ad",
+      "title": "长鑫科技黄丹阳：展望 2026 年下半年，全球 DRAM 产品供给紧缺格局将继续延续",
+      "link": "https://www.ithome.com/0/999/393.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T09:46:42+00:00",
+      "summary": "IT之家 9 月 7 日消息，长鑫科技今日下午举行了 2026 年半年度业绩说明会，2026 年上半年，公司实现营业收入 1,503.10 亿元，同比增长 873.64%；归属于上市公司股东的净利润 776.05 亿元。有投资者询问长鑫科技第三季度 DRAM 价格情况，公司高级副总裁、财务负责人黄丹阳认为，展望 2026 年下半年，全球 DRAM 产品供给紧缺格局将延续。展望 2026 年下半年，",
+      "fetched_at": "2026-09-07T10:10:27.927234+00:00"
+    },
+    {
+      "id": "c625f8c8d1beb22f",
+      "title": "华为 Mate XT 2 非凡大师三折叠手机屏幕参数公布，普通版内屏支持 1-90Hz LTPO 自适应刷新率",
+      "link": "https://www.ithome.com/0/999/391.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T09:40:51+00:00",
+      "summary": "IT之家 9 月 7 日消息，在今天的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了 Mate XT 2 非凡大师全新展翼三折叠手机。目前这款新机已上架官网，公布了完整配置参数。IT之家注意到，华为官网显示，华为 Mate XT 2 非凡大师主要分为普通版和灵盾防窥屏版，两个版本在屏幕参",
+      "fetched_at": "2026-09-07T10:10:27.927335+00:00"
+    },
+    {
+      "id": "949deb5daf2376d4",
+      "title": "长鑫科技总经理赵纶回应与苹果合作传闻：保持开放态度，已具备与国际主流厂商竞争能力",
+      "link": "https://www.ithome.com/0/999/388.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T09:40:14+00:00",
+      "summary": "IT之家 9 月 7 日消息，长鑫科技今日下午举行了 2026 年半年度业绩说明会，2026 年上半年，公司实现营业收入 1,503.10 亿元，同比增长 873.64%；归属于上市公司股东的净利润 776.05 亿元。有投资者提问长鑫科技与苹果公司的合作进展，长鑫科技总经理赵纶表示，公司始终以开放的态度与全球范围内的优质客户探讨合作机会。公司产品在性能、质量和供应稳定性方面已具备与国际主流厂商竞",
+      "fetched_at": "2026-09-07T10:10:27.927373+00:00"
+    },
+    {
+      "id": "9a7d6e23a5be7ffe",
+      "title": "两部门联合出台汽车行业首个国家级账期管理规范文件：要求每年 7 月底、1 月底前报送支付情况报告",
+      "link": "https://www.ithome.com/0/999/384.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T09:39:09+00:00",
+      "summary": "IT之家 9 月 7 日消息，今天，工业和信息化部、市场监管总局联合发布了《关于推动汽车企业规范供应商账款支付优化账期管理的通知》，这是国家层面出台的首个面向行业领域的账期管理文件。IT之家注意到，《通知》针对汽车企业供应商账款支付问题，提出五个方面的要求。一是进一步规范账期起算时间。明确账期自供应商交付货物、工程、服务并验收合格之日起计算。考虑连续性供货实际，为避免增加供应商、汽车企业负担，对月",
+      "fetched_at": "2026-09-07T10:10:27.927410+00:00"
+    },
+    {
+      "id": "52bcaca9d8a33382",
+      "title": "模型负责上天，三个“野心家”负责把AI落地",
+      "link": "https://www.tmtpost.com/8130980.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-07T09:36:20+00:00",
+      "summary": "黄仁勋、马斯克、孙正义，抢着做AI的“脏活”。",
+      "fetched_at": "2026-09-07T10:10:31.251946+00:00"
+    },
+    {
+      "id": "49d4828e00f617c4",
+      "title": "DeepSeek千兆瓦雄心，遭遇电力现实",
+      "link": "https://www.tmtpost.com/8131016.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-07T09:36:14+00:00",
+      "summary": "算力在抢电，还没有想好怎么接。",
+      "fetched_at": "2026-09-07T10:10:31.251953+00:00"
+    },
+    {
+      "id": "a4082a9999cffb9a",
+      "title": "长鑫科技：公司与阿里云、字节跳动、腾讯、联想、小米、传音、荣耀、OPPO、vivo 等行业核心客户均已开展深度合作",
+      "link": "https://www.ithome.com/0/999/376.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T09:33:50+00:00",
+      "summary": "IT之家 9 月 7 日消息，长鑫科技今日下午举行了 2026 年半年度业绩说明会，2026 年上半年，公司实现营业收入 1,503.10 亿元，同比增长 873.64%；归属于上市公司股东的净利润 776.05 亿元。长鑫科技副总裁、董事会秘书袁园表示，长鑫科技是我国规模最大、技术最先进、布局最全的 DRAM 研发设计制造一体化企业。自 2016 年成立以来，公司始终专注于 DRAM 产品的研发",
+      "fetched_at": "2026-09-07T10:10:27.927431+00:00"
+    },
+    {
+      "id": "5380af7b9670e506",
+      "title": "最赚钱的5家上市械企，一家靠投资，一家卖手套",
+      "link": "https://www.tmtpost.com/8130921.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-07T09:28:44+00:00",
+      "summary": "24%上市公司营收净利双降，中小企业如何生存？",
+      "fetched_at": "2026-09-07T10:10:31.251961+00:00"
+    },
+    {
+      "id": "a498d52474e423e2",
+      "title": "三款新火箭都还没入轨，欧洲为什么先签下5.4亿欧元合同？",
+      "link": "https://www.tmtpost.com/8130803.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-07T09:28:38+00:00",
+      "summary": "火箭还没成功，欧洲为什么就敢先下单？",
+      "fetched_at": "2026-09-07T10:10:31.251968+00:00"
+    },
+    {
+      "id": "9a9c634ce32e3cec",
+      "title": "不做人形做“马”，消费机器人盯上富人户外市场？",
+      "link": "https://www.tmtpost.com/8130976.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-07T09:28:30+00:00",
+      "summary": "价格战永远没有终点，价值战才是破局的起点。",
+      "fetched_at": "2026-09-07T10:10:31.251975+00:00"
+    },
+    {
+      "id": "7e0bbb92f3e7e61d",
+      "title": "腾讯混元：Hy4 preview 模型升级，显著降低任务轮次及输入输出 Token 消耗",
+      "link": "https://www.ithome.com/0/999/369.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T09:26:57+00:00",
+      "summary": "IT之家 9 月 7 日消息，腾讯混元与 WorkBuddy 联合团队今日宣布，针对 Hy4 preview 模型“复杂任务下的长思考、过度自我验证”等问题，进行了专项优化并全量上线。通过 Bench 指标与人工评测双重监控，在不损失任务效果的前提下，优化版本显著降低了任务轮次及输入输出 token 消耗。据IT之家此前报道，腾讯于 8 月 28 日发布了 Hy4 preview 模型，总参数 7",
+      "fetched_at": "2026-09-07T10:10:27.927458+00:00"
+    },
+    {
+      "id": "fcf3d8383e4dd7e9",
+      "title": "余承东：全新展翼三折叠手机 Mate XT 2 非凡大师是华为折叠技术集大成之作",
+      "link": "https://www.ithome.com/0/999/368.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T09:26:14+00:00",
+      "summary": "IT之家 9 月 7 日消息，HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会已经落幕。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚在自己的微博发文，回顾了全新展翼三折叠手机 —— MateXT 2 非凡大师。余承东表示，全新展翼三折叠华为 Mate XT 2 非凡大师，是华为折叠技术集大成之作！左右展翼开合，更强大、更可靠，还能物理防窥。同时",
+      "fetched_at": "2026-09-07T10:10:27.927487+00:00"
+    },
+    {
+      "id": "aa99d413150bede9",
+      "title": "售价 4499 元起，全新一代华为 MatePad Air / 悦享款平板电脑发布",
+      "link": "https://www.ithome.com/0/999/366.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T09:24:13+00:00",
+      "summary": "IT之家 9 月 7 日消息，在今日的鸿蒙操作系统 7 | 华为 Mate XT 2 新品发布会上，全新一代华为 MatePad Air 平板电脑发布，定位年轻用户的潮流伙伴。新品在轻薄设计、屏幕显示、AI 创作、性能续航及配件生态等方面实现全面升级，并同步推出“悦享款”及多款个性化配件，售价 4499 元起。新一代 MatePad Air 延续 Air 系列的轻薄基因，机身轻至 509g、薄至 ",
+      "fetched_at": "2026-09-07T10:10:27.927548+00:00"
+    },
+    {
+      "id": "ec9724e473d92c17",
+      "title": "B站联合会员大促：赠 WPS 超级会员年卡 158 元、赠网易云音乐黑胶年卡 168 元",
+      "link": "https://www.ithome.com/0/999/365.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T09:17:21+00:00",
+      "summary": "哔哩哔哩大会员联合会员大促优惠，可选百度网盘超级会员季卡、WPS 超级会员年卡、网易云音乐黑胶会员年卡、优酷 VIP 会员季卡等。活动时间：9 月 4 日 - 8 日。京东哔哩哔哩大会员 年卡 + 百度网盘 SVIP 季卡 148 元直达链接京东哔哩哔哩大会员 年卡 +WPS 超级会员 年卡 158 元直达链接京东哔哩哔哩大会员 年卡 + 网易云音乐 年卡 168 元直达链接京东哔哩哔哩超级大会员",
+      "fetched_at": "2026-09-07T10:10:27.927575+00:00"
+    },
+    {
+      "id": "6c5809968b2e45ac",
+      "title": "华为 FreeBuds 7 半入耳主动降噪悦彰耳机发布：平均降噪深度提升至 230%，售价 999 元",
+      "link": "https://www.ithome.com/0/999/364.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T09:16:08+00:00",
+      "summary": "IT之家 9 月 7 日消息，华为 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会正在进行中，华为 FreeBuds 7 悦彰耳机正式发布，售价 999 元。华为 FreeBuds 7 悦彰耳机搭载自研第三代音频 AI 芯片，通用算力提升 100%，每秒噪声采集 40 万次，噪声处理时延 8μs；平均降噪深度提升至 230%，降噪频宽提升至 275%，支持 100",
+      "fetched_at": "2026-09-07T10:10:27.927603+00:00"
+    },
+    {
+      "id": "ec596425328ad12f",
+      "title": "华为Mate XT2 首发上手：三折叠展开翅膀，从奇观走进日常",
+      "link": "https://www.ifanr.com/1678708?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source_id": "ifanr",
+      "source_name": "爱范儿",
+      "category": "tech",
+      "published_at": "2026-09-07T09:13:59+00:00",
+      "summary": "脱离概念机的襁褓，与所有折叠屏全面竞争#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "fetched_at": "2026-09-07T10:10:26.182132+00:00"
+    },
+    {
+      "id": "5d3d837c1bca7e33",
+      "title": "鸿蒙智行智界 R7 焕新款全新车色「钛空银」官图发布，采用流光环抱式座舱设计",
+      "link": "https://www.ithome.com/0/999/363.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T09:13:55+00:00",
+      "summary": "IT之家 9 月 7 日消息，鸿蒙智行智界汽车今日发布了智界 R7 焕新款全新车色「钛空银」官图。官图显示，智界 R7 焕新款采用流光环抱式座舱设计，配备全新 D 型运动方向盘，并换用双联屏方案。同时车机系统也升级了全新一代问界 M9 同款的鸿蒙智行专属 HarmonyOS。智界 R7 焕新款重新调整了尾门设计，并在 B 柱位置新增了侧向高位摄像头，外观更运动。同时，新车还换用了半隐藏式门把手，车",
+      "fetched_at": "2026-09-07T10:10:27.927623+00:00"
+    },
+    {
+      "id": "f80db260bb382f5c",
+      "title": "超越AI，医疗板块成对冲基金最大持仓",
+      "link": "https://www.tmtpost.com/8130922.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-07T09:07:38+00:00",
+      "summary": "大型企业业绩兑现，巨头接连冲击市值新高。",
+      "fetched_at": "2026-09-07T10:10:31.251982+00:00"
+    },
+    {
+      "id": "c6cc78452d0fa42e",
+      "title": "WALLHACK 发布小岛工作室联名款 SP-005 玻璃鼠标垫",
+      "link": "https://www.ithome.com/0/999/360.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T09:06:07+00:00",
+      "summary": "IT之家 9 月 7 日消息，玻璃鼠标垫制造商 WALLHACK（沃哈克）本月 5 日宣布与小岛工作室 (KOJIMA PRODUCTIONS) 联名，推出两款 KJP 特别版 SP-005 鼠标垫产品。此次的两款特别产品分别以小岛工作室吉祥物 Ludens 与徽标为主题，展现了这家游戏开发商标志性的视觉身份。SP-005 鼠标垫采用微蚀刻钢化玻璃和凹面格栅图案硅胶，边缘经 CNC 处理，总厚度 ",
+      "fetched_at": "2026-09-07T10:10:27.927643+00:00"
+    },
+    {
+      "id": "34477bf7d014537d",
+      "title": "股价暴跌95%、两位CEO下台，这家5000亿巨头在10年后“活过来”了",
+      "link": "https://www.tmtpost.com/8130862.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-07T09:05:19+00:00",
+      "summary": "“安全”是唯一的主线。",
+      "fetched_at": "2026-09-07T10:10:31.251989+00:00"
+    },
+    {
+      "id": "f7e9af0d49cc7151",
+      "title": "折叠赛道写满“标准答案”，但迟到的苹果却不想抄作业",
+      "link": "https://www.tmtpost.com/8130888.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-07T09:05:15+00:00",
+      "summary": "折叠形态开始为智能交互让路。",
+      "fetched_at": "2026-09-07T10:10:31.251996+00:00"
+    },
+    {
+      "id": "411ca21352ed9673",
+      "title": "方便食品大会：2026Q2方便食品市场趋势洞察",
+      "link": "https://www.tmtpost.com/8130865.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-07T09:05:10+00:00",
+      "summary": "第二十六届方便食品大会在京召开，马上赢市场调查首席运营官刘巍巍受邀进行主题分享。",
+      "fetched_at": "2026-09-07T10:10:31.252003+00:00"
+    },
+    {
+      "id": "4ca1787055131158",
+      "title": "生成速度跑赢播放速度，AI内容为何死磕“实时”门槛？",
+      "link": "https://www.tmtpost.com/8130944.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-07T09:05:06+00:00",
+      "summary": "从永不停播的直播间，到几乎零延迟的互动剧情游戏，我们可能正在见证AI视频从生成工具向实时交互媒介的关键性跃迁。",
+      "fetched_at": "2026-09-07T10:10:31.252010+00:00"
+    },
+    {
+      "id": "07e668634b1cc5de",
+      "title": "国补后 5499 元起 + 12 期免息：华为 Pura X View 阔直板手机预售开启",
+      "link": "https://www.ithome.com/0/999/358.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T09:02:20+00:00",
+      "summary": "华为 Pura X View 阔直板手机今日正式上市，官方定价 5999 元起。京东自营预售支持 500 元国补，实付 5499 元起 + 12 期免息：京东 HUAWEI Pura X View 阔直屏手机国补后 5499 元起直达链接目前仅限 12GB+256GB 支持国补，其他版本暂不支持。以旧换新至高立省 1680 元，学生会员可再省 100 元。京东 HUAWEI Pura X View",
+      "fetched_at": "2026-09-07T10:10:27.927665+00:00"
+    },
+    {
+      "id": "ecfb1ea5266eb9df",
+      "title": "华为 WATCH Ultimate 2 非凡探索智能手表雪域白、迪桑特联名款发布，6999 元",
+      "link": "https://www.ithome.com/0/999/357.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T09:00:33+00:00",
+      "summary": "IT之家 9 月 7 日消息，华为 WATCH Ultimate 2 非凡探索智能手表今日发布了雪域白新配色，采用冰雪主题表盘，售价 6,999 元。华为 WATCH Ultimate 2 非凡探索智能手表首发滑雪登山模式，支持提前导入路线、实时血氧测量、北斗卫星消息。华为 WATCH Ultimate 2 非凡探索智能手表还推出了迪桑特联名款，支持两款联名表盘，同样售价 6,999 元。IT之家",
+      "fetched_at": "2026-09-07T10:10:27.927685+00:00"
+    },
+    {
+      "id": "504d6e2e2b46f5a3",
+      "title": "比亚迪全新腾势 Z9GT 将于 9 月 9 日加推新款车型，补充易三方纯电产品序列",
+      "link": "https://www.ithome.com/0/999/355.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T08:56:34+00:00",
+      "summary": "IT之家 9 月 7 日消息，比亚迪腾势汽车总经理李慧今日宣布，全新腾势 Z9GT 上市以来，已连续数月斩获豪华 GT 销量冠军。他表示，了解到不少用户的心声：想要纯电易三方的极致驾控，兼顾豪华与性能，并且希望拥有更轻量化的配置选择。9 月 9 日，全新腾势 Z9GT 将加推新款型，补充易三方纯电产品序列，届时还将有更多购车福利。据IT之家此前报道，3 月 5 日，全新腾势 Z9GT 正式发布，官",
+      "fetched_at": "2026-09-07T10:10:27.927716+00:00"
+    },
+    {
+      "id": "248aeb287f300f24",
+      "title": "2799 元起，华为 WATCH 6 系列鸿蒙 AI 手表发布",
+      "link": "https://www.ithome.com/0/999/354.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T08:55:12+00:00",
+      "summary": "IT之家 9 月 7 日消息，华为 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会正在进行中，华为 WATCH 6 系列鸿蒙 AI 手表正式发布，售价 2799 元起。今日 17:08 开启预售，9 月 23 日 10:08 正式开售。华为 WATCH 642mm 版：2799 元起（国补价 2379.15 元起）46mm 版：2899 元起（国补价 2464.1",
+      "fetched_at": "2026-09-07T10:10:27.927756+00:00"
+    },
+    {
+      "id": "34fdfdae4ed29226",
+      "title": "GPT-6发布，硬件跌停、应用涨停：一次被过度解读的叙事切换？",
+      "link": "https://www.tmtpost.com/8130901.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-07T08:54:58+00:00",
+      "summary": "GPT-6 、Astra、OpenAI、AI硬件、AI应用、浪潮信息、算力。",
+      "fetched_at": "2026-09-07T10:10:31.252018+00:00"
+    },
+    {
+      "id": "235c8e02153f2820",
+      "title": "截至 2026 年 6 月，华为穿戴设备全球累计出货量位居第一",
+      "link": "https://www.ithome.com/0/999/353.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T08:45:33+00:00",
+      "summary": "IT之家 9 月 7 日消息，HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会正在进行中。华为终端 BG CEO 何刚宣布，截至 2026 年 6 月，华为穿戴设备全球累计出货量位居第一。IT之家注意到，Omdia 数据显示，2026 年第二季度，华为以 18% 的市场份额领跑整体可穿戴腕带设备市场，较 2025 年第二季度的 17% 上升了一个百分点。",
+      "fetched_at": "2026-09-07T10:10:27.927772+00:00"
+    },
+    {
+      "id": "9af9ea64607b439a",
+      "title": "华为余承东：鸿蒙 HarmonyOS 6 | HarmonyOS 7 终端数突破 8500 万",
+      "link": "https://www.ithome.com/0/999/352.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T08:41:48+00:00",
+      "summary": "IT之家 9 月 7 日消息，在今天的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布，鸿蒙 HarmonyOS 6 | HarmonyOS 7 终端数突破 8500 万！IT之家从发布会现场了解到，此次突破为新系统的快速铺开奠定了坚实基础。三年以来，鸿蒙终端设备数持续增长，预计将在今年第四季度",
+      "fetched_at": "2026-09-07T10:10:27.927789+00:00"
+    },
+    {
+      "id": "d393707e8bf83982",
+      "title": "Kaleidescape 发布 Compact Terra Prime 246TB SSD 电影存储服务器",
+      "link": "https://www.ithome.com/0/999/351.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T08:41:22+00:00",
+      "summary": "IT之家 9 月 7 日消息，高清电影数字资源企业 Kaleidescape 当地时间本月 1 日宣布推出 Compact Terra Prime 246TB SSD 电影（存储）服务器。这一型号创下了该企业同类产品的容量纪录。Compact Terra Prime 246TB SSD 搭载两块 122.88TB 固态硬盘，足以存放 4000 部高码率 4K 电影，三台服务器即可装下 Kaleid",
+      "fetched_at": "2026-09-07T10:10:27.927819+00:00"
+    },
+    {
+      "id": "0ec8c17a06057f7a",
+      "title": "新中国首条通江达海大运河，平陆运河 9 月 16 日建成通航",
+      "link": "https://www.ithome.com/0/999/350.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T08:37:53+00:00",
+      "summary": "IT之家 9 月 7 日消息，据央视新闻报道，记者今天（9 月 7 日）从广西壮族自治区人民政府新闻办公室举行的新闻发布会上获悉，平陆运河将于 9 月 16 日建成通航。IT之家查询获悉，平陆运河全长 134.2 公里，是西部陆海新通道骨干工程，也是新中国成立以来我国第一条国家层面统筹的通江达海的运河工程，北起广西横州市平塘江口，经灵山县陆屋镇、沿钦江进入北部湾。它的建成，为西南地区开辟了一条运距",
+      "fetched_at": "2026-09-07T10:10:27.927846+00:00"
+    },
+    {
+      "id": "059b6d0322528c6d",
+      "title": "中汽协：2026 年 7 月我国汽车整车出口 109.2 万辆，同比增长 57.5%",
+      "link": "https://www.ithome.com/0/999/349.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T08:37:11+00:00",
+      "summary": "IT之家 9 月 7 日消息，据中国汽车工业协会整理的海关总署数据显示，2026 年 7 月，汽车整车出口 109.2 万辆，环比增长 2.2%，同比增长 57.5%，出口金额达 189.8 亿美元（IT之家注：现汇率约合 1,275.34 亿元人民币），环比增长 4.1%，同比增长 60.4%。IT之家注意到，2026 年 1-7 月，汽车整车出口 639.9 万辆，同比增长 53.7%；出口金",
+      "fetched_at": "2026-09-07T10:10:27.927869+00:00"
+    },
+    {
+      "id": "bf1d47cc64b680f6",
+      "title": "5999 元起华为 Pura X View 阔直板手机正式上市：16:9.5 比例面板、麒麟 9030S 处理器",
+      "link": "https://www.ithome.com/0/999/348.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T08:36:56+00:00",
+      "summary": "IT之家 9 月 7 日消息，在今天的华为鸿蒙 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会中，华为 Pura X View 阔直板手机正式上市，该机将于 9 月 9 日 10:08 开启首销，官方同步提供了购机五重礼权益和至高 944 元高校学生专属权益。IT之家整理价格如下：12GB RAM+256GB 存储空间：5999 元12GB RAM+512GB 存",
+      "fetched_at": "2026-09-07T10:10:27.927904+00:00"
+    },
+    {
+      "id": "2ee01cf12b9d3961",
+      "title": "华为 Pura X View 阔直板手机官宣搭载麒麟 9030S 处理器，软硬芯云垂直整合整机性能提升 28%",
+      "link": "https://www.ithome.com/0/999/347.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T08:35:07+00:00",
+      "summary": "IT之家 9 月 7 日消息，HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会正在进行中。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布，华为 Pura X View 阔直板手机搭载麒麟 9030S 处理器。据介绍，华为 Pura X View 通过软硬芯云垂直整合整机性能提升 28%。同时，桌面操作流畅度提升 41%、任务加载速度提升 29%、",
+      "fetched_at": "2026-09-07T10:10:27.927923+00:00"
+    },
+    {
+      "id": "6a4da2ebbec6ea62",
+      "title": "AI 大模型周榜：国产多模型扎堆入榜前端开发榜，阿里 wan3.0 冲进视频榜前三",
+      "link": "https://www.ithome.com/0/999/324.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T08:34:07+00:00",
+      "summary": "IT之家 9 月 7 日消息，Arena（arena.ai）平台本周发布 2026 年第 36 周（8 月 31 日 ~9 月 6 日）AI 大模型盲测排名，本期迎来多个重量级新模型入榜，其中多款国产模型在细分榜单实现亮眼突破。前端开发榜中，阿里 qwen3.8-max-0902 首次入榜即位列第 4，阿里 qwen3.8-flash-next、腾讯 hy4-preview、智谱 glm-5.3-",
+      "fetched_at": "2026-09-07T10:10:27.928306+00:00"
+    },
+    {
+      "id": "e371ad62ebeeffe7",
+      "title": "GPT-6 发布后，OpenAI 又自曝「外星思维」，AGI 真的来了？",
+      "link": "https://www.ifanr.com/1678637?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source_id": "ifanr",
+      "source_name": "爱范儿",
+      "category": "tech",
+      "published_at": "2026-09-07T07:54:48+00:00",
+      "summary": "未来刚才来，它从何而来#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "fetched_at": "2026-09-07T10:10:26.182157+00:00"
+    },
+    {
+      "id": "56f453a4fcdb7e3d",
+      "title": "小米 18 Fold 中折叠手机首发赠 998 元 1 年双屏无忧保，9.9 元预约锁定 569 元耳机",
+      "link": "https://www.ithome.com/0/999/302.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-07T07:30:24+00:00",
+      "summary": "小米 18 Fold 中折叠手机现已在京东开启首发预约福袋，9.9 元即可锁定 569 元耳机好礼：京东小米 18 Fold 福袋 9.9 元锁定 569 元耳机 9.9 元直达链接下单购买 9.9 元权益包 + 于首销周（发布会当日以及后六天）购买 Xiaomi 18 Fold 新机，且 7 天内手机无退货的用户可享 569 元耳机赠礼。下单福袋后如果未购机，后续支持申请退款。首发期间购机享价值",
+      "fetched_at": "2026-09-07T10:10:27.927106+00:00"
+    },
+    {
+      "id": "473d1bfa76594001",
+      "title": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥",
+      "link": "https://sspai.com/post/113877",
+      "source_id": "sspai",
+      "source_name": "少数派",
+      "category": "tech",
+      "published_at": "2026-09-07T07:00:00+00:00",
+      "summary": "一辆远没有 F1 赛车快的车，凭什么让各路豪强乖乖排在后面，甚至左右冠军归属？查看全文",
+      "fetched_at": "2026-09-07T10:10:35.900834+00:00"
+    },
+    {
+      "id": "4fe72be2bbe20874",
+      "title": "创想三维亮相IFA 2026，SPARKX i8全球首秀、旗舰K3获两项荣誉！",
+      "link": "https://www.leiphone.com/category/industrynews/vAtQUjcohTzgRhHG.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-07T06:17:00+00:00",
+      "summary": "近日，在柏林IFA 2026现场，创想三维展位化身为极具人气的“数字造物游乐场”。排起长队的“创想奇妙抓娃娃机”前，观众转动摇杆抓取精巧的3D打印手办；展区另一侧，一套由Ender-3 V3 Mega打印的架子鼓正伴随节拍演奏。在这里，3D打印褪去冰冷的工业外壳，成为现场观众触手可及的造物狂欢。&nbsp;作为“消费级3D打印第一股”，创想三维在本届IFA展会上完成了全新多色新品SPARKX i8",
+      "fetched_at": "2026-09-07T10:10:34.408244+00:00"
+    },
+    {
+      "id": "e1eb1ddd2e933e55",
+      "title": "起步即搭载L3架构，阔五座开创者启境GX7正式预售24.99-31.19万",
+      "link": "https://www.leiphone.com/category/industrynews/DEylZOEEZ448IHK3.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-07T06:10:00+00:00",
+      "summary": "湾区钜作，阔启南沙！9月4日，坐标粤港澳大湾区广州南沙，启境汽车迎来品牌战略关键成果——旗下第二款战略车型启境GX7正式开启预售，新车共推出三大版本：增程Ultra版、增程Ultra双电机版、增程Ultra三电机版，预售期价格分别为24.99万元、26.99万元、31.19万元，将于9月内正式上市。作为广汽携手华为乾崑联合打造的行业首款阔五座智能百变SUV，启境GX7为追求高品质出行的家庭人群而来",
+      "fetched_at": "2026-09-07T10:10:34.408392+00:00"
+    },
+    {
+      "id": "a62cfc0bc6579a6f",
+      "title": "独家丨微软云亚太「一拆为二」，侯阳接掌东南亚、印度与大中华区",
+      "link": "https://www.leiphone.com/category/industrycloud/UUg7N19pHCCMjnMD.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-07T06:07:00+00:00",
+      "summary": "雷峰网独家获悉，今天早上，微软通过内部邮件宣布了一项组织调整：微软亚太区业务（主要是云业务）“一分为二”，日本、韩国、澳大利亚与新西兰市场由微软日本负责人津坂美树负责，大中华区、东盟与印度市场由微软大中华区原一把手侯阳负责。这次变动，是此前微软亚太区总裁 Rodrigo Kede Lima 调任后引发的连锁调整。今年 7 月初，微软成立了新的内部事业部 Microsoft Frontier Com",
+      "fetched_at": "2026-09-07T10:10:34.408428+00:00"
+    },
+    {
+      "id": "3ff953e42595d144",
+      "title": "AI人才3次大迁徙：百度先行、六小虎分化、腾讯「腾笼换鸟」",
+      "link": "https://www.leiphone.com/category/industrynews/IfTsnhdqbaxeTEu6.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-07T06:04:00+00:00",
+      "summary": "“大模型浪潮狂飙三年半，国内AI人才也经历了三波大迁移。”资深科技猎头赵捷告诉雷峰网。前两年，大家抢的是预训练人才，先是百度文心团队被疯抢，然后是AI六小虎人才遭遇瓜分，紧接着又是阿里、DeepSeek、字节、腾讯之间的人才大混战。而现在，大家又开始抢推理、Agent等后训练人才；最近一年不少预训练人才，如Qwen Code负责人惠彬原、混元大语言模型预训练负责人姚星丞、混元多模态理解预训练负责人",
+      "fetched_at": "2026-09-07T10:10:34.408601+00:00"
+    },
+    {
+      "id": "81a5561252331a5a",
+      "title": "在零跑的工厂里，我们找到了它能月销 10 万辆的秘密",
+      "link": "https://www.ifanr.com/1678617?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source_id": "ifanr",
+      "source_name": "爱范儿",
+      "category": "tech",
+      "published_at": "2026-09-07T06:01:45+00:00",
+      "summary": "汽车是一个轻不下来的行业。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "fetched_at": "2026-09-07T10:10:26.182169+00:00"
+    },
+    {
+      "id": "f10e7e2e0ea920c0",
+      "title": "0.4mm弯折半径、96%量产良率：伯恩光学UTG的应力重构与工艺路径",
+      "link": "https://www.leiphone.com/category/industrynews/7NDbKTW4jo1GR7dJ.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-07T05:42:00+00:00",
+      "summary": "折叠屏盖板材料正经历从CPI（透明聚酰亚胺）向UTG（超薄柔性玻璃）的确定性升级，核心驱动力是盖板在弯折寿命、折痕控制与光学性能上的综合表现。近日，伯恩光学公布其UTG最新量产技术指标：弯折半径低至0.4毫米，50万次动态弯折无折痕、无性能衰减，极限弯折最高达200万次，量产良率稳定在96%以上。CPI到UTG：确定性升级的技术逻辑UTG对CPI的替代并非简单的材料替换，而是由材料本征性能差异决定",
+      "fetched_at": "2026-09-07T10:10:34.408643+00:00"
+    },
+    {
+      "id": "bb80d0026de4f323",
+      "title": "业内首个！“千问办公”推出“多人工作台”",
+      "link": "https://www.leiphone.com/category/industrynews/bv6uP9homPcjjRHl.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-07T04:48:00+00:00",
+      "summary": "近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。用户简单描述需求，即可生成并发布一个最多支持百人同时在线协作的网页，承载复杂的业务流程。该功能适用于活动组织、家校协同和企业协作等场景，可解决SaaS软件采购成本高、定制软件开发耗时高的难题。目前，用户可从“千问办公”首页下方功能入口直接体验。&nbsp;“千问办公”产品首页目前，市面上的AI工作台主要面向个人使用，例如生成在",
+      "fetched_at": "2026-09-07T10:10:34.408681+00:00"
+    },
     {
       "id": "8997f14a1837b891",
       "title": "任天堂回应 Switch 2 游戏机大规模 Ban 机事件：系统临时故障",
@@ -178,6 +794,17 @@
       "fetched_at": "2026-09-07T04:26:29.656581+00:00"
     },
     {
+      "id": "031d8de4bafe9d35",
+      "title": "IFA新面孔：速卖通Brand+携中国品牌登场，解锁品牌出海新路径",
+      "link": "https://www.leiphone.com/category/industrynews/m9VdZr4bvHYmlA7s.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-07T03:24:00+00:00",
+      "summary": "上周末，柏林国际消费电子展IFA开幕。阿里旗下跨境电商平台速卖通Brand+携9大中国品牌亮相，加速从“卖货渠道”向“品牌出海全新主场”跃迁。这是“出海四小龙”首次参加全球顶级消费电子展。&nbsp;从人形机器人到AI眼镜，IFA展馆里的热度与速卖通交易端的数据形成呼应。数据显示，今年1-7月，速卖通AI硬件品类出海同比增长100%，正在成为AI硬件出海首选平台。截至8月，速卖通Brand+在包括",
+      "fetched_at": "2026-09-07T10:10:34.408731+00:00"
+    },
+    {
       "id": "b3a26dbeb70b253b",
       "title": "TIOBE 公布 2026 年 9 月编程语言排行榜：Julia 编程语言蚕食 MATLAB 份额，重新逼近前二十",
       "link": "https://www.ithome.com/0/999/163.htm",
@@ -187,6 +814,17 @@
       "published_at": "2026-09-07T03:22:34+00:00",
       "summary": "IT之家 9 月 7 日消息，TIOBE 编程社区指数是一个衡量编程语言受欢迎程度的指标，评判的依据来自世界范围内的工程师、课程、供应商及搜索引擎，目前 TIOBE 官网公布了 2026 年 9 月的编程语言排行榜，IT之家整理如下：Python 排行第一：占比 17.76%，同比下降 8.22%C 排行第二：占比 10.28%，同比上升 1.63%C++ 排行第三：占比 8.67%，同比下降 0",
       "fetched_at": "2026-09-07T04:26:29.656660+00:00"
+    },
+    {
+      "id": "d2a0c6522c256b2a",
+      "title": "IFA新面孔：速卖通Brand+携中国品牌登场，解锁品牌出海新路径",
+      "link": "https://www.leiphone.com/category/industrynews/PRGqE4BoCtPwrzAf.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-07T03:22:00+00:00",
+      "summary": "阿里旗下速卖通Brand+携9大中国品牌亮相欧洲最大消费电子展IFA，成为“出海四小龙”中首个参展全球顶级消费电子展的平台，加速从“卖货渠道”向“品牌出海全新主场”跃迁。截至8月，速卖通在德法波等11国的品牌渗透突破50%，AI硬件品类销售额1-7月同比增长100%。展会期间Brand+发布三大能力升级：全域营销拓展至欧洲之外的美国、韩国、巴西等新市场；AI运营工具开放选品、定价、多语种内容生成能",
+      "fetched_at": "2026-09-07T10:10:34.408744+00:00"
     },
     {
       "id": "78ca1a80f1249782",
@@ -230,7 +868,7 @@
       "category": "tech",
       "published_at": "2026-09-07T03:10:02+00:00",
       "summary": "在金属机身成为 Mac 产品线标配的今天，让我们重温这台 2001 年的 iBook G3，找回属于聚碳酸酯时代的风格。查看全文",
-      "fetched_at": "2026-09-07T04:26:36.985407+00:00"
+      "fetched_at": "2026-09-07T10:10:35.900852+00:00"
     },
     {
       "id": "2eef5884f6c10c57",
@@ -297,6 +935,17 @@
       "published_at": "2026-09-07T02:56:37+00:00",
       "summary": "IT之家 9 月 7 日消息，韩媒 ChosunBiz 当地时间今日报道称，SK 海力士的第 6 代 10nm 级 DRAM 工艺 1c nm 有望在 2027 年初超越 1b nm 成为该企业的第一大内存制程。从 2026Q1 到 2027Q1 ，SK 海力士 1c nm 在其总 DRAM 产能中的占比逐季度分别为 10%、13%、24%、34%、35%；而到 2027 年初其 1b nm 产能",
       "fetched_at": "2026-09-07T04:26:29.657003+00:00"
+    },
+    {
+      "id": "9de67d896cdb8da7",
+      "title": "王兴兴上市后首次公开演讲：机器人真正爆发要等两个「80%时刻」丨WRC 2026",
+      "link": "https://www.leiphone.com/category/robot/qtdF8IhMqe2oNmH0.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-07T02:55:00+00:00",
+      "summary": "8月19日，宇树科技正式登陆科创板。上市后的答谢午宴上，宇树科技创始人王兴兴首次提出“物理AI机器人的自进化”，希望利用基础大模型，将论文检索、代码生成、仿真训练、真机测试和评价反馈串成闭环，让机器人研发逐步从高度依赖人工转向持续自我迭代。一天后的2026世界机器人大会主论坛上，王兴兴再次谈到了这一方向。相比说明机器人跑得多快、跳得多高，他把更多时间留给了一个没那么“炫技”、却更决定具身智能产业胜",
+      "fetched_at": "2026-09-07T10:10:34.408971+00:00"
     },
     {
       "id": "90fd81a18660ea12",
@@ -461,7 +1110,7 @@
       "category": "tech",
       "published_at": "2026-09-07T01:59:00+00:00",
       "summary": "2026年的AFAC金融智能创新大赛总决赛路演于近日落下帷幕。从5027支队伍、近2万名选手中“杀出重围”的46支入围队中，最终有24支“挑战组”队伍的赛题解法脱颖而出，6支“初创组”队伍的创业项目获得了比赛奖项。比赛虽然落幕，选手们技术和商业的历程才刚刚开始。AI比赛本质上是资本和产业筛选好的人才与项目、后者又向前者寻求资源支持的“双向奔赴”。作为AI金融领域中颇具影响力的比赛，已行至第四年的A",
-      "fetched_at": "2026-09-07T04:26:35.515834+00:00"
+      "fetched_at": "2026-09-07T10:10:34.409108+00:00"
     },
     {
       "id": "d40ed7daba81378b",
@@ -483,7 +1132,7 @@
       "category": "tech",
       "published_at": "2026-09-07T01:36:00+00:00",
       "summary": "深圳，2026 年 9 月 6 日（今日消息）—— 第 27 届中国国际光电博览会（CIOE）将于下周（9 月 9-11 日）在深圳国际会展中心拉开帷幕。全球领先的光电探测器芯片企业芯思杰（PHOGRAIN）将亮相 11 号馆 11B33 展位，现场将正式发布400Gbps背照式PIN型光电探测器（PIN PD）芯片。在AI算力驱动光收发模块加速向1.6T、3.2T速率迭代的行业关口，这款兼具性能",
-      "fetched_at": "2026-09-07T04:26:35.515912+00:00"
+      "fetched_at": "2026-09-07T10:10:34.409176+00:00"
     },
     {
       "id": "c836a492d3dee5fa",
@@ -593,7 +1242,7 @@
       "category": "tech",
       "published_at": "2026-09-07T00:20:41+00:00",
       "summary": "美国 CD 销量大幅反弹，公安部上线反诈智能助手「国家反诈 AI」等。查看全文",
-      "fetched_at": "2026-09-07T04:26:36.985426+00:00"
+      "fetched_at": "2026-09-07T10:10:35.900862+00:00"
     },
     {
       "id": "aa897fc84f59aa14",
@@ -615,7 +1264,7 @@
       "category": "tech",
       "published_at": "2026-09-07T00:10:04+00:00",
       "summary": "· 曝 Anthropic 接近确定 IPO 核心承销商 · 康宁 CCO：AI 让玻璃基封装与光互连走到台前 · 《西雅图时报》和《新闻日报》起诉 OpenAI 与微软#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-09-07T04:26:28.313924+00:00"
+      "fetched_at": "2026-09-07T10:10:26.182184+00:00"
     },
     {
       "id": "592d4a10c51b84c9",
@@ -11660,358 +12309,6 @@
       "published_at": "2026-08-31T10:13:10+00:00",
       "summary": "生态发展就是逆水行舟，从1到N，对于开源鸿蒙来说，是一个长期的战役。",
       "fetched_at": "2026-08-31T13:34:31.484122+00:00"
-    },
-    {
-      "id": "98f9d764ea2e4467",
-      "title": "派评 | 近期值得关注的 App",
-      "link": "https://sspai.com/post/114041",
-      "source_id": "sspai",
-      "source_name": "少数派",
-      "category": "tech",
-      "published_at": "2026-08-31T10:05:00+00:00",
-      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
-      "fetched_at": "2026-08-31T13:34:41.200434+00:00"
-    },
-    {
-      "id": "c7b0928211f42130",
-      "title": "折叠屏 iPhone 永远不该配手写笔｜硬哲学",
-      "link": "https://www.ifanr.com/1677413?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source_id": "ifanr",
-      "source_name": "爱范儿",
-      "category": "tech",
-      "published_at": "2026-08-31T10:00:57+00:00",
-      "summary": "谁要这玩意儿？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-08-31T13:34:26.262609+00:00"
-    },
-    {
-      "id": "4b4b775e90133405",
-      "title": "【Fintech 周报】智能体支付应用自律公约发布；拉卡拉终止港股IPO",
-      "link": "https://www.tmtpost.com/8122996.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-31T09:19:19+00:00",
-      "summary": "央行副行长部署支付产业转型升级；智能体支付应用自律公约发布；多家A股上市银行抛中期“红包”方案；四年首现环比回升，上市银行息差拐点确立；公募QDII投资额度年内第二次发放；江西银行否认推出“彩礼贷”；长沙银行聘任王舒军为行长；中国人寿上半年净利润同比增长228.6%；新华保险上半年净利润同比增长54%；众安在线上半年净利润同比增长132.2%；中国太保上半年归母净利同比增长13.56%；蚂蚁消费金",
-      "fetched_at": "2026-08-31T13:34:31.484134+00:00"
-    },
-    {
-      "id": "35e9afea43a162c7",
-      "title": "500 万人围观，AI 终于造出了「无限泔水机」",
-      "link": "https://www.ifanr.com/1677378?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source_id": "ifanr",
-      "source_name": "爱范儿",
-      "category": "tech",
-      "published_at": "2026-08-31T09:14:50+00:00",
-      "summary": "内容无限，但精力有限#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-08-31T13:34:26.262619+00:00"
-    },
-    {
-      "id": "ce69a15e988f81e3",
-      "title": "8 位 AI 创业者谈世界模型：生成一切之后，还差一点常识｜WRC 2026",
-      "link": "https://www.leiphone.com/category/private/wweqIbvHRVWXnlvh.html",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "tech",
-      "published_at": "2026-08-31T09:13:00+00:00",
-      "summary": "会生成未来，不等于理解世界。&nbsp; &nbsp; 作者丨吴思梦 &nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
-      "fetched_at": "2026-08-31T13:34:40.033794+00:00"
-    },
-    {
-      "id": "d0f88867239bdcff",
-      "title": "没有全科优秀，具身模型别想进入百万小时",
-      "link": "https://www.leiphone.com/category/ai/JEamZ6VwYQhx9Dkk.html",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "tech",
-      "published_at": "2026-08-31T09:11:00+00:00",
-      "summary": "原力灵机登顶 RoboDojo：一个专门给机器人&quot;卸妆&quot;的考场。&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs",
-      "fetched_at": "2026-08-31T13:34:40.034008+00:00"
-    },
-    {
-      "id": "f1ad1b9fa90c5a55",
-      "title": "家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方",
-      "link": "https://sspai.com/prime/story/",
-      "source_id": "sspai",
-      "source_name": "少数派",
-      "category": "tech",
-      "published_at": "2026-08-31T09:09:27+00:00",
-      "summary": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）：常用固体物料推荐从这篇开始正式进入配方介绍及制作阶段，这里会有很多配料之前没提到过，会单独讲一下。尽力帮助大家在家也能做出好喝的夏日 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-      "fetched_at": "2026-08-31T13:34:41.200472+00:00"
-    },
-    {
-      "id": "eb10722d6ae463f7",
-      "title": "横扫最难赛场，复核满分，银河通用无遥操出战100%夺冠",
-      "link": "https://www.leiphone.com/category/ai/U0SX0yIhfMcEsYKm.html",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "tech",
-      "published_at": "2026-08-31T09:05:00+00:00",
-      "summary": "藏在世界人形机器人运动会上的三个底层具身难题。&nbsp; &nbsp; 作者丨齐铖湧&nbsp; &nbsp; 编辑丨董子博&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs",
-      "fetched_at": "2026-08-31T13:34:40.034168+00:00"
-    },
-    {
-      "id": "790d3e5f2223d79f",
-      "title": "从5.5个月到24个月：霸王茶姬加盟商的回本账",
-      "link": "https://www.tmtpost.com/8122875.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-31T09:00:32+00:00",
-      "summary": "加盟商愿意投几十万上百万、签下长约，赌的是一个可复制的回本故事",
-      "fetched_at": "2026-08-31T13:34:31.484141+00:00"
-    },
-    {
-      "id": "158bfa495b59a19e",
-      "title": "AGI军令状前，MiniMax 和智谱的最后一份中报",
-      "link": "https://www.tmtpost.com/8122866.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-31T09:00:30+00:00",
-      "summary": "智谱和Kimi，很快就要回答同一道题。",
-      "fetched_at": "2026-08-31T13:34:31.484148+00:00"
-    },
-    {
-      "id": "5f3dcee1c6446d3b",
-      "title": "滴滴自动驾驶新一代车型开启载客测试服务",
-      "link": "https://www.leiphone.com/category/industrynews/UYp39xioCMHJMnkx.html",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "tech",
-      "published_at": "2026-08-31T08:43:00+00:00",
-      "summary": "近期，滴滴自动驾驶新一代 Robotaxi R2正式开启无人载客测试服务，新车在自动驾驶性能和座舱体验上全面升级，用户在北京、广州部分示范区域内可呼单体验全新智能出行服务。R2作为滴滴自动驾驶与广汽埃安联合打造的Robotaxi专属车型，具备全球化适配能力。该车采用滴滴自动驾驶L4全栈软硬件方案，搭载33个传感器、三域融合计算平台等领先技术，显著提升感知精度与复杂场景应对能力。车身平台满足中欧双五",
-      "fetched_at": "2026-08-31T13:34:40.034190+00:00"
-    },
-    {
-      "id": "f5e373780a538524",
-      "title": "制糖工厂定制送礼｜拒绝千篇一律，让你的心意真正被记住",
-      "link": "https://www.ifanr.com/1677398?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source_id": "ifanr",
-      "source_name": "爱范儿",
-      "category": "tech",
-      "published_at": "2026-08-31T08:34:17+00:00",
-      "summary": "好产品就是一颗糖！制糖工厂推出「伴手礼专属定制」服务#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-08-31T13:34:26.262628+00:00"
-    },
-    {
-      "id": "b025f622b8792862",
-      "title": "比亚迪第10000座闪充站落成，闪充中国达成关键里程碑",
-      "link": "https://www.leiphone.com/category/industrynews/9VMJqlYnxIbcafy5.html",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "tech",
-      "published_at": "2026-08-31T08:24:00+00:00",
-      "summary": "2026年8月28日，“闪充中国”战略迎来关键里程碑，比亚迪第10000座闪充站暨深圳龙华闪充旗舰站正式落成，夯实出行补能根基，一举创下三项中国车企之最：国内自建充电站数量最多、建成万座充电站最快、国内充电站覆盖地域最广。闪充网络全域覆盖，让找闪充站像找加油站一样方便比亚迪闪充业务总经理王俊保表示，这10000座闪充站覆盖332个城市，有4228座是圆梦站点，实现了74281位用户的建站心愿。一二",
-      "fetched_at": "2026-08-31T13:34:40.034221+00:00"
-    },
-    {
-      "id": "85266e052ea2f8c4",
-      "title": "深度研判：mRNA肿瘤疫苗的胜负手，不在mRNA",
-      "link": "https://www.tmtpost.com/8122553.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-31T08:16:51+00:00",
-      "summary": "新王的逻辑",
-      "fetched_at": "2026-08-31T13:34:31.484163+00:00"
-    },
-    {
-      "id": "2d50f6be7b560d03",
-      "title": "股价暴跌后，眼科明星公司开启“自救”",
-      "link": "https://www.tmtpost.com/8122604.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-31T08:16:49+00:00",
-      "summary": "资本市场可以为想象力定价，但最终兑现估值的，仍然是临床结果。",
-      "fetched_at": "2026-08-31T13:34:31.484170+00:00"
-    },
-    {
-      "id": "a8aa7d707564826b",
-      "title": "独家｜字节豆包2.2推迟发布，Coding疯狂补课",
-      "link": "https://www.tmtpost.com/8122882.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-31T08:16:47+00:00",
-      "summary": "Coding疯狂补课",
-      "fetched_at": "2026-08-31T13:34:31.484177+00:00"
-    },
-    {
-      "id": "3b93d14d8a917482",
-      "title": "达芬奇全新手术机器人获批！杀入奥林巴斯腹地",
-      "link": "https://www.tmtpost.com/8122837.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-31T08:16:45+00:00",
-      "summary": "直观外科正面迎战奥林巴斯，双方在手术机器人领域将如何交锋？",
-      "fetched_at": "2026-08-31T13:34:31.484183+00:00"
-    },
-    {
-      "id": "43b150a81b3d0753",
-      "title": "「说 Harness 会被淘汰的，肯定没做过工程」，Kimi 前 CLI 负责人戳破了 AI 圈最大的误解",
-      "link": "https://www.leiphone.com/category/yanxishe/vbrr9dz3SxrE7CWe.html",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "tech",
-      "published_at": "2026-08-31T08:12:00+00:00",
-      "summary": "只有那些真正在一线写过CLI、调过 Agent Swarm 的人才会知道：模型不能解决一切。&nbsp; &nbsp; 作者丨高允毅&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
-      "fetched_at": "2026-08-31T13:34:40.034407+00:00"
-    },
-    {
-      "id": "12a3da55b30dc870",
-      "title": "海信JUOS发布！行业首个家庭智能伴侣级AIOS，家庭AI从“被动响应”走向“主动懂家”",
-      "link": "https://www.leiphone.com/category/smarthome/ZVheiCG6BlrsIMUP.html",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "tech",
-      "published_at": "2026-08-31T08:09:00+00:00",
-      "summary": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。该系统面向家庭全场景，原生适配电视、闺蜜机、投影、智能家电等多终端，搭载自研星海大模型与四大原生引擎，以“超级小聚”为系统级AI载体，完成家庭AI交互底层重构，实现从被动响应个体指令到主动服务全家需求的代际跃迁。以“一家人”为设计原点，海信JUOS完成家庭AI系统底层重构当前手机、车载OS已发展成熟，但真正以“一家人”为设计原",
-      "fetched_at": "2026-08-31T13:34:40.034455+00:00"
-    },
-    {
-      "id": "f239e978368d3d08",
-      "title": "小象超市华南首店8月28日开门迎客",
-      "link": "https://www.leiphone.com/category/smartretailing/acrCrtejlIl7Kjgg.html",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "tech",
-      "published_at": "2026-08-31T08:02:00+00:00",
-      "summary": "“我是小象超市老用户了，今天特地来逛的，进来就闻到面包香，还有很多明厨明档制作的美食。”8月28日，位于深圳领展中心城的小象超市门店正式开业，不少线上老用户赶来打卡尝鲜，“现场体验很不错，蔬菜水果新鲜都能看得见”。走进店内，小象标志性的绿色装修清新明亮，门店提供现制熟食、现制烘焙、时令蔬果、海鲜水产、休闲零食、鲜花绿植等商品，并增加叉烧包、豉油鸡等广东本地特色美食。为了更好地服务用户，门店还在便民",
-      "fetched_at": "2026-08-31T13:34:40.034490+00:00"
-    },
-    {
-      "id": "5fb84ebb75a1efef",
-      "title": "「全栈AI」第一股来了！百度双重主要上市后值多少钱？",
-      "link": "https://www.leiphone.com/category/ai/HCYpADwlsglraaSO.html",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "tech",
-      "published_at": "2026-08-31T07:51:00+00:00",
-      "summary": "2026年8月27日，百度集团在港交所发布公告，将二次上市地位自愿转换为在港交所主板的主要上市地位，并于9月1日正式生效。百度就此成为在港交所和纳斯达克双重主要上市的公司——也是两地资本市场上，首家实现“全栈AI”布局的双重主要上市公司。受此消息影响，8月27日，港股市场百度集团-SW(9888.HK)高开高走，盘中拉升大涨超6%报96.6港元，截至目前成交额放大至超7亿港元。美股市场百度夜盘涨近",
-      "fetched_at": "2026-08-31T13:34:40.034640+00:00"
-    },
-    {
-      "id": "cab6bc023f5e09b2",
-      "title": "AI 应用进入“算账”时代，筷子科技为什么要做一个 KP 钱包？",
-      "link": "https://www.leiphone.com/category/industrynews/Q60UBtf6lmPQPreT.html",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "tech",
-      "published_at": "2026-08-31T07:26:00+00:00",
-      "summary": "过去两年，大模型的能力边界不断向外扩展。文本、图片、视频、语音模型快速迭代，Agent也开始进入企业生产流程。对于企业来说，可选的AI能力越来越丰富，但实际使用时需要处理的问题也随之增加：一项任务应该调用哪个模型，如何平衡生成效果和成本，不同部门如何管理AI预算，生成后的内容资产又该如何沉淀。尤其在视频商业场景中，一条内容从创意到最终产生效果，通常会经历脚本、图片、视频生成、数字人、配音、剪辑、分",
-      "fetched_at": "2026-08-31T13:34:40.034689+00:00"
-    },
-    {
-      "id": "966c8514c7775322",
-      "title": "屏幕之外，桌面之上：走过十年，明基探索了一束光的更多可能",
-      "link": "https://sspai.com/post/114027",
-      "source_id": "sspai",
-      "source_name": "少数派",
-      "category": "tech",
-      "published_at": "2026-08-31T06:57:03+00:00",
-      "summary": "查看全文",
-      "fetched_at": "2026-08-31T13:34:41.200500+00:00"
-    },
-    {
-      "id": "9a1e0b952420af83",
-      "title": "织物座椅、砍掉氛围灯，「丐版」特斯拉 Model 3 登陆香港，定价 20.5 万港元",
-      "link": "https://www.ifanr.com/1677366?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source_id": "ifanr",
-      "source_name": "爱范儿",
-      "category": "tech",
-      "published_at": "2026-08-31T05:58:57+00:00",
-      "summary": "「毛坯房」的毛坯版本来了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-08-31T13:34:26.262636+00:00"
-    },
-    {
-      "id": "30b678f8cc874f31",
-      "title": "Cadence滕晋庆：AI有望让芯片设计时间减半，但资深工程师仍是核心竞争力",
-      "link": "https://www.leiphone.com/category/chips/ARHh6hZXIzvBZq5z.html",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "tech",
-      "published_at": "2026-08-31T05:54:00+00:00",
-      "summary": "OpenAI公布了首款自研推理芯片Jalapeño的首批实测结果引发了巨大的关注，比性能更值得关注的是，AI直接参与了这颗芯片的开发。根据OpenAI的披露，AI被用于探索不同实现方案，缩短设计、测量和验证循环，并优化芯片中的部分算术电路。Jalapeño从初始设计到tapeout只用了9个月。这并非“AI独立设计了一颗完整芯片”，Jalapeño由OpenAI与Broadcom共同开发。这个“不",
-      "fetched_at": "2026-08-31T13:34:40.034790+00:00"
-    },
-    {
-      "id": "4d3abda429bcfcce",
-      "title": "豆包推出开学季学生优惠，送大学生3个月免费订阅权益",
-      "link": "https://www.leiphone.com/category/industrynews/xzEc97io0iMHCJet.html",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "tech",
-      "published_at": "2026-08-31T05:40:00+00:00",
-      "summary": "近日，豆包推出开学季学生优惠活动，面向在校大学生提供3个月免费订阅权益，并同步上线开学季技能专区，辅助学生高效学习，更好地完成新学期的各类学习任务。据了解，豆包此次开学季活动涵盖多项学生优惠。在校大学生完成学生认证后，即可免费领取3个月豆包订阅；参与官方活动，还能领取额度重置机会等更多权益。具体权益领取上，在最新版的豆包电脑版找到“开学免费送 3 个月”入口，打开活动页按提示完成学生身份认证，通过",
-      "fetched_at": "2026-08-31T13:34:40.034806+00:00"
-    },
-    {
-      "id": "56f8878f86dd1e39",
-      "title": "小米推出新款米家 LED 智能灯泡蓝牙 Mesh 版：500lm 亮度、可调节亮度色温，29.9 元",
-      "link": "https://www.ithome.com/0/996/420.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-31T05:19:01+00:00",
-      "summary": "IT之家 8 月 31 日消息，小米现已在京东上架新款米家 LED 灯泡蓝牙 Mesh 版，该产品升级节能灯珠，提供 500lm 亮度、支持自由调整亮度色温，定价为 29.9 元。京东米家 LED 智能灯泡蓝牙 Mesh 版 29.9 元直达链接该产品采用简约设计，使用标准 E27 灯头，发光面使用高折射率 PC 材料，支持亮度和色温自由调节，用户可在暖黄光与冷白光（2700K 至 6500K）之",
-      "fetched_at": "2026-08-31T05:23:26.761662+00:00"
-    },
-    {
-      "id": "fbbaa36d4c272c81",
-      "title": "年度体检之后没人管的12个月，爱康和华为云接手了",
-      "link": "https://www.tmtpost.com/8122457.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-08-31T05:12:46+00:00",
-      "summary": "当行业公共基础设施实现共建共享，整个赛道的迭代升级节奏将进一步加快，这份变革的红利，最终将落到每一位普通用户身上。",
-      "fetched_at": "2026-08-31T05:23:29.306025+00:00"
-    },
-    {
-      "id": "aa91eccaf67c0291",
-      "title": "AI“已读乱回”经营者承担责任、给外卖包装“瘦身”，一批新规 9 月起施行",
-      "link": "https://www.ithome.com/0/996/419.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-31T05:10:15+00:00",
-      "summary": "IT之家 8 月 31 日消息，据央视新闻报道，一批新规将于 2026 年 9 月起施行，包括 AI“已读乱回”经营者承担责任等。IT之家附具体新规如下：住房公积金拓宽提取和使用范围《国务院关于修改〈住房公积金管理条例〉的决定》9 月 20 日起施行。提取住房公积金支付房租，不再设置房租超过家庭工资收入规定比例的门槛限制；新增装修自住住房、支付自住住房物业费、国务院批准的其他住房消费情形等可以提取",
-      "fetched_at": "2026-08-31T05:23:26.761731+00:00"
-    },
-    {
-      "id": "c91c4e3c48319e14",
-      "title": "段奕宏出任奇瑞捷豹路虎 FREELANDER 品牌形象大使，神行者 8 新车定档 9 月 3 日上市",
-      "link": "https://www.ithome.com/0/996/418.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-31T05:06:35+00:00",
-      "summary": "IT之家 8 月 31 日消息，由奇瑞 × 捷豹路虎合作打造的 FREELANDER 神行者品牌今日宣布，段奕宏正式出任神行者品牌形象大使。根据规划，FREELANDER 神行者首车 —— 神行者 8 将于 9 月 3 日正式上市。神行者 8 已于 8 月 14 日晚间开启预售。新车全系标配华为乾崑智驾 ADS 5；全球首批搭载高通骁龙最新一代 8397 车规级芯片；全系标配 800V 高压平台，",
-      "fetched_at": "2026-08-31T05:23:26.761792+00:00"
-    },
-    {
-      "id": "71a79fd886998971",
-      "title": "漫步者推出 W800NB 头戴式耳机：-50dB 降噪、118 小时续航，289 元",
-      "link": "https://www.ithome.com/0/996/416.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-31T04:37:15+00:00",
-      "summary": "IT之家 8 月 31 日消息，漫步者推出 W800NB 头戴式耳机现已在京东等平台上架预约，今晚 8 点开售，活动到手价为 289 元。IT之家从商品页面获悉，这款新品为头戴式主动降噪蓝牙耳机，支持 -50dB 深度降噪，通过 Hi-Res 金标认证，支持空间音效，同时拥有最长 118 小时的长续航表现。这款耳机提供云雾白、雪松蓝、月影灰、藕荷粉等多种配色可选，整体设计轻盈，定位手机、电脑多场景",
-      "fetched_at": "2026-08-31T05:23:26.761816+00:00"
-    },
-    {
-      "id": "163f30bde40ca424",
-      "title": "古尔曼：库克远未到说再见的时候，卸任苹果 CEO 后还将深度参与事务",
-      "link": "https://www.ithome.com/0/996/415.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-08-31T04:32:21+00:00",
-      "summary": "IT之家 8 月 31 日消息，彭博社记者马克 · 古尔曼今日发文，反驳了“蒂姆 · 库克即将退休”的网络观点，表示：库克在将 CEO 职位交给特努斯后，将继续深度参与苹果事务，他渴望承担更多责任，并继续与唐纳德 · 特朗普和中国保持关系。他远未到说再见的时候。现任苹果硬件工程高级副总裁约翰 · 特努斯将于当地时间 9 月 1 日正式接任苹果 CEO，古尔曼表示人工智能将成为特努斯任期内的首要任务",
-      "fetched_at": "2026-08-31T05:23:26.761848+00:00"
     }
   ]
 }
