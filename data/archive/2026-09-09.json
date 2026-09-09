@@ -1,7 +1,194 @@
 {
   "date": "2026-09-09",
-  "count": 1037,
+  "count": 1051,
   "items": [
+    {
+      "id": "683125ae4753f6f7",
+      "title": "初探苹果 watchOS 27 RC 全新 Siri Modular 表盘",
+      "link": "https://www.ithome.com/1/000/550.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-09T22:02:09+00:00",
+      "summary": "IT之家 9 月 10 日消息，科技媒体 9to5Mac 今天（9 月 10 日）发布博文，报道称在今天推送的 watchOS 27 RC 版本更新中，苹果带来了全新的 Siri Modular 表盘。适配范围上，该表盘兼容 Apple Watch Series 系列和 Apple Watch Ultra 系列智能手表，基础布局一致，只是 Ultra 可以获得额外的表圈选项和 Ultra 专属字体",
+      "fetched_at": "2026-09-09T22:28:32.764476+00:00"
+    },
+    {
+      "id": "9fbf6b0e8362f6a4",
+      "title": "首款支持手写笔的 iPhone：苹果首款折叠 iPhone Duo 显示仅兼容 USB-C 版 Apple Pencil",
+      "link": "https://www.ithome.com/1/000/549.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-09T21:47:47+00:00",
+      "summary": "IT之家 9 月 10 日消息，科技媒体 MacRumors 今天（9 月 10 日）发布博文，报道称苹果首款折叠 iPhone Duo 成为首款支持 Apple Pencil 的 iPhone，但兼容范围限于售 USB-C 版 Apple Pencil。根据苹果 iPhone Duo 官方文档显示，iPhone Duo 将于今年晚些时候支持 Apple Pencil，但适配范围仅限于 USB-C",
+      "fetched_at": "2026-09-09T22:28:32.764524+00:00"
+    },
+    {
+      "id": "79a75eec8a9dfbb3",
+      "title": "苹果 iPhone 18 Pro / Max 升级摄影风格，带来全新质感和颗粒感控制选项",
+      "link": "https://www.ithome.com/1/000/548.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-09T21:35:00+00:00",
+      "summary": "IT之家 9 月 10 日消息，根据苹果官方博文，iPhone 18 Pro 和 iPhone 18 Pro Max 升级摄影风格功能，带来全新质感和颗粒感的控制选项，供用户进一步调整理想画面效果、提升对照片的创意掌控。IT之家注：摄影风格（Photographic Styles）是苹果 iPhone 的智能色调预设，用来在按下快门前就决定照片的整体氛围，最早随 iPhone 13 系列推出，提供",
+      "fetched_at": "2026-09-09T22:28:32.764557+00:00"
+    },
+    {
+      "id": "57f57a008204440b",
+      "title": "苹果 iPhone 18 Pro / Max 首用 6 叶片可变光圈结构，相机 App 引入 Pro 级控制",
+      "link": "https://www.ithome.com/1/000/547.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-09T21:22:18+00:00",
+      "summary": "IT之家 9 月 10 日消息，苹果今天（9 月 10 日）更新官方文档，宣布在 iPhone 18 Pro 和 iPhone 18 Pro Max 两款旗舰中，引入 Pro 级相机控制体验，让用户在原生相机应用中直接控制更多拍摄参数。用户可手动设定光圈、快门速度和白平衡，也可借助实时直方图判断画面曝光。相机应用还能根据景深和环境光线自动调整光圈。IT之家附上官方介绍如下：iPhone 18 Pr",
+      "fetched_at": "2026-09-09T22:28:32.764593+00:00"
+    },
+    {
+      "id": "adfade000e0a97ca",
+      "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
+      "link": "https://sspai.com/post/114392",
+      "source_id": "sspai",
+      "source_name": "少数派",
+      "category": "tech",
+      "published_at": "2026-09-09T21:21:18+00:00",
+      "summary": "9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5 系列。查看全文",
+      "fetched_at": "2026-09-09T22:28:39.431879+00:00"
+    },
+    {
+      "id": "f3222bbe4853ea7f",
+      "title": "未适配应用也能运行：苹果首款折叠手机 iPhone Duo 提供 3 种兼容模式",
+      "link": "https://www.ithome.com/1/000/546.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-09T21:10:58+00:00",
+      "summary": "IT之家 9 月 10 日消息，科技媒体 9to5Mac 今天（9 月 10 日）发布博文，报道称在面向开发者的技术讲解中，苹果公司披露了其首款折叠手机 iPhone Duo 的应用兼容机制。IT之家援引博文介绍，该兼容机制分别面向 iOS 26、iOS 27.0 和 iOS 27.1 三个版本提供 3 种模式，其中 iOS 27.1 预估 10 月发布，随着 iPhone Duo 上市推出。面向",
+      "fetched_at": "2026-09-09T22:28:32.764627+00:00"
+    },
+    {
+      "id": "fcdf0c5aa3d47e90",
+      "title": "证明照片不是 AI：苹果 iPhone 18 Pro 支持像素级标注真实图像数据，但又和国内无关",
+      "link": "https://www.ithome.com/1/000/544.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-09T21:03:15+00:00",
+      "summary": "IT之家 9 月 10 日消息，在 AI 照片近乎以假乱真的年代，苹果为最新发布的 iPhone 18 Pro 系列手机带来一项标注真实照片功能。苹果在今日的发布会上宣布推出“Apple 参考图像”，iPhone 18 Pro 用户可通过该技术证明所拍照片的原真性。苹果官方介绍称，Apple 参考图像尽可能从最安全的地方入手，全新主摄会在像素层面安全地标注照片数据，专用云计算则会将这些已标注的数据",
+      "fetched_at": "2026-09-09T22:28:32.764655+00:00"
+    },
+    {
+      "id": "43ef5713c33cec32",
+      "title": "苹果 watchOS 27 升级健康体验：评估训练负荷、计算健康年龄等",
+      "link": "https://www.ithome.com/1/000/543.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-09T20:58:48+00:00",
+      "summary": "IT之家 9 月 10 日消息，科技媒体 macobserver 今天（9 月 10 日）发布博文，报道称在 Apple Watch Series 12 和 Apple Watch Ultra 4 两款智能手表上，苹果进一步升级了健康体验。健康感测系统在两款新智能手表上，苹果重点升级了“健康感测系统”，该系统配备新的光学与电极式心率传感器及更大的绿色 LED，可每 5 秒读取心率、每 5 分钟读取",
+      "fetched_at": "2026-09-09T22:28:32.764728+00:00"
+    },
+    {
+      "id": "edf21bd31d4f1d0b",
+      "title": "苹果 iPhone 18 Pro 系列手机配备 12GB 内存与上一代相同，起价上涨 1000 元",
+      "link": "https://www.ithome.com/1/000/542.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-09T20:49:11+00:00",
+      "summary": "IT之家 9 月 10 日消息，苹果 iPhone 18 Pro 系列手机今日正式发布，官方没有提到新机的内存容量，不过据 MacRumors 今日报道，在最新版本的 Xcode 27 中，苹果已透露了这一信息。iPhone 18 Pro：12GBiPhone 18 Pro Max：12GBXcode 目前还不支持 iPhone Duo，但该设备搭载了与 iPhone 18 Pro 相同的 A20",
+      "fetched_at": "2026-09-09T22:28:32.764769+00:00"
+    },
+    {
+      "id": "1be23a6339e191a3",
+      "title": "苹果首款折叠 iPhone Duo 支持 MagSafe，最高 15W 功率",
+      "link": "https://www.ithome.com/1/000/541.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-09T20:39:44+00:00",
+      "summary": "IT之家 9 月 10 日消息，根据苹果官网公示的信息，苹果首款折叠 iPhone Duo 支持 MagSafe 磁吸充电，国行显示功率最高可达 15 瓦，不过无线充电器需单独购买。全新苹果 iPhone Duo 搭载双电池系统，这也是 iPhone 双电池系统的首秀。根据苹果官方解释，新机拥有两块内置的锂离子充电电池，支持 MagSafe、Qi2 和 Qi 无线充电。iPhone Duo 使用内",
+      "fetched_at": "2026-09-09T22:28:32.764799+00:00"
+    },
+    {
+      "id": "0977a451a2829d1a",
+      "title": "苹果发布自研 C2 5G 调制解调器：上传提速 50%，美版 iPhone 18 Pro 支持 mmWave 毫米波",
+      "link": "https://www.ithome.com/1/000/540.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-09T20:26:41+00:00",
+      "summary": "IT之家 9 月 10 日消息，科技媒体 MacRumors 今天（9 月 10 日）发布博文，报道称今天发布的 iPhone 18 Pro、iPhone 18 Pro Max、iPhone Duo 三款机型中，均配备苹果自研 C2 5G 调制解调器。根据官方介绍，苹果 C2 调制解调器依托于 AI 改进蜂窝网络的质量和可靠性，相比较 C1X 芯片，C2 上传速度提升 50%，能耗降低 15%，并",
+      "fetched_at": "2026-09-09T22:28:32.764839+00:00"
+    },
+    {
+      "id": "c9aa0b2bce7ce9d8",
+      "title": "苹果官网暗示 iPhone 18 Pro 系列提高至 60W 有线充电功率，最快 15 分钟补能 50%",
+      "link": "https://www.ithome.com/1/000/539.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-09T20:24:28+00:00",
+      "summary": "IT之家 9 月 10 日消息，苹果 iPhone 18 Pro 系列手机今日正式发布，拥有“iPhone 历史上最长的电池续航”。官网显示，iPhone 18 Pro 视频播放最长可达 34 小时、Pro Max 视频播放最长可达 43 小时。系列机型支持 MagSafe 无线充电，功率最高可达 15W (需 20W 及以上电源适配器)。苹果官网还称，得益于更快速的有线充电能力，iPhone 1",
+      "fetched_at": "2026-09-09T22:28:32.764895+00:00"
+    },
+    {
+      "id": "f2fa45ee03435e62",
+      "title": "苹果上架爱马仕 Grand H Titane 表带，售价 17999 元",
+      "link": "https://www.ithome.com/1/000/538.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-09T20:03:15+00:00",
+      "summary": "IT之家 9 月 10 日消息，在 2026 年秋季发布会结束后，苹果中国官网更新上线多款 Apple Watch Hermès 爱马仕表带，售价 4,099 元起，最高售价 17,999 元。IT之家附上相关介绍如下：表带名称颜色材质特点价格 (RMB)链接Rocabar Club 表带午夜蓝配橙色，另有午夜蓝配钛灰色、午夜蓝配布莱顿蓝色、午夜蓝配绿色可选针织材质，凸起 H 图案针织条纹，中央调",
+      "fetched_at": "2026-09-09T22:28:32.764962+00:00"
+    },
+    {
+      "id": "da2689bd1de3d5ae",
+      "title": "苹果官方详解 Apple Watch Ultra 4 手表：日常续航超两天，国行 6499 元起",
+      "link": "https://www.ithome.com/1/000/522.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-09T19:57:33+00:00",
+      "summary": "IT之家 9 月 10 日消息，苹果今日发布 Apple Watch Ultra 4。这块专攻运动与户外挑战的表款搭载了更先进的全新健康与健身功能，电池续航亦更持久。Apple Watch Ultra 4 提供原色和黑色钛金属外观选项，起售价为 RMB 6,499，即日起接受订购，本月 18 日（星期五）起正式发售（点此购买）。Apple Watch Ultra 4 搭载全新健康感测系统和 S11",
+      "fetched_at": "2026-09-09T22:28:32.765107+00:00"
+    },
+    {
+      "id": "8cb8b2fdf77d58db",
+      "title": "国行 iPhone 18 Pro 系列采用实体 SIM + eSIM 设计，支持双卡使用",
+      "link": "https://www.ithome.com/1/000/537.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-09T19:55:40+00:00",
+      "summary": "IT之家 9 月 10 日消息，在今晚的苹果 2026 年秋季发布会上，iPhone 18 Pro 系列正式发布，包括 18 Pro 和 18 Pro Max，起售价分别为 9999 元和 10999 元。IT之家注意到，苹果官网显示，国行 iPhone 18 Pro 系列采用实体 SIM + eSIM 设计，支持双卡使用（上一代的 iPhone 17 Pro 系列仅支持实体 SIM）：两个 na",
+      "fetched_at": "2026-09-09T22:28:32.765136+00:00"
+    },
+    {
+      "id": "2d5c74b8c834a88a",
+      "title": "苹果 iOS / iPadOS 27 RC 更新日志：升级 Siri AI，增强家长管控等",
+      "link": "https://www.ithome.com/1/000/536.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-09T19:45:10+00:00",
+      "summary": "IT之家 9 月 10 日消息，苹果公司今日正式推送了 iOS / iPadOS 27 RC，正式版将于 9 月 15 日推出。IT之家附上 iOS / iPadOS 27 RC 完整更新日志内容如下：Siri AI适用机型：所有 iPhone 16 机型及后续机型、iPhone 15 Pro、iPhone 15 Pro Max。更强大、更善于对话的 Siri 将陆续向用户推出。它可凭借对个人上下",
+      "fetched_at": "2026-09-09T22:28:32.765232+00:00"
+    },
+    {
+      "id": "690f3ae11093a7d0",
+      "title": "苹果官方详解 Apple Watch Series 12 智能手表：全新健康传感器、S11 芯片，2999 元起",
+      "link": "https://www.ithome.com/1/000/532.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-09T19:41:50+00:00",
+      "summary": "IT之家 9 月 10 日消息，苹果今日发布了 Apple Watch Series 12 智能手表，搭载更强的健康传感器和全新的 Apple 芯片。Apple Watch Series 12 起售价为 RMB 2,999，即日起接受订购，本月 18 日（星期五）起将在零售店发售（点此购买）。依托全新的健康感测系统和 S11 芯片，Apple Watch Series 12 能够更高频地跟测心率与",
+      "fetched_at": "2026-09-09T22:28:32.765379+00:00"
+    },
     {
       "id": "8f488f64d1a8582d",
       "title": "苹果 iPhone 18 Pro 系列发布：新增可变光圈技术、首发 2 纳米制程工艺 A20 Pro 芯片，9999 元起",
@@ -11,7 +198,7 @@
       "category": "tech",
       "published_at": "2026-09-09T19:40:55+00:00",
       "summary": "IT之家 9 月 10 日消息，在今晚的苹果 2026 年秋季发布会上，iPhone 18 Pro 系列正式发布，包括 18 Pro 和 18 Pro Max，起售价分别为 9999 元和 10999 元。苹果 iPhone 18 Pro 售价：存储规格官方售价24 期参考月供256GBRMB 9,999RMB 417 / 月起512GBRMB 11,999RMB 500 / 月起1TBRMB 1",
-      "fetched_at": "2026-09-09T19:42:57.687596+00:00"
+      "fetched_at": "2026-09-09T22:28:32.765476+00:00"
     },
     {
       "id": "e8d59117057673db",
@@ -22,7 +209,7 @@
       "category": "tech",
       "published_at": "2026-09-09T19:35:51+00:00",
       "summary": "IT之家 9 月 10 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 RC 更新（内部版本号：26A428），本次更新距离上次发布 Beta / RC 间隔 9 天，正式版将于 9 月 15 日发布。IT之家附上 macOS 27 RC 更新完整日志内容如下：全新 Siri AI推出由 Apple Intelligence 驱动的全新 Siri AI。它更懂你、能力更强，也更适",
-      "fetched_at": "2026-09-09T19:42:57.687698+00:00"
+      "fetched_at": "2026-09-09T22:28:32.765548+00:00"
     },
     {
       "id": "8a41dc2fa202d796",
@@ -33,7 +220,7 @@
       "category": "tech",
       "published_at": "2026-09-09T19:23:58+00:00",
       "summary": "IT之家 9 月 10 日消息，在 2026 秋季新品发布会结束后，苹果官网为 iPhone 18 Pro、iPhone 18 Pro Max、iPhone Duo、AirPods 5 等新品发布了全新的配件，起售价 229 元。一、挂绳等配件：配件价格适合群体链接斜挎挂绳（勃艮第酒红色等）RMB 449想把 iPhone 随身斜挎、解放双手的人点此前往苹果官网选购腕带（清透蓝色等）RMB 229",
-      "fetched_at": "2026-09-09T19:42:57.687843+00:00"
+      "fetched_at": "2026-09-09T22:28:32.765679+00:00"
     },
     {
       "id": "f945b6923d55a5d3",
@@ -44,7 +231,7 @@
       "category": "tech",
       "published_at": "2026-09-09T19:17:51+00:00",
       "summary": "IT之家 9 月 10 日消息，苹果官网显示，iOS / iPadOS 27、macOS 27、watchOS 27 和 visionOS 27 将于 9 月 15 日推出。据介绍，苹果全新一代 OS 设计一再演进。Liquid Glass 折射效果更均匀，对比度更出色，确保内容清晰易读。还新加了调节滑块，用户可随心调整 Liquid Glass 的外观效果。同时，iPhone 和 iPad Ap",
-      "fetched_at": "2026-09-09T19:42:57.687889+00:00"
+      "fetched_at": "2026-09-09T22:28:32.765721+00:00"
     },
     {
       "id": "8d702ce4f1abdaa3",
@@ -55,7 +242,7 @@
       "category": "tech",
       "published_at": "2026-09-09T19:11:13+00:00",
       "summary": "【点此直达升级教程】IT之家 9 月 10 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 RC 更新（内部版本号：24R363），本次更新距离上次发布 Beta / RC 间隔 9 天，正式版将于 9 月 15 日发布。苹果 watchOS 27 主要聚焦升级 Siri AI、健康追踪、健身辅导与智能叠放（Smart Stack）。在 Siri AI 方面，底层",
-      "fetched_at": "2026-09-09T19:42:57.687961+00:00"
+      "fetched_at": "2026-09-09T22:28:32.765794+00:00"
     },
     {
       "id": "7e22819c140905c1",
@@ -66,7 +253,7 @@
       "category": "tech",
       "published_at": "2026-09-09T19:11:13+00:00",
       "summary": "IT之家 9 月 10 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 RC 更新（内部版本号：26A428），本次更新距离上次发布 Beta / RC 间隔 9 天，正式版将于 9 月 15 日发布。苹果 macOS 27 更新重点聚焦智能辅助、系统体验与日常办公场景，目标是让 Mac 在沟通、创作和信息处理上更顺手。办公生产力方面，用户只需输入一段事件描述，就能在日历中添加或",
-      "fetched_at": "2026-09-09T19:42:57.688022+00:00"
+      "fetched_at": "2026-09-09T22:28:32.765856+00:00"
     },
     {
       "id": "3d7295f176aa1a40",
@@ -77,7 +264,7 @@
       "category": "tech",
       "published_at": "2026-09-09T19:11:13+00:00",
       "summary": "IT之家 9 月 10 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 RC 更新（内部版本号：24M362），本次更新距离上次发布 Beta / RC 间隔 9 天，正式版将于 9 月 15 日上线。苹果 visionOS 27 主要为海外机型引入了 Siri AI 功能，同步引入了全新视觉智能功能，可以看着场景询问 Siri。同时还支持将全景照片设置为个人环境",
-      "fetched_at": "2026-09-09T19:42:57.688062+00:00"
+      "fetched_at": "2026-09-09T22:28:32.765906+00:00"
     },
     {
       "id": "c7cc55c05c3fd510",
@@ -88,7 +275,7 @@
       "category": "tech",
       "published_at": "2026-09-09T19:03:46+00:00",
       "summary": "IT之家 9 月 10 日消息，苹果公司今日正式推送了 iOS / iPadOS 27 RC，这意味着新系统的稳定版发布已进入最后倒计时。照既有节奏，iOS 27 候选版（RC）今日发布后，正式版会随 iPhone 18 Pro 和 iPhone 18 Pro Max 上市一同发布，预估本次更新以修复 Bug，提高系统稳定性为主。在界面上，苹果 iOS / iPadOS 27 进一步打磨液态玻璃（",
-      "fetched_at": "2026-09-09T19:42:57.688109+00:00"
+      "fetched_at": "2026-09-09T22:28:32.765951+00:00"
     },
     {
       "id": "487dd2a52c57d117",
@@ -99,7 +286,7 @@
       "category": "tech",
       "published_at": "2026-09-09T18:55:08+00:00",
       "summary": "IT之家 9 月 10 日消息，在苹果 iPhone 18 Pro 系列发布后，苹果官网按照常规下架了 iPhone 17 Pro 系列。与此同时，iPhone Air、iPhone 17、iPhone 17e、iPhone 16 四款老机型迎来同步涨价，看来苹果也没能顶得住压力。IT之家汇总四款手机各版本价格涨幅如下：iPhone Air 涨幅从 800 元到 2300 元不等存储版本原官方售价",
-      "fetched_at": "2026-09-09T19:42:57.688170+00:00"
+      "fetched_at": "2026-09-09T22:28:32.766007+00:00"
     },
     {
       "id": "3a910ab02fbb9286",
@@ -110,7 +297,7 @@
       "category": "tech",
       "published_at": "2026-09-09T18:50:59+00:00",
       "summary": "IT之家 9 月 10 日消息，在 2026 年秋季发布会上，苹果正式发布 iPhone 18 Pro 系列，包括 18 Pro 和 18 Pro Max，起售价分别为 9999 元和 10999 元。IT之家也在第一时间拍下了全新 iPhone 18 Pro 系列真机，感兴趣的小伙伴可放大查看新机细节：全新 iPhone 18 Pro 系列提供深、银、冰川蓝和勃艮第酒红色 4 种配色，外观与 i",
-      "fetched_at": "2026-09-09T19:42:57.688233+00:00"
+      "fetched_at": "2026-09-09T22:28:32.766067+00:00"
     },
     {
       "id": "e8bf00bc2ee88d83",
@@ -121,7 +308,7 @@
       "category": "tech",
       "published_at": "2026-09-09T18:38:54+00:00",
       "summary": "IT之家 9 月 10 日消息，苹果在发布 iPhone 18 Pro、iPhone 18 Pro Max 以及其首款折叠手机 iPhone Duo 后，苹果中国官网今天还上调了 iPhone Air 国行版 3 个存储版本售价，涨幅从 800 元到 2300 元不等。IT之家附上相关售价上调影响如下：存储版本原官方售价当前官方售价上涨金额涨幅256GB7999 元8799 元800 元约 10.",
-      "fetched_at": "2026-09-09T19:42:57.688271+00:00"
+      "fetched_at": "2026-09-09T22:28:32.766104+00:00"
     },
     {
       "id": "ec4d96d813578461",
@@ -132,7 +319,7 @@
       "category": "tech",
       "published_at": "2026-09-09T18:38:35+00:00",
       "summary": "IT之家 9 月 10 日消息，在发布 iPhone 18 Pro 系列和 iPhone Duo 后，苹果官网显示 iPhone 17 手机起售价上调至 6,799 元起。IT之家查询获悉，苹果 iPhone 17 的发售价为 5,999 元起，存储 256GB 起步，如今起价上调了 800 元。256GB：原价 5,999 元，现价 6,799 元512GB：原价 7,999 元，现价 8,79",
-      "fetched_at": "2026-09-09T19:42:57.688297+00:00"
+      "fetched_at": "2026-09-09T22:28:32.766126+00:00"
     },
     {
       "id": "0156436b07a85499",
@@ -143,7 +330,7 @@
       "category": "tech",
       "published_at": "2026-09-09T18:37:57+00:00",
       "summary": "IT之家 9 月 10 日消息，在今晚的 2026 苹果秋季新品发布会上，苹果正式发布了首款折叠 iPhone —— iPhone Duo。▲ IT之家现场实拍：iPhone DuoIT之家了解到，全新苹果 iPhone Duo 搭载双电池系统，这也是 iPhone 双电池系统的首秀。根据苹果官方解释，新机拥有两块内置的锂离子充电电池，支持 MagSafe、Qi2 和 Qi 无线充电。iPhone",
-      "fetched_at": "2026-09-09T19:42:57.688332+00:00"
+      "fetched_at": "2026-09-09T22:28:32.766159+00:00"
     },
     {
       "id": "6f5ce90190436ed7",
@@ -154,7 +341,7 @@
       "category": "tech",
       "published_at": "2026-09-09T18:36:04+00:00",
       "summary": "IT之家 9 月 10 日消息，苹果今天发布了旗下首款折叠屏手机 iPhone Duo，目前苹果官网（点此访问）已公布该机国行价格信息，其定价 15999 元起，国行 10 月 16 日晚 8 点接受预购，10 月 23 日发售。IT之家在苹果发布会现场实拍 iPhone Duo 手机，感兴趣的小伙伴可查看大图：",
-      "fetched_at": "2026-09-09T19:42:57.688353+00:00"
+      "fetched_at": "2026-09-09T22:28:32.766179+00:00"
     },
     {
       "id": "84d629106c4826cd",
@@ -11375,39 +11562,6 @@
       "published_at": "2026-09-02T22:39:29+00:00",
       "summary": "IT之家 9 月 3 日消息，苹果在 iOS 27 中加入了一项名为“iPhone 接力”的新功能，允许用户在两部 iPhone 上使用同一个电话号码并支持切换。IT之家注意到，该功能在 2026 年 6 月的 WWDC 2026 主题演讲中曾在一张列有数百项新功能的 PPT 上被简要提及，但当时苹果未公布任何细节。当地时间 9 月 2 日，MacRumors 论坛成员分享了一段演示视频，展示了该",
       "fetched_at": "2026-09-03T00:06:31.822681+00:00"
-    },
-    {
-      "id": "728f318eceb7aa19",
-      "title": "华为 CMM-AL10 鸿蒙手机入网：配备 6615mAh 大电池",
-      "link": "https://www.ithome.com/0/997/715.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-02T22:04:14+00:00",
-      "summary": "IT之家 9 月 3 日消息，型号为 CMM-AL10 的华为 5G 新机已通过电信设备进网许可，未公布证件照。IT之家注意到，该机配备 6615mAh 额定容量电池，搭载 HarmonyOS 鸿蒙操作系统，前后共 6 颗摄像头。此外，本机支持 GSM、WCDMA、LTEFDD、TDLTE 网络，支持红外、蓝牙、USB、星闪连接方式。更多详细参数信息如下：",
-      "fetched_at": "2026-09-03T00:06:31.822698+00:00"
-    },
-    {
-      "id": "4231eb7ab108af52",
-      "title": "博通 2026 财年第三财季归母净利润 130.88 亿美元，同比增长 216%",
-      "link": "https://www.ithome.com/0/997/713.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-02T20:30:01+00:00",
-      "summary": "IT之家 9 月 3 日消息，博通今日发布 2026 财年（2025 年 11 月 3 日～2026 年 11 月 1 日）第三财季（2026 年 5 月 4 日～2026 年 8 月 2 日）报告：营业总收入：295.91 亿美元（IT之家注：现汇率约合 1993.52 亿元人民币），同比增长 86%，环比增长 33.37%毛利润：204.56 亿美元（现汇率约合 1378.1 亿元人民币），同",
-      "fetched_at": "2026-09-03T00:06:31.822793+00:00"
-    },
-    {
-      "id": "28836f3d0af02313",
-      "title": "慧与 2026 财年半年报归母净利润 25.29 亿美元",
-      "link": "https://www.ithome.com/0/997/712.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-02T20:11:14+00:00",
-      "summary": "IT之家 9 月 3 日消息，慧与今日发布 2026 财年（2025年11月1日～2026年10月31日）半年报（2025年11月1日～2026年7月31日）及第三财季（2026年5月1日～2026年7月31日）报告： 2026 财年半年报 营业总收入：321.92 亿美元（IT之家注：现汇率约合 2168.75 亿元人民币），同比增长 30.8% 毛利润：121.39 亿美元（现汇率约合 817",
-      "fetched_at": "2026-09-03T00:06:31.822881+00:00"
     }
   ]
 }
