@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "count": 1057,
+  "count": 1055,
   "items": [
     {
       "id": "9383b6c09e28bc1a",
@@ -11606,28 +11606,6 @@
       "published_at": "2026-09-03T22:28:07+00:00",
       "summary": "IT之家 9 月 4 日消息，当地时间 9 月 3 日，OpenAI 宣布推出新一代 GPT-6 Astra 模型，这是该公司迄今为止最强大、最广泛部署的大语言模型。据介绍，Astra 是 OpenAI 旗下首个达到其“准备框架”（Preparedness Framework）中“关键”（Critical）网络安全能力门槛的模型。据 OpenAI 介绍，Astra 在网络安全能力上实现了显著跃升。",
       "fetched_at": "2026-09-03T22:30:09.452778+00:00"
-    },
-    {
-      "id": "5cb294013c3e3e62",
-      "title": "Six Years, Three Cities, One IPO: SHEIN Finally Lands in Hong Kong",
-      "link": "https://www.tmtpost.com/8128080.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-09-03T16:04:04+00:00",
-      "summary": "From Guangzhou.",
-      "fetched_at": "2026-09-04T00:56:06.006470+00:00"
-    },
-    {
-      "id": "321e02ad81bd9a2e",
-      "title": "英伟达 RTX Spark 紧凑型 Win PC 主机下月上市，含宏碁、联想等 6 家 OEM 厂商产品",
-      "link": "https://www.ithome.com/0/998/202.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-03T16:00:06+00:00",
-      "summary": "IT之家 9 月 4 日消息，英伟达今天宣布，全新 RTX Spark Windows PC 将于 10 月上市，为 AI 发烧友、开发者提供更多创作方式。据介绍，英伟达合作伙伴已在 IFA 2026 大会上展示相关硬件。全新发布的产品设计将与现有 6 家 OEM 厂商的产品一同于 10 月出货。例如宏碁本次展示了 RTX Spark 高能效桌面主机的概念设计，联想则发布了 Yoga Pro 9n",
-      "fetched_at": "2026-09-03T22:30:09.452835+00:00"
     }
   ]
 }
