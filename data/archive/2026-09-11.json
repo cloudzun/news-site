@@ -1,7 +1,18 @@
 {
   "date": "2026-09-11",
-  "count": 1058,
+  "count": 1059,
   "items": [
+    {
+      "id": "784112a1794fe1a5",
+      "title": "微软发布 Win11 多预览版更新：优化上下文菜单与文件资源管理器搜索",
+      "link": "https://www.ithome.com/1/001/475.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-11T17:12:25+00:00",
+      "summary": "IT之家 9 月 12 日消息，微软今日面向 Beta、Experimental 和 Release Preview 频道推送了新的 Windows 11 预览版更新。其中，Experimental 频道新增文件资源管理器搜索优化，并进一步调整右键菜单自定义功能：Beta 通道：Build 26220.9472（25H2）、Build 28020.2991（26H1）Experimental 通道",
+      "fetched_at": "2026-09-11T22:29:49.258704+00:00"
+    },
     {
       "id": "276f206513467ffb",
       "title": "国轩高科：拿下沙特首批大型电池储能项目 6GWh 储能订单",
