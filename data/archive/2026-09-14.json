@@ -1,50 +1,226 @@
 {
   "date": "2026-09-14",
-  "count": 1057,
+  "count": 1068,
   "items": [
     {
+      "id": "334739e92fe7c11d",
+      "title": "谷歌通知 9 月 21 日开放 GoogleBook 预购，融合安卓 / ChromeOS 特性",
+      "link": "https://www.ithome.com/1/002/346.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-14T23:05:03+00:00",
+      "summary": "IT之家 9 月 15 日消息，科技媒体 videocardz 昨日（9 月 14 日）发布博文，报道称基于其收到的邮件，谷歌计划美国东部时间 9 月 21 日上午 9 点（北京时间 21 日 21 点）开放 Googlebook 预购。这封邮件附有直接预购链接，但未披露产品价格，也未说明首批可购买的具体设备型号。在合作厂商方面，谷歌正与宏碁、华硕、戴尔、惠普及联想开发首批 Googlebook ",
+      "fetched_at": "2026-09-14T23:05:20.914707+00:00"
+    },
+    {
+      "id": "0bcaa6f68b511631",
+      "title": "id Software《毁灭战士：黑暗时代》游戏价格永降，Steam 国区现售 259 元起",
+      "link": "https://www.ithome.com/1/002/345.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-14T22:57:58+00:00",
+      "summary": "IT之家 9 月 15 日消息，id Software 旗下《毁灭战士：黑暗时代（DOOM：The Dark Ages）》于 2025 年 5 月 15 日发售，目前官方对这款游戏价格进行调整，IT之家汇总如下：降价前降价后标准版349 元259 元豪华版499 元359 元IT之家附游戏商品页如下：（https://store.steampowered.com/agecheck/app/3017",
+      "fetched_at": "2026-09-14T23:05:20.914753+00:00"
+    },
+    {
+      "id": "d4ddff9947cb1e80",
+      "title": "古尔曼盘点苹果 2026~2027 年后续新品：触屏 MacBook Pro 年底登场， iPad mini 首次采用 OLED 屏",
+      "link": "https://www.ithome.com/1/002/344.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-14T22:51:47+00:00",
+      "summary": "IT之家 9 月 15 日消息，彭博社记者马克 · 古尔曼今早发布最新报道，梳理了苹果在 iPhone Duo、iPhone 18 Pro 系列等新品发布之后，仍将在 2026 年剩余时间和 2027 年上半年推出的多款新品。这些产品由新任 CEO 约翰 · 特努斯主导推进。特努斯于 2026 年 9 月 1 日正式接替蒂姆 · 库克出任苹果 CEO。他与库克在内部将这套路线图描述为苹果史上规模最",
+      "fetched_at": "2026-09-14T23:05:20.914844+00:00"
+    },
+    {
+      "id": "96d8f13b989b6f7a",
+      "title": "Epic 喜加一：原价 15 元文字冒险游戏《Vanakan》免费领",
+      "link": "https://www.ithome.com/1/002/343.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-14T22:51:42+00:00",
+      "summary": "IT之家 9 月 15 日消息，由独立游戏开发者 Erik Khachatryan 与 Hayk Khachatryan 打造的文字冒险游戏《Vanakan》目前正在 Epic 游戏商店开启限时免费“喜加一”活动，本作在国区定价为 15 元，玩家可以在在 9 月 29 日免费领取。需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（https:/",
+      "fetched_at": "2026-09-14T23:05:20.914877+00:00"
+    },
+    {
+      "id": "27de41a7f832a5a2",
+      "title": "Steam 喜加一：原价 70 元方块消除对战游戏《Crystal Crisis》免费领",
+      "link": "https://www.ithome.com/1/002/342.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-14T22:48:14+00:00",
+      "summary": "IT之家 9 月 15 日消息，由 Nicalis 开发的方块消除益智对战游戏《Crystal Crisis》目前正在 Steam 平台开启限时免费“喜加一”活动，本作在国区定价为 70 元，限免活动截止至 9 月 22 日 14:59，IT之家附游戏 Steam 商品页（https://store.steampowered.com/app/447700/Crystal_Crisis/）。本作采用",
+      "fetched_at": "2026-09-14T23:05:20.914905+00:00"
+    },
+    {
+      "id": "c4a918802e2c5ff0",
+      "title": "OpenAI 联合创始人布罗克曼：人类已迈入通用人工智能时代",
+      "link": "https://www.ithome.com/1/002/341.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-14T22:45:38+00:00",
+      "summary": "IT之家 9 月 15 日消息，在接受 a16z 采访时，OpenAI 联合创始人格雷格 · 布罗克曼（Greg Brockman）表示，人类已经迈入通用人工智能时代。IT之家注：通用人工智能（Artificial General Intelligence，AGI）通常指能在广泛领域处理复杂认知任务，并能迁移、学习和完成新任务的 AI。OpenAI 在《OpenAI Charter》中给出的定义为",
+      "fetched_at": "2026-09-14T23:05:20.914941+00:00"
+    },
+    {
+      "id": "3e8feabd0fa03b20",
+      "title": "育碧宣布游戏《雷曼传奇：重制版》延期至 12 月 3 日推出，游戏已完成开发并进入至“压盘”状态",
+      "link": "https://www.ithome.com/1/002/340.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-14T22:44:40+00:00",
+      "summary": "IT之家 9 月 15 日消息，育碧宣布《雷曼传奇：重制版》已完成开发，并进入至“压盘”（Gone Gold）状态，不过官方决定本作将推迟发售，从原定的 10 月 1 日延期至 12 月 3 日推出。值得注意的是，“游戏已压盘但同时宣布延期”的情况并不常见。传统意义上的“压盘”通常意味着游戏已经完成最终版本，并将正式送往工厂制作实体光盘。不过，随着数字发行和首日补丁逐渐成为主流，这一术语的实际含义",
+      "fetched_at": "2026-09-14T23:05:20.914970+00:00"
+    },
+    {
+      "id": "f9ade0546ace334e",
+      "title": "《红霞岛》前创意总监反思项目：服务型游戏并非工作室专长、将从中汲取经验",
+      "link": "https://www.ithome.com/1/002/339.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-14T22:37:39+00:00",
+      "summary": "IT之家 9 月 15 日消息，据外媒 PCGamer 报道，Arkane Austin 前创意总监 Harvey Smith 回顾了《红霞岛》的开发经历，直言团队当初不该参与服务型游戏项目。他认为，这款作品最终未能形成完整统一的成果，项目类型也超出了团队原本擅长的领域。Smith 表示，Arkane 团队长期专注于沉浸式模拟游戏，转而制作服务型射击游戏本身就是一项艰难挑战。同时游戏发售时出现的多",
+      "fetched_at": "2026-09-14T23:05:20.915000+00:00"
+    },
+    {
+      "id": "c3bbfd2f41e50c49",
+      "title": "马斯克旗下 X 和 SpaceXAI 动议撤回针对苹果和 OpenAI 的诉讼指控",
+      "link": "https://www.ithome.com/1/002/338.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-14T22:33:48+00:00",
+      "summary": "IT之家 9 月 15 日消息，路透社今天（9 月 15 日）发布博文，报道称基于昨日（9 月 14 日）提交的法庭文件，全球首富埃隆 · 马斯克旗下的 X Corp. 和 SpaceXAI 提出动议，要求撤回去年针对苹果和 OpenAI 提起的诉讼指控。这起诉讼可以追溯到 2025 年 8 月，X Corp. （原推特）和 SpaceXAI（原 xAI）在得州联邦法院提起诉讼，指控苹果违反反垄断",
+      "fetched_at": "2026-09-14T23:05:20.915030+00:00"
+    },
+    {
+      "id": "dd0f9ad7a4a8ab40",
+      "title": "苹果 iOS / iPadOS 26.7 正式版发布：修复安全问题",
+      "link": "https://www.ithome.com/1/002/337.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-14T22:29:39+00:00",
+      "summary": "IT之家 9 月 15 日消息，苹果今天除了推送 iOS / iPadOS 27 正式版外，还面向不想升级相应大版本的用户推出了 iOS / iPadOS 26.7 版本，用户进入“软件更新”页面检查新版本时，系统默认显示 iPadOS 26.7，而 iPadOS 27 会作为可选更新出现在页面底部。根据苹果发布的更新说明，iOS / iPadOS 26.7 主要包含安全修复，未加入其他新功能。苹",
+      "fetched_at": "2026-09-14T23:05:20.915057+00:00"
+    },
+    {
+      "id": "70c5c0215cdc1004",
+      "title": "苹果为 AirPods Pro 3 等耳机推送 9A348 新固件",
+      "link": "https://www.ithome.com/1/002/336.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-14T22:18:48+00:00",
+      "summary": "IT之家 9 月 15 日消息，科技媒体 9to5Mac 今天（9 月 15 日）发布博文，报道称苹果面向 AirPods Pro 3 等耳机，推送版本号为 9A348 的全新固件。适配范围上，IT之家援引博文介绍，本次 AirPods Firmware 9.0 (9A348) 固件更新适用于以下 4 款耳机：AirPods Pro 3AirPods Pro 2AirPods 4AirPods M",
+      "fetched_at": "2026-09-14T23:05:20.915207+00:00"
+    },
+    {
+      "id": "087e51ae2ad2ee82",
+      "title": "V 社推送 SteamOS Beta / 预览版推送更新：修复风扇转速异常问题",
+      "link": "https://www.ithome.com/1/002/335.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-14T22:00:33+00:00",
+      "summary": "IT之家 9 月 15 日消息，Valve 今日向 SteamOS Beta 和预览通道推送了最新测试更新，本次更新主要针对风扇控制问题进行修复，新功能仍处于测试阶段，用户可通过设置 &gt; 系统 &gt; 系统更新通道加入测试通道体验。通用更新修复了一个罕见问题：风扇转速会恢复为 BIOS 控制直至设备重启，该问题会导致风扇转速高于正常水平据IT之家此前报道，Valve 此前刚发布 Steam",
+      "fetched_at": "2026-09-14T23:05:20.915302+00:00"
+    },
+    {
+      "id": "d8c8ca5b52953482",
+      "title": "Steam 小队角色扮演节促销活动正式开启：海量组队 RPG 游戏打折，持续至 9 月 21 日",
+      "link": "https://www.ithome.com/1/002/333.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-14T19:20:23+00:00",
+      "summary": "IT之家 9 月 15 日消息，Valve 正式开启 Steam 小队角色扮演节（Party-Based RPG Fest），集中展示并打折促销各类支持多角色组队玩法的角色扮演游戏，活动将持续至 9 月 21 日。本次游戏节集结了所有以队伍角色扮演为核心玩法的游戏，玩家可以在这些游戏中操控多名角色、升级成长、使用魔法、展开战斗，体验宏大史诗任务或惊险偷盗行动等丰富内容。官方表示「人多力量大」，符合",
+      "fetched_at": "2026-09-14T23:05:20.915109+00:00"
+    },
+    {
       "id": "cbd0f8c78fea93b3",
-      "title": "苹果 watchOS 27.0 正式版发布",
+      "title": "苹果 watchOS 27.0 正式版发布：Siri AI 全面升级，健康功能扩展",
       "link": "https://www.ithome.com/1/002/332.htm",
       "source_id": "ithome",
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-09-14T18:26:12+00:00",
-      "summary": "IT之家 9 月 15 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 更新（内部版本号：24R364）。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 watchOS 27 发布历史： 2026-09-10：watchOS 27.",
-      "fetched_at": "2026-09-14T19:16:37.357529+00:00"
+      "summary": "IT之家 9 月 15 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 更新（内部版本号：24R364），兼容 Apple Watch Series 9 及后续机型、Apple Watch Ultra 2 及后续机型，以及 Apple Watch SE 3。用户可以在手表上通过“设置”App 免费下载安装。需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些",
+      "fetched_at": "2026-09-14T23:05:20.915382+00:00"
     },
     {
       "id": "82edefaf548a0b68",
-      "title": "苹果 visionOS 27.0 正式版发布",
+      "title": "苹果 visionOS 27.0 正式版发布：Siri AI、4K 录制与 Wi-Fi 提速",
       "link": "https://www.ithome.com/1/002/331.htm",
       "source_id": "ithome",
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-09-14T18:26:11+00:00",
-      "summary": "IT之家 9 月 15 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 更新（内部版本号：24M362）。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史： 2026-09-10：visionOS 2",
-      "fetched_at": "2026-09-14T19:16:37.357584+00:00"
+      "summary": "IT之家 9 月 15 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 更新（内部版本号：24M362），适用于两个版本的 Vision Pro 头显。用户可在设置中选择“通用”，再进入“软件更新”下载。安装更新时需摘下头显，EyeSight 显示屏会显示进度条。需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时",
+      "fetched_at": "2026-09-14T23:05:20.915461+00:00"
     },
     {
       "id": "974e27bc8a23c5f4",
-      "title": "苹果 macOS 27.0 正式版发布",
+      "title": "苹果 macOS 27.0 正式版发布：Siri 独立 App、引入多项智能辅助...",
       "link": "https://www.ithome.com/1/002/330.htm",
       "source_id": "ithome",
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-09-14T18:26:11+00:00",
-      "summary": "IT之家 9 月 15 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 更新（内部版本号：26A428）。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 macOS 27 发布历史： 2026-09-10：macOS 27.0 RC (26A428",
-      "fetched_at": "2026-09-14T19:16:37.357631+00:00"
+      "summary": "IT之家 9 月 15 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 更新（内部版本号：26A428）。苹果 macOS 27 重点聚焦智能辅助、系统体验与日常办公场景，目标是让 Mac 在沟通、创作和信息处理上更顺手。办公生产力方面，用户只需输入一段事件描述，就能在日历中添加或编辑安排。比如把午餐会改成咖啡交流，日历会自动调整相关细节。在 AI 方面，苹果重点推出了 Siri",
+      "fetched_at": "2026-09-14T23:05:20.915513+00:00"
     },
     {
       "id": "7c7a656dfb008abc",
-      "title": "苹果 iOS/iPadOS 27.0 正式版发布",
+      "title": "苹果 iOS / iPadOS 27.0 正式版发布：性能优化、升级 Siri AI，增强家长管控...",
       "link": "https://www.ithome.com/1/002/329.htm",
       "source_id": "ithome",
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-09-14T18:26:10+00:00",
-      "summary": "IT之家 9 月 15 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.0 更新（内部版本号：24A437）。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 27 发布历史： 2026-09-01：iOS",
-      "fetched_at": "2026-09-14T19:16:37.357675+00:00"
+      "summary": "IT之家 9 月 15 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.0 更新（内部版本号：24A437）。iOS 27 迎来多项性能优化，包括应用启动、显示照片、网络切换、AirDrop、硬盘读写等，以及 CPU 调度器升级。根据官方说法，升级 iOS 27 后，iPhone 和 iPad App 的打开速度最高提升 30%，新照片的显示速度最高提升",
+      "fetched_at": "2026-09-14T23:05:20.915665+00:00"
+    },
+    {
+      "id": "ebc5f99efd70aeae",
+      "title": "苹果儿童安全功能随 iOS 27 等更新上线：新增时间额度，可阻止血腥暴力及裸露内容",
+      "link": "https://www.ithome.com/1/002/326.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-14T17:16:21+00:00",
+      "summary": "IT之家 9 月 15 日消息，苹果公司今日宣布，其全新儿童安全功能已随 iOS 27、iPadOS 27 和 macOS 27 更新上线。家长可借此管理孩子看到的内容、可联系的人以及使用 App 的时间。这些功能基于苹果此前的家长控制功能，能帮助家长管理孩子观看的内容、联系的人员，以及使用 App 的时间。新的儿童账户设置流程更简单，让家长能更轻松地在系统中启用基于年龄的保护措施。家长一开始就可",
+      "fetched_at": "2026-09-14T23:05:20.915152+00:00"
+    },
+    {
+      "id": "57614f7bcb236e8e",
+      "title": "1059 美元起，V 社 Steam Frame VR 头显正式发布",
+      "link": "https://www.ithome.com/1/002/324.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-14T17:10:33+00:00",
+      "summary": "IT之家 9 月 15 日消息，V 社今日正式推出全新无线 VR 头显产品 Steam Frame，支持 VR 和非 VR 游戏，既可以串流运行整个 Steam 库游戏，也支持独立运行，现已开放预约登记。IT之家附 Steam 官方产品页链接（https://store.steampowered.com/hardware/steamframe）。据官方信息，Steam Frame 提供两个存储版本",
+      "fetched_at": "2026-09-14T23:05:20.915275+00:00"
+    },
+    {
+      "id": "17e50d026807651c",
+      "title": "节奏动作 RPG 全新 DLC《节奏裂隙：初音未来音乐包 2》上架 Steam，国区首发价 27.69 元",
+      "link": "https://www.ithome.com/1/002/322.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-14T16:41:59+00:00",
+      "summary": "IT之家 9 月 15 日消息，知名节奏动作 RPG《节奏裂隙》的全新 DLC 《节奏裂隙：初音未来音乐包 2》现已登陆 Steam 平台，该 DLC 需要拥有本体游戏才能游玩。IT之家附游戏商品页（https://store.steampowered.com/app/4888900/2/）。定价方面，《节奏裂隙：初音未来音乐包 2》国区原价 30.77 元，首发享受 -10% 折扣，折后价为 2",
+      "fetched_at": "2026-09-14T23:05:20.915730+00:00"
     },
     {
       "id": "39ad0b300b703f34",
@@ -11573,61 +11749,6 @@
       "published_at": "2026-09-07T23:12:53+00:00",
       "summary": "IT之家 9 月 8 日消息，科技媒体 Neowin 今天（9 月 8 日）发布博文，分享了关于 Windows 11 系统的一项使用技巧，通过修改注册表方式，可以将动态 GIF 图片设置为账户头像。IT之家援引博文介绍，附上前期准备步骤如下：1、在修改设置 GIF 动图之前，用户需要先设置个人资料图片。用户打开“设置”&gt;“账户”&gt;“你的信息”，点击当前账户图片下方的“浏览文件”，然后",
       "fetched_at": "2026-09-07T23:27:03.904323+00:00"
-    },
-    {
-      "id": "bb6a2718f7a5e5bc",
-      "title": "《任天堂明星大乱斗》等多款新作遭泄露，《Nintendogs》回归在列",
-      "link": "https://www.ithome.com/0/999/499.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-07T23:04:34+00:00",
-      "summary": "IT之家 9 月 8 日消息，在任天堂直面会前夕，一则涵盖多款重磅新作的爆料在玩家社区引发广泛关注。该消息来源于爆料者 Malo932—— 此人此前曾精准预测《塞尔达传说：时之笛 重制版》及《星际火狐》等多个第一方游戏，并提前数日准确预告了任天堂将连续举办两场直面会。据 Malo932 透露，一款全新的《任天堂明星大乱斗》游戏正在开发中，绝非“特别版”的移植或强化版。此外，任天堂经典电子宠物模拟系",
-      "fetched_at": "2026-09-07T23:27:03.904358+00:00"
-    },
-    {
-      "id": "068ccf110d8484a7",
-      "title": "《暗影蜘蛛侠》电视剧 8 集收官：5 项艾美奖与取消续订同周发生",
-      "link": "https://www.ithome.com/0/999/498.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-07T22:57:57+00:00",
-      "summary": "IT之家 9 月 8 日消息，科技媒体 macobserver 昨日（9 月 7 日）发布博文，报道称亚马逊 Prime Video 真人超级英雄电视剧《暗影蜘蛛侠》（Spider-Noir）在 2026 年创意艺术艾美奖上斩获 5 项大奖后，但是 Prime Video 已在数日前宣布不再续订第 2 季。IT之家查询公开资料，《暗影蜘蛛侠》（Spider-Man Noir / Spider-No",
-      "fetched_at": "2026-09-07T23:27:03.904396+00:00"
-    },
-    {
-      "id": "f20ee80725020f0a",
-      "title": "华为 Vision 智慧屏 6 悦享版发布：65 英寸至 98 英寸 4699~13499 元，Super MiniLED 鸿鹄画质",
-      "link": "https://www.ithome.com/0/999/497.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-07T22:50:42+00:00",
-      "summary": "IT之家 9 月 8 日消息，华为昨日推出了一款新的智能电视产品 ——Vision 智慧屏 6 悦享版，目前提供 65 英寸到 98 英寸多个尺寸版本，将于 9 月 16 日开售。IT之家汇总价格如下：65 英寸建议零售价 5999 元，首发价 4699 元，叠加国补后 3994.15 元。75 英寸建议零售价 6999 元，首发价 5849 元，叠加国补后 4,971.65 元85 英寸建议零售",
-      "fetched_at": "2026-09-07T23:27:03.904484+00:00"
-    },
-    {
-      "id": "6f30224f4ba08441",
-      "title": "智能体出海东南亚，还缺懂本土落地的人 ｜SEA Frontline",
-      "link": "https://www.tmtpost.com/8128887.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-09-07T22:45:11+00:00",
-      "summary": "智能体落地东南亚真正有价值的地方仍旧在那些还离不开本地的人、本地的信任、本地的判断力的环节。",
-      "fetched_at": "2026-09-07T23:27:06.501568+00:00"
-    },
-    {
-      "id": "f5157ee2adc845dc",
-      "title": "微软为 Win11 开发全新电池状态小组件，支持查看本机及外设电量",
-      "link": "https://www.ithome.com/0/999/496.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-07T22:18:33+00:00",
-      "summary": "IT之家 9 月 8 日消息，Windows Central 今日报道称，微软正为 Win11 开发一款全新的电池状态小组件，允许用户在锁屏界面或小组件面板中一站式查看电脑本机及所有已连接外设的剩余电量。该功能最早由 Discord 用户发现，尽管目前尚无法使用，但相关代码与素材已出现在最新的 Windows 11 预览版中。这款小组件将采用垂直列表布局，顶部显示电脑自身的电池电量，下方依次列出已",
-      "fetched_at": "2026-09-07T23:27:03.904512+00:00"
     }
   ]
 }
