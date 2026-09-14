@@ -1,7 +1,51 @@
 {
   "date": "2026-09-14",
-  "count": 1053,
+  "count": 1057,
   "items": [
+    {
+      "id": "cbd0f8c78fea93b3",
+      "title": "苹果 watchOS 27.0 正式版发布",
+      "link": "https://www.ithome.com/1/002/332.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-14T18:26:12+00:00",
+      "summary": "IT之家 9 月 15 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 更新（内部版本号：24R364）。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 watchOS 27 发布历史： 2026-09-10：watchOS 27.",
+      "fetched_at": "2026-09-14T19:16:37.357529+00:00"
+    },
+    {
+      "id": "82edefaf548a0b68",
+      "title": "苹果 visionOS 27.0 正式版发布",
+      "link": "https://www.ithome.com/1/002/331.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-14T18:26:11+00:00",
+      "summary": "IT之家 9 月 15 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 更新（内部版本号：24M362）。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史： 2026-09-10：visionOS 2",
+      "fetched_at": "2026-09-14T19:16:37.357584+00:00"
+    },
+    {
+      "id": "974e27bc8a23c5f4",
+      "title": "苹果 macOS 27.0 正式版发布",
+      "link": "https://www.ithome.com/1/002/330.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-14T18:26:11+00:00",
+      "summary": "IT之家 9 月 15 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 更新（内部版本号：26A428）。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 macOS 27 发布历史： 2026-09-10：macOS 27.0 RC (26A428",
+      "fetched_at": "2026-09-14T19:16:37.357631+00:00"
+    },
+    {
+      "id": "7c7a656dfb008abc",
+      "title": "苹果 iOS/iPadOS 27.0 正式版发布",
+      "link": "https://www.ithome.com/1/002/329.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-14T18:26:10+00:00",
+      "summary": "IT之家 9 月 15 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.0 更新（内部版本号：24A437）。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 27 发布历史： 2026-09-01：iOS",
+      "fetched_at": "2026-09-14T19:16:37.357675+00:00"
+    },
     {
       "id": "39ad0b300b703f34",
       "title": "小米澎程 N90 Max 探索版展车已进入全国 108 个城市的门店",
