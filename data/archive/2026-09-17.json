@@ -1,7 +1,172 @@
 {
   "date": "2026-09-17",
-  "count": 1047,
+  "count": 1059,
   "items": [
+    {
+      "id": "140826284dbe05df",
+      "title": "部分用户反馈 YouTube 移动端应用出现重大 Bug，视频仅能以最高 480P 清晰度播放",
+      "link": "https://www.ithome.com/1/003/890.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-17T23:24:34+00:00",
+      "summary": "IT之家 9 月 18 日消息，外媒 AndroidHeadlines 援引 Reddit 平台用户反馈，透露 YouTube 平台近期出现一项重大 Bug，导致部分用户只能以 480P 分辨率播放视频，无法选择更高画质。相应问题同时影响免费用户和 YouTube Premium 订阅用户。IT之家注意到，至少在一个月前就有用户报告出现此类问题，不过目前尚不清楚该 Bug 出现的具体原因，从现有反",
+      "fetched_at": "2026-09-17T23:30:55.994242+00:00"
+    },
+    {
+      "id": "de1381a3bcae5f7f",
+      "title": "苹果挑战英国加密命令保密政策，要求公开相关法律争议",
+      "link": "https://www.ithome.com/1/003/889.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-17T23:24:00+00:00",
+      "summary": "IT之家 9 月 18 日消息，据路透社当地时间 9 月 17 日报道，苹果当天在伦敦调查权力法庭（IPT）听证会上，公开挑战英国政府拒绝承认是否发出加密数据访问命令（要求苹果为 iCloud 加密数据提供访问入口）的立场。此次争议源于英国政府要求苹果提供访问加密用户数据的能力。英国政府长期实行“既不确认也不否认”（NCND）政策。苹果律师与民权组织“隐私国际”和“自由”的律师共同指出，英国政府的",
+      "fetched_at": "2026-09-17T23:30:55.994287+00:00"
+    },
+    {
+      "id": "dadd59b4998af109",
+      "title": "微软承认 Win10/Win11 版 Defender 防病毒会误报“已关闭”",
+      "link": "https://www.ithome.com/1/003/888.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-17T23:19:34+00:00",
+      "summary": "IT之家 9 月 18 日消息，科技媒体 TechPowerUp 昨日（9 月 17 日）发布博文，报道称微软承认在 Windows 11 系统中，安装 Defender Antivirus 最新更新后，用户可能会收到误报。报道指出在受影响设备上，系统会显示“Microsoft Defender 防病毒软件已关闭”的错误提示。微软表示，防病毒功能仍正常运行，设置界面也会显示为已启用。IT之家附上相",
+      "fetched_at": "2026-09-17T23:30:55.994329+00:00"
+    },
+    {
+      "id": "ca3b2cc173de3e08",
+      "title": "代码显示谷歌正为 Google Photos 应用引入“分享用二维码保存至本地”及全新“收藏集”标签页功能",
+      "link": "https://www.ithome.com/1/003/887.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-17T23:18:33+00:00",
+      "summary": "IT之家 9 月 18 日消息，外媒 Android Authority 在拆解谷歌最新 Google Photos 应用 7.93.0 版本时，发现谷歌计划进一步拓展照片二维码分享功能。作为参考，Google Photos &nbsp;多年来一直支持通过二维码分享相册，用户可以将完整相册发送给亲友。然而用户却无法将二维码直接保存至本地，只能通过截图的方式留存。外媒研究 7.93.0 版本代码时，",
+      "fetched_at": "2026-09-17T23:30:55.994351+00:00"
+    },
+    {
+      "id": "81e8bf083e6eee3b",
+      "title": "距离 AI 造 AI 还有多远？Anthropic Claude 已主导 26% 内部 AI 研发工作",
+      "link": "https://www.ithome.com/1/003/886.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-17T23:10:09+00:00",
+      "summary": "IT之家 9 月 18 日消息，Anthropic 今日发布了一套用于衡量前沿 AI 实验室研发进度的方法，并公布公司内部的阶段性数据。该体系主要关注 3 项指标：AI 参与 AI 研发的程度、AI 智能体的监督情况，以及算力在 AI 研发与安全研究之间的分配。Anthropic 称，随着 AI 能力的提升，AI 正在越来越多地参与下一代 AI 系统的研发。公司希望通过公开这些指标，让公众、第三方",
+      "fetched_at": "2026-09-17T23:30:55.994410+00:00"
+    },
+    {
+      "id": "8ef6897ec111eefb",
+      "title": "开发者成功令英伟达 DLSS 5 在浏览器里运行，苹果 macOS 也可体验",
+      "link": "https://www.ithome.com/1/003/885.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-17T23:09:09+00:00",
+      "summary": "IT之家 9 月 18 日消息，据外媒 TweakTown 报道，近期开发者 MAAN 在 X 平台展示了一项概念验证项目，成功让英伟达 DLSS 5 在 WebGPU 环境下直接处理浏览器中的 3D 图形，相应方案可在 macOS 设备上运行。目前项目已经提供在线演示（点此访问），开发者还计划将源代码发布至 GitHub，不过从实际体验来看，其运行速度仍然较慢，暂时不适合实时游戏场景。IT之家获",
+      "fetched_at": "2026-09-17T23:30:55.994448+00:00"
+    },
+    {
+      "id": "d145d1d078276415",
+      "title": "苹果向 iPhone 18 Pro / Max、Apple Watch Series 12 等推送发售首日更新",
+      "link": "https://www.ithome.com/1/003/884.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-17T23:03:21+00:00",
+      "summary": "IT之家 9 月 18 日消息，科技媒体 MacRumors 今天（9 月 18 日）发布博文，报道称苹果 iPhone 18 Pro、iPhone 18 Pro Max、Apple Watch Series 12、Apple Watch Ultra 4 和 AirPods 5 于今日发售，苹果同步推送了首日更新。该媒体指出苹果 iPhone 18 Pro（版本号 24A427）和 iPhone ",
+      "fetched_at": "2026-09-17T23:30:55.994520+00:00"
+    },
+    {
+      "id": "81aefdb47ca52694",
+      "title": "小岛秀夫分享新作《OD》开发进展：正按照原定计划推进游戏音频录制工作",
+      "link": "https://www.ithome.com/1/003/883.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-17T22:58:05+00:00",
+      "summary": "IT之家 9 月 18 日消息，小岛秀夫近日在东京电玩展期间分享了旗下游戏新作《OD》开发进展。受此前美国演员工会（SAG-AFTRA）罢工影响，《OD》的表演捕捉、对白及其他声音录制工作一度暂停，不过相关工作已于今年恢复，目前项目正在按照原定计划推进。小岛秀夫表示，《OD》的表演捕捉和 ADR（自动对白替换）录音此前均受到美国演员工会罢工影响，但如今已经重新启动。演员 Sophia Lillis",
+      "fetched_at": "2026-09-17T23:30:55.994542+00:00"
+    },
+    {
+      "id": "4f829e4c7ed1b87e",
+      "title": "英特尔 Nova Lake 平台加速推进，华擎 5 款 Z990 主板货运记录曝光",
+      "link": "https://www.ithome.com/1/003/882.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-17T22:50:53+00:00",
+      "summary": "IT之家 9 月 18 日消息，科技媒体 Club386 昨日（9 月 17 日）发布博文，通过挖掘海关物流追踪平台 NBD 货运记录，发现了 Intel Z990 主板的相关踪迹。根据 NBD 货运记录，该媒体认为主板厂商已为英特尔代号 Nova Lake 的桌面处理器落地做准备，相关产品已进入硬件物料测试与验证周期。IT之家援引博文介绍，在本次记录中，华擎申报的 5 款型号分别为：Z990 C",
+      "fetched_at": "2026-09-17T23:30:55.994589+00:00"
+    },
+    {
+      "id": "1948574141276a20",
+      "title": "安全顾虑成普及关键：外媒调查显示超七成受访者不愿令 OpenClaw 等 AI 工具完全控制自己的电脑",
+      "link": "https://www.ithome.com/1/003/881.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-17T22:50:41+00:00",
+      "summary": "IT之家 9 月 18 日消息，大语言模型（LLM）问世仅数年，但如今已经逐渐走出聊天窗口。从回答问题、修改邮件，到如今 OpenClaw 诞生，可代替用户操作电脑，减少大量重复劳动，但 OpenClaw 本身也是双刃剑，其虽然可以帮助人类完成相当复杂的任务，但本身存在一定风险，不法分子可以利用提示词注入等各种攻击方案对用户环境造成重大破坏。对此，外媒 Android Authority 发起一项",
+      "fetched_at": "2026-09-17T23:30:55.994614+00:00"
+    },
+    {
+      "id": "42d453ae16f7cfc1",
+      "title": "苹果 iPhone 18 Pro 系列电池保外更换费用上调 10 美元，现价 1048 元",
+      "link": "https://www.ithome.com/1/003/880.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-17T22:46:20+00:00",
+      "summary": "IT之家 9 月 18 日消息，Macrumors 今日发现，苹果已经上调了 iPhone 18 Pro 与 iPhone 18 Pro Max 的保外电池更换费用。根据苹果官网信息，在美国市场，这两款机型的电池更换费用为 129 美元（IT之家注：现汇率约合 867.2 元人民币），较此前 iPhone 16 Pro 和 iPhone 17 Pro 的 119 美元上涨了 10 美元（现汇率约合",
+      "fetched_at": "2026-09-17T23:30:55.994643+00:00"
+    },
+    {
+      "id": "fb0499c70f0110cf",
+      "title": "谷歌详解旗下全新 Noto 3D Emoji 表情符号设计理念：极简、克制、易辨识",
+      "link": "https://www.ithome.com/1/003/879.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-17T22:39:26+00:00",
+      "summary": "IT之家 9 月 18 日消息，谷歌发文，介绍了旗下 Noto 3D Emoji 表情符号的设计理念，解释了“如何在保留经典表情辨识度的同时，将原本的 2D 图形转化为 3D 形态”。谷歌表示，将用户已经熟悉的表情符号转换为 3D 并不是简单的立体化处理。设计团队没有刻意追求超写实的视觉效果，而是采用更加克制的设计方式，对每一个 3D 表情进行调整，使其保持通用性，并确保用户能够在第一时间识别其含",
+      "fetched_at": "2026-09-17T23:30:55.994675+00:00"
+    },
+    {
+      "id": "11cb075ca7a9c05f",
+      "title": "联想为摩托罗拉 Edge 70 手机推送正式版安卓 17 系统更新，暂缺失景深锁屏壁纸功能",
+      "link": "https://www.ithome.com/1/003/878.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-17T22:28:46+00:00",
+      "summary": "IT之家 9 月 18 日消息，据外媒 Andorid Headlines 报道，联想现已为旗下摩托罗拉 Edge 70 手机推送安卓 17 正式版更新。外媒表示，摩托罗拉此次安卓 17 更新进度并不算快。该公司早在今年 2 月便启动安卓 17 Beta 测试，经过较长时间等待后，摩托罗拉于上月首先为 Signature 推送安卓 17 稳定版，而 Edge 70 成为第二款获得该版本更新的设备。",
+      "fetched_at": "2026-09-17T23:30:55.994696+00:00"
+    },
+    {
+      "id": "97d51de15dc5a72f",
+      "title": "苹果在美国纽约举办摄影展，展示利用 iPhone 18 Pro 手机拍摄的作品",
+      "link": "https://www.ithome.com/1/003/877.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-17T22:21:23+00:00",
+      "summary": "IT之家 9 月 18 日消息，苹果宣布即日起至 9 月 20 日在美国纽约 456 West 18th Street 举办一场名为“What's Holds Us”的摄影展，集中展示使用 iPhone 18 Pro 拍摄的原创作品。据苹果介绍，本次展览邀请摄影师 Alex Prager、Jack Davison 和 Jimmy Chin 参与，三位摄影师均使用 iPhone 18 Pro 完成作",
+      "fetched_at": "2026-09-17T23:30:55.994729+00:00"
+    },
+    {
+      "id": "f3b1a4558fac1532",
+      "title": "新型安卓恶意木马 RatHat 现身：引入 AI 识别能力，可帮助黑客快速分析 / 操作受感染设备",
+      "link": "https://www.ithome.com/1/003/876.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-17T22:15:33+00:00",
+      "summary": "IT之家 9 月 18 日消息，安全公司 Zimperium 旗下 zLabs 研究团队发文，透露近日业界出现一种名为 RatHat 的新型安卓恶意木马。该恶意木马最大的特性是引入了 AI 识别机制，可以分析受感染设备的界面并辅助攻击者远程执行导航操作，从而进一步控制手机。IT之家获悉，相应木马主要面向中文环境用户下手，不法分子将其植入至各种诈骗 App 中进行传播。在受害者安装软件后，相应木马便",
+      "fetched_at": "2026-09-17T23:30:55.994757+00:00"
+    },
     {
       "id": "c8edbae22337d8ef",
       "title": "零跑官宣第二品牌，新车将有小米 SUV 同款升顶能力",
@@ -11,7 +176,7 @@
       "category": "tech",
       "published_at": "2026-09-17T16:52:31+00:00",
       "summary": "独属于零跑的造车方法论。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-09-17T20:13:53.986645+00:00"
+      "fetched_at": "2026-09-17T23:30:53.627754+00:00"
     },
     {
       "id": "2430f25921d51017",
@@ -22,7 +187,7 @@
       "category": "tech",
       "published_at": "2026-09-17T16:47:41+00:00",
       "summary": "小鹏的旗舰 SUV 齐了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-09-17T20:13:53.986672+00:00"
+      "fetched_at": "2026-09-17T23:30:53.627780+00:00"
     },
     {
       "id": "c210ee6ef50289bf",
@@ -33,7 +198,7 @@
       "category": "tech",
       "published_at": "2026-09-17T16:00:15+00:00",
       "summary": "IT之家 9 月 18 日消息，苹果最新发布的 Apple Watch Series 12 与 Apple Watch Ultra 4 两款智能手表今日正式发售。其中，Apple Watch Series 12 的 GPS 款国行起售价 2999 元（教育优惠 2699 元起），GPS + 蜂窝网络款 3799 元；Apple Watch Ultra 4 起售价 6499 元（教育优惠 5799 ",
-      "fetched_at": "2026-09-17T20:13:56.308154+00:00"
+      "fetched_at": "2026-09-17T23:30:55.994823+00:00"
     },
     {
       "id": "e835f7337d158fc9",
@@ -44,7 +209,7 @@
       "category": "tech",
       "published_at": "2026-09-17T16:00:14+00:00",
       "summary": "IT之家 9 月 18 日消息，苹果全新的 AirPods 5 无线耳机今日正式开售，官方定价 999 元起，配备无线充电盒的版本售价 1149 元。IT之家注意到，北京、江苏、大连、吉林（收货地址）可享 15% 国家补贴，以旧换新补贴至高 220 元。京东苹果 AirPods 5（支持主动降噪）搭配 USB-C 充电盒 蓝牙耳机 适用 iPhone / iPad / Mac999 元直达链接京东",
-      "fetched_at": "2026-09-17T20:13:56.308211+00:00"
+      "fetched_at": "2026-09-17T23:30:55.995010+00:00"
     },
     {
       "id": "dc985e33665b14af",
@@ -55,7 +220,7 @@
       "category": "tech",
       "published_at": "2026-09-17T16:00:14+00:00",
       "summary": "IT之家 9 月 18 日消息，苹果 iPhone 18 Pro 与 iPhone 18 Pro Max 两款机型将于 9 月 18 日正式开售，而如果是在苹果官网参与预购的用户也会在今天收到包裹。苹果 iPhone 18 Pro 国行起售价为 9999 元，iPhone 18 Pro Max 为 10999 元，均为 256GB 存储起步。京东苹果【需签收激活】iPhone 18 Pro 256",
-      "fetched_at": "2026-09-17T20:13:56.308336+00:00"
+      "fetched_at": "2026-09-17T23:30:55.994959+00:00"
     },
     {
       "id": "9a89277a3bd5ebd7",
@@ -11485,39 +11650,6 @@
       "published_at": "2026-09-10T23:33:11+00:00",
       "summary": "IT之家 9 月 11 日消息，科技媒体 MacRumors 昨日（9 月 10 日）发布博文，报道称苹果美国商店调整 Apple Watch Series 12 智能手表定价，进一步拉开 42mm 和 46mm 规格之间的差价。消息源指出 42mm 表壳的 Apple Watch Series 12 起售价仍为 399 美元（IT之家注：现汇率约合 2,683 元人民币），而 46mm 表壳的型",
       "fetched_at": "2026-09-11T00:59:09.688830+00:00"
-    },
-    {
-      "id": "359054d670db1a5f",
-      "title": "【钛晨报】证监会发声，事关“十五五”资本市场工作；DeepSeek V4.1 Flash模型正式发布；马斯克旗下The Boring Company完成30亿美元D轮融资，估值达230亿美元",
-      "link": "https://www.tmtpost.com/8135740.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-09-10T23:20:00+00:00",
-      "summary": "高德回应“扫雷榜”传闻：正式发布“避雷指南1.0”；A股龙头进入苹果首款折叠屏手机iPhone Duo供应链；HD现代重工将投资8336亿韩元建设新发动机工厂；星巴克拟斥资10亿美元改造多达9000家门店；《金融强国建设“十五五”规划》正式出台；国务院办公厅印发《关于加强中小企业回款难问题治理有关工作的通知》；农业农村部：到2030年，畜牧业高质量发展迈上新台阶；打破国外长期垄断，中国小型液质联用",
-      "fetched_at": "2026-09-11T00:59:13.001984+00:00"
-    },
-    {
-      "id": "0ce6325ff041a2bd",
-      "title": "派早报：商务部回应美国 AI 蒸馏指控",
-      "link": "https://sspai.com/post/114439",
-      "source_id": "sspai",
-      "source_name": "少数派",
-      "category": "tech",
-      "published_at": "2026-09-10T22:58:54+00:00",
-      "summary": "商务部回应美国 AI 蒸馏指控谷歌声称为了合规将「降级」欧盟搜索服务Apple 智能将有用量限制OpenAI 将与三星合作开发芯片小岛秀夫新游戏被索尼取消，转由微软发行DeepSeek V4.1 发布看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
-      "fetched_at": "2026-09-11T11:10:36.344084+00:00"
-    },
-    {
-      "id": "17cea1cbecb328da",
-      "title": "甲骨文 2027 财年第一财季归母净利润 46.79 亿美元，同比增长 60%",
-      "link": "https://www.ithome.com/1/001/052.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-10T20:20:44+00:00",
-      "summary": "IT之家 9 月 11 日消息，甲骨文今日发布 2027 财年（2026 年 6 月 1 日～2027 年 5 月 31 日）第一财季（2026 年 6 月 1 日～2026 年 8 月 31 日）报告： 营业总收入：193.45 亿美元（IT之家注：现汇率约合 1301.05 亿元人民币），同比增长 30% 归母净利润：46.79 亿美元（现汇率约合 314.69 亿元人民币），同比增长 60%",
-      "fetched_at": "2026-09-10T22:29:48.553608+00:00"
     }
   ]
 }
