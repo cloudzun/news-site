@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T20:32:47.948475+00:00",
-  "count": 1037,
+  "generated_at": "2026-09-19T22:55:33.342788+00:00",
+  "count": 1036,
   "sources": [
     {
       "id": "36kr",
@@ -35,6 +35,39 @@
   ],
   "items": [
     {
+      "id": "f506d79ee0cf063e",
+      "title": "苹果 M6 芯片 GPU 跑分曝光，相比 M5 提升约 20%",
+      "link": "https://www.ithome.com/1/004/576.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-19T22:51:53+00:00",
+      "summary": "IT之家 9 月 20 日消息，苹果 M6 芯片近日出现在 Geekbench 跑分数据库中，其 12 核 GPU 分别录得 4071 分、22783 分的单核 / 多核成绩，已经能够在多核方面追平 M3 Max。如今，苹果 M6 的 GPU 跑分成绩已经出现在 Geekbench 平台。在 Metal 基准测试中，该芯片的 12 核 GPU 录得 92000 分成绩。作为对比，M5（IT之家注：",
+      "fetched_at": "2026-09-19T22:55:25.736129+00:00"
+    },
+    {
+      "id": "ac919d2d977d2f38",
+      "title": "R 星《GTA6: The Album》官方原声专辑上线，官方同步放出多张全新艺术插画",
+      "link": "https://www.ithome.com/1/004/575.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-19T22:49:07+00:00",
+      "summary": "IT之家 9 月 20 日消息，R 星近日正式公布《GTA6: The Album》官方原声专辑，宣传物料同步放出露西娅与杰森多张全新艺术插画。本专辑由 R 星联合大西洋唱片制作，一共收录 34 首原创曲目，Travis Scott、Yung Lean、Keith Richards、Future、Metro Boomin 等众多音乐人参与创作。官方已提前放出 6 首单曲，可直接在各大流媒体平台收听",
+      "fetched_at": "2026-09-19T22:55:25.736156+00:00"
+    },
+    {
+      "id": "418c30e339cd984e",
+      "title": "HBO Max 官方 Reddit 账号遭黑客入侵，针对苹果 Mac 用户发起 ClickFix 钓鱼攻击",
+      "link": "https://www.ithome.com/1/004/574.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-19T22:43:45+00:00",
+      "summary": "IT之家 9 月 20 日消息，据外媒 borncity 报道，近期有黑客攻击者入侵了 HBO Max 官方 Reddit 账号，并利用该账号针对 Mac 用户开展一场持续约 48 小时的 ClickFix 钓鱼活动。公开信息显示，HBO Max 是华纳兄弟旗下的视频点播服务，于 2026 年 1 月 13 日起正式登陆德国市场，提供电视剧、电影以及华纳兄弟自制内容。不过事实上这些服务的官方账号通",
+      "fetched_at": "2026-09-19T22:55:25.736198+00:00"
+    },
+    {
       "id": "0f8549adc9853a60",
       "title": "专访苹果高管，揭秘 iPhone Duo 幕后工程和设计哲学 副本",
       "link": "https://www.ifanr.com/1680763?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -43,7 +76,7 @@
       "category": "tech",
       "published_at": "2026-09-19T16:00:45+00:00",
       "summary": "用不变的空间秩序，对抗折叠带来的「迷失感」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-09-19T20:32:40.625381+00:00"
+      "fetched_at": "2026-09-19T22:55:23.826705+00:00"
     },
     {
       "id": "b1e3e3312b7367f8",
@@ -11396,50 +11429,6 @@
       "published_at": "2026-09-12T22:58:52+00:00",
       "summary": "IT之家 9 月 13 日消息，特斯拉今日更新美国官网，宣布将于 10 月 1 日举办新活动，展示新一代 Roadster 电动超跑。据悉，特斯拉已向 Roadster 预订者发出了本次活动的电子门票。本次活动将于美东时间 10 月 1 日 20:30 在得克萨斯州韦科举行，距特斯拉奥斯汀总部车程约 90 分钟，具体位置暂未公布。有意参加的人士需在 9 月 16 日前确认参加活动，邀请函不可转让。",
       "fetched_at": "2026-09-13T00:53:45.205506+00:00"
-    },
-    {
-      "id": "98f373006c5439bb",
-      "title": "苹果在美国市场扩展 Apple Upgrade 租赁计划：新增 Mac / iPad 可选，每月支付 11.99 美元起",
-      "link": "https://www.ithome.com/1/001/671.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-12T22:50:15+00:00",
-      "summary": "IT之家 9 月 13 日消息，苹果今年 7 月以 Klarna 运营的 Apple Upgrade 租赁计划取代此前的 iPhone Upgrade Program，如今该计划覆盖范围已不再局限于 iPhone。根据苹果官方脚注，Mac 租赁价格为每月 24.99 美元（IT之家注：现汇率约合 168.1 元人民币）起，iPad 则为每月 11.99 美元（现汇率约合 80.6 元人民币）起，两",
-      "fetched_at": "2026-09-13T00:53:45.205587+00:00"
-    },
-    {
-      "id": "687cf6183e3d73c7",
-      "title": "苹果披露 iPhone 18 Pro / Duo 系列新品环境可持续报告：包装使用纤维基材料、Apple Watch Ultra 4 再生材料占比达 45%",
-      "link": "https://www.ithome.com/1/001/670.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-12T22:43:25+00:00",
-      "summary": "IT之家 9 月 13 日消息，据外媒 Macobserver 报道，苹果现已披露了 iPhone 18 Pro / Pro Max、iPhone Duo 及 Apple Watch Series 12 环境可持续性报告，相应产品均采用 100% 纤维基包装。其中，iPhone 18 Pro 产品环境报告中的表述最为完整。苹果明确表示，该产品包装“100% 采用纤维基材料，并且仅使用再生或负责任采",
-      "fetched_at": "2026-09-13T00:53:45.205619+00:00"
-    },
-    {
-      "id": "d5c7c8f4e9f26291",
-      "title": "奥尔特曼确认：OpenAI 今年不会上市",
-      "link": "https://www.ithome.com/1/001/669.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-12T22:42:59+00:00",
-      "summary": "IT之家 9 月 13 日消息，OpenAI 首席执行官萨姆 · 奥尔特曼本周五接受《财富》杂志采访，确认公司不会在今年上市。奥尔特曼指出，OpenAI 并不急于推进 IPO（首次公开募股）。他基于当前人工智能安全领域正在发生的事情认为，今年上市并不是一个明智的选择，且 OpenAI 没有这方面的压力。他补充道，OpenAI 会在业务和公司准备就绪、社会环境合适时再选择上市。当主持人询问公司是否会",
-      "fetched_at": "2026-09-13T00:53:45.205656+00:00"
-    },
-    {
-      "id": "ba435eed306455d0",
-      "title": "开发商 Shift Up 确认任天堂 Switch 2 版《剑星完全版》采用 32GB 容量卡带",
-      "link": "https://www.ithome.com/1/001/668.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-12T22:37:04+00:00",
-      "summary": "IT之家 9 月 13 日消息，开发商 Shift Up 进一步确认旗下动作游戏《剑星完全版（Stellar Blade）》任天堂 Switch 2 版实体版采用 32GB 容量卡带，游戏文件大小约 25.4GB。此前消息显示，任天堂还计划为 Switch 2 游戏提供 16GB 容量的卡带，允许小体积游戏开发者降低卡带生产成本。另参考IT之家先前报道，《剑星完全版》Switch 2 完整版将于 ",
-      "fetched_at": "2026-09-13T00:53:45.205697+00:00"
     }
   ]
 }
