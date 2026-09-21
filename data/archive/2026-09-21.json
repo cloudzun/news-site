@@ -1,7 +1,95 @@
 {
   "date": "2026-09-21",
-  "count": 1070,
+  "count": 1065,
   "items": [
+    {
+      "id": "732bfd313d6ca9d1",
+      "title": "小米 MiMo-V2.6 发布并开源：Pro 与 Flash 双版本，API 价格与前代持平",
+      "link": "https://www.ithome.com/1/005/496.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-21T23:05:45+00:00",
+      "summary": "IT之家 9 月 22 日消息，小米今日凌晨正式发布并开源了全新的 Xiaomi MiMo-V2.6 系列，包含 Pro 与 Flash 两个原生全模态模型。小米称这是其探索 RSI（递归自我改进）路径的关键一步，通过规模化扩展强化学习算力，让模型在持续的探索与反馈中拓展智能边界。得益于 RL 算力的扩展，MiMo-V2.6-Pro 在 Artificial Analysis Intelligen",
+      "fetched_at": "2026-09-21T23:13:11.502103+00:00"
+    },
+    {
+      "id": "da16d2cc31c249ef",
+      "title": "独立开发者称自己游戏新作遭其他开发商使用 AI 工具 1:1 恶意复刻，双方各执一词",
+      "link": "https://www.ithome.com/1/005/495.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-21T23:05:33+00:00",
+      "summary": "IT之家 9 月 22 日消息，据 IGN 报道，独立游戏开发者 Rado Klasa 发文，抨击一家名为 Golden Horn Studios 的开发商新作《Potato Please》预告片 1:1 复刻了自己的游戏《1,000,000 Potatoes》。IT之家获悉，《1,000,000 Potatoes》是一款第一人称物理模拟游戏，玩家需要利用物理机制削土豆。而这款《Potato Pl",
+      "fetched_at": "2026-09-21T23:13:11.502176+00:00"
+    },
+    {
+      "id": "1ee4dddcdbf7fb80",
+      "title": "马斯克 SpaceXAI 发布旗下最强编码和知识处理模型 Grok 4.7，百万词元输入 2 美元起",
+      "link": "https://www.ithome.com/1/005/494.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-21T22:56:49+00:00",
+      "summary": "IT之家 9 月 22 日消息，SpaceXAI 今日宣布推出新一代 Grok 4.7，主打编程和知识工作场景。官方称其采用全新更大规模基础模型，并通过更长时间的强化学习训练提升复杂任务处理能力，是该公司目前最强的编码和知识处理模型 —— 速度是同类模型的两倍，价格却只有一半。如前所述，Grok 4.7 针对编程和知识工作进行了优化。与 Grok 4.6 相比，新模型能够在困难任务上持续更长时间，",
+      "fetched_at": "2026-09-21T23:13:11.502232+00:00"
+    },
+    {
+      "id": "46a04ebf0e5e0e93",
+      "title": "Take-Two 出手清理《GTA 5》与《GTA 6》泄露内容，部分视频 / 模组已遭下架",
+      "link": "https://www.ithome.com/1/005/493.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-21T22:54:23+00:00",
+      "summary": "IT之家 9 月 22 日消息，据 IGN 报道，目前 Rockstar Games 的母公司 Take-Two Interactive 正开始清理网络上的最新《GTA 5》和《GTA 6》泄露内容，部分包含相关素材的视频和帖子已经被下架。参考IT之家先前报道，上周高达 192GB 的《GTA 5》文件在网络上流出。这些文件来自 2022 年针对 Rockstar 的黑客攻击，而当年的攻击也导致《",
+      "fetched_at": "2026-09-21T23:13:11.502270+00:00"
+    },
+    {
+      "id": "d7f1e3ae550130f5",
+      "title": "苹果停止签署 iOS 26.6.2：用户升级 iOS 27 大版本后不再支持降级",
+      "link": "https://www.ithome.com/1/005/492.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-21T22:46:29+00:00",
+      "summary": "IT之家 9 月 22 日消息，苹果现已停止签署 iOS 26.6.2，这意味着已经升级至 iOS 27 的用户无法再通过官方渠道降级至 iOS 26 的其他版本。作为参考，iOS 27 正式版本于 9 月 15 日正式发布，目前已经上线约一周。尽管苹果在 iOS 27 正式版发布同期推送了 iOS 26.7 版本，然而用户同样无法从 iOS 27 降级至 iOS 26.7。这是因为 iOS 26",
+      "fetched_at": "2026-09-21T23:13:11.502298+00:00"
+    },
+    {
+      "id": "6d4d1ee700f0b218",
+      "title": "苹果 iPhone 18 Pro 首批用户反馈 Face ID 问题：解锁失败后死机重启，部分用户无法完成设置",
+      "link": "https://www.ithome.com/1/005/491.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-21T22:43:42+00:00",
+      "summary": "IT之家 9 月 22 日消息，苹果新款 iPhone 18 Pro 和 iPhone 18 Pro Max 于当地时间 9 月 18 日开始陆续送达首批用户，但部分用户反馈 Face ID 出现异常。有部分早期用户在 Reddit 和各大论坛上反馈设备出现 Face ID 相关异常。当用户尝试通过 Face ID 解锁已设置应用锁的 App 时会偶发验证失败，随后设备可能卡死并重启回到锁屏界面。",
+      "fetched_at": "2026-09-21T23:13:11.502338+00:00"
+    },
+    {
+      "id": "4c448717ef18ca0b",
+      "title": "沙特阿拉伯首个本土汽车品牌 Ceer 首批车型公布：850 马力三电机，轿车 SUV 同平台",
+      "link": "https://www.ithome.com/1/005/490.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-21T22:39:21+00:00",
+      "summary": "IT之家 9 月 22 日消息，沙特阿拉伯首个本土汽车品牌 Ceer 近日正式公布成立以来的首批产品。该品牌由沙特公共投资基金（PIF）与台湾地区鸿海集团共同成立，此次推出的两款新车均基于“Exobot”平台打造，分别为轿车和 SUV。Ceer 计划在未来 5 年内继续推出 5 款车型，最终形成涵盖不同动力形式的 7 款车型产品线。此次亮相的两款车型均采用极具未来感的外观设计，由前迈凯伦设计总监 ",
+      "fetched_at": "2026-09-21T23:13:11.502388+00:00"
+    },
+    {
+      "id": "180c36abb8ed7036",
+      "title": "iOS 27.2 代码曝光：苹果正测试 iPhone 防抢夺功能，尚未启用",
+      "link": "https://www.ithome.com/1/005/488.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-21T22:33:02+00:00",
+      "summary": "IT之家 9 月 22 日消息，9to5Mac 在 iOS 27.2 Beta2 开发者测试版中发现，苹果仍在开发 iPhone 防抢自动锁定功能。该功能内部代号为“AutoLock”，目前尚未启用。代码显示，AutoLock 会综合多种信号判断 iPhone 是否可能被从用户手中抢走，包括：设备出现与抢夺动作相符的剧烈加速配对的 Apple Watch 在一段时间内无法连接与 Apple Wat",
+      "fetched_at": "2026-09-21T23:13:11.502418+00:00"
+    },
     {
       "id": "65d1a4e1ea510043",
       "title": "苹果 watchOS 27.2 开发者预览版 Beta 2 发布",
@@ -10,8 +98,8 @@
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-09-21T17:36:13+00:00",
-      "summary": "【点此直达升级教程】 IT之家 9 月 22 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 开发者预览版 Beta 2 更新（内部版本号：24S5091f），本次更新距离上次发布 Beta/RC 间隔 5 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计",
-      "fetched_at": "2026-09-21T19:19:40.345539+00:00"
+      "summary": "【点此直达升级教程】IT之家 9 月 22 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 开发者预览版 Beta 2 更新（内部版本号：24S5091f），本次更新距离上次发布 Beta / RC 间隔 5 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件",
+      "fetched_at": "2026-09-21T23:13:11.502472+00:00"
     },
     {
       "id": "acd45486a5fd7133",
@@ -21,8 +109,8 @@
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-09-21T17:36:13+00:00",
-      "summary": "IT之家 9 月 22 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 开发者预览版 Beta 2 更新（内部版本号：24N5093f），本次更新距离上次发布 Beta/RC 间隔 5 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。",
-      "fetched_at": "2026-09-21T19:19:40.345595+00:00"
+      "summary": "IT之家 9 月 22 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 开发者预览版 Beta 2 更新（内部版本号：24N5093f），本次更新距离上次发布 Beta / RC 间隔 5 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。目前尚无关于软件更新内容的任何消息。watchOS、t",
+      "fetched_at": "2026-09-21T23:13:11.502513+00:00"
     },
     {
       "id": "0c5fa4ea1e5dd06c",
@@ -32,19 +120,19 @@
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-09-21T17:36:12+00:00",
-      "summary": "IT之家 9 月 22 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 开发者预览版 Beta 2 更新（内部版本号：26B5091g），本次更新距离上次发布 Beta/RC 间隔 5 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新",
-      "fetched_at": "2026-09-21T19:19:40.345651+00:00"
+      "summary": "IT之家 9 月 22 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 开发者预览版 Beta 2 更新（内部版本号：26B5091g），本次更新距离上次发布 Beta / RC 间隔 5 天。如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件更",
+      "fetched_at": "2026-09-21T23:13:11.502579+00:00"
     },
     {
       "id": "e322ce900a605726",
-      "title": "苹果 iOS/iPadOS 27.2 开发者预览版 Beta 2 发布",
+      "title": "苹果 iOS / iPadOS 27.2 开发者预览版 Beta 2 发布",
       "link": "https://www.ithome.com/1/005/483.htm",
       "source_id": "ithome",
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-09-21T17:36:12+00:00",
-      "summary": "【点此直达升级教程】 IT之家 9 月 22 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2 开发者预览版 Beta 2 更新（内部版本号：24B5089g），本次更新距离上次发布 Beta/RC 间隔 5 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta",
-      "fetched_at": "2026-09-21T19:19:40.345706+00:00"
+      "summary": "【点此直达升级教程】IT之家 9 月 22 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.2 开发者预览版 Beta 2 更新（内部版本号：24B5089g），本次更新距离上次发布 Beta / RC 间隔 5 天。如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Be",
+      "fetched_at": "2026-09-21T23:13:11.502643+00:00"
     },
     {
       "id": "ff7815debdc23bbd",
@@ -55,7 +143,7 @@
       "category": "tech",
       "published_at": "2026-09-21T16:00:10+00:00",
       "summary": "IT之家 9 月 22 日消息，小米月初才开启众筹的米家夜灯 4 现已直接上架京东并开售，首发到手价 69 元起，首发期间晒单返 500 京豆（9 月 22 日-10 月 22 日）。京东米家夜灯 4 米家智能人体感应小夜灯婴儿喂奶起夜灯卫生间卧室床头灯磁吸充电 69 元直达链接米家夜灯 4 为全新升级版本，主打暗光感应，微动即亮，拥有多项核心升级。首先，这款产品升级 24GHz 雷达，人体感应更",
-      "fetched_at": "2026-09-21T19:19:40.345772+00:00"
+      "fetched_at": "2026-09-21T23:13:11.502704+00:00"
     },
     {
       "id": "5ad65ad635223aae",
@@ -11628,149 +11716,6 @@
       "published_at": "2026-09-15T00:06:40+00:00",
       "summary": "英伟达发布 RTX PRO 5500 Blackwell 专业显卡，阿凡途发布 AVENTHO Y 头戴式耳机等查看全文",
       "fetched_at": "2026-09-15T14:55:01.616465+00:00"
-    },
-    {
-      "id": "334739e92fe7c11d",
-      "title": "谷歌通知 9 月 21 日开放 GoogleBook 预购，融合安卓 / ChromeOS 特性",
-      "link": "https://www.ithome.com/1/002/346.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-14T23:05:03+00:00",
-      "summary": "IT之家 9 月 15 日消息，科技媒体 videocardz 昨日（9 月 14 日）发布博文，报道称基于其收到的邮件，谷歌计划美国东部时间 9 月 21 日上午 9 点（北京时间 21 日 21 点）开放 Googlebook 预购。这封邮件附有直接预购链接，但未披露产品价格，也未说明首批可购买的具体设备型号。在合作厂商方面，谷歌正与宏碁、华硕、戴尔、惠普及联想开发首批 Googlebook ",
-      "fetched_at": "2026-09-14T23:05:20.914707+00:00"
-    },
-    {
-      "id": "0bcaa6f68b511631",
-      "title": "id Software《毁灭战士：黑暗时代》游戏价格永降，Steam 国区现售 259 元起",
-      "link": "https://www.ithome.com/1/002/345.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-14T22:57:58+00:00",
-      "summary": "IT之家 9 月 15 日消息，id Software 旗下《毁灭战士：黑暗时代（DOOM：The Dark Ages）》于 2025 年 5 月 15 日发售，目前官方对这款游戏价格进行调整，IT之家汇总如下：降价前降价后标准版349 元259 元豪华版499 元359 元IT之家附游戏商品页如下：（https://store.steampowered.com/agecheck/app/3017",
-      "fetched_at": "2026-09-14T23:05:20.914753+00:00"
-    },
-    {
-      "id": "d4ddff9947cb1e80",
-      "title": "古尔曼盘点苹果 2026~2027 年后续新品：触屏 MacBook Pro 年底登场， iPad mini 首次采用 OLED 屏",
-      "link": "https://www.ithome.com/1/002/344.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-14T22:51:47+00:00",
-      "summary": "IT之家 9 月 15 日消息，彭博社记者马克 · 古尔曼今早发布最新报道，梳理了苹果在 iPhone Duo、iPhone 18 Pro 系列等新品发布之后，仍将在 2026 年剩余时间和 2027 年上半年推出的多款新品。这些产品由新任 CEO 约翰 · 特努斯主导推进。特努斯于 2026 年 9 月 1 日正式接替蒂姆 · 库克出任苹果 CEO。他与库克在内部将这套路线图描述为苹果史上规模最",
-      "fetched_at": "2026-09-14T23:05:20.914844+00:00"
-    },
-    {
-      "id": "96d8f13b989b6f7a",
-      "title": "Epic 喜加一：原价 15 元文字冒险游戏《Vanakan》免费领",
-      "link": "https://www.ithome.com/1/002/343.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-14T22:51:42+00:00",
-      "summary": "IT之家 9 月 15 日消息，由独立游戏开发者 Erik Khachatryan 与 Hayk Khachatryan 打造的文字冒险游戏《Vanakan》目前正在 Epic 游戏商店开启限时免费“喜加一”活动，本作在国区定价为 15 元，玩家可以在在 9 月 29 日免费领取。需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（https:/",
-      "fetched_at": "2026-09-14T23:05:20.914877+00:00"
-    },
-    {
-      "id": "27de41a7f832a5a2",
-      "title": "Steam 喜加一：原价 70 元方块消除对战游戏《Crystal Crisis》免费领",
-      "link": "https://www.ithome.com/1/002/342.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-14T22:48:14+00:00",
-      "summary": "IT之家 9 月 15 日消息，由 Nicalis 开发的方块消除益智对战游戏《Crystal Crisis》目前正在 Steam 平台开启限时免费“喜加一”活动，本作在国区定价为 70 元，限免活动截止至 9 月 22 日 14:59，IT之家附游戏 Steam 商品页（https://store.steampowered.com/app/447700/Crystal_Crisis/）。本作采用",
-      "fetched_at": "2026-09-14T23:05:20.914905+00:00"
-    },
-    {
-      "id": "c4a918802e2c5ff0",
-      "title": "OpenAI 联合创始人布罗克曼：人类已迈入通用人工智能时代",
-      "link": "https://www.ithome.com/1/002/341.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-14T22:45:38+00:00",
-      "summary": "IT之家 9 月 15 日消息，在接受 a16z 采访时，OpenAI 联合创始人格雷格 · 布罗克曼（Greg Brockman）表示，人类已经迈入通用人工智能时代。IT之家注：通用人工智能（Artificial General Intelligence，AGI）通常指能在广泛领域处理复杂认知任务，并能迁移、学习和完成新任务的 AI。OpenAI 在《OpenAI Charter》中给出的定义为",
-      "fetched_at": "2026-09-14T23:05:20.914941+00:00"
-    },
-    {
-      "id": "3e8feabd0fa03b20",
-      "title": "育碧宣布游戏《雷曼传奇：重制版》延期至 12 月 3 日推出，游戏已完成开发并进入至“压盘”状态",
-      "link": "https://www.ithome.com/1/002/340.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-14T22:44:40+00:00",
-      "summary": "IT之家 9 月 15 日消息，育碧宣布《雷曼传奇：重制版》已完成开发，并进入至“压盘”（Gone Gold）状态，不过官方决定本作将推迟发售，从原定的 10 月 1 日延期至 12 月 3 日推出。值得注意的是，“游戏已压盘但同时宣布延期”的情况并不常见。传统意义上的“压盘”通常意味着游戏已经完成最终版本，并将正式送往工厂制作实体光盘。不过，随着数字发行和首日补丁逐渐成为主流，这一术语的实际含义",
-      "fetched_at": "2026-09-14T23:05:20.914970+00:00"
-    },
-    {
-      "id": "f9ade0546ace334e",
-      "title": "《红霞岛》前创意总监反思项目：服务型游戏并非工作室专长、将从中汲取经验",
-      "link": "https://www.ithome.com/1/002/339.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-14T22:37:39+00:00",
-      "summary": "IT之家 9 月 15 日消息，据外媒 PCGamer 报道，Arkane Austin 前创意总监 Harvey Smith 回顾了《红霞岛》的开发经历，直言团队当初不该参与服务型游戏项目。他认为，这款作品最终未能形成完整统一的成果，项目类型也超出了团队原本擅长的领域。Smith 表示，Arkane 团队长期专注于沉浸式模拟游戏，转而制作服务型射击游戏本身就是一项艰难挑战。同时游戏发售时出现的多",
-      "fetched_at": "2026-09-14T23:05:20.915000+00:00"
-    },
-    {
-      "id": "c3bbfd2f41e50c49",
-      "title": "马斯克旗下 X 和 SpaceXAI 动议撤回针对苹果和 OpenAI 的诉讼指控",
-      "link": "https://www.ithome.com/1/002/338.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-14T22:33:48+00:00",
-      "summary": "IT之家 9 月 15 日消息，路透社今天（9 月 15 日）发布博文，报道称基于昨日（9 月 14 日）提交的法庭文件，全球首富埃隆 · 马斯克旗下的 X Corp. 和 SpaceXAI 提出动议，要求撤回去年针对苹果和 OpenAI 提起的诉讼指控。这起诉讼可以追溯到 2025 年 8 月，X Corp. （原推特）和 SpaceXAI（原 xAI）在得州联邦法院提起诉讼，指控苹果违反反垄断",
-      "fetched_at": "2026-09-14T23:05:20.915030+00:00"
-    },
-    {
-      "id": "dd0f9ad7a4a8ab40",
-      "title": "苹果 iOS / iPadOS 26.7 正式版发布：修复安全问题",
-      "link": "https://www.ithome.com/1/002/337.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-14T22:29:39+00:00",
-      "summary": "IT之家 9 月 15 日消息，苹果今天除了推送 iOS / iPadOS 27 正式版外，还面向不想升级相应大版本的用户推出了 iOS / iPadOS 26.7 版本，用户进入“软件更新”页面检查新版本时，系统默认显示 iPadOS 26.7，而 iPadOS 27 会作为可选更新出现在页面底部。根据苹果发布的更新说明，iOS / iPadOS 26.7 主要包含安全修复，未加入其他新功能。苹",
-      "fetched_at": "2026-09-14T23:05:20.915057+00:00"
-    },
-    {
-      "id": "70c5c0215cdc1004",
-      "title": "苹果为 AirPods Pro 3 等耳机推送 9A348 新固件",
-      "link": "https://www.ithome.com/1/002/336.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-14T22:18:48+00:00",
-      "summary": "IT之家 9 月 15 日消息，科技媒体 9to5Mac 今天（9 月 15 日）发布博文，报道称苹果面向 AirPods Pro 3 等耳机，推送版本号为 9A348 的全新固件。适配范围上，IT之家援引博文介绍，本次 AirPods Firmware 9.0 (9A348) 固件更新适用于以下 4 款耳机：AirPods Pro 3AirPods Pro 2AirPods 4AirPods M",
-      "fetched_at": "2026-09-14T23:05:20.915207+00:00"
-    },
-    {
-      "id": "087e51ae2ad2ee82",
-      "title": "V 社推送 SteamOS Beta / 预览版推送更新：修复风扇转速异常问题",
-      "link": "https://www.ithome.com/1/002/335.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-14T22:00:33+00:00",
-      "summary": "IT之家 9 月 15 日消息，Valve 今日向 SteamOS Beta 和预览通道推送了最新测试更新，本次更新主要针对风扇控制问题进行修复，新功能仍处于测试阶段，用户可通过设置 &gt; 系统 &gt; 系统更新通道加入测试通道体验。通用更新修复了一个罕见问题：风扇转速会恢复为 BIOS 控制直至设备重启，该问题会导致风扇转速高于正常水平据IT之家此前报道，Valve 此前刚发布 Steam",
-      "fetched_at": "2026-09-14T23:05:20.915302+00:00"
-    },
-    {
-      "id": "d8c8ca5b52953482",
-      "title": "Steam 小队角色扮演节促销活动正式开启：海量组队 RPG 游戏打折，持续至 9 月 21 日",
-      "link": "https://www.ithome.com/1/002/333.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-14T19:20:23+00:00",
-      "summary": "IT之家 9 月 15 日消息，Valve 正式开启 Steam 小队角色扮演节（Party-Based RPG Fest），集中展示并打折促销各类支持多角色组队玩法的角色扮演游戏，活动将持续至 9 月 21 日。本次游戏节集结了所有以队伍角色扮演为核心玩法的游戏，玩家可以在这些游戏中操控多名角色、升级成长、使用魔法、展开战斗，体验宏大史诗任务或惊险偷盗行动等丰富内容。官方表示「人多力量大」，符合",
-      "fetched_at": "2026-09-14T23:05:20.915109+00:00"
     }
   ]
 }
