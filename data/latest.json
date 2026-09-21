@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T13:58:41.817868+00:00",
-  "count": 1072,
+  "generated_at": "2026-09-21T19:19:48.094168+00:00",
+  "count": 1070,
   "sources": [
     {
       "id": "36kr",
@@ -34,6 +34,61 @@
     }
   ],
   "items": [
+    {
+      "id": "65d1a4e1ea510043",
+      "title": "苹果 watchOS 27.2 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/1/005/486.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-21T17:36:13+00:00",
+      "summary": "【点此直达升级教程】 IT之家 9 月 22 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 开发者预览版 Beta 2 更新（内部版本号：24S5091f），本次更新距离上次发布 Beta/RC 间隔 5 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计",
+      "fetched_at": "2026-09-21T19:19:40.345539+00:00"
+    },
+    {
+      "id": "acd45486a5fd7133",
+      "title": "苹果 visionOS 27.2 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/1/005/485.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-21T17:36:13+00:00",
+      "summary": "IT之家 9 月 22 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 开发者预览版 Beta 2 更新（内部版本号：24N5093f），本次更新距离上次发布 Beta/RC 间隔 5 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。",
+      "fetched_at": "2026-09-21T19:19:40.345595+00:00"
+    },
+    {
+      "id": "0c5fa4ea1e5dd06c",
+      "title": "苹果 macOS 27.2 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/1/005/484.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-21T17:36:12+00:00",
+      "summary": "IT之家 9 月 22 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 开发者预览版 Beta 2 更新（内部版本号：26B5091g），本次更新距离上次发布 Beta/RC 间隔 5 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新",
+      "fetched_at": "2026-09-21T19:19:40.345651+00:00"
+    },
+    {
+      "id": "e322ce900a605726",
+      "title": "苹果 iOS/iPadOS 27.2 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/1/005/483.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-21T17:36:12+00:00",
+      "summary": "【点此直达升级教程】 IT之家 9 月 22 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2 开发者预览版 Beta 2 更新（内部版本号：24B5089g），本次更新距离上次发布 Beta/RC 间隔 5 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta",
+      "fetched_at": "2026-09-21T19:19:40.345706+00:00"
+    },
+    {
+      "id": "ff7815debdc23bbd",
+      "title": "小米 69 元米家夜灯 4 开售：支持磁吸 / 悬挂 / 粘贴 + 8 个月长续航",
+      "link": "https://www.ithome.com/1/005/480.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-21T16:00:10+00:00",
+      "summary": "IT之家 9 月 22 日消息，小米月初才开启众筹的米家夜灯 4 现已直接上架京东并开售，首发到手价 69 元起，首发期间晒单返 500 京豆（9 月 22 日-10 月 22 日）。京东米家夜灯 4 米家智能人体感应小夜灯婴儿喂奶起夜灯卫生间卧室床头灯磁吸充电 69 元直达链接米家夜灯 4 为全新升级版本，主打暗光感应，微动即亮，拥有多项核心升级。首先，这款产品升级 24GHz 雷达，人体感应更",
+      "fetched_at": "2026-09-21T19:19:40.345772+00:00"
+    },
     {
       "id": "5ad65ad635223aae",
       "title": "联发科技面向 Googlebook 推出天玑 CX C10 Max SoC",
@@ -11748,83 +11803,6 @@
       "published_at": "2026-09-14T19:20:23+00:00",
       "summary": "IT之家 9 月 15 日消息，Valve 正式开启 Steam 小队角色扮演节（Party-Based RPG Fest），集中展示并打折促销各类支持多角色组队玩法的角色扮演游戏，活动将持续至 9 月 21 日。本次游戏节集结了所有以队伍角色扮演为核心玩法的游戏，玩家可以在这些游戏中操控多名角色、升级成长、使用魔法、展开战斗，体验宏大史诗任务或惊险偷盗行动等丰富内容。官方表示「人多力量大」，符合",
       "fetched_at": "2026-09-14T23:05:20.915109+00:00"
-    },
-    {
-      "id": "cbd0f8c78fea93b3",
-      "title": "苹果 watchOS 27.0 正式版发布：Siri AI 全面升级，健康功能扩展",
-      "link": "https://www.ithome.com/1/002/332.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-14T18:26:12+00:00",
-      "summary": "IT之家 9 月 15 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 更新（内部版本号：24R364），兼容 Apple Watch Series 9 及后续机型、Apple Watch Ultra 2 及后续机型，以及 Apple Watch SE 3。用户可以在手表上通过“设置”App 免费下载安装。需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些",
-      "fetched_at": "2026-09-14T23:05:20.915382+00:00"
-    },
-    {
-      "id": "82edefaf548a0b68",
-      "title": "苹果 visionOS 27.0 正式版发布：Siri AI、4K 录制与 Wi-Fi 提速",
-      "link": "https://www.ithome.com/1/002/331.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-14T18:26:11+00:00",
-      "summary": "IT之家 9 月 15 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 更新（内部版本号：24M362），适用于两个版本的 Vision Pro 头显。用户可在设置中选择“通用”，再进入“软件更新”下载。安装更新时需摘下头显，EyeSight 显示屏会显示进度条。需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时",
-      "fetched_at": "2026-09-14T23:05:20.915461+00:00"
-    },
-    {
-      "id": "974e27bc8a23c5f4",
-      "title": "苹果 macOS 27.0 正式版发布：Siri 独立 App、引入多项智能辅助...",
-      "link": "https://www.ithome.com/1/002/330.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-14T18:26:11+00:00",
-      "summary": "IT之家 9 月 15 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 更新（内部版本号：26A428）。苹果 macOS 27 重点聚焦智能辅助、系统体验与日常办公场景，目标是让 Mac 在沟通、创作和信息处理上更顺手。办公生产力方面，用户只需输入一段事件描述，就能在日历中添加或编辑安排。比如把午餐会改成咖啡交流，日历会自动调整相关细节。在 AI 方面，苹果重点推出了 Siri",
-      "fetched_at": "2026-09-14T23:05:20.915513+00:00"
-    },
-    {
-      "id": "7c7a656dfb008abc",
-      "title": "苹果 iOS / iPadOS 27.0 正式版发布：性能优化、升级 Siri AI，增强家长管控...",
-      "link": "https://www.ithome.com/1/002/329.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-14T18:26:10+00:00",
-      "summary": "IT之家 9 月 15 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.0 更新（内部版本号：24A437）。iOS 27 迎来多项性能优化，包括应用启动、显示照片、网络切换、AirDrop、硬盘读写等，以及 CPU 调度器升级。根据官方说法，升级 iOS 27 后，iPhone 和 iPad App 的打开速度最高提升 30%，新照片的显示速度最高提升",
-      "fetched_at": "2026-09-14T23:05:20.915665+00:00"
-    },
-    {
-      "id": "ebc5f99efd70aeae",
-      "title": "苹果儿童安全功能随 iOS 27 等更新上线：新增时间额度，可阻止血腥暴力及裸露内容",
-      "link": "https://www.ithome.com/1/002/326.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-14T17:16:21+00:00",
-      "summary": "IT之家 9 月 15 日消息，苹果公司今日宣布，其全新儿童安全功能已随 iOS 27、iPadOS 27 和 macOS 27 更新上线。家长可借此管理孩子看到的内容、可联系的人以及使用 App 的时间。这些功能基于苹果此前的家长控制功能，能帮助家长管理孩子观看的内容、联系的人员，以及使用 App 的时间。新的儿童账户设置流程更简单，让家长能更轻松地在系统中启用基于年龄的保护措施。家长一开始就可",
-      "fetched_at": "2026-09-14T23:05:20.915152+00:00"
-    },
-    {
-      "id": "57614f7bcb236e8e",
-      "title": "1059 美元起，V 社 Steam Frame VR 头显正式发布",
-      "link": "https://www.ithome.com/1/002/324.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-14T17:10:33+00:00",
-      "summary": "IT之家 9 月 15 日消息，V 社今日正式推出全新无线 VR 头显产品 Steam Frame，支持 VR 和非 VR 游戏，既可以串流运行整个 Steam 库游戏，也支持独立运行，现已开放预约登记。IT之家附 Steam 官方产品页链接（https://store.steampowered.com/hardware/steamframe）。据官方信息，Steam Frame 提供两个存储版本",
-      "fetched_at": "2026-09-14T23:05:20.915275+00:00"
-    },
-    {
-      "id": "17e50d026807651c",
-      "title": "节奏动作 RPG 全新 DLC《节奏裂隙：初音未来音乐包 2》上架 Steam，国区首发价 27.69 元",
-      "link": "https://www.ithome.com/1/002/322.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-14T16:41:59+00:00",
-      "summary": "IT之家 9 月 15 日消息，知名节奏动作 RPG《节奏裂隙》的全新 DLC 《节奏裂隙：初音未来音乐包 2》现已登陆 Steam 平台，该 DLC 需要拥有本体游戏才能游玩。IT之家附游戏商品页（https://store.steampowered.com/app/4888900/2/）。定价方面，《节奏裂隙：初音未来音乐包 2》国区原价 30.77 元，首发享受 -10% 折扣，折后价为 2",
-      "fetched_at": "2026-09-14T23:05:20.915730+00:00"
     }
   ]
 }
