@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T04:44:40.415015+00:00",
-  "count": 1056,
+  "generated_at": "2026-09-22T09:52:14.402280+00:00",
+  "count": 1064,
   "sources": [
     {
       "id": "36kr",
@@ -35,6 +35,633 @@
   ],
   "items": [
     {
+      "id": "deb4ec473bc89984",
+      "title": "超频三预告北境 GT360 Max ARGB 液冷：机甲风 CNC 冷头，4\" 480p 无边框方屏",
+      "link": "https://www.ithome.com/1/005/880.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T09:44:02+00:00",
+      "summary": "IT之家 9 月 22 日消息，超频三 (CPS, Pccooler) 近日宣布即将发售处理器一体式 (AIO) 液冷散热器新品北境 GT360 Max ARGB。这一型号拥有磁吸式机甲风 CNC 冷头模块，集成 4\" 480p 无边框方屏。这款液冷搭载第二代全陶瓷轴承水泵，底座集成超精密微水道，搭配 EPDM 复合材质水冷管，拥有全铝 CNC 水管保护套，整体采用“稳定可靠”冷液；标配水管理线夹",
+      "fetched_at": "2026-09-22T09:52:06.839715+00:00"
+    },
+    {
+      "id": "acc88efc35943a0d",
+      "title": "AI 助力古籍修复：Apollo 大语言模型问世，专门用于解读古希腊莎草纸残片",
+      "link": "https://www.ithome.com/1/005/878.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T09:42:52+00:00",
+      "summary": "IT之家 9 月 22 日消息，据 《连线》（WIRED）报道，全球各地高校图书馆保存着数十万份古希腊莎草纸残片，不少残片损毁严重，其内容或许已无法解读；对于其余尚存修复希望的文本，学者只能依靠人工逐条补全缺失的词句完成复原。为加快这项繁重的工作，研究人员开始借助人工智能。奥地利科学院将于当地时间周三正式发布了全球首款面向古希腊语的高级大语言模型。该项目由奥地利科学院联合法国 AI 实验室 Mis",
+      "fetched_at": "2026-09-22T09:52:06.839751+00:00"
+    },
+    {
+      "id": "58a79c1ffd924809",
+      "title": "阿里云加速构建Agentic Cloud：推出AgentCore、新一代CPFS等重磅新品",
+      "link": "https://www.leiphone.com/category/industrynews/HNWVHr1WinHMKzsN.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-22T09:38:00+00:00",
+      "summary": "9月22日，2026杭州云栖大会上，阿里云CTO李飞飞系统性阐述了Agentic Cloud 战略布局，阿里云将Model、Harness、Context作为核心构建场景，推出全新的云上算力底座和Agent 构建治理平台AgentCore、Agent Sandbox、新一代高性能存储CPFS等一系列新品，让 AI 真正进入生产流程、走向规模化价值创造。&nbsp;&nbsp;随着2026年Agen",
+      "fetched_at": "2026-09-22T09:52:13.013834+00:00"
+    },
+    {
+      "id": "2cefddf615871b29",
+      "title": "苹果 watchOS 27.2 Beta 2 系统新变化：后台界面回归，启动方式有所不同",
+      "link": "https://www.ithome.com/1/005/867.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T09:35:12+00:00",
+      "summary": "IT之家 9 月 22 日消息，据科技媒体 macrumors 今天报道，苹果似乎听取了用户反馈，在 watchOS 27.2 开发者预览版 Beta 2 系统中带回了后台界面，不过启动方式相比以往有所不同。IT之家了解到，在 watchOS 26 系统中，用户连按两下数码表冠即可打开应用程序切换器，可在最近使用的不同 App 之间切换，也可以左滑卡片关闭某个 App。但在 watchOS 27 ",
+      "fetched_at": "2026-09-22T09:52:06.839767+00:00"
+    },
+    {
+      "id": "06d4df6ef19888f7",
+      "title": "30 余年历史太空媒体 Space Daily 被 AI“接管”，虚构 NASA 工程师批量生成垃圾内容",
+      "link": "https://www.ithome.com/1/005/859.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T09:31:46+00:00",
+      "summary": "IT之家 9 月 22 日消息，当地时间 21 日，外媒 Futurism 披露，运营超过 30 年的太空媒体 Space Daily，在被 Brown Brothers Media 收购后几乎面目全非。这家公司把原本的 Space Daily 变成了一座内容农场，大量炮制具有误导性、信源质量低下的 AI 垃圾内容。Futurism 调查发现，Space Daily 每月浏览量估计达到 1000 ",
+      "fetched_at": "2026-09-22T09:52:06.839802+00:00"
+    },
+    {
+      "id": "2fe4855e7e3bf863",
+      "title": "当朱江明开始谈苹果，零跑的底气从哪来？",
+      "link": "https://www.tmtpost.com/8148951.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-22T09:31:34+00:00",
+      "summary": "从这次技术日释放的信息来看，零跑正在逐步形成一套更清晰的技术路径。",
+      "fetched_at": "2026-09-22T09:52:09.112954+00:00"
+    },
+    {
+      "id": "e1eee09cf4b1d4ec",
+      "title": "消息称三星晶圆代工考虑扩大 4nm、2nm 产能，应对 HBM Base Die 需求",
+      "link": "https://www.ithome.com/1/005/853.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T09:30:20+00:00",
+      "summary": "IT之家 9 月 22 日消息，韩媒 MONEYTODAY 当地时间昨日报道称，三星电子的晶圆代工业务正考虑新建 4nm 与 2nm 生产线，以扩大这两个制程节点上的制造能力，应对 HBM 内存对先进基础裸片 (Base Die) 的旺盛需求。▲ 三星晶圆代工 SF4标准产品方面，三星电子存储器业务已确认将在 HBM4 (E) 世代使用 4nm Base Die，而其 HBM5 内存则将升级到 2",
+      "fetched_at": "2026-09-22T09:52:06.839822+00:00"
+    },
+    {
+      "id": "c20c4119e25dde1d",
+      "title": "2026年中报基金盈利投资者数量占比分析",
+      "link": "https://www.tmtpost.com/8148978.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-22T09:23:17+00:00",
+      "summary": "从全市场混合型基金的整体表现来看，盈利投资者数量占比均值为78.52%，中位数为91.97%，合计盈利投资者数量占比均值低于中位数水平，反映出绝大多数基金的投资者盈利占比处于较高水平，仅少量产品因细分品类风险暴露差异、业绩表现靠后等因素盈利占比均值显著偏低，进而拉低了全市场整体均值，基金间投资者盈利体验分化明显。",
+      "fetched_at": "2026-09-22T09:52:09.112966+00:00"
+    },
+    {
+      "id": "796136dcbab20624",
+      "title": "上市公司TOP5济安评估（9月14日至9月20日）",
+      "link": "https://www.tmtpost.com/8148976.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-22T09:23:06+00:00",
+      "summary": "本周机构调研热度较上周环比回落，中报披露季带来的集中调研高峰已过，调研节奏从密集验证期转向常态化跟踪期。调研数据不仅反映了资金关注方向，也折射出当前行业景气度的变化趋势。谁是本周最受机构青睐的公司？",
+      "fetched_at": "2026-09-22T09:52:09.112972+00:00"
+    },
+    {
+      "id": "2bb9d27d4300ab69",
+      "title": "AI概念越来越宽，行业分类为什么反而需要更细？",
+      "link": "https://www.tmtpost.com/8148965.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-22T09:22:55+00:00",
+      "summary": "行业分类本身不产生收益，却决定一家公司和谁比较、被放进哪个估值中枢，也决定投资者看到的\"行业平均值\"究竟意味着什么。",
+      "fetched_at": "2026-09-22T09:52:09.112987+00:00"
+    },
+    {
+      "id": "0544278a7e5510ff",
+      "title": "价值判断：跌停板的投资机会和风险提示（9月21日）｜上市公司观察",
+      "link": "https://www.tmtpost.com/8148962.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-22T09:22:41+00:00",
+      "summary": "盘面上，医药（化学制药、CRO、医疗服务）与房地产（房地产服务、房地产开发）双线爆发领涨，零售、旅游酒店等消费方向表现活跃；白色家电、贵金属、电池等方向领跌，半导体等前期科技硬件高位退潮。指数温和上行、板块高低切换，跌停个股多源于前期涨幅透支后的估值回归，或因重大事项引发预期分歧，跌停家数有限、市场无需系统性避险。",
+      "fetched_at": "2026-09-22T09:52:09.112994+00:00"
+    },
+    {
+      "id": "e570059aa96ff3ad",
+      "title": "价值判断：涨停板的投资机会和风险提示（9月21日）｜上市公司观察",
+      "link": "https://www.tmtpost.com/8148959.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-22T09:22:31+00:00",
+      "summary": "盘面上，医药（化学制药、CRO、医疗服务）与房地产（房地产服务、房地产开发）双线爆发领涨，零售、旅游酒店等消费方向表现活跃；白色家电、贵金属、电池等方向领跌，半导体等前期科技硬件高位退潮。指数温和上行、板块高低切换，首次涨停的深度低估标的多集中于电梯产业链、居住服务等顺周期方向，而连续涨停的显著溢价标的则集中于地产链与区域零售。",
+      "fetched_at": "2026-09-22T09:52:09.113001+00:00"
+    },
+    {
+      "id": "c385074f2de6c984",
+      "title": "vivo X500 Pro/Pro Max 手机新增 16+512GB、16+1TB 版本，7999 元起",
+      "link": "https://www.ithome.com/1/005/852.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T09:15:42+00:00",
+      "summary": "IT之家 9 月 22 日消息，vivo 昨天举行新品发布会，推出 X500 Pro、X500 Pro Max 等手机，定价 6499 元起。不过，发布会现场并没有公布 16GB+512GB、16GB+1TB 普通版等往年常见的规格，仅 Pro Max 机型有 16GB+1TB 卫星通信版本，售价 12999 元。IT之家发现，如今 vivo 已在电商平台悄悄上架了 Pro 和 Pro Max 机",
+      "fetched_at": "2026-09-22T09:52:06.839860+00:00"
+    },
+    {
+      "id": "508e924ecc877ae8",
+      "title": "AI 也搞“同行评审”？曝 OpenAI 与 Anthropic 曾讨论互测彼此模型",
+      "link": "https://www.ithome.com/1/005/851.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T09:14:19+00:00",
+      "summary": "IT之家 9 月 22 日消息，当地时间 21 日，据《The Information》援引一名直接了解谈判情况的人士消息称，在近期一连串涉及 OpenAI 技术的网络安全事件发生，以及业内人士密集发出严重警告之前，OpenAI 就与 Anthropic 商讨了一份具有法律约束力的协议，由双方相互对对方模型进行压力测试。今年早些时候，OpenAI、Anthropic 及双方律师围绕具体协议展开磋商",
+      "fetched_at": "2026-09-22T09:52:06.839884+00:00"
+    },
+    {
+      "id": "e4734ffbc2f2bace",
+      "title": "Durabook 发布强固型移动工作站 Z14I-DX3：原生三屏配置，整机 9.8kg",
+      "link": "https://www.ithome.com/1/005/850.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T09:13:07+00:00",
+      "summary": "IT之家 9 月 22 日消息，Durabook 今日发布强固型边缘 AI 移动工作站 Z14I-DX3。这一笔记本电脑原生集成 3 块 14\" FHD 显示面板，可同时展示大量的不同视觉信息，整机质量达到 9.8kg。Z14I-DX3 基于英特尔 \"Meteor Lake U\" 处理器，支持选配 NVIDIA RTX 5000 Ada 架构笔记本电脑 GPU。其三块屏幕均支持电容式多点触控，亮度",
+      "fetched_at": "2026-09-22T09:52:06.839903+00:00"
+    },
+    {
+      "id": "ab6426b091757abd",
+      "title": "迈凯伦发布全新品牌 Logo，灵感源自创始人作坊招牌",
+      "link": "https://www.ithome.com/1/005/848.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T09:09:26+00:00",
+      "summary": "IT之家 9 月 22 日消息，迈凯伦成为又一家更换品牌 Logo 的车企，这款极简风格的新版文字标识今后将全面应用于旗下所有车型、周边商品以及线上数字渠道；与此同时，品牌正式迈入大规模扩张与业务多元化的新阶段。迈凯伦表示，全新标识的设计灵感来源于赛车传承以及创始人布鲁斯 · 迈凯伦（Bruce McLaren）在新西兰的工作室招牌。这套更新后的品牌视觉既要体现企业的发展蜕变，同时保留那些让迈凯伦",
+      "fetched_at": "2026-09-22T09:52:06.839934+00:00"
+    },
+    {
+      "id": "f8ced9e8d63e9cc8",
+      "title": "千问办公押注的企业上下文，是 Agent 时代的组织语言",
+      "link": "https://www.ifanr.com/1681363?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source_id": "ifanr",
+      "source_name": "爱范儿",
+      "category": "tech",
+      "published_at": "2026-09-22T09:06:44+00:00",
+      "summary": "给 Agent 一张组织里的工牌 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "fetched_at": "2026-09-22T09:52:05.187316+00:00"
+    },
+    {
+      "id": "e9ef7b739f5fb35e",
+      "title": "首部演员授权 AI 长剧：爱奇艺网剧《不羡鸳鸯只羡仙》官宣，沈羽洁、陈鹤一主演，网友直呼诡异",
+      "link": "https://www.ithome.com/1/005/847.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T09:04:52+00:00",
+      "summary": "IT之家 9 月 22 日消息，2026 爱奇艺悦享会将于 9 月 23 日举行，爱奇艺官方今日晒出的一段预热视频引发网络热议。根据爱奇艺官方介绍，超长真人出演 AI 季播剧《不羡鸳鸯只羡仙》将由沈羽洁、陈鹤一领衔主演。视频中，两位演员以 AI 生成形象露面，为新剧进行预热。IT之家注意到，该视频发布后，“长剧出现真人 AI 好诡异”话题登上微博热搜，不少网友表示看起来有点不自然、感觉有点诡异。目",
+      "fetched_at": "2026-09-22T09:52:06.839960+00:00"
+    },
+    {
+      "id": "2ae47da461d66470",
+      "title": "AI导购“百团大战”开打：电商十年逻辑正在被改写",
+      "link": "https://www.tmtpost.com/8143622.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-22T09:04:33+00:00",
+      "summary": "AI导购这门生意的终极KPI，从来不是GMV。",
+      "fetched_at": "2026-09-22T09:52:09.113007+00:00"
+    },
+    {
+      "id": "c0283587996d5e26",
+      "title": "SKN 推出毕方 Ultra 8K 机械键盘：三模矮轴，635hr 续航，到手价 339 元",
+      "link": "https://www.ithome.com/1/005/846.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T08:56:36+00:00",
+      "summary": "IT之家 9 月 22 日消息，SKN 即将于今晚 20:00 发售毕方 Ultra 8K 机械键盘。这一产品搭载矮款轴体，支持三模连接，2000mAh 电池在 ZMK 固件下可提供 635hr 续航，到手价 339 元。毕方 Ultra 8K 机身厚度 21.9mm，采用 6 层填充 Gasket 结构，背部包含毕方主题装饰区，集成两段式脚撑；兼容 Windows 和 macOS 操作系统；在 ",
+      "fetched_at": "2026-09-22T09:52:06.839992+00:00"
+    },
+    {
+      "id": "9302ddc95b62c49c",
+      "title": "OpenAI、Anthropic 喊话澳大利亚政府，希望放宽创意内容版权限制",
+      "link": "https://www.ithome.com/1/005/844.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T08:55:46+00:00",
+      "summary": "IT之家 9 月 22 日消息，据路透社今天（22 日）下午报道，OpenAI 和 Anthropic 呼吁澳大利亚重新考虑禁止两家公司使用当地创意内容训练 AI 模型的做法，认为设置有限度的豁免，既能保护艺术家权益，也有助于吸引更多投资。随着 AI 迅速发展，各国都在加紧制定监管方案，同时争夺 AI 投资。经济学家预计，到本世纪 20 年代末，此类投资的规模可能达到数千亿美元。澳大利亚计划从明年",
+      "fetched_at": "2026-09-22T09:52:06.840015+00:00"
+    },
+    {
+      "id": "50fc9f2937ebdae0",
+      "title": "苹果在英国伦敦开设 Apple Music Hall 音乐厅，由退役发电站改造而来",
+      "link": "https://www.ithome.com/1/005/843.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T08:54:46+00:00",
+      "summary": "IT之家 9 月 22 日消息，苹果公司昨天宣布在英国开设 Apple Music Hall 音乐厅。该场馆位于伦敦巴特西发电站（Battersea Power Station），内有 600 个座位，配备各种先进设施。IT之家了解到，巴特西发电站是一座启用于 20 世纪 30 年代的火力发电站，已在 20 世纪 80 年代退役。但在过去的 50 多年中，它已成为伦敦知名的地标之一，为第二级保护文",
+      "fetched_at": "2026-09-22T09:52:06.840035+00:00"
+    },
+    {
+      "id": "d31674110fa0f1d2",
+      "title": "海光 1000 系列处理器发布：C86 架构打造轻量级 CPU",
+      "link": "https://www.ithome.com/1/005/837.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T08:46:48+00:00",
+      "summary": "IT之家 9 月 22 日消息，海光信息今日发布了海光 1000 系列 CPU 新品，该产品是面向低功耗、嵌入式和端侧算力需求，采用 C86 架构打造的轻量级 CPU。海光信息总裁沙超群表示，1000 系列是海光首款面向端侧智能的算力芯片，标志着公司的算力版图从云侧延伸到边缘和端侧；1000 系列并非单一芯片，而是一个面向端侧算力的产品系列，将根据不同场景需求调配 CPU、GPU、NPU 算力，持",
+      "fetched_at": "2026-09-22T09:52:06.840054+00:00"
+    },
+    {
+      "id": "22db6ee416f00ae0",
+      "title": "借助 PS5X 模拟器，开发者成功在 Xbox Series X 上运行 PS5 游戏",
+      "link": "https://www.ithome.com/1/005/836.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T08:41:30+00:00",
+      "summary": "IT之家 9 月 22 日消息，过去几个月，PS5 模拟器技术取得了长足进步，SharpEmu、KyTy 等模拟器都交出了十分亮眼的成果。KyTy 模拟器已经可以在 PC 上启动《恶魔之魂：重制版》；仅仅一周之内，这款游戏的模拟帧率就从 1 帧提升到了 30 帧。IT之家注意到，KyTy 模拟器还能够运行《GTA 5》，这款开放世界游戏可以达到惊人的 40 帧。PC 平台上的 PS5 模拟器开发竞",
+      "fetched_at": "2026-09-22T09:52:06.840079+00:00"
+    },
+    {
+      "id": "9e53833cd0fe91d6",
+      "title": "做每个人的专属AI助理，千问加速打造Personal Agent",
+      "link": "https://www.leiphone.com/category/industrynews/4V3AYUarwL4RCE5O.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-22T08:40:00+00:00",
+      "summary": "9月22日，在2026年云栖大会上，千问宣布将加速打造 Personal Agent。千问产品负责人郑嗣寿表示，自去年上线以来，让每个人拥有自己的 AI 助理，始终是千问不变的目标。依托Qwen 3.8系列模型强大的Agentic能力，千问正在构建全新的Personal Agent形态，为 3 亿用户提供持续、个性化的智能服务。当天，千问公布了多项围绕 Personal Agent 的阶段性进展：",
+      "fetched_at": "2026-09-22T09:52:13.013861+00:00"
+    },
+    {
+      "id": "6d89c7313fecddca",
+      "title": "做每个人的专属AI助理，千问加速打造Personal Agent",
+      "link": "https://www.leiphone.com/category/industrynews/l4HSONbqE9vSaA4z.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-22T08:38:00+00:00",
+      "summary": "9月22日，在2026年云栖大会上，千问宣布将加速打造 Personal Agent。千问产品负责人郑嗣寿表示，自去年上线以来，让每个人拥有自己的 AI 助理，始终是千问不变的目标。依托Qwen 3.8系列模型强大的Agentic能力，千问正在构建全新的Personal Agent形态，为 3 亿用户提供持续、个性化的智能服务。当天，千问公布了多项围绕 Personal Agent 的阶段性进展：",
+      "fetched_at": "2026-09-22T09:52:13.013872+00:00"
+    },
+    {
+      "id": "681f0391a86d32da",
+      "title": "揭秘劳斯莱斯新车 Project Nightingale 暴力测试：极端温度、1.5 万次后备箱开合轮番上阵",
+      "link": "https://www.ithome.com/1/005/829.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T08:37:57+00:00",
+      "summary": "IT之家 9 月 22 日消息，当地时间 21 日，据外媒 BMW Blog 报道，劳斯莱斯将对纯电新车 Project Nightingale 原型车展开品牌历史上最严格的测试计划之一。据了解，最终交付的 100 辆车全部会在古德伍德手工打造，而且只卖给受邀客户。整套测试累计持续 350 周，原型车将从南欧跑到北极圈，再前往阿拉伯半岛沙漠，经历极端温度和最高 2750m 海拔环境。Piano B",
+      "fetched_at": "2026-09-22T09:52:06.840100+00:00"
+    },
+    {
+      "id": "9d1c8c268dc0bc60",
+      "title": "Omdia 数据：全球 AI 眼镜 2026H1 出货 420 万副，同比增长 127%",
+      "link": "https://www.ithome.com/1/005/825.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T08:37:28+00:00",
+      "summary": "IT之家 9 月 22 日消息，Omdia 英国当地时间今日表示，全球 AI 眼镜出货量在 2026 年上半年达到 420 万副，同比增长 127%。这一增长势头主要由 Meta 的持续动能和中国市场的蓬勃发展推动。▲ 图源：OmdiaMeta 以 340 万副的出货规模一家独揽 81.3% 市场份额；Even Realities 以 2.4% 的全球市占位居第二，此后是阿里巴巴的 2.1%。Om",
+      "fetched_at": "2026-09-22T09:52:06.840117+00:00"
+    },
+    {
+      "id": "d32d10c15b64632e",
+      "title": "日本计划在国际空间站举办 AI 机器人竞赛，最早 2027 年实行",
+      "link": "https://www.ithome.com/1/005/807.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T08:30:29+00:00",
+      "summary": "IT之家 9 月 22 日消息，据《日经》今天报道，日本计划案最早于 2027 年在国际空间站（ISS）举办机器人竞赛。参赛团队将通过 AI 控制机器人完成任务，培养下一代航天工程师。据报道，该竞赛由“太空 AI 机器人协会（SAIRA）”组织。该协会成立于今年 7 月，旨在通过与大学、公司和研究机构合作，开发太空、AI、机器人等方面技术。该竞赛最开始将在模拟空间站环境的地面进行预赛，对 AI 模",
+      "fetched_at": "2026-09-22T09:52:06.840132+00:00"
+    },
+    {
+      "id": "23707bc33120f76c",
+      "title": "阿里千问办公首款桌面机器人 QwenNote Eva 发布：集办公助理、情绪陪伴、桌面充电于一体，售价 899 元",
+      "link": "https://www.ithome.com/1/005/803.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T08:29:19+00:00",
+      "summary": "IT之家 9 月 22 日消息，在阿里 2026 云栖大会期间，阿里千问办公（QwenWork）正式发布旗下首款桌面机器人 QwenNote Eva（IT之家注：不含屏幕），适配安卓、iOS 与鸿蒙设备，主打“懂工作，更懂你”的“真正能干活的桌面机器人”。该产品以千问办公能力为内核、以钉钉生态为协同底座，把任务执行、多端联动、会议日程、AI 听记、情绪陪伴与桌面充电整合到一台桌面终端中，官方称“1",
+      "fetched_at": "2026-09-22T09:52:06.840164+00:00"
+    },
+    {
+      "id": "8ac3c539e89cb2aa",
+      "title": "《旅行青蛙》原版游戏开发商 Hit-Point 回应中国版停服：仍在与各方沟通持续协商",
+      "link": "https://www.ithome.com/1/005/799.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T08:27:10+00:00",
+      "summary": "IT之家 9 月 22 日消息，《旅行青蛙 · 中国之旅》手游本月发布停运公告，由于 IP 授权合作到期，《旅行青蛙 · 中国之旅》将于 2026 年 12 月 8 日正式停止运营。据南方都市报 9 月 21 日报道，《旅行青蛙》日本 IP 方株式会社 Hit-point 回应称：“公司未提出终止中国版《旅行青蛙》的服务，也未提出终止相关合作协议。目前仍在就《旅行青蛙》今后在中国的发展，与相关各方",
+      "fetched_at": "2026-09-22T09:52:06.840182+00:00"
+    },
+    {
+      "id": "dc78a2ae3eff61d3",
+      "title": "成为AI原生的超级组织：让每一次工作，都成为下一次的积累｜2026 ITValue Summit数字价值年会",
+      "link": "https://www.tmtpost.com/8148769.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-22T08:25:30+00:00",
+      "summary": "模型能力如何变成企业自身的能力？一个人的效率提升，又如何沉淀为整个组织的积累？",
+      "fetched_at": "2026-09-22T09:52:09.113012+00:00"
+    },
+    {
+      "id": "71c09c3f1cf5767b",
+      "title": "消息称微软 XBOX 本周计划发起第二轮裁员，并整合数家游戏工作室",
+      "link": "https://www.ithome.com/1/005/788.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T08:21:58+00:00",
+      "summary": "IT之家 9 月 22 日消息，当地时间 21 日，据《The Information》援引知情人士消息称，微软 XBOX 计划本周裁员数百人，这将是今年第二轮大规模裁员。此外，XBOX 还准备整合数家游戏工作室。今年 7 月，XBOX 裁掉了 1600 人。当时，CEO 阿莎 · 夏尔马向员工宣布，公司将在年底前再裁撤 1600 个岗位。同期，XBOX 还出售了旗下 4 家游戏工作室子公司。IT",
+      "fetched_at": "2026-09-22T09:52:06.840200+00:00"
+    },
+    {
+      "id": "c9cf35809a3d72cb",
+      "title": "5 亿投入 + 8 大全维升级：华为余承东官宣鸿蒙智行智界 R7 焕新款将在 9 月 28 日亮相",
+      "link": "https://www.ithome.com/1/005/781.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T08:19:25+00:00",
+      "summary": "IT之家 9 月 22 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚宣布，鸿蒙智行智界 R7 焕新款将在 9 月 28 日的发布会上亮相。他透露，新车拥有 5 亿投入，实现了 8 大全维升级。参考IT之家此前报道，智界 R7 焕新款将在本月开启预订，新车纯电续航至高 855km，带来八大升级，拥有羽砂紫、全新星云红内饰色；主驾搭载 26 英寸超高清 HUD、流媒体内后",
+      "fetched_at": "2026-09-22T09:52:06.840215+00:00"
+    },
+    {
+      "id": "769f52e736cd9cd6",
+      "title": "TrendForce：北美客户需求持续旺盛，企业级固态硬盘 2026Q4 有望延续涨势",
+      "link": "https://www.ithome.com/1/005/768.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T08:15:00+00:00",
+      "summary": "IT之家 9 月 22 日消息，TrendForce（集邦）昨日发布预测，认为在北美云服务企业持续大举采购推动下，企业级固态硬盘 (eSSD) 订单规模有望在 2026Q4 突破三季度的高点，价格也随之进一步走高。机构认为，这一波 eSSD 需求的驱动因素已从 AI 训练转向 AI 推理等落地应用场景。而随着代理式 AI 系统建设日益兴盛，系统对海量实时数据提取与缓存的需求呈倍数增长。在此背景下，",
+      "fetched_at": "2026-09-22T09:52:06.840230+00:00"
+    },
+    {
+      "id": "c60641ac5079e05b",
+      "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
+      "link": "https://sspai.com/post/114551",
+      "source_id": "sspai",
+      "source_name": "少数派",
+      "category": "tech",
+      "published_at": "2026-09-22T08:11:03+00:00",
+      "summary": "黄金时代「时尚与科技结合」的浪漫。查看全文",
+      "fetched_at": "2026-09-22T09:52:14.396738+00:00"
+    },
+    {
+      "id": "aa2d39f35a25c542",
+      "title": "理想汽车：理想 L6 累计交付突破 41 万辆，8 月获增程销量冠军",
+      "link": "https://www.ithome.com/1/005/759.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T08:09:54+00:00",
+      "summary": "IT之家 9 月 22 日消息，据理想汽车官微消息，理想 L6 累计交付突破 41 万辆。2026 年 8 月，新一代理想 L6 获增程销量冠军。据IT之家了解，理想 L6 于 2024 年 4 月上市，提供 Pro 和 Max 两个配置车型，售价分别为 24.98 万、27.98 万。2025 年 5 月，理想 L6 智能焕新版车型发布，同样提供 Pro 和 Max 两个配置车型，售价保持不变。",
+      "fetched_at": "2026-09-22T09:52:06.840252+00:00"
+    },
+    {
+      "id": "45c69a07f78ced58",
+      "title": "OpenAI 呼吁美国牵头联合其他国家为前沿 AI 制定全球性标准",
+      "link": "https://www.ithome.com/1/005/754.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T08:03:54+00:00",
+      "summary": "IT之家 9 月 22 日消息，各界对先进 AI 潜在危害的担忧持续升温之际，OpenAI 呼吁美国牵头联合其他国家，为前沿 AI 制定共同标准。当地时间 21 日，OpenAI 通过官方博客发文指出，要确保 AI 安全发展，需要建立国际技术标准，重点明确哪些 AI 模型事故必须上报、各国如何协同推进 AI 发展，以及如何改善开发此类技术所需算力的获取条件。“要让 AI 持续进步的同时保持安全并造",
+      "fetched_at": "2026-09-22T09:52:06.840272+00:00"
+    },
+    {
+      "id": "59856b6bbff96d06",
+      "title": "惠普推出 GT06 机械键盘：106 全键、三模连接，310 元",
+      "link": "https://www.ithome.com/1/005/752.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T08:01:29+00:00",
+      "summary": "IT之家 9 月 22 日消息，惠普现已推出 GT06 机械键盘，新品采用 106 键全尺寸配列，支持有线、2.4G 和蓝牙三模连接，售价 310 元。据介绍，该键盘支持有线、2.4G 模式 8000Hz 回报率，采用 106 键全尺寸配列，满足专业用户需求。拥有 Gasket 软弹结构，手感均匀软弹，带有 7 层填充。同时，该键盘侧面带有多功能旋钮，可调节音量、一键静音，支持网页 / 客户端驱动",
+      "fetched_at": "2026-09-22T09:52:06.840293+00:00"
+    },
+    {
+      "id": "10bf08d6a36d8e3b",
+      "title": "《生化危机：爆发夜》全球首周票房 1.08 亿美元，创该系列最高开画纪录",
+      "link": "https://www.ithome.com/1/005/751.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T07:57:25+00:00",
+      "summary": "IT之家 9 月 22 日消息，扎克 · 克雷格（Zach Cregger）执导的《生化危机：爆发夜》电影项目刚刚官宣的时候，外界充斥着大量质疑的声音。粉丝们担心，这部新作又会沦为一部敷衍了事的改编作品，重蹈此前无数改编影片的覆辙。然而最终成片的表现十分亮眼，接连刷新票房纪录。这部新版《生化危机》的票房表现超出市场预期，全球首周开画票房达到 1.08 亿美元（IT之家注：现汇率约合 7.25 亿元",
+      "fetched_at": "2026-09-22T09:52:06.840311+00:00"
+    },
+    {
+      "id": "4458316bae0b15f8",
+      "title": "300亿！一个中部县城靠“听”出了个国家级产业集群",
+      "link": "https://www.tmtpost.com/8148300.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-22T07:57:25+00:00",
+      "summary": "300亿！一个中部县城靠“听”出了个国家级产业集群",
+      "fetched_at": "2026-09-22T09:52:09.113018+00:00"
+    },
+    {
+      "id": "36190306907d2287",
+      "title": "对话 COBRA-Skills 一作卢平琛：仅用 50 个样本，重构 Agent 技能降本路线",
+      "link": "https://www.leiphone.com/category/private/AaUgNDfg84ayCKbE.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-22T07:55:00+00:00",
+      "summary": "当经典算法遇到 LLM，用概率预判代替盲目试错，或许才是架构演进的真正解法。&nbsp; &nbsp; 作者丨张 &nbsp; 璐&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb",
+      "fetched_at": "2026-09-22T09:52:13.014130+00:00"
+    },
+    {
+      "id": "84617f519767e5fa",
+      "title": "企业爆买AI Box",
+      "link": "https://www.tmtpost.com/8147846.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-22T07:53:24+00:00",
+      "summary": "AIBox是算力买断，还是买内存送处理器的营销手段?",
+      "fetched_at": "2026-09-22T09:52:09.113023+00:00"
+    },
+    {
+      "id": "2e4f14f82ffa3e32",
+      "title": "家用 SUV 也玩硬派风格：2027 款现代途胜 XRT 发布，内外饰更粗犷",
+      "link": "https://www.ithome.com/1/005/750.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T07:51:36+00:00",
+      "summary": "IT之家 9 月 22 日消息，当地时间 21 日，2027 款现代途胜 XRT 正式亮相。新车延续普通版彻底革新的设计，再通过一系列粗犷元素强化户外属性。XRT 最醒目的变化来自车头。分体式矩形格栅比普通途胜更具气势，下方厚重的护板进一步强化越野风格，黑色轮拱饰板也让车身显得更加厚实。车身包围也不只是普通黑色塑料，饰板加入了灵感来自锻造碳纤维的纹理。车尾同样换上 XRT 专属保险杠和护板，尾门则",
+      "fetched_at": "2026-09-22T09:52:06.840328+00:00"
+    },
+    {
+      "id": "8485e3396a2616bd",
+      "title": "大唐发布 T1-AL50 迷你主机：基于第 12/13 代酷睿，提供雷电 4、双 2.5GbE",
+      "link": "https://www.ithome.com/1/005/749.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T07:50:50+00:00",
+      "summary": "IT之家 9 月 22 日消息，大唐计算机 (MaxTang) 今日发布迷你主机新品 T1-AL50。其基于第 12 / 13 代英特尔酷睿移动处理器，至高可选 i7-12700H，提供 1 个雷电 4、2 个 2.5GbE RJ-45 等 I/O。T1-AL50 三维 127×127×50.5 (mm)，拥有 2 个 DDR4 SO-DIMM 内存插槽，集成 1 个 M.2 2280 PCIe ",
+      "fetched_at": "2026-09-22T09:52:06.840348+00:00"
+    },
+    {
+      "id": "579c32784919104d",
+      "title": "消息称华为在屏幕领域话语权相当高，未来新机在形态上还有“活儿”",
+      "link": "https://www.ithome.com/1/005/748.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-22T07:48:49+00:00",
+      "summary": "IT之家 9 月 22 日消息，博主 @数码闲聊站 今日发文称，从周冬雨时代挺过来以后，华为在屏幕领域的话语权已经相当高。他透露，后面在屏幕形态上还有活儿，摸到了新开屏。博主此次透露是在屏幕形态上有“活儿”，因此未来的这款新机有望是折叠屏新形态手机或新屏幕比例手机。目前，华为已推出采用外折叠、双折叠、三折叠、16:10 小阔折、√2:1 大阔折、16:9.5 阔直板、双层 OLED、BT.2020",
+      "fetched_at": "2026-09-22T09:52:06.840360+00:00"
+    },
+    {
+      "id": "11aacd94c7a598c3",
+      "title": "自动驾驶巴士迈入“黄金年代”",
+      "link": "https://www.tmtpost.com/8138057.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-22T07:47:16+00:00",
+      "summary": "这场改变，已经开始。",
+      "fetched_at": "2026-09-22T09:52:09.113028+00:00"
+    },
+    {
+      "id": "b17296a582affd6b",
+      "title": "造一万台机器人，要补多少汽车工业的课？",
+      "link": "https://www.tmtpost.com/8148599.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-22T07:47:15+00:00",
+      "summary": "从一台走向一万台，人形机器人正在为“稳定、低成本地重复制造”补课，而汽车工业恰好有这门课的厚底子。",
+      "fetched_at": "2026-09-22T09:52:09.113034+00:00"
+    },
+    {
+      "id": "48f1c105b6280fbb",
+      "title": "吴敏芝接掌新支付宝：蚂蚁的赛马实验结束了",
+      "link": "https://www.tmtpost.com/8148812.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-22T07:47:13+00:00",
+      "summary": "答案未必是一个超级应用，也未必是退回支付工具。",
+      "fetched_at": "2026-09-22T09:52:09.113039+00:00"
+    },
+    {
+      "id": "aa847c535c9b9e00",
+      "title": "2026 中国民营企业500强发布，华为、腾讯研发投入前二",
+      "link": "https://www.leiphone.com/category/industrynews/Y8vaE5uoJd4Okj3T.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-22T07:47:00+00:00",
+      "summary": "全国工商联 9月22日发布“2026中国民营企业500强”榜单和《2026中国民营企业500强调研分析报告》。京东集团、阿里巴巴（中国）有限公司、恒力集团有限公司、华为投资控股有限公司、比亚迪股份有限公司、腾讯控股有限公司位居榜单前六位。在研发投入方面，华为、腾讯排名前二，保持领跑地位。500 强榜单及报告基于全国工商联今年组织开展的第 28 次上规模民营企业调研，共 6350 家 2025 年营",
+      "fetched_at": "2026-09-22T09:52:13.014174+00:00"
+    },
+    {
+      "id": "9a47907991bdb271",
+      "title": "15999元折叠屏重分供应链价值：中国精密制造迎来“升舱\"时刻",
+      "link": "https://www.tmtpost.com/8148399.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-22T07:23:26+00:00",
+      "summary": "苹果首款折叠屏iPhoneDuo定价15999元起，看点不在手机本身，而在重标中国制造身价。过去拼谁装得多，现在拼谁压得住工程风险。当单机价值从“规模”搬向“复杂度”，中国供应链正从末端组装走向工艺定义——这不是一次简单的订单转移，而是一场残酷的价值重估。",
+      "fetched_at": "2026-09-22T09:52:09.113046+00:00"
+    },
+    {
+      "id": "72401268fd1a1f12",
+      "title": "全球首款 799g 14 英寸 x86 Laptop，来自深圳",
+      "link": "https://www.leiphone.com/category/industrynews/PKaT8QSsjl49j8JL.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-22T07:13:00+00:00",
+      "summary": "2025年9月，宏碁在IFA展发布 Swift Air，全球首款 16 英寸999g量产轻薄本正式落地，方案来自深圳ODM微步。彼时行业评价：这套方案“断代式领先了整个笔记本电脑产业链9-12个月”。一年之后的IFA 2026，宏碁再次联合微步，发布全球首款 799g 14英寸（X86 / 50Wh）笔记本 Swift Blade 14。微步将同一套平台化能力从16英寸跨尺寸迁移至14英寸，赋能终",
+      "fetched_at": "2026-09-22T09:52:13.014216+00:00"
+    },
+    {
+      "id": "8f63385f096c3ba1",
+      "title": "西贝被逼到了墙角：4成门店关闭，超6亿亏损",
+      "link": "https://www.tmtpost.com/8148041.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-22T06:59:53+00:00",
+      "summary": "西贝深陷倒闭传闻。",
+      "fetched_at": "2026-09-22T09:52:09.113051+00:00"
+    },
+    {
+      "id": "c857eb29e1756317",
+      "title": "十年试错，西贝的最后一根稻草",
+      "link": "https://www.tmtpost.com/8148209.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-22T06:59:50+00:00",
+      "summary": "过去一年，原本西贝进行了调价，此时经营已经承压，需要尽可能保住主体品牌。可西贝的做法依然是继续自己的试错，没有吸取教训。无论西贝能否暂时扭转局面，长久以来的惯性，都在让未来变得悲观。",
+      "fetched_at": "2026-09-22T09:52:09.113057+00:00"
+    },
+    {
+      "id": "5ac750e89d86e937",
+      "title": "App+1 | Coast：用十年经验，给记账这件事一个「终点」",
+      "link": "https://sspai.com/post/114479",
+      "source_id": "sspai",
+      "source_name": "少数派",
+      "category": "tech",
+      "published_at": "2026-09-22T06:39:39+00:00",
+      "summary": "从大学时代入不敷出开始记账，到 10 年后发现记账数据没有被充分利用，再到用 Vibe Coding 把自己的想法做成了一款 App——10 年的记账经验变成了产品设计的基础，而 Vibe Coding 让一个非技术出身的人有能力把这些想法实现出来。查看全文",
+      "fetched_at": "2026-09-22T09:52:14.396751+00:00"
+    },
+    {
+      "id": "3598d18beec25fbc",
+      "title": "WorkRally 首发接入Hy Image3.5 preview，为专业影视创作开放两周免费体验",
+      "link": "https://www.leiphone.com/category/industrynews/hbyvT21PED8pXEkO.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-22T06:05:00+00:00",
+      "summary": "9 月 22 日，腾讯混元正式发布 Hy Image3.5 preview。腾讯视频专业影视智能平台 WorkRally 首发接入该模型，即日起两周内向平台创作者免费开放，覆盖剧集分镜、影视物料、角色与场景设定等专业创作场景。&nbsp;&nbsp;WorkRally 是腾讯视频推出的首款面向精品内容制作的工业级 AI 平台，覆盖从剧本解析、分镜生成、内容生产到资产管理与团队协作的完整链路，具备专",
+      "fetched_at": "2026-09-22T09:52:13.014251+00:00"
+    },
+    {
+      "id": "0514ec6914b5357e",
+      "title": "车企兜底+技术平权：一场以消费者利益为驱动的动力电池产业重构正在发生",
+      "link": "https://www.tmtpost.com/8148365.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-09-22T05:51:59+00:00",
+      "summary": "当消费者不再需要过度纠结“一辆车到底用了谁家的电池”，动力电池产业或许才真正进入一个更加成熟的阶段。",
+      "fetched_at": "2026-09-22T09:52:09.113062+00:00"
+    },
+    {
       "id": "12aaa26f9ade4417",
       "title": "七彩虹 iGame Guard G114「御甲」140W 带屏充电头发售：3C+1A，199 元",
       "link": "https://www.ithome.com/1/005/652.htm",
@@ -57,6 +684,28 @@
       "fetched_at": "2026-09-22T04:44:30.592701+00:00"
     },
     {
+      "id": "8851cfc2178f83df",
+      "title": "vivo WATCH 6正式发布：外表有型、内在专业，树立轻户外智能腕表新标杆",
+      "link": "https://www.leiphone.com/category/industrynews/21yxpwxuI68n5Or4.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-22T04:38:00+00:00",
+      "summary": "2026年9月21日，vivo全新轻户外智能腕表——vivo WATCH 6正式发布，并同步开启预售。作为一款定位轻户外运动的智能腕表，vivo WATCH 6在质感外观、跑骑运动指导、健康监测与智能便捷体验四大维度实现全面进阶，以全系高端蓝宝石玻璃表镜、航天级钛合金表体，搭配全链路专业运动指导与智能便捷体验，让用户从城市日常到户外出行，每一次抬腕都从容自在。地平线美学尽显精致，重塑腕上质感新高度",
+      "fetched_at": "2026-09-22T09:52:13.014295+00:00"
+    },
+    {
+      "id": "4ea194503b13ffd4",
+      "title": "vivo首款耳夹耳机正式发布，vivo Buds Clip点亮耳畔“微光小C环”",
+      "link": "https://www.leiphone.com/category/industrynews/v4u9ez41xgbtr9f6.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-22T04:35:00+00:00",
+      "summary": "2026年9月21日，vivo Buds Clip耳夹耳机正式发布。作为vivo首款耳夹耳机，新品从全天佩戴需求出发，围绕设计美学、舒适佩戴、耳夹听感与连接交互进行系统打磨，自然微光美学与轻量化耳夹设计塑造耳畔的“微光小C环”，高清质感人声、骨传导AI通话降噪与跨生态无缝三连接等，则进一步满足用户在多种场景下的使用需求，让耳机从聆听设备延伸为能够自然融入日常穿搭与生活的随身单品。自然微光美学，兼顾",
+      "fetched_at": "2026-09-22T09:52:13.014357+00:00"
+    },
+    {
       "id": "751b6dc3859797a5",
       "title": "华为小艺 App 获 11.7.8.215 版本邀测升级，小艺 Claw 升级为小艺 Work",
       "link": "https://www.ithome.com/1/005/650.htm",
@@ -77,6 +726,39 @@
       "published_at": "2026-09-22T04:31:45+00:00",
       "summary": "IT之家 9 月 22 日消息，据《晚点 LatePost》今日报道，阿里云旗下无影团队正在研发一款名叫 QwenBook 的 AI 设备，定位是原生智能体电脑，但产品形态更接近一台“千问平板”，产品定义和硬件部分由团队自研，无影过去做云电脑积累的系统和端云能力，也被带进了这个项目。一位阿里云人士称，QwenBook 是一款仍处于早期的试水产品，主打办公，目前，产品接入的模型包括 Qwen3.8-",
       "fetched_at": "2026-09-22T04:44:30.592773+00:00"
+    },
+    {
+      "id": "6e422892a0c678ed",
+      "title": "影像表现全面进阶 vivo X500系列影像旗舰新品正式发布",
+      "link": "https://www.leiphone.com/category/industrynews/C3VZZW0uvu7pezVt.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-22T04:31:00+00:00",
+      "summary": "2026年9月21日，vivo在上海正式发布全新影像旗舰vivo X500系列。作为vivo将动态影像提升至公司级战略后的开篇之作，X500、X500 Pro、X500 Pro Max三款新品以\"拍照和视频体验双优\"为目标，完整落地vivo首个为动态影像而生的技术体系——蓝图动态影像技术栈，重构移动影像边界。vivo影像战略始终聚焦一个目标，将人像、长焦、演唱会等用户在意的场景体验，持续提升并超越",
+      "fetched_at": "2026-09-22T09:52:13.014476+00:00"
+    },
+    {
+      "id": "aadfdb1901788e89",
+      "title": "千问新一代AI硬件云栖大会首次集中亮相，10月13日现货发售",
+      "link": "https://www.leiphone.com/category/industrynews/sUhCMujTu7xyY00e.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-22T04:25:00+00:00",
+      "summary": "9月22日，新一代全系列千问 AI 硬件在云栖大会首次集中亮相，包含千问AI眼镜N1、N1 Pro及千问AI耳夹式耳机。三款新品当天同步开启线上预约，并将于10月13日现货发售。&nbsp;&nbsp;&nbsp;记者在展区体验了解到，N1系列搭载5000万像素传感器，支持第一视角拍摄。其中，N1 Pro支持眼动追踪和虹膜支付，用户看向展品并提问时，AI可借助视线信息判断用户所指的对象。另一款新品",
+      "fetched_at": "2026-09-22T09:52:13.014489+00:00"
+    },
+    {
+      "id": "1eea56e58afe7aed",
+      "title": "千问新一代AI硬件云栖大会首次集中亮相，10月13日现货发售",
+      "link": "https://www.leiphone.com/category/industrynews/g7G10jWPPDoguXVu.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-22T04:24:00+00:00",
+      "summary": "9月22日，新一代全系列千问 AI 硬件在云栖大会首次集中亮相，包含千问AI眼镜N1、N1 Pro及千问AI耳夹式耳机。三款新品当天同步开启线上预约，并将于10月13日现货发售。",
+      "fetched_at": "2026-09-22T09:52:13.014497+00:00"
     },
     {
       "id": "a164c019ce80cf6d",
@@ -354,6 +1036,17 @@
       "fetched_at": "2026-09-22T04:44:33.661590+00:00"
     },
     {
+      "id": "57980215aaffe7cb",
+      "title": "人工智能促进健康全球倡议2026年会召开，讯飞医疗以数智实践助力全球医疗AI治理体系共建",
+      "link": "https://www.leiphone.com/category/industrynews/R83KNSoMSQgd8F4P.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-22T03:12:00+00:00",
+      "summary": "为进一步深化人工智能在全球健康领域的创新实践，共同应对全球人工智能健康应用面临的挑战，人工智能促进健康全球倡议2026年会于9月16-18日在浙江杭州举办。本次会议由世界卫生组织（WHO）、国际电信联盟（ITU）、世界知识产权组织（WIPO）主办，国家卫生健康委卫生发展研究中心、中国信息通信研究院、中国卫生经济学会承办。世界卫生组织驻华代表处代表马丁·泰勒（Martin Taylor）、国际电信联",
+      "fetched_at": "2026-09-22T09:52:13.014526+00:00"
+    },
+    {
       "id": "a54cc7c3295c38d2",
       "title": "谷歌将为美国佐治亚州两座核电站 96MW 扩容升级计划提供资金支持",
       "link": "https://www.ithome.com/1/005/598.htm",
@@ -396,6 +1089,17 @@
       "published_at": "2026-09-22T03:05:18+00:00",
       "summary": "IT之家 9 月 22 日消息，龙芯中科今日宣布推出支持自研通用 GPU 的龙芯加速计算平台（Loongson Accelerated Computing Platform）首个软件版本，面向龙芯通用 GPU 提供从底层驱动、编程环境到 AI 模型推理的完整软件支持。该平台基于龙芯 2K3000 和 9A1000 芯片集成的 LG200 系列通用 GPU 核心开发。在已有 OpenGL、Vulka",
       "fetched_at": "2026-09-22T04:44:30.593799+00:00"
+    },
+    {
+      "id": "88cbca9ac49e862a",
+      "title": "在中国，别指望FDE能搞定AI落地",
+      "link": "https://www.leiphone.com/category/industrynews/30ZiAiG8Mq6ZYJ7g.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-22T03:01:00+00:00",
+      "summary": "外界眼里，FDE火得一塌糊涂；一线从业者看到的，却是荒诞、滑稽和不可思议。前段时间，To B老将王涛看到某家号称在做FDE的厂商，公司内部一天的Token消耗量也就100多亿。“我一个人一天就能消耗20亿Token，”王涛哭笑不得，“一个2000人的公司，一天才消耗100亿，这不是很弱吗？”而王涛看到的并不是个例。事实上，过去几个月，市场上冒头了一批良莠不齐的公司，打着FDE的名号，已经在市场上接",
+      "fetched_at": "2026-09-22T09:52:13.014599+00:00"
     },
     {
       "id": "63d2ddb84a1da6a3",
@@ -461,7 +1165,7 @@
       "category": "tech",
       "published_at": "2026-09-22T02:44:06+00:00",
       "summary": "如果你关注了前段时间的少数派众测，应该已经见过PopSockets泡泡骚LowPro极薄站立支架。它是一款颠覆以往所有磁吸支架形态的产品，够薄、够轻，最重要的是足够好用。这款在活动中预告过的独家款支架 ...查看全文",
-      "fetched_at": "2026-09-22T04:44:40.404997+00:00"
+      "fetched_at": "2026-09-22T09:52:14.396758+00:00"
     },
     {
       "id": "3328192138e82b13",
@@ -483,7 +1187,7 @@
       "category": "tech",
       "published_at": "2026-09-22T02:37:00+00:00",
       "summary": "医疗影像设备长期存在一个矛盾：算力需求持续上涨，机箱空间却难以增加。PCIe 显卡越来越强，图像采集卡也不可或缺，但小型化 Mini-ITX 主板通常只提供一个 PCIe 插槽，要么插显卡做 AI 推理，要么插采集卡抓图像，往往只能二选一。针对这一痛点，智锐通正式推出 EMA-7132 Mini-ITX 主板，以 170×170mm 标准尺寸和 板载双 PCIe 插槽，给出了自己的回答。&nbsp",
-      "fetched_at": "2026-09-22T04:44:38.921786+00:00"
+      "fetched_at": "2026-09-22T09:52:13.014632+00:00"
     },
     {
       "id": "136d811e389b5a54",
@@ -505,7 +1209,7 @@
       "category": "tech",
       "published_at": "2026-09-22T02:00:00+00:00",
       "summary": "9月17日，一家头部手机厂商亮相一款9.8克的球形AI记录设备，可夹衣佩戴，宣称续航24小时。该产品一经曝光便在全网疯狂刷屏，“手机能录音，为什么还需要独立硬件”，再次成为行业热议话题。从这款刷屏新品不难看出，随身 AI 录音的需求痛点，主要集中在三个方面：第一，让记录更省事。依托便捷操作与佩戴式硬件设计，简化录音启动流程，无需掏出手机，即可即时捕捉转瞬即逝的灵感与现场对话。第二， 让整理更高效。",
-      "fetched_at": "2026-09-22T04:44:38.921858+00:00"
+      "fetched_at": "2026-09-22T09:52:13.014665+00:00"
     },
     {
       "id": "e0cdd5d6147201ba",
@@ -527,7 +1231,7 @@
       "category": "tech",
       "published_at": "2026-09-22T01:54:00+00:00",
       "summary": "以超声写脑、多模态读脑、AI神经解码构建闭环，建设中国非侵入AI脑机接口标杆企业近日，非侵入AI脑机接口公司华超神控（BCI-Sonics）宣布完成2亿元人民币Pre-A轮融资。本轮融资由红杉中国与云启资本联合领投，比邻星投资、元禾控股、徐汇科创投、德石投资跟投，老股东经纬创投、德联资本持续加注。循光资本持续担任独家战略财务顾问。所募资金将用于产品研发、核心人才引进、临床研究推进和AI基础设施建设",
-      "fetched_at": "2026-09-22T04:44:38.922017+00:00"
+      "fetched_at": "2026-09-22T09:52:13.014748+00:00"
     },
     {
       "id": "b345c78084c92b2f",
@@ -563,6 +1267,17 @@
       "fetched_at": "2026-09-22T04:44:33.661687+00:00"
     },
     {
+      "id": "809a5d84a1db07e0",
+      "title": "黄仁勋回应或缴税540亿：我不怕缴税，只怕变穷；马斯克深夜放大招，新模型Grok 4.7上线；特斯拉机器人团队在长三角审厂，多家企业获订单",
+      "link": "https://www.leiphone.com/category/zaobao/5mlqTB9MeU1qAtoe.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-22T00:28:00+00:00",
+      "summary": "要闻提示1.黄仁勋回应或交540亿“亿万富翁税”：我不怕交税，只怕变穷2.产业链人士：特斯拉机器人团队在长三角审厂，多家企业已获订单3.DeepSeek披露用国产芯片训练下一代AI模型4.刘大一恒出任阿里Qwen大语言模型项目负责人5.米哈游：原周边团队员工长期收取贿赂，“数额特别巨大”，已被捕6.Kimi与海外云厂商分成模式正式落地7.马斯克深夜放大招，新模型Grok 4.7上线！8.苹果首款折",
+      "fetched_at": "2026-09-22T09:52:13.014922+00:00"
+    },
+    {
       "id": "0985fa9afd7eeb9d",
       "title": "早报｜曝iPhone Duo量产初期良率仅过六成/小米18 Pro加入硬件级防窥/OpenAI新模型24天攻克百道数学未解难题",
       "link": "https://www.ifanr.com/1679313?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -571,7 +1286,7 @@
       "category": "tech",
       "published_at": "2026-09-22T00:11:45+00:00",
       "summary": "· Omdia：今年全球智能手机出货量预计下降 12% · ZCode 官宣开源、公开数据安全整改结果 · 西贝贾国龙呼吁规范高流量账号#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-09-22T04:44:28.439628+00:00"
+      "fetched_at": "2026-09-22T09:52:05.187339+00:00"
     },
     {
       "id": "a1006e4a674111e1",
@@ -582,7 +1297,7 @@
       "category": "tech",
       "published_at": "2026-09-22T00:09:01+00:00",
       "summary": "少数派的近期动态少数派会员2026周边现已开放兑换，点击兑换给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研口袋先知新版本1.3. ...查看全文",
-      "fetched_at": "2026-09-22T04:44:40.405016+00:00"
+      "fetched_at": "2026-09-22T09:52:14.396766+00:00"
     },
     {
       "id": "2dde0412911523b2",
@@ -726,6 +1441,17 @@
       "published_at": "2026-09-21T17:36:12+00:00",
       "summary": "【点此直达升级教程】IT之家 9 月 22 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.2 开发者预览版 Beta 2 更新（内部版本号：24B5089g），本次更新距离上次发布 Beta / RC 间隔 5 天。如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Be",
       "fetched_at": "2026-09-21T23:13:11.502643+00:00"
+    },
+    {
+      "id": "c08c74a3e773b9b6",
+      "title": "把电影感装进口袋，vivo的移动影像长跑",
+      "link": "https://www.leiphone.com/category/weiwu/EFyrd0uIRXcWp5ns.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-09-21T16:07:00+00:00",
+      "summary": "1902年，蔡司设计出Tessar镜头。它的结构并不复杂，却以锐利的成像著称，被称为“鹰之眼”。在它之前，镜头设计的专业性很大程度上仍然与结构复杂度、镜片数量绑定，摄影师为了获得更好的成像，也习惯了接受笨重而昂贵的设备。蔡司却反过来用更简单的结构实现了更锐利的成像，让镜头在保持画质的同时变得更轻便、更易用。Tessar的成功在于它提供了一种不同的产品思路。当一项技术的基础能力逐渐成熟，竞争未必还要",
+      "fetched_at": "2026-09-22T09:52:13.015208+00:00"
     },
     {
       "id": "ff7815debdc23bbd",
@@ -11011,644 +11737,6 @@
       "published_at": "2026-09-15T09:52:20+00:00",
       "summary": "当AI开始模拟整个人类社会。",
       "fetched_at": "2026-09-15T14:54:51.535493+00:00"
-    },
-    {
-      "id": "9873082d34685c53",
-      "title": "11家中国厂商入局，iPhone Duo背后的大佬们",
-      "link": "https://www.tmtpost.com/8140612.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-09-15T09:51:53+00:00",
-      "summary": "苹果折叠屏发布，中国厂商深度入局。",
-      "fetched_at": "2026-09-15T14:54:51.535500+00:00"
-    },
-    {
-      "id": "961fdcf956d5d73f",
-      "title": "纸浆“黑天鹅”再现？高盛：印尼林火正逼近2015年的创纪录水平",
-      "link": "https://www.tmtpost.com/8140567.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-09-15T09:51:48+00:00",
-      "summary": "火正烧在同一个地方，而市场这次看到的还只是港口库存。",
-      "fetched_at": "2026-09-15T14:54:51.535508+00:00"
-    },
-    {
-      "id": "2ff5adec59668b5b",
-      "title": "阶跃发布 StepAudio 3 ，多款语音模型登顶 Artificial Analysis 全球榜单",
-      "link": "https://www.leiphone.com/category/industrynews/bqWUmrRwgYnqHzxZ.html",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "tech",
-      "published_at": "2026-09-15T09:50:00+00:00",
-      "summary": "&nbsp;9月15日，阶跃发布新一代语音大模型 StepAudio 3 系列，一次性推出 StepAudio 3 Realtime、StepAudio 3 ASR、StepAudio 3 TTS、StepAudio 3 Gen 和 StepAudio 3 Music 五款模型，覆盖实时语音交互、语音识别、真人级语音生成和音乐创作等场景。其中，多款模型在权威第三方 AI 模型评测机构 Artifi",
-      "fetched_at": "2026-09-15T14:54:59.472474+00:00"
-    },
-    {
-      "id": "e43ff17b0c631890",
-      "title": "iPhone Duo外观“跟随”战略，正让苹果丧失奢侈品光环",
-      "link": "https://www.tmtpost.com/8140083.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-09-15T09:47:55+00:00",
-      "summary": "贵不可怕，贵却丧失了独有基因。",
-      "fetched_at": "2026-09-15T14:54:51.535516+00:00"
-    },
-    {
-      "id": "f85144c8cc848960",
-      "title": "豆包手机一代的坑，二代准备怎么填？",
-      "link": "https://www.tmtpost.com/8140215.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-09-15T09:47:50+00:00",
-      "summary": "在别人的地盘上，你永远只能当客人。",
-      "fetched_at": "2026-09-15T14:54:51.535523+00:00"
-    },
-    {
-      "id": "54f60121f57d758e",
-      "title": "甲酰胺风波去，Babycare上市起？",
-      "link": "https://www.tmtpost.com/8140222.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-09-15T09:47:45+00:00",
-      "summary": "一波未平一波又起。",
-      "fetched_at": "2026-09-15T09:59:38.530498+00:00"
-    },
-    {
-      "id": "b2d9dfb54a18c398",
-      "title": "要毁灭人类的不是AI，是人——拆开2026年9月这轮\"末日叙事\"",
-      "link": "https://www.tmtpost.com/8140359.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-09-15T09:47:40+00:00",
-      "summary": "AI灭绝论每隔几年就被重新点燃。市场普遍误区是把专家的直觉概率当成科学预测，把\"人拿工具作恶\"误读成\"工具自我觉醒\"。本文沿用0.618/0.382框架拆解这轮末日叙事：恐惧的真实部分是什么，虚构部分是什么，以及为什么主体永远是人。",
-      "fetched_at": "2026-09-15T09:59:38.530510+00:00"
-    },
-    {
-      "id": "f8e637bbf1b303cf",
-      "title": "美国参议院拟议新法案：AI 企业需证明自身已拿出防范风险的措施",
-      "link": "https://www.ithome.com/1/002/699.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T09:45:04+00:00",
-      "summary": "IT之家 9 月 15 日消息，据路透社今天（15 日）报道，美国参议院一名助理和一名熟悉磋商情况的游说人士透露，美国参议院谈判各方就一项 AI 监管法案展开讨论。法案拟要求 AI 企业证明自身已采取合理预防措施，防止旗下工具造成伤害。上周，Anthropic 研究员雅各布 · 考克森宣布辞职，提到部分原因是：“开发 AI 的人真心相信，这项技术可能在本世纪 20 年代结束前杀死我们所有人。”这番",
-      "fetched_at": "2026-09-15T09:59:35.825269+00:00"
-    },
-    {
-      "id": "5f7fb92cd31a7344",
-      "title": "鸿蒙智行智界 R7 焕新款内饰亮点公布：双 17.2 英寸蝶羽双联屏、智能恒冷冰箱等",
-      "link": "https://www.ithome.com/1/002/698.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T09:43:38+00:00",
-      "summary": "IT之家 9 月 15 日消息，鸿蒙智行智界汽车官方今日公布了智界 R7 焕新款内饰亮点。据介绍，智界 R7 焕新款将支持「午休小憩房」功能，小憩模式新增颂钵深层舒缓模式，可提供听觉、触觉双重舒压；拥有 852L 三层后备箱、搭载双 17.2 英寸蝶羽双联屏，支持 NFC 一碰流转功能。新车还配有 2.1m² 全景星空天幕，拥有双层隔音夹胶玻璃 + 100% 遮光电动遮阳帘；后排宣称拥有 1540",
-      "fetched_at": "2026-09-15T09:59:35.825303+00:00"
-    },
-    {
-      "id": "d25c1b9a591b74fe",
-      "title": "号称人类造的最后一个 AI 要来了，刷屏全网的 RSI 是什么",
-      "link": "https://www.ifanr.com/1679813?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source_id": "ifanr",
-      "source_name": "爱范儿",
-      "category": "tech",
-      "published_at": "2026-09-15T09:43:19+00:00",
-      "summary": "AI 开始造 AI，但距离「智能爆炸」还有多远？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-09-15T14:54:45.609939+00:00"
-    },
-    {
-      "id": "e219008137499950",
-      "title": "马斯克放话：Grok 4.9 或能与 Astra / Fable 同级、Grok 5 有望实现 AGI",
-      "link": "https://www.ithome.com/1/002/696.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T09:42:25+00:00",
-      "summary": "IT之家 9 月 15 日消息，xAI 首席执行官埃隆 · 马斯克昨日在 X 平台与网友互动时透露，Grok 4.7 模型的能力大致与 Anthropic Opus 5.0 相同，而不是 5.1，它们还需要修复多模态性能。马斯克表示，未来的 Grok 4.8 将带来明显改进，Grok 4.9 可能与 OpenAI Astra（GPT-6）或 Anthropic Fable 同级，Grok 5 也许",
-      "fetched_at": "2026-09-15T09:59:35.825333+00:00"
-    },
-    {
-      "id": "08d21ed4a881d11c",
-      "title": "Tongcheng Buys Control of Dida Chuxing to Close the Last-Mile Gap",
-      "link": "https://www.tmtpost.com/8140707.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-09-15T09:41:02+00:00",
-      "summary": "Tongcheng Travel completed a tender offer for nearly 89 percent of Dida Chuxing, paying about HK$1.42 billion. The deal keeps Dida as an independent brand while giving the OTA access to a national car",
-      "fetched_at": "2026-09-15T09:59:38.530533+00:00"
-    },
-    {
-      "id": "205fc0183b4c05e8",
-      "title": "英伟达开源 IMO 金牌配方：不仅是「人海战术」，1.5TB 显存做实 AI「 推恩令」？",
-      "link": "https://www.leiphone.com/category/ai/A3z1I1E1p15O83NO.html",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "tech",
-      "published_at": "2026-09-15T09:38:00+00:00",
-      "summary": "用三套 checkpoint 完成多轮证明搜索，用过程透明平息学术怒火，用 1.5TB 显存门槛锁定算力霸权。名为代码平权，实则算力集权。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ",
-      "fetched_at": "2026-09-15T14:54:59.472692+00:00"
-    },
-    {
-      "id": "b646d7395f593c79",
-      "title": "消息称原鸿蒙智行部分店面将划归赛力斯，只陈列和销售问界车型",
-      "link": "https://www.ithome.com/1/002/694.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T09:30:30+00:00",
-      "summary": "IT之家 9 月 15 日消息，鸿蒙智行官方今日发布了关于问界合作模式的说明，即日起，问界将在鸿蒙智行合作框架下探索新合作模式：产品定义、产品设计、品牌营销、渠道零售、服务体系由赛力斯主导，华为终端参与赋能。所有问界用户的既有权益及后续服务不受影响。据蓝鲸新闻报道，有知情人士表示，此次华为并没有撤，问界依然在鸿蒙智行，属于五界之一。后续问界将采取“专属专营”新模式，“以后问界的销售渠道独立，除了直",
-      "fetched_at": "2026-09-15T09:59:35.825365+00:00"
-    },
-    {
-      "id": "874615e547dab420",
-      "title": "为优化性能表现，《007：First Light》Switch 2 版延期至明年 3 月发售",
-      "link": "https://www.ithome.com/1/002/693.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T09:30:09+00:00",
-      "summary": "IT之家 9 月 15 日消息，IO Interactive 在《007：First Light》上押下了重注，本作预算超过《杀手》三部曲全部预算之和。不过这场豪赌取得了成功：游戏口碑极佳，截至目前销量火爆，也被视作今年年度游戏的有力竞争者之一。但詹姆斯 · 邦德即将登陆 Switch 2 的消息，让部分玩家心生担忧。大家害怕如果移植质量粗糙，会毁掉这款佳作在掌机上的游玩体验。IO Interac",
-      "fetched_at": "2026-09-15T09:59:35.825403+00:00"
-    },
-    {
-      "id": "b0e0df08c8c4a6ba",
-      "title": "吉利银河战舰 700“AI 全地形硬核 SUV”预售：19.98 万-26.98 万元，还有 38.98 万的陆地方舟版",
-      "link": "https://www.ithome.com/1/002/692.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T09:29:27+00:00",
-      "summary": "IT之家 9 月 15 日消息，吉利银河旗下全新车型 ——“AI 全地形硬核 SUV”银河战舰 700 今天（15 日）下午正式开启预售，新车提供 5 款主销车型和 1 款特别版车型，官方预售指导价区间为 19.98 万-38.98 万元。305km 1.5T 两驱探索版：19.98 万元305km 1.5T 两驱探索 + 版：20.98 万元280km 1.5T 三电机四驱驭峰版：22.98 万",
-      "fetched_at": "2026-09-15T09:59:35.825469+00:00"
-    },
-    {
-      "id": "581c766fd5c6b5e1",
-      "title": "超维视界《Dota 2》赛事回归，2027 年 3 月 20~28 日举行",
-      "link": "https://www.ithome.com/1/002/686.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T09:27:08+00:00",
-      "summary": "IT之家 9 月 15 日消息，电子竞技赛事组织超维视界 (CLAVISION) 昨晚宣布，将携手合作方 OGA DOTAPIT 于 2027 年 3 月 20~28 日再次带来《Dota 2》电竞赛事。超维视界此前于 2024 和 2025 两年各在河北张家口举行了一届《Dota 2》比赛，分别是“超维视界 DOTA 联赛第一赛季：雪如意站”和“雪如意 · 超维视界 DOTA2 大师赛”，均由本",
-      "fetched_at": "2026-09-15T09:59:35.825497+00:00"
-    },
-    {
-      "id": "8ac4fefd81a1ff30",
-      "title": "亚太唯一！腾讯云首次入选IDC MarketScape 全球托管边缘服务领导者类别",
-      "link": "https://www.leiphone.com/category/industrynews/pxm3hT4tSVTrgyIS.html",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "tech",
-      "published_at": "2026-09-15T09:24:00+00:00",
-      "summary": "9 月 15 日，国际数据公司（IDC）发布《IDC MarketScape: Worldwide Managed Edge Services 2026 Vendor Assessment》报告。凭借边缘安全加速平台EdgeOne，腾讯云位居领导者（Leaders）类别，成为首次入选、也是本次唯一入选领导者类别的中国厂商、亚太厂商。IDC MarketScape 报告指出：“腾讯云 EdgeOne",
-      "fetched_at": "2026-09-15T14:54:59.472768+00:00"
-    },
-    {
-      "id": "a1f9806f3e838381",
-      "title": "国家超算互联网累计上线智能体 500 余个、覆盖 170 余个核心计算场景",
-      "link": "https://www.ithome.com/1/002/681.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T09:22:55+00:00",
-      "summary": "IT之家 9 月 15 日消息，据财联社今日消息，曙光智算总裁何牧君在 2026 算力网发展大会透露，国家超算互联网平台已建成材料计算、工业仿真等 6 大智能体矩阵。据介绍，国家超算互联网已覆盖 170 余个核心计算场景，累计上线智能体 500 余个、技能 1 万余项。何牧君表示，在国家超算互联网上，用户无需精通编程，依托 1.6 万余个内容组件与对话式构建工具，即可像搭积木一样组建专属科学计算智",
-      "fetched_at": "2026-09-15T09:59:35.825528+00:00"
-    },
-    {
-      "id": "08f4cf59e84d4c75",
-      "title": "问界发布关于鸿蒙智行合作模式的说明：赛力斯与华为将继续携手并进",
-      "link": "https://www.ithome.com/1/002/679.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T09:17:42+00:00",
-      "summary": "IT之家 9 月 15 日消息，今天（15 日）下午 17 时，鸿蒙智行发布了“关于问界合作模式的说明”。不久后，问界汽车也发布了“问界关于鸿蒙智行合作模式的说明”。IT之家附说明全文如下：问界关于鸿蒙智行合作模式的说明问界由华为与赛力斯联合设计打造，凝聚着双方团队、产业伙伴的共同努力，也是跨界融合与产业升级的重要成果。感谢每一位消费者的选择与信赖。问界仍然是鸿蒙智行大家庭的核心成员之一。即日起，",
-      "fetched_at": "2026-09-15T09:59:35.825558+00:00"
-    },
-    {
-      "id": "3e22daa133b92ca6",
-      "title": "《黑神话：悟空》SteamDB 数据库更新，暗示有望加入 AMD 光线重建技术",
-      "link": "https://www.ithome.com/1/002/675.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T09:12:32+00:00",
-      "summary": "IT之家 9 月 15 日消息，有网友在《黑神话：悟空》的 SteamDB 数据库中发现，该游戏的仓库文件完成一次更新，新增了若干动态链接库。b1-Win64-Shipping 程序集的可执行文件结构中，现在包含 amd_fidelityfx_denoiser_dx12.dll、amd_fidelityfx_dx12.dll 以及 amd_fidelityfx_loader_dx12.dll 这几",
-      "fetched_at": "2026-09-15T09:59:35.825587+00:00"
-    },
-    {
-      "id": "8a8b39f9830024f2",
-      "title": "前Coatue高管蒋恺（Kai Jiang），出任字节跳动财务投资团队负责人",
-      "link": "https://www.tmtpost.com/8140598.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-09-15T09:12:15+00:00",
-      "summary": "解散战投四年后，字节又开始招投资人了",
-      "fetched_at": "2026-09-15T09:59:38.530545+00:00"
-    },
-    {
-      "id": "1d2c69df9f6ccc4a",
-      "title": "AI没有杀死软件，但“套壳”AI首先被淘汰",
-      "link": "https://www.tmtpost.com/8130396.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-09-15T09:11:42+00:00",
-      "summary": "行业正在挤出“套壳AI”的水分。",
-      "fetched_at": "2026-09-15T09:59:38.530555+00:00"
-    },
-    {
-      "id": "ec70e6cd3866bec3",
-      "title": "AI消费硬件退烧了？冷的不是AI，是造品类 ｜ 出海参考",
-      "link": "https://www.tmtpost.com/8137333.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-09-15T09:10:52+00:00",
-      "summary": "一家花18个月让AI学会用眼神回应，一家把AI塞进手机壳，两家公司把 AI 放在了完全不同的位置，但都拿到了融资。他们的选择，恰好回答了2026年AI消费硬件最值钱的问题，冷的是造品类，不是AI。",
-      "fetched_at": "2026-09-15T09:59:38.530567+00:00"
-    },
-    {
-      "id": "88fd8f730efe1e12",
-      "title": "让网络生态少一些情绪对抗，抖音发布“可信友善社区”计划",
-      "link": "https://www.ithome.com/1/002/674.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T09:06:42+00:00",
-      "summary": "IT之家 9 月 15 日消息，抖音今日宣布启动“可信社区守护计划”与“友善社区共建计划”，希望所有用户能够在抖音安心浏览、理性发声、友善互动，让网络生态少一些情绪对抗、多一分友善理性。IT之家从“抖音黑板报”公众号了解到，“可信社区守护计划”主打可信产品建设、AI+ 体系治理等。官方将优化自主声明机制，引导创作者主动标记内容来源，清晰区分艺术创作与现实记录。官方将打造“AI 求真”辟谣与事实核查",
-      "fetched_at": "2026-09-15T09:59:35.825613+00:00"
-    },
-    {
-      "id": "d4adff97a98fd052",
-      "title": "2026 软科世界一流学科排名发布：中国内地高校在 22 个学科排名世界第一，清华大学独占 7 个",
-      "link": "https://www.ithome.com/1/002/672.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T09:04:31+00:00",
-      "summary": "IT之家 9 月 15 日消息，高等教育评价机构软科今日正式发布 2026“软科世界一流学科排名”（ShanghaiRanking's Global Ranking of Academic Subjects，简称 GRAS）。2026 年排名覆盖 57 个学科，涉及理学、工学、生命科学、医学和社会科学五大领域。GRAS 的排名对象包括全球 3,000 多所大学，最终发布的榜单展示了 96 个国家和",
-      "fetched_at": "2026-09-15T09:59:35.825686+00:00"
-    },
-    {
-      "id": "71cdae737307b04d",
-      "title": "鸿蒙智行发布关于问界合作模式的说明：仍是大家庭成员之一，所有用户既有权益及后续服务不受影响",
-      "link": "https://www.ithome.com/1/002/671.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T09:04:20+00:00",
-      "summary": "IT之家 9 月 15 日消息，鸿蒙智行刚刚发布了关于问界合作模式的说明。IT之家附原文如下：问界由华为与赛力斯联合设计打造，凝聚着双方团队、产业伙伴的共同努力，也是跨界融合与产业升级的重要成果。感谢每一位消费者的选择与信赖。问界仍然是鸿蒙智行大家庭的成员之一。即日起，问界将在鸿蒙智行合作框架下探索新合作模式：产品定义、产品设计、品牌营销、渠道零售、服务体系由赛力斯主导，华为终端参与赋能。所有问界",
-      "fetched_at": "2026-09-15T09:59:35.825712+00:00"
-    },
-    {
-      "id": "7e66a82308ac4e6b",
-      "title": "汇率、成本双重作用，康宁显示玻璃基板日元价格上涨至少 15%",
-      "link": "https://www.ithome.com/1/002/668.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T09:00:59+00:00",
-      "summary": "IT之家 9 月 15 日消息，Corning（康宁）当地时间本月 11 日宣布将在全球范围内对以日元计价的显示玻璃基板产品实施 15% 及以上的价格调整。此次涨价的具体幅度受到产品类别、世代尺寸、成本结构等的影响，新价格将于 2026 年第 4 季度开始生效。康宁指出，其价格调整的两大因素是持续走弱的日元汇率、持续上涨的整体成本。日元兑美元汇率目前显著低于历史平均水平；另一方面，关键原材料、贵金",
-      "fetched_at": "2026-09-15T09:59:35.825734+00:00"
-    },
-    {
-      "id": "0a6ed7eb4cd75cec",
-      "title": "社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备",
-      "link": "https://sspai.com/post/114613",
-      "source_id": "sspai",
-      "source_name": "少数派",
-      "category": "tech",
-      "published_at": "2026-09-15T09:00:00+00:00",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
-      "fetched_at": "2026-09-15T14:55:01.616425+00:00"
-    },
-    {
-      "id": "f72b80d3462c4cd2",
-      "title": "借助 Wine-NX，任天堂 Switch 已可运行《极品飞车：地下狂飙 2》等经典 Windows 游戏",
-      "link": "https://www.ithome.com/1/002/667.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T08:59:13+00:00",
-      "summary": "IT之家 9 月 15 日消息，拥有任天堂 Switch 主机的复古游戏爱好者，如今可以体验多款经典 Windows 游戏。X 平台（原推特）上流传的一段视频显示，人气很高的《极品飞车：地下狂飙 2》在任天堂这款掌机主机二合一设备上运行相当流畅。与此同时，Wine-NX 相关论坛消息称，《雷神之锤 3》和《OpenTTD》也已经可以游玩，《魔兽争霸 3》的适配工作也即将完成。这款“实验性”软件目前",
-      "fetched_at": "2026-09-15T09:59:35.825780+00:00"
-    },
-    {
-      "id": "188f21356c505c0a",
-      "title": "全汉铂金 SFX-L 电源 DAGGER PM 上架：1000W 款 1299 元、1200W 款 1399 元",
-      "link": "https://www.ithome.com/1/002/659.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T08:49:07+00:00",
-      "summary": "IT之家 9 月 15 日消息，全汉 (FSP) 今日宣布，其 DAGGER PM 系列铂金 SFX-L 电源的 1000W 和 1200W 版本现已上架电商，预计到手价分别为 1299 元和 1399 元，9 月 17 日 20:00 发售。DAGGER PM 系列长度 125mm，配备全模组压纹线材，符合 ATX12V 3.1 / SFX12V 4.1 规范，得到 80 PLUS / Cybe",
-      "fetched_at": "2026-09-15T09:59:35.825823+00:00"
-    },
-    {
-      "id": "e1a6c2b78b502732",
-      "title": "小米卢伟冰、荣耀方飞、传音王海滨祝贺联发科天玑 9600 Pro 旗舰芯片发布",
-      "link": "https://www.ithome.com/1/002/654.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T08:46:50+00:00",
-      "summary": "IT之家 9 月 15 日消息，在今日的 2026 联发科天玑旗舰新品发布会上，联发科的多个合作手机品牌高管亮相，祝贺联发科天玑 9600 Pro 旗舰芯片发布。IT之家从发布会获悉，小米集团合伙人兼总裁卢伟冰、荣耀终端股份有限公司产品线总裁方飞、传音控股副总裁王海滨均以视频方式露面，对联发科新旗舰芯片的发布送上祝贺，但没有提到是否会有具体的机型合作。天玑 9600 Pro 定位旗舰 5G 智能体",
-      "fetched_at": "2026-09-15T09:59:35.825856+00:00"
-    },
-    {
-      "id": "c6909fd3c17616d6",
-      "title": "三星推出新广告，邀请明星劝说苹果 iPhone 用户转投 Galaxy",
-      "link": "https://www.ithome.com/1/002/653.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T08:46:14+00:00",
-      "summary": "IT之家 9 月 15 日消息，据 Android Authority 报道，三星从来不会放过调侃苹果的机会。多年来，三星不断拿苹果开涮：先是吐槽 iPhone X 难看的刘海屏，接着指责苹果产品缺乏巧思，对比旗舰机型的拍照能力，甚至直言 iPhone 枯燥乏味、毫无创新。这类广告大多已经下架，但三星的对比营销从未停止。IT之家注意到，自 iPhone Duo 发布以来，三星一直在大力宣传自家最新",
-      "fetched_at": "2026-09-15T09:59:35.825903+00:00"
-    },
-    {
-      "id": "894421a462778457",
-      "title": "“阿宝”交新朋友：携手比亚迪“迪迪虾”，实现车机端一句话办事",
-      "link": "https://www.leiphone.com/category/industrynews/mIVmFo7yO9N62L0j.html",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "tech",
-      "published_at": "2026-09-15T08:45:00+00:00",
-      "summary": "“阿宝”又交新朋友！9月14日，“阿宝”亮相腾势N8L纯电上市发布会，并与比亚迪AI超级智能体“迪迪虾”达成跨端协同办事合作。腾势N8L车主直接对“迪迪虾”说一句话，由“迪迪虾”唤起“阿宝”办理生活服务，在车机端实现“一句话办事”。（阿宝X 迪迪虾在车机场景组成新的“办事搭子”）比如，车主可以说“你好腾势，帮我缴一下停车费”“你好腾势，帮我买杯咖啡”，就可唤起“迪迪虾”理解车主在车内场景下的语音需",
-      "fetched_at": "2026-09-15T14:54:59.472797+00:00"
-    },
-    {
-      "id": "26537fc447f7f905",
-      "title": "小鹏集团全球首座 X-Energy 兆瓦闪充站正式落地香港并投入运营",
-      "link": "https://www.ithome.com/1/002/650.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T08:44:46+00:00",
-      "summary": "IT之家 9 月 15 日消息，小鹏汽车官方微博今日宣布，小鹏集团全球首座 X-Energy 兆瓦闪充站今日正式落地香港并投入运营，该站由小鹏集团携手 Halo 共同建设，并面向全品牌车主开放。小鹏汽车官方表示，这不仅是香港首座对外开放的兆瓦闪充站，更是小鹏自研补能技术的又一座里程碑。据IT之家此前报道，小鹏集团董事长、CEO 何小鹏此前在 MONA L03 发布会上提到，小鹏目标在欧洲 13 国",
-      "fetched_at": "2026-09-15T09:59:35.825926+00:00"
-    },
-    {
-      "id": "3d9f1bf319966ee1",
-      "title": "定位超能纯电 SUV，上汽大众 ID.ERA 5X 开启盲订",
-      "link": "https://www.ithome.com/1/002/649.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T08:44:25+00:00",
-      "summary": "IT之家 9 月 15 日消息，上汽大众官微今天（15 日）宣布，上汽大众 ID. ERA 首款纯电车型 ——“超能纯电 SUV”ID. ERA 5X 正式开启盲订。官方暂未公布新车的售价及上市信息。IT之家汇总主要配置信息如下：新车配备 192 线激光雷达、地平线征程 6H 芯片、标配 4 纳米 MTK 8676 车规级座舱芯片，搭载“行云智行”智能辅助驾驶系统，具备 420TOPS 辅助驾驶算",
-      "fetched_at": "2026-09-15T09:59:35.825957+00:00"
-    },
-    {
-      "id": "0b2404ba6a6ba85a",
-      "title": "富士推出 instax Link WIDE 2 照片打印机、Instax Pal 2 掌上相机",
-      "link": "https://www.ithome.com/1/002/647.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T08:43:52+00:00",
-      "summary": "IT之家 9 月 15 日消息，富士今日推出 instax Link WIDE 2 照片打印机，以及 Instax Pal 2 掌上数码相机，两款产品将于 10 月 9 日在日本开售。IT之家附两款新品详情如下：instax Link WIDE 2：这款打印机采用 instax WIDE 宽幅相纸，照片大小是 instax Mini 的 2 倍。外观方面，该产品提供蓝色、棕色两种配色，相比前代型号",
-      "fetched_at": "2026-09-15T09:59:35.826017+00:00"
-    },
-    {
-      "id": "29719689aa8dd688",
-      "title": "2026 年 8 月国内动力电池装车量 79.0GWh，同比增长 26.3%",
-      "link": "https://www.ithome.com/1/002/643.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T08:37:31+00:00",
-      "summary": "IT之家 9 月 15 日消息，中国汽车动力电池产业创新联盟数据显示，8 月，国内动力电池装车量 79.0GWh，环比增长 5.9%，同比增长 26.3%。其中三元电池装车量 11.0GWh，占总装车量 14.0%，环比下降 1.0%，同比增长 0.9%；磷酸铁锂电池装车量 67.6GWh，占总装车量 85.6%，环比增长 7.0%，同比增长 31.0%。1-8 月，国内动力电池累计装车量 489",
-      "fetched_at": "2026-09-15T09:59:35.826048+00:00"
-    },
-    {
-      "id": "bdcf5f4497936961",
-      "title": "OPPO Find X10 Pro Max 手机首批搭载天玑 9600 Pro 旗舰芯片",
-      "link": "https://www.ithome.com/1/002/639.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T08:34:13+00:00",
-      "summary": "IT之家 9 月 15 日消息，在今日的 2026 联发科天玑旗舰新品发布会上，OPPO 副总裁吴恒刚宣布，OPPO Find X10 Pro Max 手机首批搭载天玑 9600 Pro 旗舰芯片。OPPO Find X10 Pro Max 搭载 8000mAh 冰川电池，以及新一代潮汐引擎、ColorOS 17，宣称能够带来 8 小时 144Hz 游戏持久满帧体验，满帧时长比上一代提升 60%；",
-      "fetched_at": "2026-09-15T09:59:35.826086+00:00"
-    },
-    {
-      "id": "fcf608beb6d7c8d6",
-      "title": "两部门要求美团、抖音、京东、携程、同程、飞猪等在线酒店预订平台，防范化解“全网最低价”等竞争风险",
-      "link": "https://www.ithome.com/1/002/624.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T08:25:22+00:00",
-      "summary": "IT之家 9 月 15 日消息，据市场监管总局“市说新语”公众号，今天（15 日），市场监管总局会同文化和旅游部召开在线酒店预订平台服务行业行政指导会，要求美团、抖音、京东、携程、同程、飞猪等平台企业，严格落实合规主体责任，防范化解行业竞争风险，维护健康有序的旅游市场环境。会议指出，公平竞争是市场经济的法治基石，合规经营是企业发展的生命线。近年来我国在线酒店预订平台服务行业发展迅速，在便利人民群众",
-      "fetched_at": "2026-09-15T09:59:35.826111+00:00"
-    },
-    {
-      "id": "15cd0bdf3331221d",
-      "title": "联发科天玑 9600M 处理器亮相：全大核 CPU 架构，宣称旗舰基因一脉相承",
-      "link": "https://www.ithome.com/1/002/619.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T08:19:51+00:00",
-      "summary": "IT之家 9 月 15 日消息，在今天的 2026 MediaTek 天玑旗舰新品发布会上，天玑 9600 Pro 处理器正式发布，定位旗舰 5G 智能体 AI 芯片：2nm 工艺、4.55GHz 双超大核、120 帧光追手游。IT之家注意到，除了天玑 9600 Pro 外，联发科还带来了另外一款芯片 —— 天玑 9600M。官方表示，该处理器“旗舰基因一脉相承，旗舰级体验一应俱全”，采用全大核 ",
-      "fetched_at": "2026-09-15T09:59:35.826142+00:00"
-    },
-    {
-      "id": "6898900ed60cbe64",
-      "title": "vivo X500 Pro 系列手机官宣全球首发搭载天玑 9600 Pro 旗舰芯片",
-      "link": "https://www.ithome.com/1/002/618.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T08:19:28+00:00",
-      "summary": "IT之家 9 月 15 日消息，在今日的 2026 联发科天玑旗舰新品发布会上，vivo 高级副总裁、首席技术官施玉坚宣布，vivo X500 Pro 系列手机全球首发搭载天玑 9600 Pro 旗舰芯片，将于 9 月 21 日发布。施玉坚介绍，vivo 率先提出双超大核 CPU 架构设计思路，与联发科历经三年联合研发，打造了天玑 9600 Pro 旗舰芯片。IT之家从发布会现场获悉，vivo 还",
-      "fetched_at": "2026-09-15T09:59:35.826169+00:00"
-    },
-    {
-      "id": "427d04d360ee6e9c",
-      "title": "揭秘 Lady Gaga 未婚夫迈克尔 · 波兰斯基最具雄心项目：用从人类皮肤收集的数据训练 AI",
-      "link": "https://www.ithome.com/1/002/616.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-15T08:16:43+00:00",
-      "summary": "IT之家 9 月 15 日消息，当地时间 14 日，《商业内幕》发文详细介绍了美国女星 Lady Gaga 未婚夫迈克尔 · 波兰斯基的过去十年。这段时间里，波兰斯基共同创办了非营利慈善组织，成立了专注早期投资的风投公司，执掌资产管理公司，还与 Lady Gaga 订了婚。他甚至抽空参与创作了未婚妻第六张录音室专辑《狂乱》中的 7 首歌曲，并因此获得格莱美奖提名。最近，两人还迎来了第一个孩子。波兰",
-      "fetched_at": "2026-09-15T09:59:35.826229+00:00"
-    },
-    {
-      "id": "5832a778af1155a8",
-      "title": "热联集团：千亿贸易生意毛利率不足1%，多品类负毛利销售，大额分红后再募资补流｜IPO观察",
-      "link": "https://www.tmtpost.com/8136857.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-09-15T08:09:06+00:00",
-      "summary": "热联集团能成功上市吗？",
-      "fetched_at": "2026-09-15T09:59:38.530578+00:00"
-    },
-    {
-      "id": "4776800e1118e398",
-      "title": "欧税通：超额分红后拟募资补流｜IPO观察",
-      "link": "https://www.tmtpost.com/8139057.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-09-15T08:08:05+00:00",
-      "summary": "欧税通能成功IPO吗？",
-      "fetched_at": "2026-09-15T09:59:38.530588+00:00"
-    },
-    {
-      "id": "77cbbccd4d7db8bb",
-      "title": "当一群AI占领了人类互联网的无人区",
-      "link": "https://www.tmtpost.com/8140432.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-09-15T08:01:00+00:00",
-      "summary": "互联网上最先属于机器的地方。",
-      "fetched_at": "2026-09-15T09:59:38.530597+00:00"
-    },
-    {
-      "id": "5f0b89ac2237bd24",
-      "title": "China’s Auto Makers Turn Outward as Domestic Market Cools",
-      "link": "https://www.tmtpost.com/8140540.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-09-15T07:56:03+00:00",
-      "summary": "China’s vehicle exports crossed one million units in a single month for the first time in June 2026, even as domestic passenger-car retail declined. Leading companies are raising overseas targets, bui",
-      "fetched_at": "2026-09-15T09:59:38.530622+00:00"
-    },
-    {
-      "id": "7da63018c66de48c",
-      "title": "手机都开始直连卫星了，为什么还要建“太空铁塔”？",
-      "link": "https://www.tmtpost.com/8140420.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-09-15T07:55:00+00:00",
-      "summary": "手机直连卫星进入规模扩张期，共享基础设施开始出现。",
-      "fetched_at": "2026-09-15T09:59:38.530633+00:00"
-    },
-    {
-      "id": "ba64e26f037f0dc8",
-      "title": "Xspark AI 丁文伯：触觉替代不了视觉，但机器人需要一套自己的“脊髓” ｜物理AI 50人",
-      "link": "https://www.leiphone.com/category/robot/RMYKt5OCvHa4yodm.html",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "tech",
-      "published_at": "2026-09-15T07:52:00+00:00",
-      "summary": "具身智能进入“触觉时代”，丁文伯提出“脊髓”架构补全机器人物理交互短板。作者：李秋悦编辑：吴彤丁文伯很难被一个词准确“定位”。通信博士、材料学博士后、机器触觉学者，这些标签都对，但都只能解释他的部分经历。2025年，丁文伯又多了一个身份——Xspark AI（无界智航）联合创始人、首席科学家。一个做了多年传感器研究的清华教授出来创业，没有把公司定义成一家“传感器公司”。相反，他认为造出更好的传感器",
-      "fetched_at": "2026-09-15T14:54:59.473238+00:00"
-    },
-    {
-      "id": "34f5858a6bc5fc3c",
-      "title": "豆包手机：我将报以刀枪剑戟斧钺钩叉",
-      "link": "https://www.tmtpost.com/8140412.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-09-15T07:50:00+00:00",
-      "summary": "但如果把时间拉长到三五年后回头看，这一天可能比iPhone Duo的发布更有风向标意义——因为它标志着，大模型公司终于不再满足于做一个\"被打开的APP\"，而是要直接坐到用户和手机之间。",
-      "fetched_at": "2026-09-15T09:59:38.530644+00:00"
-    },
-    {
-      "id": "e237301d81b50660",
-      "title": "129亿美元，英伟达史上最大一笔收购即将落地",
-      "link": "https://www.tmtpost.com/8140294.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-09-15T07:42:00+00:00",
-      "summary": "黄仁勋再出手。",
-      "fetched_at": "2026-09-15T09:59:38.530654+00:00"
-    },
-    {
-      "id": "535041457a03adde",
-      "title": "钢管厂每多做一块钱营收，曾留下三毛，现在只剩七厘",
-      "link": "https://www.tmtpost.com/8138887.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-09-15T07:38:12+00:00",
-      "summary": "一家工业不锈钢管厂的十年账：2015—2022 年，它每多做一块钱营收能留下三毛；2022—2025 年，同样一块钱只剩七厘。而那三毛里，有一半不是卖钢管赚的。",
-      "fetched_at": "2026-09-15T09:59:38.530667+00:00"
-    },
-    {
-      "id": "8f27262e6d671e20",
-      "title": "三巨头罕见停战，人类距离AI失控还有多远",
-      "link": "https://www.tmtpost.com/8140330.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-09-15T07:38:07+00:00",
-      "summary": "AI在拥有更高控制权和自主行为能力后，已经开始出现不受控的情况",
-      "fetched_at": "2026-09-15T09:59:38.530677+00:00"
-    },
-    {
-      "id": "de8b4f08255fac0a",
-      "title": "海外营收纷纷过半，中国汽车驶入大航海时代",
-      "link": "https://www.tmtpost.com/8140399.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-09-15T07:30:57+00:00",
-      "summary": "汽车大航海，也是对整个中国制造全球化的牵引。",
-      "fetched_at": "2026-09-15T09:59:38.530687+00:00"
-    },
-    {
-      "id": "d7e04954f63aa401",
-      "title": "数亿元！前京东副总裁“消失”4年：不造会跑的天工，他在仓库里给人形机器人“占工位”",
-      "link": "https://www.leiphone.com/category/industrynews/QDqnLfFb5wiTdPyd.html",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "tech",
-      "published_at": "2026-09-15T07:14:00+00:00",
-      "summary": "一家“消失”了四年的机器人公司，重回公众视野时，手里已握着全球头部电商的产线订单。默不作声的四年 它去仓库装分拣机了9月1日，北京天下先智创机器人技术有限责任公司（下称“天工机器人”）宣布完成数亿元A轮融资。本轮由初芯基金领投，经纬创投、合肥国资等机构跟投，钱主要花在三件事上：分拣类机器人扩大量产、基于人形的分拣机器人研发与商用化迭代、海外市场拓展。先帮各位厘清一件容易混淆的事。这家“天工”，不是",
-      "fetched_at": "2026-09-15T14:54:59.473316+00:00"
-    },
-    {
-      "id": "cbd6bc55ba3513ad",
-      "title": "具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性",
-      "link": "https://sspai.com/post/114565",
-      "source_id": "sspai",
-      "source_name": "少数派",
-      "category": "tech",
-      "published_at": "2026-09-15T07:00:00+00:00",
-      "summary": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。查看全文",
-      "fetched_at": "2026-09-15T14:55:01.616443+00:00"
-    },
-    {
-      "id": "6097d3a04e24f1a4",
-      "title": "豆包工作和飞书，把中国第一个团队 Agent 拉进了工作群",
-      "link": "https://www.ifanr.com/1680138?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source_id": "ifanr",
-      "source_name": "爱范儿",
-      "category": "tech",
-      "published_at": "2026-09-15T06:39:55+00:00",
-      "summary": "为团队而生的办公 Agent#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-09-15T14:54:45.609953+00:00"
-    },
-    {
-      "id": "edce86116d2a695a",
-      "title": "iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西",
-      "link": "https://www.ifanr.com/1680134?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source_id": "ifanr",
-      "source_name": "爱范儿",
-      "category": "tech",
-      "published_at": "2026-09-15T05:00:50+00:00",
-      "summary": "值得升级。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-09-15T14:54:45.609964+00:00"
     }
   ]
 }
