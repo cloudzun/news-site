@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T16:48:44.475205+00:00",
-  "count": 1072,
+  "generated_at": "2026-09-23T20:14:25.830379+00:00",
+  "count": 1068,
   "sources": [
     {
       "id": "36kr",
@@ -11781,50 +11781,6 @@
       "published_at": "2026-09-16T22:54:18+00:00",
       "summary": "IT之家 9 月 17 日消息，科技媒体 9to5Mac 昨日（9 月 16 日）发布博文，报道称通过挖掘 iOS 27.2 Beta 1 更新代码，发现苹果公司计划新增系统管理迁移流程，支持开发者把旧应用的数据和相关设置迁移到指定替代应用。IT之家援引博文介绍，在 iOS 27.2 Beta 1 更新代码中，出现以下字符串：开发者建议将您现有的“%1$@”应用程序数据和设置迁移到新的“%2$@”",
       "fetched_at": "2026-09-17T00:27:02.529521+00:00"
-    },
-    {
-      "id": "4b4dcea293bde0fa",
-      "title": "苹果 watchOS 27.2 开发者预览版 Beta 发布",
-      "link": "https://www.ithome.com/1/003/345.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-16T19:00:11+00:00",
-      "summary": "【点此直达升级教程】IT之家 9 月 17 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 开发者预览版 Beta 更新（内部版本号：24S5086l），本次更新距离上次发布 Beta / RC 间隔 7 天。 苹果此次跳过了 watchOS 27.1，直接从 27.0 进入 27.2 Beta，与 iOS 27.2、iPadOS 27.2、macOS 27.2 ",
-      "fetched_at": "2026-09-17T00:27:02.529637+00:00"
-    },
-    {
-      "id": "e7885005d02fa950",
-      "title": "苹果 visionOS 27.2 开发者预览版 Beta 发布，初步支持原生 Mac 窗口控件渲染",
-      "link": "https://www.ithome.com/1/003/344.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-16T19:00:11+00:00",
-      "summary": "IT之家 9 月 17 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 开发者预览版 Beta 更新（内部版本号：24N5088l），本次更新距离上次发布 Beta / RC 间隔 7 天。需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。和 macOS 一样，visionOS 也跳过了 27.1 ",
-      "fetched_at": "2026-09-17T00:27:02.529579+00:00"
-    },
-    {
-      "id": "d9266fffc5d05239",
-      "title": "苹果 macOS 27.2 开发者预览版 Beta 发布",
-      "link": "https://www.ithome.com/1/003/343.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-16T19:00:11+00:00",
-      "summary": "IT之家 9 月 17 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 开发者预览版 Beta 更新（内部版本号：26B5086k），本次更新距离上次发布 Beta / RC 间隔 7 天。值得注意的是，苹果此次直接跳过了 macOS 27.1 的测试周期，从 27.0 直接进入 27.2。 已参与 Apple Developer 计划的注册开发者可以前往“系统设置 → 通用 →",
-      "fetched_at": "2026-09-17T00:27:02.529701+00:00"
-    },
-    {
-      "id": "04e581bcf37a9f2b",
-      "title": "苹果发布 iOS 27.2 首个测试版：跳过 27.1 为 iPhone Duo 让路，为中国用户带来存储覆写擦除选项",
-      "link": "https://www.ithome.com/1/003/342.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-16T19:00:10+00:00",
-      "summary": "【点此直达升级教程】IT之家 9 月 17 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.2 开发者预览版 Beta 更新（内部版本号：24B5084k），此时距离 27.0 正式版软件更新发布仅过去两天。苹果此次跳过 iOS 27.1 直接发布 iOS 27.2 Beta，原因与 10 月 23 日上市的 iPhone Duo 有关。苹果此前已宣布 ",
-      "fetched_at": "2026-09-17T00:27:02.529834+00:00"
     }
   ]
 }
