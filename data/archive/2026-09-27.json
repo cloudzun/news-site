@@ -1,7 +1,73 @@
 {
   "date": "2026-09-27",
-  "count": 982,
+  "count": 984,
   "items": [
+    {
+      "id": "891db247cf260869",
+      "title": "目标让手机用十年：Linux 手机系统 postmarketOS 正式更名为 Nura",
+      "link": "https://www.ithome.com/1/007/620.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-27T22:59:29+00:00",
+      "summary": "IT之家 9 月 28 日消息，Linux 手机系统 postmarketOS 宣布项目正式更名为“Nura”，新的名称源自意大利撒丁岛古老的努拉吉（nuraghe）石结构建筑，寓意项目希望让智能手机长期保持可用。公开信息显示，postmarketOS 诞生于 2017 年，最初目标是让智能手机能够持续使用 10 年。该系统基于 Alpine Linux 开发，希望让受支持的手机在厂商停止提供系统",
+      "fetched_at": "2026-09-27T22:59:49.878998+00:00"
+    },
+    {
+      "id": "d4f353eda23e5a75",
+      "title": "黑客在暗网兜售 AI 模型访问权限，最低价仅有正版 3%",
+      "link": "https://www.ithome.com/1/007/619.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-27T22:57:05+00:00",
+      "summary": "IT之家 9 月 28 日消息，据英国《金融时报》当地时间 26 日报道，非法获取 AI 模型和算力，正迅速成为网络犯罪黑市上最抢手的商品，黑客希望借助价格高昂的大模型实施勒索、网络战和间谍活动。谷歌威胁情报团队首席分析师约翰 · 霍特奎斯特披露，今年所谓“LLM 劫持”活动明显增多，具体表现于倒卖公开 AI 工具的被盗登录凭据，以及部分团体盗用他人算力，以免费运行自己的模型。从事网络安全工作 2",
+      "fetched_at": "2026-09-27T22:59:49.879042+00:00"
+    },
+    {
+      "id": "93d74504ca670fd7",
+      "title": "语音开黑平台 Discord 宣布重新上线年龄验证机制，新增信用卡 / 应用商店账号等多种校验方式",
+      "link": "https://www.ithome.com/1/007/618.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-27T22:53:19+00:00",
+      "summary": "IT之家 9 月 28 日消息，Discord 宣布重新上线年龄验证机制，但不再强制要求用户通过视频自拍或身份证件进行验证。IT之家注意到，今年 2 月时 Discord 曾宣布计划为所有账户实施年龄验证，要求用户通过视频自拍或有效身份证件证明实际年龄。这一决定在网上引发大量争议，不少用户担心个人数据隐私问题。在受到用户强烈抨击后，Discord 随后暂缓了全球年龄验证计划，并表示将重新调整验证机",
+      "fetched_at": "2026-09-27T22:59:49.879080+00:00"
+    },
+    {
+      "id": "8029de73b37e8ab3",
+      "title": "105 元，小米米家电动剃须刀 S101 云纹刀网版开启众筹",
+      "link": "https://www.ithome.com/1/007/617.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-27T22:45:04+00:00",
+      "summary": "IT之家 9 月 28 日消息，小米米家电动剃须刀 S101 云纹刀网版将于今天 10 点在有品开启众筹，建议零售价 149 元，众筹价 105 元（点此参与）。米家电动剃须刀 S101 云纹刀网版可选暮光蓝、岩砂灰两款配色，依托 MIM 工艺精铸双环云纹刀网，相较于直槽刀网，进须面积更大、捕须切剃效率更高，与内凹精钢刀片呈环抱式锁须切割形态，胡须入网即被切断，减少漏剃、扯须，倒伏胡须亦可贴根剃净",
+      "fetched_at": "2026-09-27T22:59:49.879103+00:00"
+    },
+    {
+      "id": "a8e66c1064dfae53",
+      "title": "科乐美《寂静岭：Townfall》发售：Steam 国区 310 元起，玩家口碑褒贬不一",
+      "link": "https://www.ithome.com/1/007/616.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-27T22:39:14+00:00",
+      "summary": "IT之家 9 月 28 日消息，科乐美旗下《Silent Hill：Townfall（寂静岭：Townfall）》现已正式发售，以 PC 版为例，本作在 Steam 国区标准版 310 元，豪华版 380 元，豪华版除了游戏本体外，还包括“西蒙的装束：替换装束”、数字画册和原声带。IT之家附游戏商品页（https://store.steampowered.com/app/1636440/SILEN",
+      "fetched_at": "2026-09-27T22:59:49.879135+00:00"
+    },
+    {
+      "id": "758a65f036c7c742",
+      "title": "小米米家智能意式半自动咖啡机 Pro 首销，首发国补价 3395.84 元",
+      "link": "https://www.ithome.com/1/007/615.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-27T20:59:06+00:00",
+      "summary": "IT之家 9 月 28 日消息，小米米家智能意式半自动咖啡机 Pro 今日正式开售，官方指导价 4999 元，预售前台价 4439 元，叠加国补后 3395.84 元。京东米家小米智能意式半自动咖啡机 Pro 冷热双萃 双泵双加热 半自动研磨豆一体奶泡机 APP 互联 CME0013395.83 元直达链接IT之家从商品页面获悉，这款咖啡机由宁波坤林科技有限公司制造，额定功率 2200W。该机定位",
+      "fetched_at": "2026-09-27T22:59:49.879181+00:00"
+    },
     {
       "id": "cfdf58a020507de3",
       "title": "雷鸟鹤 6 系列 27 款 QD-Mini LED 电视开售：55-98 英寸，3175 元起",
@@ -10759,50 +10825,6 @@
       "published_at": "2026-09-20T23:07:46+00:00",
       "summary": "IT之家 9 月 21 日消息，Linux 发行版 MX Linux 宣布推出 25.3 版本“Infinity”，本次更新整合最新的 Debian 13.7，同步更新了一系列系统工具，提供 Xfce、KDE Plasma 和 Fluxbox 版本，同时提供面向新硬件的 Xfce AHS 镜像，IT之家附项目地址（https://mxlinux.org/blog/mx-25-3-infinity-",
       "fetched_at": "2026-09-21T01:01:19.958804+00:00"
-    },
-    {
-      "id": "6a0a4250ee8d6c6e",
-      "title": "英伟达黄仁勋驳斥 AI 末日叙事：吓唬人不负责任，部分人士意在摆脱现有法律约束",
-      "link": "https://www.ithome.com/1/005/017.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-20T22:58:21+00:00",
-      "summary": "IT之家 9 月 21 日消息，英伟达联合创始人兼首席执行官黄仁勋昨日接受 CBS News 采访时表示，他不认同某些研究员提出的“AI 可能在几年内灭绝人类”说法。他觉得这类说法是 AI 末日叙事，已经被过度渲染。黄仁勋表示：“2030 年不会是世界末日，2030 年即是世界末日的可能性为 0%。吓唬人不负责任，也没有必要。”据悉，黄仁勋此番言论是在回应前 Anthropic 研究员雅各布 · ",
-      "fetched_at": "2026-09-21T01:01:19.958845+00:00"
-    },
-    {
-      "id": "7d618e848cdfaa4b",
-      "title": "美国众议院通过法案：要求当地新车强制配备 AM 广播收音机功能",
-      "link": "https://www.ithome.com/1/005/016.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-20T22:52:49+00:00",
-      "summary": "IT之家 9 月 21 日消息，据外媒 AutoEvolution 报道，美国众议院近日通过“AM Radio for Every Vehicle Act of 2025”法案，要求在美国生产、销售或进口的新乘用车免费提供 AM 广播收音机功能。该法案于 9 月 15 日以口头表决方式获得众议院通过，目前还需要经过参议院审议，并由总统签署后才能正式成为法律。该法案获得了美国两党支持，并拥有超过 3",
-      "fetched_at": "2026-09-21T01:01:19.958879+00:00"
-    },
-    {
-      "id": "03917cd200c3bc4b",
-      "title": "日产第 14 代 Skyline 轿车将于 12 月亮相：利用 AI 缩短开发周期，预计搭载 3.0 升涡轮增压 V6 发动机",
-      "link": "https://www.ithome.com/1/005/015.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-20T22:43:17+00:00",
-      "summary": "IT之家 9 月 21 日消息，据“朝日新闻”报道，日产 CEO 伊万・埃斯皮诺萨（Ivan Espinosa）透露第 14 代 Skyline（V38）轿车将于今年 12 月正式亮相。该车为后轮驱动设计，号称是“日产重振品牌的重要产品”。值得注意的是，V38 项目从立项到完成仅用了 26 个月，相比上一代 V37 长达 55 个月的开发周期缩短了一半以上。日产表示，这一开发速度得益于 AI 技术",
-      "fetched_at": "2026-09-21T01:01:19.958908+00:00"
-    },
-    {
-      "id": "39ecdf29fdc22798",
-      "title": "派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃",
-      "link": "https://sspai.com/post/114788",
-      "source_id": "sspai",
-      "source_name": "少数派",
-      "category": "tech",
-      "published_at": "2026-09-20T22:26:04+00:00",
-      "summary": "微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃12306 称第三方购票可能更慢或失败特朗普提议为人工智能改名谷歌在 Android 17 中加入 Pixel 独占的 APIiPhone 18 Pro Max 支持固件限制电量以便发运苹果硬件工程副总裁表示不建议贴膜看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
-      "fetched_at": "2026-09-21T13:58:41.808793+00:00"
     }
   ]
 }
