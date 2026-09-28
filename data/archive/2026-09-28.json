@@ -1,7 +1,139 @@
 {
   "date": "2026-09-28",
-  "count": 883,
+  "count": 887,
   "items": [
+    {
+      "id": "b5ee686f81edf319",
+      "title": "谷歌宣布停用 Gemini 的 Gems 功能，将自动迁移为“技能”",
+      "link": "https://www.ithome.com/1/008/077.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-28T23:11:40+00:00",
+      "summary": "IT之家 9 月 29 日消息，随着 Meta 的 Muse 与 Instinct 这类一体化 AI 智能体逐渐兴起，谷歌宣布将停用 Gemini 当中名为“Gems”的功能。该功能此前允许用户搭建面向特定任务的自定义 AI 助手。不过，用户投入精力创建的 Gems 内容并不会被删除，它们将会自动迁移为“技能（skills）”，可在各类 AI 任务当中调用。Gemini 应用内已经发布了本次变更的",
+      "fetched_at": "2026-09-28T23:12:07.162250+00:00"
+    },
+    {
+      "id": "9f3104dd73e55039",
+      "title": "AMD 斥资 82 亿美元收购 World Labs，“AI 教母”李飞飞出任执行副总裁兼首席科学家",
+      "link": "https://www.ithome.com/1/008/076.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-28T23:09:29+00:00",
+      "summary": "IT之家 9 月 29 日消息，当地时间 28 日，AMD 宣布同意以全股票交易收购旧金山初创公司 World Labs，交易价值约 82 亿美元（IT之家注：现汇率约合 551 亿元人民币）。World Labs 由李飞飞等人于 2024 年联合创办，主要开发“世界模型”，让 AI 根据文本、图像和视频生成或重建能够交互的 3D 环境。未来，这项技术可以用于机器人训练、工厂模拟和科学研究。按照收",
+      "fetched_at": "2026-09-28T23:12:07.162293+00:00"
+    },
+    {
+      "id": "33c4beb4926d4d18",
+      "title": "火狐 Firefox 157 稳定版发布：重塑视觉交互、视频通话更省电",
+      "link": "https://www.ithome.com/1/008/075.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-28T23:05:36+00:00",
+      "summary": "IT之家 9 月 29 日消息，Mozilla 昨日（9 月 28 日）推出火狐 Firefox 浏览器 157 稳定版，整合内部代号 Project Nova 的视觉更新，称其为该浏览器多年来最大幅度界面改版。界面上，Firefox 157 稳定版统一调整标签页、工具栏、菜单、面板、图标及设置界面，重点减少界面中的视觉堆叠，让浏览器整体呈现更加简洁、柔和的观感。IT之家援引博文介绍，新版标签页采",
+      "fetched_at": "2026-09-28T23:12:07.162338+00:00"
+    },
+    {
+      "id": "be8f5d65b9061716",
+      "title": "因恶劣天气，特斯拉第二代 Roadster 跑车发布会再度延期",
+      "link": "https://www.ithome.com/1/008/074.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-28T23:01:47+00:00",
+      "summary": "IT之家 9 月 29 日消息，特斯拉再度推迟全新改款的第二代 Roadster 跑车的发布活动，这次延期的原因是气象预报显示将出现恶劣天气。特斯拉表示，这场活动原定 10 月 1 日在得克萨斯州韦科举办，现已改至 10 月 15 日。特斯拉在 X 平台的帖子中写道：“我们一直联合当地气象部门密切跟踪天气情况。鉴于预报将会出现恶劣天气，且本次活动只能在户外举办，我们做出了改期的艰难决定。”这场发布",
+      "fetched_at": "2026-09-28T23:12:07.162391+00:00"
+    },
+    {
+      "id": "cbf96cd407f157db",
+      "title": "快手可灵 AI Kling 4.0 将于 10 月上线，支持 4K HDR 与 30 秒视频生成",
+      "link": "https://www.ithome.com/1/008/073.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-28T22:55:38+00:00",
+      "summary": "IT之家 9 月 29 日消息，快手可灵 AI 宣布，Kling 4.0 将于 10 月正式上线。其中，Kling 4.0 Flash 于 9 月 28 日率先开放小范围体验。据介绍，Kling 4.0 支持 4K、1080p 的 10-bit HDR 格式输出；单次输入最多 10 张图片、5 段视频及 7 个主体，在同一生成任务组合使用；支持单次生成视频最长可达 30 秒，支持长镜头与连续叙事。",
+      "fetched_at": "2026-09-28T23:12:07.162475+00:00"
+    },
+    {
+      "id": "1966fe93fb79d9eb",
+      "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%，智能体编码性能反超 Opus 5.5",
+      "link": "https://www.ithome.com/1/008/072.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-28T22:47:29+00:00",
+      "summary": "IT之家 9 月 29 日消息，随着 AI 模型竞赛持续升温，Anthropic 推出了旗下中端模型 Sonnet 的最新版本。该公司表示，新版模型运行速度会快得多，使用成本也较上一代大幅降低。IT之家注意到，这家实验室将 Sonnet 5.5 定位为日常任务的理想助手，适用场景包括编写代码以及制作办公文档。Sonnet 5.5 的上一代产品 Sonnet 5 是大约三个月前发布的。当时这款模型的",
+      "fetched_at": "2026-09-28T23:12:07.162514+00:00"
+    },
+    {
+      "id": "2231c12d459afec8",
+      "title": "小米米家筒灯 / 射灯 3 Pro 新品今日开售：国补价 129.2~169.2 元",
+      "link": "https://www.ithome.com/1/008/071.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-28T20:59:10+00:00",
+      "summary": "IT之家 9 月 29 日消息，小米上周刚推出的三款米家灯具新品将于今日 10 点开售。IT之家汇总如下：米家筒灯 3 Pro，首发价 152 元，国补价 129.2 元米家射灯 3 Pro，首发价 176 元，国补价 149.6 元米家筒灯 3 Pro 人在感应版，首发价 199 元，国补价 169.2 元活动期间晒单评价满足要求可返 10 元京东红包，预约且前 3 名购买用户还可获赠筒灯 3 ",
+      "fetched_at": "2026-09-28T23:12:07.162597+00:00"
+    },
+    {
+      "id": "38432664734ae00d",
+      "title": "苹果 watchOS 27.0.1 发布：向 Apple Watch Series 9 及后续表款推送",
+      "link": "https://www.ithome.com/1/008/070.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-28T20:07:11+00:00",
+      "summary": "IT之家 9 月 29 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0.1 更新（内部版本号：24R365），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。苹果公司于 9 月 24 日面向 Apple Watch Series 12 和 Apple W",
+      "fetched_at": "2026-09-28T23:12:07.162656+00:00"
+    },
+    {
+      "id": "58ef741e80a5c0be",
+      "title": "苹果 iPadOS 26.7.1 发布：修复可执行任意代码的安全漏洞",
+      "link": "https://www.ithome.com/1/008/069.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-28T17:58:09+00:00",
+      "summary": "IT之家 9 月 29 日消息，苹果今日向 iPad 用户推送了 iPadOS 26.7.1 更新，本次更新距离上次发布正式版间隔 19 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。本次 26.7.1 属于“快速安全补丁”性质的小版本更新，苹果在公开更新说明中未列出具体新功能或详细修复条目，仅强调其安全相关属性。作为对比",
+      "fetched_at": "2026-09-28T23:12:07.162785+00:00"
+    },
+    {
+      "id": "9b5eb1f4e8c3f4a1",
+      "title": "苹果 macOS 27.0.1/26.7.1/15.8.1 发布，AI 提速漏洞修复",
+      "link": "https://www.ithome.com/1/008/067.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-28T17:58:09+00:00",
+      "summary": "IT之家 9 月 29 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0.1 更新（内部版本号：26A434），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。Mac 用户可以通过系统设置中的“软件更新”部分下载新的 macOS Golden Gate 软件。苹果公司表示",
+      "fetched_at": "2026-09-28T23:12:07.162847+00:00"
+    },
+    {
+      "id": "56ac580005ab9c81",
+      "title": "苹果 visionOS 27.0.1 发布，整合安全修复",
+      "link": "https://www.ithome.com/1/008/068.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-28T17:58:09+00:00",
+      "summary": "IT之家 9 月 29 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0.1 更新（内部版本号：24M372），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。在官方 visionOS 27.0.1 更新日志中，苹果只是写道：“本次更新包含针对 Apple",
+      "fetched_at": "2026-09-28T23:12:07.162894+00:00"
+    },
+    {
+      "id": "24815da11ca1342f",
+      "title": "苹果 iOS / iPadOS 27.0.1 发布：修复部分 iPhone 18 Pro / Max 意外重启问题",
+      "link": "https://www.ithome.com/1/008/066.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-09-28T17:58:08+00:00",
+      "summary": "IT之家 9 月 29 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.0.1 更新（内部版本号：24A446），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。图源：@tangkin 本次更新内容如下：此更新为您的 iPhone 提供错误修复",
+      "fetched_at": "2026-09-28T23:12:07.162950+00:00"
+    },
     {
       "id": "b6757511de2c885b",
       "title": "RSI概念过热，一线学者：有炒作成分",
@@ -9626,94 +9758,6 @@
       "published_at": "2026-09-21T23:20:00+00:00",
       "summary": "支付宝宣布组织调整和全新任命；宇树科技发布Dex5-S灵巧手，3.99万元起；理想汽车总裁马东辉：马赫芯片、碳化硅模块可外供；Kimi与海外云厂商分成模式正式落地；港交所拟将主要交易门槛提至50%；2025年全球人形机器人销量达7000台，今年出货量预计突破9万台。",
       "fetched_at": "2026-09-22T04:44:33.661697+00:00"
-    },
-    {
-      "id": "732bfd313d6ca9d1",
-      "title": "小米 MiMo-V2.6 发布并开源：Pro 与 Flash 双版本，API 价格与前代持平",
-      "link": "https://www.ithome.com/1/005/496.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-21T23:05:45+00:00",
-      "summary": "IT之家 9 月 22 日消息，小米今日凌晨正式发布并开源了全新的 Xiaomi MiMo-V2.6 系列，包含 Pro 与 Flash 两个原生全模态模型。小米称这是其探索 RSI（递归自我改进）路径的关键一步，通过规模化扩展强化学习算力，让模型在持续的探索与反馈中拓展智能边界。得益于 RL 算力的扩展，MiMo-V2.6-Pro 在 Artificial Analysis Intelligen",
-      "fetched_at": "2026-09-21T23:13:11.502103+00:00"
-    },
-    {
-      "id": "da16d2cc31c249ef",
-      "title": "独立开发者称自己游戏新作遭其他开发商使用 AI 工具 1:1 恶意复刻，双方各执一词",
-      "link": "https://www.ithome.com/1/005/495.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-21T23:05:33+00:00",
-      "summary": "IT之家 9 月 22 日消息，据 IGN 报道，独立游戏开发者 Rado Klasa 发文，抨击一家名为 Golden Horn Studios 的开发商新作《Potato Please》预告片 1:1 复刻了自己的游戏《1,000,000 Potatoes》。IT之家获悉，《1,000,000 Potatoes》是一款第一人称物理模拟游戏，玩家需要利用物理机制削土豆。而这款《Potato Pl",
-      "fetched_at": "2026-09-21T23:13:11.502176+00:00"
-    },
-    {
-      "id": "1ee4dddcdbf7fb80",
-      "title": "马斯克 SpaceXAI 发布旗下最强编码和知识处理模型 Grok 4.7，百万词元输入 2 美元起",
-      "link": "https://www.ithome.com/1/005/494.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-21T22:56:49+00:00",
-      "summary": "IT之家 9 月 22 日消息，SpaceXAI 今日宣布推出新一代 Grok 4.7，主打编程和知识工作场景。官方称其采用全新更大规模基础模型，并通过更长时间的强化学习训练提升复杂任务处理能力，是该公司目前最强的编码和知识处理模型 —— 速度是同类模型的两倍，价格却只有一半。如前所述，Grok 4.7 针对编程和知识工作进行了优化。与 Grok 4.6 相比，新模型能够在困难任务上持续更长时间，",
-      "fetched_at": "2026-09-21T23:13:11.502232+00:00"
-    },
-    {
-      "id": "46a04ebf0e5e0e93",
-      "title": "Take-Two 出手清理《GTA 5》与《GTA 6》泄露内容，部分视频 / 模组已遭下架",
-      "link": "https://www.ithome.com/1/005/493.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-21T22:54:23+00:00",
-      "summary": "IT之家 9 月 22 日消息，据 IGN 报道，目前 Rockstar Games 的母公司 Take-Two Interactive 正开始清理网络上的最新《GTA 5》和《GTA 6》泄露内容，部分包含相关素材的视频和帖子已经被下架。参考IT之家先前报道，上周高达 192GB 的《GTA 5》文件在网络上流出。这些文件来自 2022 年针对 Rockstar 的黑客攻击，而当年的攻击也导致《",
-      "fetched_at": "2026-09-21T23:13:11.502270+00:00"
-    },
-    {
-      "id": "d7f1e3ae550130f5",
-      "title": "苹果停止签署 iOS 26.6.2：用户升级 iOS 27 大版本后不再支持降级",
-      "link": "https://www.ithome.com/1/005/492.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-21T22:46:29+00:00",
-      "summary": "IT之家 9 月 22 日消息，苹果现已停止签署 iOS 26.6.2，这意味着已经升级至 iOS 27 的用户无法再通过官方渠道降级至 iOS 26 的其他版本。作为参考，iOS 27 正式版本于 9 月 15 日正式发布，目前已经上线约一周。尽管苹果在 iOS 27 正式版发布同期推送了 iOS 26.7 版本，然而用户同样无法从 iOS 27 降级至 iOS 26.7。这是因为 iOS 26",
-      "fetched_at": "2026-09-21T23:13:11.502298+00:00"
-    },
-    {
-      "id": "6d4d1ee700f0b218",
-      "title": "苹果 iPhone 18 Pro 首批用户反馈 Face ID 问题：解锁失败后死机重启，部分用户无法完成设置",
-      "link": "https://www.ithome.com/1/005/491.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-21T22:43:42+00:00",
-      "summary": "IT之家 9 月 22 日消息，苹果新款 iPhone 18 Pro 和 iPhone 18 Pro Max 于当地时间 9 月 18 日开始陆续送达首批用户，但部分用户反馈 Face ID 出现异常。有部分早期用户在 Reddit 和各大论坛上反馈设备出现 Face ID 相关异常。当用户尝试通过 Face ID 解锁已设置应用锁的 App 时会偶发验证失败，随后设备可能卡死并重启回到锁屏界面。",
-      "fetched_at": "2026-09-21T23:13:11.502338+00:00"
-    },
-    {
-      "id": "4c448717ef18ca0b",
-      "title": "沙特阿拉伯首个本土汽车品牌 Ceer 首批车型公布：850 马力三电机，轿车 SUV 同平台",
-      "link": "https://www.ithome.com/1/005/490.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-21T22:39:21+00:00",
-      "summary": "IT之家 9 月 22 日消息，沙特阿拉伯首个本土汽车品牌 Ceer 近日正式公布成立以来的首批产品。该品牌由沙特公共投资基金（PIF）与台湾地区鸿海集团共同成立，此次推出的两款新车均基于“Exobot”平台打造，分别为轿车和 SUV。Ceer 计划在未来 5 年内继续推出 5 款车型，最终形成涵盖不同动力形式的 7 款车型产品线。此次亮相的两款车型均采用极具未来感的外观设计，由前迈凯伦设计总监 ",
-      "fetched_at": "2026-09-21T23:13:11.502388+00:00"
-    },
-    {
-      "id": "180c36abb8ed7036",
-      "title": "iOS 27.2 代码曝光：苹果正测试 iPhone 防抢夺功能，尚未启用",
-      "link": "https://www.ithome.com/1/005/488.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-21T22:33:02+00:00",
-      "summary": "IT之家 9 月 22 日消息，9to5Mac 在 iOS 27.2 Beta2 开发者测试版中发现，苹果仍在开发 iPhone 防抢自动锁定功能。该功能内部代号为“AutoLock”，目前尚未启用。代码显示，AutoLock 会综合多种信号判断 iPhone 是否可能被从用户手中抢走，包括：设备出现与抢夺动作相符的剧烈加速配对的 Apple Watch 在一段时间内无法连接与 Apple Wat",
-      "fetched_at": "2026-09-21T23:13:11.502418+00:00"
     }
   ]
 }
