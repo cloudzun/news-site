@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T19:12:08.560110+00:00",
-  "count": 796,
+  "generated_at": "2026-10-02T23:43:27.554298+00:00",
+  "count": 786,
   "sources": [
     {
       "id": "36kr",
@@ -35,6 +35,83 @@
   ],
   "items": [
     {
+      "id": "a2cfcbe2fa6c5cf2",
+      "title": "苹果 homeOS 前瞻：整合 iOS / iPadOS / watchOS 特性，主打 Siri AI 交互",
+      "link": "https://www.ithome.com/1/009/380.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-02T23:34:15+00:00",
+      "summary": "IT之家 10 月 3 日消息，科技媒体 9to5Mac 昨日（10 月 2 日）发布博文，综合彭博社马克 · 古尔曼（Mark Gurman）、@itspdfu 等诸多消息源，梳理整合苹果 homeOS 系统相关信息。名称方面，homeOS 目前尚未正式确认，IT之家曾于 2025 年 6 月报道，苹果公司已注册 homeOS 系统商标。运行界面上，homeOS 融合了诸多其它系统元素风格，包括",
+      "fetched_at": "2026-10-02T23:43:17.743878+00:00"
+    },
+    {
+      "id": "004224b2e21cf424",
+      "title": "初代 M3 上市 40 年，宝马 M 车型迎来百万辆下线里程碑",
+      "link": "https://www.ithome.com/1/009/379.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-02T23:29:31+00:00",
+      "summary": "IT之家 10 月 3 日消息，当地时间 2 日，宝马集团旗下高性能品牌 M 的累计产量正式突破 100 万辆，第 100 万辆车型是一辆在德国慕尼黑工厂下线的 M3，采用个性化定制 Fire Orange III 车漆，慕尼黑工厂负责人彼得 · 韦伯将车钥匙交给 M CEO 弗兰克 · 范梅尔。与此同时，下一代纯电 M3 将在宝马慕尼黑工厂生产，并成为首款采用 M 新世代技术的高性能车型。继纯电",
+      "fetched_at": "2026-10-02T23:43:17.743904+00:00"
+    },
+    {
+      "id": "5555a4ad7142e2e7",
+      "title": "苹果回应少数美国运营商 AT&T 版 iPhone 18 Pro Max 出现 SOS 通信故障",
+      "link": "https://www.ithome.com/1/009/378.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-02T23:20:42+00:00",
+      "summary": "IT之家 10 月 3 日消息，科技媒体 9to5Mac 昨日（10 月 2 日）发布博文，报道称美国电信运营商 AT&amp;T 和苹果公司分别发布声明，表示少量美版 iPhone 18 Pro Max 存在蜂窝网络问题。IT之家曾于 9 月援引市场调查机构 TechInsights 公布的拆解报告，美国版苹果 iPhone 18 Pro Max 采用高通骁龙 X80 调制解调器，成为 iPho",
+      "fetched_at": "2026-10-02T23:43:17.743930+00:00"
+    },
+    {
+      "id": "25fbb84ed5c0054e",
+      "title": "亚马逊云科技 CEO 加尔曼强势回应数据中心反对声浪：后果或影响数代人",
+      "link": "https://www.ithome.com/1/009/377.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-02T23:17:50+00:00",
+      "summary": "IT之家 10 月 3 日消息，据《商业内幕》今天（3 日）凌晨报道，亚马逊云科技 CEO 马特 · 加尔曼警告，美国各地针对数据中心建设的反对声浪不断扩大，可能让美国在全球 AI 竞争中失去优势。加尔曼发表了一篇 3000 多词的博文称，如果美国大范围叫停数据中心建设，影响可能延续数代人。“数据中心建设刻不容缓，因为看到 AI 能够推动经济发展、增强国家安全的并不只有美国。谁能在 AI 领域领先",
+      "fetched_at": "2026-10-02T23:43:17.743956+00:00"
+    },
+    {
+      "id": "fa0ba65d4aec74d6",
+      "title": "Anthropic 拟斥资 1 亿美元培训万名工程师，破解企业 AI 落地“人才荒”",
+      "link": "https://www.ithome.com/1/009/376.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-02T23:03:54+00:00",
+      "summary": "IT之家 10 月 3 日消息，Anthropic 计划投入 1 亿美元（IT之家注：现汇率约合 6.71 亿元人民币）培训 1 万名工程师，帮助企业把 AI 项目从构想真正推进到业务应用。当地时间 2 日，Anthropic 宣布推出 Claude Frontier Academy（Claude 前沿学院）培训项目，瞄准企业 AI 落地过程中一个主要瓶颈：真正懂得如何把 AI 开发出来，并将其部",
+      "fetched_at": "2026-10-02T23:43:17.743978+00:00"
+    },
+    {
+      "id": "6f60f5b94f10ea22",
+      "title": "下载体验了 Muse 后，我清仓了 Airbnb，加仓了 Meta",
+      "link": "https://www.ithome.com/1/009/375.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-02T23:03:19+00:00",
+      "summary": "IT之家 10 月 3 日消息，9 月 29 日作客财经播客《The Synopsis》时，资深独立股票分析师 Mostly Borrowed Ideas（下文简称 MBI）表示：在下载体验了 Muse 后，我清仓了 Airbnb，加仓了 Meta。IT之家注：MBI 是独立分析师 Abdullah Al Rezwan 的笔名，他运营投资研究网站和 Substack 专栏 MBI Deep Div",
+      "fetched_at": "2026-10-02T23:43:17.744015+00:00"
+    },
+    {
+      "id": "244223f1e337aa64",
+      "title": "微软发布 Win11 Beta 和 Experimental 频道多版本预览版，支持 Unicode 17.0 文本、优化设置主页性能",
+      "link": "https://www.ithome.com/1/009/374.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-02T17:05:18+00:00",
+      "summary": "IT之家 10 月 3 日消息，微软昨天（10 月 2 日）发布博文，邀请 Beta 和 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的多个预览版更新，本次推送版本如下：Beta 通道：Build 26220.9587（26H2）、Build 28020.3142（26H1）Experimental 通道：Build 26340.9",
+      "fetched_at": "2026-10-02T23:43:17.744041+00:00"
+    },
+    {
       "id": "e595ddbcf92f393f",
       "title": "继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付",
       "link": "https://www.ithome.com/1/009/373.htm",
@@ -43,7 +120,7 @@
       "category": "tech",
       "published_at": "2026-10-02T16:16:55+00:00",
       "summary": "IT之家 10 月 3 日消息，Microsoft（微软）当地时间 1 日通过 DirectX 开发者博客宣布，高级着色器交付 (ASD) 将在本月扩展到高通、英特尔、英伟达硬件上。由于 AMD 的 \"RDNA\" 家族已率先支持 ASD，这意味着该特性即将实现对四大 GPU 制造商平台的全覆盖。更多用户将可享受到直接下载云端预编译着色器带来的好处：缩短加载时间、消除着色器卡顿。高通已通过今年 9 ",
-      "fetched_at": "2026-10-02T19:12:01.696137+00:00"
+      "fetched_at": "2026-10-02T23:43:17.744057+00:00"
     },
     {
       "id": "8f335d7e16de8ed1",
@@ -8602,193 +8679,6 @@
       "published_at": "2026-09-25T23:43:28+00:00",
       "summary": "IT之家 9 月 26 日消息，小米 Xiaomi 口袋吉他配件现已在京东发售，该产品结合“唱吧”应用深度打造，适用于小米 18 Pro 系列手机和苹果 iPhone，能够模拟真实吉他操作，让用户体验手机弹唱乐趣，定价为 599 元。京东小米 Xiaomi 口袋吉他 599 元直达链接该产品提供黑 / 红双色可选，采用超薄外观设计，内置强力磁铁，能稳固吸附于手机背面，亦可展开充当桌面支架。设备接入",
       "fetched_at": "2026-09-26T01:28:17.750835+00:00"
-    },
-    {
-      "id": "546ce4c28391d739",
-      "title": "GL.iNet 发布迷你旅行路由器 GL-MG1300，AC1300 规格",
-      "link": "https://www.ithome.com/1/007/275.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-25T23:42:02+00:00",
-      "summary": "IT之家 9 月 26 日消息，GL.iNet（广联智通）近日发布了迷你旅行路由器 GL-MG1300。这一产品在部分区域以 \"Mango 2\" 之名售卖，在另外部分区域也会被称为“芒果 Pro”。GL-MG1300 仅有卡片级大小，三维 89×63×15 (mm)，质量 100g，可轻松收纳于口袋或背包。其可便利地将公共 Wi-Fi 转换为专属私有网络，增强对网络的控制，提升安全性。GL-MG1",
-      "fetched_at": "2026-09-26T01:28:17.750866+00:00"
-    },
-    {
-      "id": "121d962326076f5c",
-      "title": "OpenAI 承认 53 张用户图片被其 AI 智能体“偷偷”传到公网",
-      "link": "https://www.ithome.com/1/007/274.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-25T23:36:24+00:00",
-      "summary": "IT之家 9 月 26 日消息，OpenAI 昨日（9 月 25 日）更新其博客，承认发生一起违规事件，在企业不知情情况下，AI 智能体将 53 张客户图片发布到公开网站。在博文中，IT之家援引博文介绍，OpenAI 公司承认在其研究环境中运行的 AI 智能体曾将 53 张由用户上传到 OpenAI 模型的图片，以“未公开列出的链接”形式发布到第三方图像托管网站（类似图床），而受影响公司当时并不知",
-      "fetched_at": "2026-09-26T01:28:17.750892+00:00"
-    },
-    {
-      "id": "b0309c8d37af8feb",
-      "title": "华硕 a 豆 100W 氮化镓充电器 Wiggle 联名款上架：2C+1A，支持小米澎湃秒充，169 元",
-      "link": "https://www.ithome.com/1/007/273.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-25T23:35:41+00:00",
-      "summary": "IT之家 9 月 26 日消息，华硕现已在京东上架 a 豆 100W 氮化镓充电器 Wiggle 联名款，该产品采用 2C+1A 设计，定价为 169 元。京东华硕 a 豆氮化镓充电器 Wiggle 联名款 169 元直达链接该产品带有 Wiggle 熊、玩乐小兔联名图案，使用多巴胺配色，整体重量约 180g，匹配可折叠插脚及人体工程学容指凹槽。其提供 2 个 USB-C 100W 和 1 个 U",
-      "fetched_at": "2026-09-26T01:28:17.750918+00:00"
-    },
-    {
-      "id": "4e5e50afcd927a83",
-      "title": "小米推出米家吸顶灯 C 高显色版本：Ra95 全光谱灯珠、RG0 防蓝光豁免级标准，349 元起",
-      "link": "https://www.ithome.com/1/007/272.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-25T23:28:54+00:00",
-      "summary": "IT之家 9 月 26 日消息，小米现已在京东上架“米家吸顶灯 C 高显色”版本，提供了定价 349 元的 D40 版本（适用于 15 平方米）和定价 699 元的 L90 版本（适用于 25-45 平方米）。京东小米米家吸顶灯 C 高显色版本 349 元起直达链接系列吸顶灯外观采用纤薄简约立边设计，哑光表面无反光。灯罩含抗 UV 剂防黄变，广角侧发光结构能够令光线向四周均匀扩散。系列吸顶灯最高亮",
-      "fetched_at": "2026-09-26T01:28:17.750945+00:00"
-    },
-    {
-      "id": "7d7af4a4868b29a8",
-      "title": "乌龟海岸推出 Vulcan II XP Air 机械键盘：三模连接，支持浮空手势操作",
-      "link": "https://www.ithome.com/1/007/271.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-25T23:26:26+00:00",
-      "summary": "IT之家 9 月 26 日消息，Turtle Beach（乌龟海岸）今年 8 月的时候发布了全配列有线机械键盘 Vulcan II XP。其拥有铝制拉丝纹理面盖，支持轴体热插拔，集成单键 ARGB LED 背光。而在近日，乌龟海岸又推出了 Vulcan II XP Air。其引入了无线连接支持，内置的 6000mAh 提供 2000hr 续航；集成 AirTrack 传感器，支持浮空手势操作；另有",
-      "fetched_at": "2026-09-26T01:28:17.750975+00:00"
-    },
-    {
-      "id": "3d4c9b66c9bc72af",
-      "title": "苹果 HomePod mini 2 曝光：延续现有设计、新增绿 / 粉 / 黑三色",
-      "link": "https://www.ithome.com/1/007/270.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-25T23:23:55+00:00",
-      "summary": "IT之家 9 月 26 日消息，科技媒体 MacRumors 昨日（9 月 25 日）发布博文，爆料称苹果 HomePod mini 2 将沿用初代机型的设计，并推出 5 种颜色。颜色方面，基于从苹果代码中挖掘的信息，HomePod mini 2 将会提供黄色、橙色、蓝色、白色和午夜蓝五种配色。而现款 HomePod mini 则有黄色、橙色、蓝色、白色和午夜蓝五种配色。因此 HomePod mi",
-      "fetched_at": "2026-09-26T01:28:17.751024+00:00"
-    },
-    {
-      "id": "8e9c31e0daee01fd",
-      "title": "Valve 发布 SteamOS 3.9.2 Beta 测试版：新增 Legion Go 2 亮度控制支持等",
-      "link": "https://www.ithome.com/1/007/269.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-25T23:20:46+00:00",
-      "summary": "IT之家 9 月 26 日消息，Valve 今天向 SteamOS Beta 及预览通道推送了 3.9.2 测试版更新，包含多项新功能与问题修复，目前仍处于测试阶段，用户可通过“设置 &gt; 系统 &gt; 系统更新通道”加入测试体验。本次更新汇总了自稳定版 SteamOS 3.8 以来的全部变化，包含此前 3.9 预览版的迭代更新。SteamOS 3.9.2 主要更新内容：通用修复新增对 Le",
-      "fetched_at": "2026-09-26T01:28:17.751098+00:00"
-    },
-    {
-      "id": "a1fea6d12f627b5b",
-      "title": "外媒 Game Informer 宣布 9 月 29 日独家公布 12 张《GTA6》新截图，并介绍游戏部分机制详情",
-      "link": "https://www.ithome.com/1/007/268.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-25T23:19:02+00:00",
-      "summary": "IT之家 9 月 26 日消息，外媒 Game Informer 发文，宣布其独家采访了 Rockstar Games 的开发人员，将于 9 月 29 日公布《GTA6》专访，其中将放出游戏全新封面和 12 张此前未公开的游戏截图，同时杂志内容将重点讨论动态天气、野生动物、地图设计等此前尚未得到充分解释的游戏机制。动态天气是目前《GTA 6》预览内容中较少涉及的部分。此前公布的预告片和截图已经展示",
-      "fetched_at": "2026-09-26T01:28:17.751130+00:00"
-    },
-    {
-      "id": "8548111239ed70aa",
-      "title": "苹果 iPad mini 8 爆料：前摄改横向布局，A20 Pro 芯片等",
-      "link": "https://www.ithome.com/1/007/267.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-25T23:13:00+00:00",
-      "summary": "IT之家 9 月 26 日消息，科技媒体 MacRumors 昨日（9 月 25 日）发布博文，报道称通过挖掘苹果代码，发现了 iPad mini 8 的踪迹，并分享了一张正面产品图。外观方面，从曝光的产品图来看，iPad mini 8 采用横向前置摄像头布局，而 iPad mini 7 前置摄像头采用竖向（短边）布局，将成为苹果最后一款完成此布局转向的 iPad。屏幕顶部设有小凹槽，与 iPho",
-      "fetched_at": "2026-09-26T01:28:17.751159+00:00"
-    },
-    {
-      "id": "b230f7adfead934d",
-      "title": "松下 2027 年 3 月停止生产面向后装市场的汽车导航系统",
-      "link": "https://www.ithome.com/1/007/266.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-25T23:12:12+00:00",
-      "summary": "IT之家 9 月 26 日消息，松下汽车电子系统 (Panasonic Automotive Systems) 当地时间昨日宣布，面向后装市场的汽车导航系统及其配件将于 2027 年 3 月停止生产。松下仍将为停产产品提供地图更新等软件服务、维修保养等售后服务、客户支持服务。松下表示，车辆预装导航系统的比例在近年来逐渐提升，而相当数量的司机则直接将智能手机用于车载导航，这导致功能单一的后装导航仪市",
-      "fetched_at": "2026-09-26T01:28:17.751180+00:00"
-    },
-    {
-      "id": "dd03d931eaef270c",
-      "title": "研究公司推出基于手机端 App 的驾驶行为追踪技术，可为保险行业汽车事故定损提供参考",
-      "link": "https://www.ithome.com/1/007/265.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-25T23:11:42+00:00",
-      "summary": "IT之家 9 月 26 日消息，研究公司 LexisNexis Risk Solutions 宣布与另一家研究公司 IMS 进行合作，开发出了一种基于手机 App 的驾驶行为追踪功能。此次合作将 LexisNexis 的 Drive Metrics 评分模型与 IMS 的 EdgeSDK 结合起来，可以直接在手机本地计算驾驶评分及相关数据指标，再将结果提供给保险公司，用于定价和承保决策。保险公司既",
-      "fetched_at": "2026-09-26T01:28:17.751207+00:00"
-    },
-    {
-      "id": "fa7b3cccdc58818a",
-      "title": "谷歌悄悄改进 Google Messages 消息应用，引入全新操作手势功能",
-      "link": "https://www.ithome.com/1/007/264.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-25T23:02:22+00:00",
-      "summary": "IT之家 9 月 26 日消息，外媒 9to5Google 在挖掘谷歌 Google Messages 消息应用 20260910_03_RC02 版本时，发现谷歌正在为应用加入全新操作手势功能，同时引入全新的长按菜单。相应功能基于服务器端推送，因此不同设备获得新版操作特性的时间可能有所不同。据报道，此次最明显的变化是长按菜单。新版 Google Messages 会在选中的消息气泡旁显示浮动菜单",
-      "fetched_at": "2026-09-26T01:28:17.751232+00:00"
-    },
-    {
-      "id": "87aa44f9f736184a",
-      "title": "Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力",
-      "link": "https://www.ithome.com/1/007/263.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-25T23:00:50+00:00",
-      "summary": "IT之家 9 月 26 日消息，云计算、网络安全、内容交付企业 Akamai 当地时间 24 日宣布大幅扩展与 Anthropic 的合作关系，两家公司签署了一份为期 7 年、价值 116 亿美元（IT之家注：现汇率约合 779.2 亿元人民币）的合同。▲ Akamai 总部根据协议，Akamai 将以其分布式人工智能基础设施和软件满足 Anthropic 日益增长的 CPU 工作负载需求。这 1",
-      "fetched_at": "2026-09-26T01:28:17.751259+00:00"
-    },
-    {
-      "id": "028c38e4dda51a4c",
-      "title": "苹果 iPad 12 爆料：A19 芯片、8GB 内存、自研 N1/C1X 芯片",
-      "link": "https://www.ithome.com/1/007/262.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-25T22:57:33+00:00",
-      "summary": "IT之家 9 月 26 日消息，科技媒体 MacRumors 昨日（9 月 25 日）发布博文，报道称其撰稿人 Aaron Perris 通过挖掘苹果公司代码，发现 iPad 12 将配备 A19 芯片、8GB 内存、N1 网络芯片和 C1X 调制解调器。芯片方面，苹果 iPad 12 预估将会升级到 A19 芯片，支持 Apple Intelligence 以及 Siri AI。此外该平板将会运",
-      "fetched_at": "2026-09-26T01:28:17.751301+00:00"
-    },
-    {
-      "id": "e0b67a7dce503406",
-      "title": "苹果为 TestFlight 应用新增横屏模式支持，为旗下首款折叠屏手机 iPhone Duo 上市做准备",
-      "link": "https://www.ithome.com/1/007/261.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-25T22:56:16+00:00",
-      "summary": "IT之家 9 月 26 日消息，随着苹果首款可折叠手机 iPhone Duo 即将上市，官方本周更新 TestFlight 应用至 4.4.0 版本，为应用新增 iPhone 横屏模式支持，同时适配 macOS 27 Golden Gate 中的可调整大小 iPhone 镜像窗口功能。根据苹果公布的更新说明，在本次更新后，应用要求系统版本 27.0 起步，在横屏模式下，TestFlight 的应用",
-      "fetched_at": "2026-09-26T01:28:17.751327+00:00"
-    },
-    {
-      "id": "1b4d58b8b6becd33",
-      "title": "消息称 Solidigm 最早 2027 年上市，寻求超 1000 亿美元估值",
-      "link": "https://www.ithome.com/1/007/260.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-25T22:52:19+00:00",
-      "summary": "IT之家 9 月 26 日消息，综合路透社、彭博社报道，SK 海力士 (SK hynix) 旗下固态硬盘数据存储解决方案供应商 Solidigm（思得）最早于 2027 年 IPO 上市。路透社称 Solidigm 可能考虑通过 IPO 募集 150 亿美元，企业估值可能高达 1,500 亿美元（IT之家注：现汇率约合 1.01 万亿元人民币）；彭博社称其上市后估值可能高达 1,000 亿美元（现",
-      "fetched_at": "2026-09-26T01:28:17.751357+00:00"
-    },
-    {
-      "id": "2d2dc7a87351cdc9",
-      "title": "《Hell Is Us 地狱即我们》任天堂 Switch 2 版跳票至 10 月 27 日发售，游戏当日同步上线大型更新",
-      "link": "https://www.ithome.com/1/007/259.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-25T22:48:32+00:00",
-      "summary": "IT之家 9 月 26 日消息，开发商 Rogue Factor 宣布旗下游戏《Hell Is Us 地狱即我们》任天堂 Switch 2 版本因“物流和发行方面的问题”，将跳票至 10 月 27 日发售，官方还将在当天为全平台玩家推送大型游戏更新。开发团队表示，目前 Switch 2 版运行状态稳定，移植工作不存在技术方面的问题，本次延期完全只是游戏发行和物流环节导致截至截IT之家发稿游戏好评率",
-      "fetched_at": "2026-09-26T01:28:17.751377+00:00"
     }
   ]
 }
