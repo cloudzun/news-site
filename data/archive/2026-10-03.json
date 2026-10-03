@@ -1,7 +1,18 @@
 {
   "date": "2026-10-03",
-  "count": 764,
+  "count": 765,
   "items": [
+    {
+      "id": "1b785a209e857da0",
+      "title": "华为 Mate 90 Pro Max 性能解禁：搭载麒麟 9050 Pro，部分游戏能效优于第五代骁龙 8 至尊版机型",
+      "link": "https://www.ithome.com/1/009/580.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-03T16:20:02+00:00",
+      "summary": "IT之家 10 月 4 日消息，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 Mate 90 系列手机正式发布。其中，Mate 90 Pro Max / RS 非凡大师搭载的是首款逻辑折叠 τ 芯片 —— 麒麟 9050 Pro。根据华为官方介绍，麒麟 9050 Pro 是麒麟性能新巅峰，通过软硬芯云垂直整合，整机性能提升 31%。这枚芯片 CPU 还支持 9",
+      "fetched_at": "2026-10-03T19:48:44.975771+00:00"
+    },
     {
       "id": "33e3f8e08cf09953",
       "title": "V社 Steam Frame 头显第三方摄像头模块 Arcturus Vision 上市：可提供高分辨率彩透效果，售 150 美元",
