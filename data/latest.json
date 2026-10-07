@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T15:30:09.631742+00:00",
-  "count": 649,
+  "generated_at": "2026-10-07T21:14:14.210969+00:00",
+  "count": 662,
   "sources": [
     {
       "id": "36kr",
@@ -34,6 +34,193 @@
     }
   ],
   "items": [
+    {
+      "id": "131c82ce4e021e51",
+      "title": "微软发布 Win11 Beta / Experimental 多版本预览更新：全新搜索体验、电池状态小组件",
+      "link": "https://www.ithome.com/1/010/317.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-07T19:33:30+00:00",
+      "summary": "IT之家 10 月 8 日消息，微软昨天（10 月 7 日）发布博文，邀请 Beta 和 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的多个预览版更新，本次推送包含多个不同分支版本：Beta 通道：Build 26220.9606（26H2）、Build 28020.3172（26H1）Experimental 通道：Build 2",
+      "fetched_at": "2026-10-07T21:14:06.456648+00:00"
+    },
+    {
+      "id": "89d1d95e6c8ee71d",
+      "title": "微软 Surface Laptop Ultra 探秘：迭代约 300 次，全球首款内置磁吸式 USB-C 接口",
+      "link": "https://www.ithome.com/1/010/323.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-07T19:00:29+00:00",
+      "summary": "IT之家 10 月 8 日消息，科技媒体 The Verge 今天（10 月 8 日）发布博文，通过探访微软实验室，介绍了微软是如何打造 Surface Laptop Ultra 过程，其设计迭代超过 300 次，从而更好地和苹果 MacBook Pro 竞争。IT之家援引博文介绍，为了让 Surface Laptop Ultra 的外观设计能与 MacBook 一较高下，微软巧妙地重新设计了磁吸",
+      "fetched_at": "2026-10-07T21:14:06.456691+00:00"
+    },
+    {
+      "id": "bfb3d3bee092de84",
+      "title": "微软描绘 Autopilot 全新蓝图：让 Windows AI 从“回答问题”走向“执行任务”",
+      "link": "https://www.ithome.com/1/010/321.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-07T18:38:21+00:00",
+      "summary": "IT之家 10 月 8 日消息，微软今天召开 Surface 新品发布会，现场展示 Autopilot 未来方向。根据其设想，这款智能体将让 Windows AI 进一步实现自主化执行任务。在微软的设想下，Autopilot 不再只是根据用户指令处理信息，而是能够理解目标、规划步骤，调用 Windows 系统及各种应用完成任务。用户可以通过自然语言描述需求，AI 负责查找信息、操作文件、配置系统或",
+      "fetched_at": "2026-10-07T21:14:06.456717+00:00"
+    },
+    {
+      "id": "0eefc6de71a75d2f",
+      "title": "微软 Surface Laptop Ultra 售价公布：起价 21988 元，128GB 内存顶配售 48388 元",
+      "link": "https://www.ithome.com/1/010/320.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-07T18:33:19+00:00",
+      "summary": "IT之家 10 月 8 日消息，微软中国商城今天（10 月 8 日）上架 Surface Laptop Ultra，共有亮铂金和夜幕色两种颜色，起售价为 21,988 元，128GB 内存顶配售价为 48,388 元。官方介绍如下：更强大的 Surface 笔记本电脑。Surface Laptop Ultra 从芯片层面全新设计，搭载全新的 NVIDIA RTX Spark™，围绕一颗新芯片打造，",
+      "fetched_at": "2026-10-07T21:14:06.456811+00:00"
+    },
+    {
+      "id": "496a13392995583c",
+      "title": "英伟达黄仁勋回忆微软 Win95 往昔：没有 Windows 的话，CUDA 就不会诞生",
+      "link": "https://www.ithome.com/1/010/319.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-07T18:28:39+00:00",
+      "summary": "IT之家 10 月 8 日消息，微软今日召开 Surface 新品发布会，CEO 纳德拉、Windows 负责人帕万 · 达武鲁里均登台演讲，英伟达 CEO 黄仁勋后半段压轴登场。黄仁勋登台时，特意将自己的手机交给了助理，所以我们今天没办法看到这位大佬拨通什么神秘电话。黄仁勋和纳德拉坐下来后聊起了 Windows 95。这款操作系统第一次集成了 DirectX，让开发者能够更加容易地为 Windo",
+      "fetched_at": "2026-10-07T21:14:06.456843+00:00"
+    },
+    {
+      "id": "e753d4280aa74a06",
+      "title": "英伟达黄仁勋：已测超 1200 款应用，RTX Spark 是全球唯一本地原生运行所有应用的电脑",
+      "link": "https://www.ithome.com/1/010/318.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-07T18:22:04+00:00",
+      "summary": "IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会中，黄仁勋表示英伟达正推动一种以本地设备为核心的 AI 计算模式。黄仁勋称：“这是全球唯一一台能够在设备端原生运行一切应用的电脑。”他同时表示，几乎所有笔记本电脑、台式机和工作站厂商都已加入英伟达的合作阵营。黄仁勋还借此强调英伟达正在构建的硬件生态：从轻量化 ",
+      "fetched_at": "2026-10-07T21:14:06.456872+00:00"
+    },
+    {
+      "id": "aef0556c034b5242",
+      "title": "黄仁勋：英伟达当初正是因 Windows 而诞生",
+      "link": "https://www.ithome.com/1/010/315.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-07T18:11:32+00:00",
+      "summary": "IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会中，英伟达首席执行官黄仁勋表示：“英伟达当初正是因 Windows 而诞生”。在本次活动中，微软首席执行官萨蒂亚 · 纳德拉、英伟达首席执行官黄仁勋和白宫前人工智能高级政策顾问斯里拉姆 · 克里希南三人展开了一场对话。黄仁勋在开场时表示：“英伟达的创立是因为 ",
+      "fetched_at": "2026-10-07T21:14:06.456904+00:00"
+    },
+    {
+      "id": "107320a1de90735d",
+      "title": "《使命召唤》系列游戏明年登陆 RTX Spark 平台",
+      "link": "https://www.ithome.com/1/010/314.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-07T18:10:13+00:00",
+      "summary": "IT之家 10 月 8 日消息，微软今日召开 Surface 新品发布会，推出 Surface Laptop Ultra 笔记本新品。虽然这场活动是以商务应用、AI 为主，但微软并没有忘记提起游戏。微软 Windows 和设备部门负责人帕万 · 达武鲁里在发布会表示，《使命召唤》系列游戏将于明年登陆 RTX Spark 平台，更多信息将在后续公布。IT之家注意到，微软还在现场提到，《战争机器：事变",
+      "fetched_at": "2026-10-07T21:14:06.456928+00:00"
+    },
+    {
+      "id": "d448cedd75f5568b",
+      "title": "英伟达发布 DGX Station for Windows：本地运行 1 万亿参数 AI 模型，最高 748GB 内存",
+      "link": "https://www.ithome.com/1/010/313.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-07T17:56:19+00:00",
+      "summary": "IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会上，英伟达发布 DGX Station for Windows，定位为桌面级 AI 超级计算机，旨在让开发者、研究人员和数据科学团队在本地运行大规模 AI 模型，将于 2026 年第四季度上市。IT之家援引博文介绍，DGX Station 搭载 NVIDIA ",
+      "fetched_at": "2026-10-07T21:14:06.456964+00:00"
+    },
+    {
+      "id": "c1f0a483906b140b",
+      "title": "2599 美元 / 5999 美元：微软 Surface Laptop Ultra 笔记本、Surface RTX Spark Dev Box 开发机价格公布",
+      "link": "https://www.ithome.com/1/010/312.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-07T17:52:04+00:00",
+      "summary": "IT之家 10 月 8 日消息，微软今日在 Surface 新品发布会公布 Surface Laptop Ultra 笔记本的售价，新品定价 2,599 美元（IT之家注：现汇率约合 17,444 元人民币），即日起开订。微软还公布了 Surface RTX Spark Dev Box 开发机的价格：5,999 美元（现汇率约合 40,265 元人民币），这款产品同样是即日起接受预订。微软表示，S",
+      "fetched_at": "2026-10-07T21:14:06.456992+00:00"
+    },
+    {
+      "id": "2862fc36acae40b6",
+      "title": "微软展示全新 Win11 搜索体验：从查找文件转向理解用户意图",
+      "link": "https://www.ithome.com/1/010/311.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-07T17:47:26+00:00",
+      "summary": "IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会中，微软展示全新的 Windows 搜索体验，计划借助 AI 让用户以更自然的方式查找信息、文件和应用。与传统依赖关键词匹配的搜索方式不同，新体验更强调理解用户意图。用户可以用自然语言描述想要查找的内容，Windows 则尝试结合文件内容、应用信息和系统上下文",
+      "fetched_at": "2026-10-07T21:14:06.457012+00:00"
+    },
+    {
+      "id": "06bdb0c8a211fa78",
+      "title": "微软：Meta Muse 智能体将登陆 Windows 平台",
+      "link": "https://www.ithome.com/1/010/310.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-07T17:45:35+00:00",
+      "summary": "IT之家 10 月 8 日消息，微软今天在 Surface 新品发布会展示了多款第三方智能体工具。其中，Perplexity 的“便携电脑”工具能够端侧执行多种复杂 AI 任务，无需消耗 Perplexity 云积分。IT之家注意到，微软 Windows 和设备部门负责人帕万 · 达武鲁里在发布会中表示，Meta 公司的 Muse 智能体将以原生应用的形式登陆 Windows 平台，并集成 MXC",
+      "fetched_at": "2026-10-07T21:14:06.457034+00:00"
+    },
+    {
+      "id": "76b17fc745d96edc",
+      "title": "微软提出“混合智能”新路线，协同本地 / 云端 AI 灵活处理 Win11 用户任务",
+      "link": "https://www.ithome.com/1/010/309.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-07T17:42:01+00:00",
+      "summary": "IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会上，微软提出“混合智能”（hybrid intelligence）理念，强调通过混合架构，结合云端 AI 与本地计算能力，在 Windows 11 系统上实际处理用户任务。IT之家援引博文介绍，Windows AI 不再局限于单一的云端调用或设备端运行，会根据",
+      "fetched_at": "2026-10-07T21:14:06.457065+00:00"
+    },
+    {
+      "id": "883ac59a9bc65939",
+      "title": "MAI Code 1.1 Flash 模型将整合到微软 Win11：上下文窗口 256K、130B 参数",
+      "link": "https://www.ithome.com/1/010/308.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-07T17:29:16+00:00",
+      "summary": "IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的活动中，微软表示正计划将 MAI Code 1.1 Flash 模型（包含 1300 亿个参数）引入 Windows 11 设备。作为 6 月发布的 MAI-Code-1-Flash 的升级版，MAI Code 1.1 Flash 现已集成到 GitHub Copi",
+      "fetched_at": "2026-10-07T21:14:06.457098+00:00"
+    },
+    {
+      "id": "a965108d71a07989",
+      "title": "微软重点介绍 MXC SDK，为 AI 智能体提供受控执行环境",
+      "link": "https://www.ithome.com/1/010/307.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-07T17:24:13+00:00",
+      "summary": "IT之家 10 月 8 日消息，据科技媒体 The Verge 报道，微软今天在 Windows 与 Surface 发布会重点介绍 MXC（ Microsoft Execution Containers） SDK，将其称为 Windows AI 战略的重要组成部分。据介绍，MXC 旨在为 AI 智能体提供相对独立的执行环境，使其能在受控环境内执行代码、调用工具并完成任务，让智能体少碰用户敏感数据",
+      "fetched_at": "2026-10-07T21:14:06.457122+00:00"
+    },
+    {
+      "id": "85f5221082b13549",
+      "title": "纳德拉：Agent 365、Microsoft IQ 和 Copilot 将成为微软 AI 布局的关键支点",
+      "link": "https://www.ithome.com/1/010/306.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-07T17:16:03+00:00",
+      "summary": "IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办发布会上，微软首席执行官萨蒂亚 · 纳德拉（Satya Nadella）表示，微软正尝试将“前沿生态系统”的三大理念带入 Windows。这三大支柱分别是信任、智能，以及“融入人类抱负的 AI”（AI in the flow of human ambition）。纳德",
+      "fetched_at": "2026-10-07T21:14:06.457147+00:00"
+    },
+    {
+      "id": "ba3c2e9a3760808a",
+      "title": "今日寒露：天҈要҈凉҈了҈",
+      "link": "https://www.ithome.com/1/010/305.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-07T16:00:10+00:00",
+      "summary": "IT之家 10 月 8 日消息，今天是二十四节气中的寒露，寒露通常会在每年的 10 月 7 日至 10 月 9 日这几天，寒露的到来表示秋季的正式结束。寒露之后，气候从凉爽到寒冷，此节气中，南岭及以北的广大地区均已进入秋季，目前，北方大部分地区都已经入秋，东北、西北、西南等地已经进入冬季。此时节，荷败蝉噤，桐残叶黄，千里霜铺，鸿雁南归，呈现出一派深秋景象。由于“寒露”是气候从凉爽到寒冷的过渡和转折",
+      "fetched_at": "2026-10-07T21:14:06.457217+00:00"
+    },
     {
       "id": "47497fbad35fd390",
       "title": "索尼两款新设备获 Wi-Fi 联盟认证，预计为新款 PS Portal 串流掌机",
@@ -7128,50 +7315,6 @@
       "published_at": "2026-09-30T22:57:36+00:00",
       "summary": "IT之家 10 月 1 日消息，谷歌昨日（9 月 30 日）发布 Gemini 4 Argon，称其为公司迄今最先进的 AI 模型，但目前并未面向公众全面开放。定位方面，Gemini 4 Argon 是谷歌当前“最先进”模型，重点是长流程软件工程、企业知识工作和网络安全防御。官方称其在真实世界软件工程测试创纪录，网络安全基准并列第一，并在金融、法律等专业任务基准领先。模型特性方面，Gemini 4",
       "fetched_at": "2026-10-01T00:30:15.544891+00:00"
-    },
-    {
-      "id": "d0c10cfdf0b4cda9",
-      "title": "美光科技 2026 财年年报归母净利润 849.69 亿美元，同比增长 895.07%",
-      "link": "https://www.ithome.com/1/008/952.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-30T20:07:32+00:00",
-      "summary": "IT之家 10 月 1 日消息，美光科技今日发布 2026 财年（2025 年 9 月 5 日～2026 年 9 月 3 日）年报及第四财季（2026 年 5 月 29 日～2026 年 9 月 3 日）报告：2026 财年年报营业总收入：1331.88 亿美元（IT之家注：现汇率约合 8947.38 亿元人民币），同比增长 256.33%毛利润：1075.04 亿美元（现汇率约合 7221.97",
-      "fetched_at": "2026-10-01T00:30:15.544995+00:00"
-    },
-    {
-      "id": "ebe15bade8d4d714",
-      "title": "乐扩公布 B650 扩展卡 PB65MX4，支持模块化按需拓展",
-      "link": "https://www.ithome.com/1/008/950.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-30T16:15:09+00:00",
-      "summary": "IT之家 10 月 1 日消息，乐扩 (Lekuo) 昨日公布了基于 AMD B650 芯片组 \"PROM 21\" 的新款 PCIe AIC 扩展卡 PB65MX4。这一型号采用模块化设计，支持用户按需拓展 I/O。PB65MX4 正面提供 2 个 M.2 2230 / 2242 / 2260 / 2280 插槽，支持 PCIe Gen3 ×2。这两个插槽既可直接安装 M.2 SSD，也兼容 M.",
-      "fetched_at": "2026-10-01T00:30:15.545032+00:00"
-    },
-    {
-      "id": "34143af40ceca1c5",
-      "title": "复兴号 CR400AF-X 动车组首发上线 UFCS 支持：高铁无线快充迈入 30W 时代，半小时充至 60%",
-      "link": "https://www.ithome.com/1/008/946.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-30T16:01:31+00:00",
-      "summary": "IT之家 10 月 1 日消息，9 月 30 日，第三代智能高铁 CR400AF-X 型动车组首次上线运营，从北京南开往杭州东的 G43 次列车成为首发车次，随后 G42、G35 京沪、京杭热门线路均已上线（仅复兴号商务座）。该动车组由国铁集团主导、中车四方股份公司研制，搭载的无线充电功能使用我国自主推动的 UFCS（融合快速充电）无线充电技术规范。据中国信息通信研究院总工程师魏然介绍，以往高铁等",
-      "fetched_at": "2026-10-01T00:30:15.545085+00:00"
-    },
-    {
-      "id": "e5cb623c33feb447",
-      "title": "三星发布 Galaxy SmartTag 3 追踪器：体积缩小 35%，续航最长 790 天",
-      "link": "https://www.ithome.com/1/008/944.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-09-30T15:46:55+00:00",
-      "summary": "IT之家 9 月 30 日消息，三星电子今日宣布推出新一代 Galaxy SmartTag3 追踪器。该产品体积比前代小约 35%，重量轻 33%，单个售价 29.99 美元（现汇率约合 201.5 元人民币），四件装 99.99 美元（IT之家注：现汇率约合 671.7 元人民币），将于 11 月初上市，提供白、黑两色，还可单独购买硅胶保护壳和环扣保护壳等配件。三星 Galaxy SmartTa",
-      "fetched_at": "2026-09-30T15:52:06.897886+00:00"
     }
   ]
 }
