@@ -1,7 +1,18 @@
 {
   "date": "2026-10-09",
-  "count": 674,
+  "count": 673,
   "items": [
+    {
+      "id": "b6509cf918afbbe2",
+      "title": "小米智能温湿度计 3 Pro 今日开售：129 元，新增二氧化碳浓度监测",
+      "link": "https://www.ithome.com/1/011/159.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-09T21:00:14+00:00",
+      "summary": "IT之家 10 月 10 日消息，小米智能温湿度计 3 Pro 今日 10:00 正式开售，零售价 129 元，相比众筹价 114 元贵了 15 元。IT之家从官方获悉，这款温湿度计支持检测室内温度、湿度以及二氧化碳浓度，帮助用户及时了解空气状态。该机搭载 Sensirion 新一代低功耗导热原理二氧化碳传感器，持续监测室内二氧化碳浓度。规格方面，该机搭载 3.6 英寸大尺寸 LCD 显示屏，数据",
+      "fetched_at": "2026-10-09T21:36:36.961367+00:00"
+    },
     {
       "id": "acfa90a7e240f660",
       "title": "腾讯《三角洲行动》国服日活跃用户数突破 5800 万人，官方向玩家发放“全服答谢福利”",
@@ -7393,28 +7404,6 @@
       "published_at": "2026-10-02T23:03:19+00:00",
       "summary": "IT之家 10 月 3 日消息，9 月 29 日作客财经播客《The Synopsis》时，资深独立股票分析师 Mostly Borrowed Ideas（下文简称 MBI）表示：在下载体验了 Muse 后，我清仓了 Airbnb，加仓了 Meta。IT之家注：MBI 是独立分析师 Abdullah Al Rezwan 的笔名，他运营投资研究网站和 Substack 专栏 MBI Deep Div",
       "fetched_at": "2026-10-02T23:43:17.744015+00:00"
-    },
-    {
-      "id": "244223f1e337aa64",
-      "title": "微软发布 Win11 Beta 和 Experimental 频道多版本预览版，支持 Unicode 17.0 文本、优化设置主页性能",
-      "link": "https://www.ithome.com/1/009/374.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-02T17:05:18+00:00",
-      "summary": "IT之家 10 月 3 日消息，微软昨天（10 月 2 日）发布博文，邀请 Beta 和 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的多个预览版更新，本次推送版本如下：Beta 通道：Build 26220.9587（26H2）、Build 28020.3142（26H1）Experimental 通道：Build 26340.9",
-      "fetched_at": "2026-10-02T23:43:17.744041+00:00"
-    },
-    {
-      "id": "e595ddbcf92f393f",
-      "title": "继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付",
-      "link": "https://www.ithome.com/1/009/373.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-02T16:16:55+00:00",
-      "summary": "IT之家 10 月 3 日消息，Microsoft（微软）当地时间 1 日通过 DirectX 开发者博客宣布，高级着色器交付 (ASD) 将在本月扩展到高通、英特尔、英伟达硬件上。由于 AMD 的 \"RDNA\" 家族已率先支持 ASD，这意味着该特性即将实现对四大 GPU 制造商平台的全覆盖。更多用户将可享受到直接下载云端预编译着色器带来的好处：缩短加载时间、消除着色器卡顿。高通已通过今年 9 ",
-      "fetched_at": "2026-10-02T23:43:17.744057+00:00"
     }
   ]
 }
