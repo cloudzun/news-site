@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "count": 762,
+  "count": 757,
   "items": [
     {
       "id": "971fae8a2abb4939",
@@ -8328,61 +8328,6 @@
       "published_at": "2026-10-05T22:49:49+00:00",
       "summary": "IT之家 10 月 6 日消息，美国豪华电动汽车制造商 Lucid Motors 今年第三季度一共生产了 2954 辆电动汽车，同比下降 54%。原因是该公司主动控制产能，以此更好地匹配市场需求。这已经是 Lucid Motors 的汽车产量连续第三个季度出现下降，同时也是自 2025 年第一季度以来的最低季度产量。就在 2025 年第一季度过后，Lucid Motors 刚刚启动第二款电动汽车 ",
       "fetched_at": "2026-10-06T00:45:19.765835+00:00"
-    },
-    {
-      "id": "7497540f2cc06278",
-      "title": "苹果 visionOS 27.2 开发者预览版 Beta 3 发布",
-      "link": "https://www.ithome.com/1/009/907.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-05T18:38:15+00:00",
-      "summary": "IT之家 10 月 6 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 开发者预览版 Beta 3 更新（内部版本号：24N5103f），本次更新距离上次发布 Beta / RC 间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。目前尚无关于软件更新内容的任何消息。watchOS、",
-      "fetched_at": "2026-10-06T00:45:19.765884+00:00"
-    },
-    {
-      "id": "d0ff1f7e32b13a88",
-      "title": "苹果 watchOS 27.2 开发者预览版 Beta 3 发布",
-      "link": "https://www.ithome.com/1/009/908.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-05T18:38:15+00:00",
-      "summary": "【点此直达升级教程】IT之家 10 月 6 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 开发者预览版 Beta 3 更新（内部版本号：24S5101f），本次更新距离上次发布 Beta / RC 间隔 14 天。目前 Apple 尚未公布针对该 Beta 3 的详细官方更新日志，因此它主要被视为一次稳定性、兼容性与错误修复更新。需要注册 Apple Devel",
-      "fetched_at": "2026-10-06T00:45:19.765953+00:00"
-    },
-    {
-      "id": "34767db41ef2f8cb",
-      "title": "苹果 iOS / iPadOS 27.2 开发者预览版 Beta 3 发布",
-      "link": "https://www.ithome.com/1/009/905.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-05T18:38:14+00:00",
-      "summary": "【点此直达升级教程】IT之家 10 月 6 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.2 开发者预览版 Beta 3 更新（内部版本号：24B5099f），本次更新距离上次发布 Beta / RC 间隔 14 天。 IT之家附上官方更新日志，苹果公司并未介绍新版本带来的改进，只是提及 Beta 版能让用户提前体验新功能 / 新特性。如何升级 iOS",
-      "fetched_at": "2026-10-06T00:45:19.766010+00:00"
-    },
-    {
-      "id": "70715dd38f99e76c",
-      "title": "苹果 macOS 27.2 开发者预览版 Beta 3 发布",
-      "link": "https://www.ithome.com/1/009/906.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-05T18:38:14+00:00",
-      "summary": "IT之家 10 月 6 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 开发者预览版 Beta 3 更新（内部版本号：26B5101f），本次更新距离上次发布 Beta / RC 间隔 14 天。 苹果公司并未引入值得关注的新功能，预计修复 macOS 27.2 前两个测试版中的问题，但苹果尚未公开完整的详细更新说明。如何升级 iOS / iPadOS / watchOS / m",
-      "fetched_at": "2026-10-06T00:45:19.766068+00:00"
-    },
-    {
-      "id": "a11047148af77d99",
-      "title": "纳指盘中再创历史新高：SpaceX 涨逾 5%，英伟达涨超 1% 再度逼近历史新高",
-      "link": "https://www.ithome.com/1/009/904.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-05T16:08:34+00:00",
-      "summary": "IT之家 10 月 6 日消息，美股纳斯达克指数周一（当地时间 10 月 5 日）创下盘中历史新高，多数大型股和成长股上涨。IT之家注意到，英伟达盘中最高上涨 1.65%，再度逼近历史新高。Meta、微软和特斯拉股价均上涨超过 1%。SpaceX 盘中股价最高涨超 5%，是近三个月来的历史新高。",
-      "fetched_at": "2026-10-06T00:45:19.766088+00:00"
     }
   ]
 }
