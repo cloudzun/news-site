@@ -1,7 +1,51 @@
 {
   "date": "2026-10-13",
-  "count": 764,
+  "count": 765,
   "items": [
+    {
+      "id": "5ae56945b8854916",
+      "title": "苹果 watchOS 27.2 开发者预览版 Beta 4 发布",
+      "link": "https://www.ithome.com/1/012/609.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-13T22:33:08+00:00",
+      "summary": "【点此直达升级教程】 IT之家 10 月 14 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 开发者预览版 Beta 4 更新（内部版本号：24S5112a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件",
+      "fetched_at": "2026-10-13T22:38:08.326450+00:00"
+    },
+    {
+      "id": "1dc63e79ebd49c8b",
+      "title": "苹果 visionOS 27.2 开发者预览版 Beta 4 发布",
+      "link": "https://www.ithome.com/1/012/608.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-13T22:33:07+00:00",
+      "summary": "IT之家 10 月 14 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 开发者预览版 Beta 4 更新（内部版本号：24N5114a），本次更新距离上次发布 Beta/RC 间隔 7 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容",
+      "fetched_at": "2026-10-13T22:38:08.326485+00:00"
+    },
+    {
+      "id": "7db38d1cdd7f63fa",
+      "title": "苹果 macOS 27.2 开发者预览版 Beta 4 发布",
+      "link": "https://www.ithome.com/1/012/607.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-13T22:33:07+00:00",
+      "summary": "IT之家 10 月 14 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 开发者预览版 Beta 4 更新（内部版本号：26B5112a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件更",
+      "fetched_at": "2026-10-13T22:38:08.326519+00:00"
+    },
+    {
+      "id": "d3c68f692f71857c",
+      "title": "苹果 iOS/iPadOS 27.2 开发者预览版 Beta 4 发布",
+      "link": "https://www.ithome.com/1/012/606.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-13T22:33:06+00:00",
+      "summary": "【点此直达升级教程】 IT之家 10 月 14 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2 开发者预览版 Beta 4 更新（内部版本号：24B5110a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Bet",
+      "fetched_at": "2026-10-13T22:38:08.326554+00:00"
+    },
     {
       "id": "413c5263d8626f18",
       "title": "苹果 Apple Watch 睡眠呼吸暂停功能正式上线，先一步读懂你的呼吸",
@@ -11,7 +55,7 @@
       "category": "tech",
       "published_at": "2026-10-13T17:01:14+00:00",
       "summary": "IT之家 10 月 13 日消息，10 月 14 日凌晨 1 点，苹果通过 OTA 向用户推送新系统。升级 iOS 与 watchOS 之后，Apple Watch 用户即可开通睡眠呼吸暂停功能。这项功能此前已通过国家药品监督管理局批准，以“睡眠呼吸暂停迹象提示”应用的二类医疗器械身份进入国内，成为 Apple Watch 上又一个受医疗监管的健康功能。睡眠呼吸暂停功能目前支持 Apple Wat",
-      "fetched_at": "2026-10-13T17:32:45.612153+00:00"
+      "fetched_at": "2026-10-13T22:38:08.326602+00:00"
     },
     {
       "id": "7ca048ac29d19bd2",
@@ -22,7 +66,7 @@
       "category": "tech",
       "published_at": "2026-10-13T16:08:16+00:00",
       "summary": "配置不偏科，一部即全部#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-10-13T17:32:44.338391+00:00"
+      "fetched_at": "2026-10-13T22:38:06.604135+00:00"
     },
     {
       "id": "64ebc5db0cb81880",
@@ -8372,39 +8416,6 @@
       "published_at": "2026-10-06T22:41:19+00:00",
       "summary": "IT之家 10 月 7 日消息，去年谷歌推出了 EmbeddingGemma，为开发者提供轻量高质量的文本嵌入方案，下载量已超 2000 万次，广泛应用于端侧搜索工具和隐私优先检索增强生成（ RAG ）管线。如今谷歌正式推出 EmbeddingGemma 2，将能力从文本扩展到代码、图像、视频、音频，可将这些内容统一映射到同一个嵌入空间。IT之家援引博文介绍，该模型基于 Gemma 4 架构开发，",
       "fetched_at": "2026-10-07T00:36:48.287560+00:00"
-    },
-    {
-      "id": "38392ebb33c11701",
-      "title": "明起停牌！拉卡拉筹划收购高富信息控股权",
-      "link": "https://www.tmtpost.com/8160368.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-10-06T21:34:03+00:00",
-      "summary": "明起停牌！拉卡拉筹划收购高富信息控股权",
-      "fetched_at": "2026-10-07T15:30:04.607037+00:00"
-    },
-    {
-      "id": "3babe26c5cc7db43",
-      "title": "中国央行再出手，连续23个月增持黄金",
-      "link": "https://www.tmtpost.com/8160371.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-10-06T21:21:21+00:00",
-      "summary": "中国央行再出手，连续23个月增持黄金",
-      "fetched_at": "2026-10-07T15:30:04.607045+00:00"
-    },
-    {
-      "id": "4907e3aa893e4ae6",
-      "title": "小米米家智能晾衣机 3 Max 今日开售：首创柔烘除菌专区，首发国补价 2699 元",
-      "link": "https://www.ithome.com/1/010/126.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-06T20:59:09+00:00",
-      "summary": "IT之家 10 月 7 日消息，米家智能晾衣机 3 Max 今日 20:00 正式开售，首发国补价 2698.75 元。京东米家【重磅新品】电动晾衣架 3 Max 柔烘除菌超薄隐形阳台智能升降晾衣机 2698.75 元直达链接该机是米家首款柔烘除菌晾衣机，首创米家半封闭式柔烘专区。衣物平铺在晾晒网上后，启动干衣或除菌功能时，晾杆组件自动上升贴近风口，形成半封闭柔烘专区，通过热风循环锁温实现更快干衣",
-      "fetched_at": "2026-10-07T00:36:48.287621+00:00"
     }
   ]
 }
