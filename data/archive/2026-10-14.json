@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "count": 797,
+  "count": 793,
   "items": [
     {
       "id": "8015c7f46141e828",
@@ -8724,50 +8724,6 @@
       "published_at": "2026-10-07T23:19:38+00:00",
       "summary": "IT之家 10 月 8 日消息，据央视新闻今天（8 日）清晨报道，西藏阿里地区首个风电工程 —— 中广核阿里改则 5 万千瓦风电项目近日完成全部风机吊装，全面进入并网调试阶段，计划于 2026 年底并网运行。该项目位于海拔 4600 米至 4800 米的阿里雪域高原，共建设 10 台单机容量 5 兆瓦的风电机组。根据报道，超高海拔地区空气稀薄、高寒缺氧，进入 9 月中旬后，当地气温降至 0℃ 以下",
       "fetched_at": "2026-10-08T01:50:21.821095+00:00"
-    },
-    {
-      "id": "131c82ce4e021e51",
-      "title": "微软发布 Win11 Beta / Experimental 多版本预览更新：全新搜索体验、电池状态小组件",
-      "link": "https://www.ithome.com/1/010/317.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-07T19:33:30+00:00",
-      "summary": "IT之家 10 月 8 日消息，微软昨天（10 月 7 日）发布博文，邀请 Beta 和 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的多个预览版更新，本次推送包含多个不同分支版本：Beta 通道：Build 26220.9606（26H2）、Build 28020.3172（26H1）Experimental 通道：Build 2",
-      "fetched_at": "2026-10-07T21:14:06.456648+00:00"
-    },
-    {
-      "id": "89d1d95e6c8ee71d",
-      "title": "微软 Surface Laptop Ultra 探秘：迭代约 300 次，全球首款内置磁吸式 USB-C 接口",
-      "link": "https://www.ithome.com/1/010/323.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-07T19:00:29+00:00",
-      "summary": "IT之家 10 月 8 日消息，科技媒体 The Verge 今天（10 月 8 日）发布博文，通过探访微软实验室，介绍了微软是如何打造 Surface Laptop Ultra 过程，其设计迭代超过 300 次，从而更好地和苹果 MacBook Pro 竞争。IT之家援引博文介绍，为了让 Surface Laptop Ultra 的外观设计能与 MacBook 一较高下，微软巧妙地重新设计了磁吸",
-      "fetched_at": "2026-10-07T21:14:06.456691+00:00"
-    },
-    {
-      "id": "bfb3d3bee092de84",
-      "title": "微软描绘 Autopilot 全新蓝图：让 Windows AI 从“回答问题”走向“执行任务”",
-      "link": "https://www.ithome.com/1/010/321.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-07T18:38:21+00:00",
-      "summary": "IT之家 10 月 8 日消息，微软今天召开 Surface 新品发布会，现场展示 Autopilot 未来方向。根据其设想，这款智能体将让 Windows AI 进一步实现自主化执行任务。在微软的设想下，Autopilot 不再只是根据用户指令处理信息，而是能够理解目标、规划步骤，调用 Windows 系统及各种应用完成任务。用户可以通过自然语言描述需求，AI 负责查找信息、操作文件、配置系统或",
-      "fetched_at": "2026-10-07T21:14:06.456717+00:00"
-    },
-    {
-      "id": "0eefc6de71a75d2f",
-      "title": "微软 Surface Laptop Ultra 售价公布：起价 21988 元，128GB 内存顶配售 48388 元",
-      "link": "https://www.ithome.com/1/010/320.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-07T18:33:19+00:00",
-      "summary": "IT之家 10 月 8 日消息，微软中国商城今天（10 月 8 日）上架 Surface Laptop Ultra，共有亮铂金和夜幕色两种颜色，起售价为 21,988 元，128GB 内存顶配售价为 48,388 元。官方介绍如下：更强大的 Surface 笔记本电脑。Surface Laptop Ultra 从芯片层面全新设计，搭载全新的 NVIDIA RTX Spark™，围绕一颗新芯片打造，",
-      "fetched_at": "2026-10-07T21:14:06.456811+00:00"
     }
   ]
 }
