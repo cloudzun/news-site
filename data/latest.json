@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T15:31:52.754929+00:00",
-  "count": 991,
+  "generated_at": "2026-10-19T20:59:59.057470+00:00",
+  "count": 996,
   "sources": [
     {
       "id": "36kr",
@@ -34,6 +34,61 @@
     }
   ],
   "items": [
+    {
+      "id": "65f608fc9999df0a",
+      "title": "苹果 watchOS 27.2 RC 发布",
+      "link": "https://www.ithome.com/1/015/065.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-19T18:35:06+00:00",
+      "summary": "【点此直达升级教程】 IT之家 10 月 20 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 RC 更新（内部版本号：24S116），本次更新距离上次发布 Beta/RC 间隔 6 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通",
+      "fetched_at": "2026-10-19T20:59:51.576747+00:00"
+    },
+    {
+      "id": "c06c729573d0c1e5",
+      "title": "苹果 visionOS 27.2 RC 发布",
+      "link": "https://www.ithome.com/1/015/064.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-19T18:35:05+00:00",
+      "summary": "IT之家 10 月 20 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 RC 更新（内部版本号：24N118），本次更新距离上次发布 Beta/RC 间隔 6 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS ",
+      "fetched_at": "2026-10-19T20:59:51.576812+00:00"
+    },
+    {
+      "id": "e667a498c54f4b5c",
+      "title": "苹果 macOS 27.2 RC 发布",
+      "link": "https://www.ithome.com/1/015/063.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-19T18:35:05+00:00",
+      "summary": "IT之家 10 月 20 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 RC 更新（内部版本号：26B118），本次更新距离上次发布 Beta/RC 间隔 6 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来",
+      "fetched_at": "2026-10-19T20:59:51.576880+00:00"
+    },
+    {
+      "id": "1e283a85b4ca5afd",
+      "title": "苹果 iOS/iPadOS 27.2 RC 发布",
+      "link": "https://www.ithome.com/1/015/062.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-19T18:35:04+00:00",
+      "summary": "【点此直达升级教程】 IT之家 10 月 20 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2 RC 更新（内部版本号：24B115），本次更新距离上次发布 Beta/RC 间隔 6 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【",
+      "fetched_at": "2026-10-19T20:59:51.576944+00:00"
+    },
+    {
+      "id": "3ddc05dfa4466d93",
+      "title": "苹果官宣北京时间 10 月 29 日举行特别活动，有望推出 OLED MacBook Pro / iPad mini 8 等机型",
+      "link": "https://www.ithome.com/1/015/054.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-19T16:14:13+00:00",
+      "summary": "【00:15 更新】苹果已确认发布会时间，官方将于美国当地东部时间 10 月 28 日下午 1 时（北京时间 10 月 29 日凌晨 1:00）在美国洛杉矶举办本月第二场新品发布活动。IT之家 10 月 20 日消息，苹果官方账号在小红书发文，透露“好多好消息，下周和你说”，暗示将于下周举行特别活动，届时将推出一系列新品，不过官方尚未公布具体时间信息。IT之家注意到，此前有消息称苹果大概率下周三正",
+      "fetched_at": "2026-10-19T20:59:51.576972+00:00"
+    },
     {
       "id": "456802bedda2e9bd",
       "title": "影石预热全新麦克风，10 月 22 日登场",
