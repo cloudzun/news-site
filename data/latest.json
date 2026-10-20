@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T20:59:59.057470+00:00",
-  "count": 996,
+  "generated_at": "2026-10-20T00:15:53.734050+00:00",
+  "count": 989,
   "sources": [
     {
       "id": "36kr",
@@ -35,15 +35,191 @@
   ],
   "items": [
     {
+      "id": "e0b8d25203b0f452",
+      "title": "早报｜苹果定档下周发布新品，触屏MacBook Pro或将亮相/华为苹果拿下中国手机四成份额/杨立昆锐评特斯拉飞车，马斯克：放屁",
+      "link": "https://www.ifanr.com/1684957?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source_id": "ifanr",
+      "source_name": "爱范儿",
+      "category": "tech",
+      "published_at": "2026-10-20T00:07:06+00:00",
+      "summary": "· OpenAI 为 OpenCode 受攻击用户退还被消耗的 API 额度 · 王腾宣布今日宜休将于 10 月 29 日举办首场发布会 · 引望与宁德时代签署换电合作协议，覆盖电池与换电网络#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "fetched_at": "2026-10-20T00:15:43.208966+00:00"
+    },
+    {
+      "id": "806bd347e22a8f62",
+      "title": "新 AI 工具问世：仅凭一张面部照片即可预测癌症患者生存几率",
+      "link": "https://www.ithome.com/1/015/079.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-19T23:56:44+00:00",
+      "summary": "IT之家 10 月 20 日消息，据彭博社报道，研究人员开发出一款人工智能工具，仅凭一张面部照片就能预测癌症患者的生存几率。该工具可以补充医生的临床经验判断，有望为治疗方案的制定提供参考，在医疗资料不足的场景下尤其有价值。这个新模型经过训练，既可以估算人的年龄，也能针对癌症患者预测生存情况。研究团队使用超过 4000 万张人脸图像，以及 3 万多名癌症患者的照片完成模型训练，其中不少患者已经离世。",
+      "fetched_at": "2026-10-20T00:15:45.096357+00:00"
+    },
+    {
+      "id": "02b355f4ad16472d",
+      "title": "赶在 Anthropic 上市前：消息称 OpenAI 加速新一轮融资进程，估值或超 1.4 万亿美元",
+      "link": "https://www.ithome.com/1/015/078.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-19T23:51:53+00:00",
+      "summary": "IT之家 10 月 20 日消息，据路透社报道，两位知情人士称，OpenAI 正争分夺秒地争取投资者承诺，力求在竞争对手 Anthropic 预计于 11 月中旬上市之前完成融资。此次融资节奏异常迅速，若顺利完成，这家 ChatGPT 开发商的估值可能超过 1.4 万亿美元（IT之家注：现汇率约合 9.37 万亿元人民币）。知情人士表示，这种紧凑的时间安排在一定程度上反映了 OpenAI 想要抢在",
+      "fetched_at": "2026-10-20T00:15:45.096403+00:00"
+    },
+    {
+      "id": "214643cf840eae4f",
+      "title": "消息称谷歌前 CEO 施密特持有 Anthropic 1% 股份，将因后者 IPO 收获巨额回报",
+      "link": "https://www.ithome.com/1/015/077.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-19T23:47:16+00:00",
+      "summary": "IT之家 10 月 20 日消息，据彭博社报道，知情人士透露，谷歌前首席执行官埃里克 · 施密特（Eric Schmidt）凭借对初创公司 Anthropic 的早期投资，持有该公司约 1% 的股份。一旦这家企业登陆公开市场，这笔投资将成为个人投资者中收益最高的几笔投资之一。不愿具名的消息人士称，施密特在 Anthropic 的 A 轮融资中投入了数千万美元。目前尚不清楚在首轮投资之后，他是否出售",
+      "fetched_at": "2026-10-20T00:15:45.096488+00:00"
+    },
+    {
+      "id": "3d0ffdbfcc5c9bae",
+      "title": "苹果首款折叠 iPhone Duo 供货现缓解信号：部分订单从 12 月提前至 10 月",
+      "link": "https://www.ithome.com/1/015/076.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-19T23:41:43+00:00",
+      "summary": "IT之家 10 月 20 日消息，科技媒体 MacRumors 今天（10 月 20 日）发布博文，报道称从部分用户晒出的订单交付日期来看，苹果已缓解首款折叠 iPhone Duo 供货压力。IT之家此前报道，苹果首款折叠 iPhone Duo 首销火爆，10 月 16 日开启预购仅数小时，苹果官网年内可交付的货源便被抢购一空。苹果原本承诺在 10 月 23 日交付 iPhone Duo，但开放订",
+      "fetched_at": "2026-10-20T00:15:45.096526+00:00"
+    },
+    {
+      "id": "32304ff802721632",
+      "title": "仅重 1 克：中国科学家研制出世界最轻无线介观显微镜，成果登《自然》",
+      "link": "https://www.ithome.com/1/015/075.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-19T23:40:22+00:00",
+      "summary": "IT之家 10 月 20 日消息，据新华社报道，中国科学家研制出目前已知世界最轻无线介观显微镜，重量仅 1 克，可在 6 毫米视场内以单细胞分辨率记录小鼠大脑皮层的神经活动，单只小鼠可同时记录 8500 多个神经元，是现有同类型设备的 25 倍。这一重要成果 19 日晚在线发表于国际期刊《自然》。在多只动物自由运动和社交时，以单细胞分辨率同时记录大范围脑区中的大量神经元，有望揭示大脑对于复杂行为的",
+      "fetched_at": "2026-10-20T00:15:45.096565+00:00"
+    },
+    {
+      "id": "2cdb0c969de3e0fc",
+      "title": "日本演员工会发布 AI 语音使用准则，龙珠悟空配音演员怒批 AI 盗用其声音",
+      "link": "https://www.ithome.com/1/015/074.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-19T23:39:30+00:00",
+      "summary": "IT之家 10 月 20 日消息，随着生成式 AI 给各行各业创作者带来越来越多的困扰，日本配音演员正在寻找属于自己的方式，抵制他人未经授权使用他们的声音。上周，代表日本配音演员的工会发布了一份 AI 使用相关准则，不少配音演员也讲述了这项技术给他们个人与职业带来的困境。IT之家注意到，多年来，日本配音演员一直在抵制未经许可盗用自身声音的行为。2024 年，一批配音演员联合成立组织，抗议 AI 声",
+      "fetched_at": "2026-10-20T00:15:45.096610+00:00"
+    },
+    {
+      "id": "22b4c77dfc40ead8",
+      "title": "听歌支持动态氛围光：苹果第二代 HomePod 等扩展支持“音乐律动灯效”",
+      "link": "https://www.ithome.com/1/015/073.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-19T23:31:00+00:00",
+      "summary": "IT之家 10 月 20 日消息，消息源 @itspdfu 今天（10 月 20 日）在 X 平台发布推文，报道称在适用于 HomePod 的 27.2 RC 更新中，苹果公司扩展 HomePod mini 2 的“音乐律动灯效”（Sound Glow）功能，覆盖第二代 HomePod 和初代 HomePod mini。IT之家查询苹果中国官网，在 HomePod mini 2 产品页中，暂未发现",
+      "fetched_at": "2026-10-20T00:15:45.096651+00:00"
+    },
+    {
+      "id": "e8cc9c95cd54989c",
+      "title": "Steam 新品节充斥低质 AI 游戏，玩家呼吁平台新增 AI 内容筛选功能",
+      "link": "https://www.ithome.com/1/015/072.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-19T23:25:46+00:00",
+      "summary": "IT之家 10 月 20 日消息，Valve 面向独立游戏与试玩版的活动 Steam 新品节（Steam Next Fest）已经开幕，尽管历届新品节都会涌入大量粗制滥造的游戏，但本届这类作品的数量似乎比以往更多。浏览新品节页面，很容易就能发现大量游戏的美术风格看起来就像是通过简单的 ChatGPT 提示词生成的。随着 Claude Opus 5.5 发布，过去几周围绕其出现大量反编译与混搭模组，",
+      "fetched_at": "2026-10-20T00:15:45.096702+00:00"
+    },
+    {
+      "id": "4cc66b6c273e8e0f",
+      "title": "英伟达官宣新突破：创纪录量子容错计算模拟所需物理比特减少 90%",
+      "link": "https://www.ithome.com/1/015/071.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-19T23:25:14+00:00",
+      "summary": "IT之家 10 月 20 日消息，当地时间 10 月 19 日，英伟达宣布在德国于利希超级计算中心（Jülich Supercomputing Centre）开展了创纪录的容错量子计算模拟。英伟达研究人员利用欧洲最大规模超级计算机 JUPITER（木星）完成此次模拟，这是一个基于英伟达 GH200 超级芯片组成的系统。本次使用 8192 块 GPU 完成 104 量子比特容错量子计算模拟，是迄今为",
+      "fetched_at": "2026-10-20T00:15:45.096771+00:00"
+    },
+    {
+      "id": "cfaf55f8354c0459",
+      "title": "【钛晨报】央行将推动出台一系列政策措施，有何作用？马斯克：明年将向美国每一名儿童赠送一股SpaceX股票；医保个人账户跨省共济全国落地",
+      "link": "https://www.tmtpost.com/8173939.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-10-19T23:20:00+00:00",
+      "summary": "微信推小说改短剧激励，短剧承制方与作者双方各奖5%；MiniMax M3.1 Flash上线，速度提升3倍，价格降低70%；快狗打车拟1元出售中国内地业务，四年累计亏损超26亿元；OpenAI再度挖角SpaceX AI领域核心销售负责人；商务部：18条举措推进商贸创新发展；今年前三季度中国GDP同比增长4.6%",
+      "fetched_at": "2026-10-20T00:15:47.199094+00:00"
+    },
+    {
+      "id": "a4e94207f5afed8e",
+      "title": "4 台 HomePod 组苹果最强家庭影院，tvOS 27.2 新环绕声功能进入倒计时",
+      "link": "https://www.ithome.com/1/015/070.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-19T23:14:54+00:00",
+      "summary": "IT之家 10 月 20 日消息，消息源 @itspdfu 今天（10 月 20 日）在 X 平台发布推文，爆料称在 tvOS / HomePod Software 27.2 RC 候选版本中，苹果公司为着手为 Apple TV 4K（第四代）添加四扬声器环绕声功能。根据消息源披露的信息，苹果这套家庭影院方案提供三种搭配：四台 HomePod mini 2四台第二代 HomePod两台第二代 Ho",
+      "fetched_at": "2026-10-20T00:15:45.096812+00:00"
+    },
+    {
+      "id": "507ae7da0be74fa3",
+      "title": "微软警示前沿 AI 模型不可信：AI 智能体堪比内部威胁，推出 Guardian Agents 防护方案",
+      "link": "https://www.ithome.com/1/015/069.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-19T23:13:32+00:00",
+      "summary": "IT之家 10 月 20 日消息，微软于当地时间周一推出了多项全新安全功能，旨在帮助企业抵御日益严峻的智能体带来的安全威胁。发布该产品之际，微软持续向企业警示人工智能与智能体存在的各类风险。IT之家注意到，本次新增功能中最受关注的当属守护智能体（Guardian Agents），这项新功能用于监控企业内部正在使用的各类 AI 智能体。守护智能体隶属于感知项目（Project Perception）",
+      "fetched_at": "2026-10-20T00:15:45.096873+00:00"
+    },
+    {
+      "id": "7aadae542aa2a1d3",
+      "title": "日本 MMX 火星卫星探测任务发射升空，将首次尝试登陆火卫一并采样返回",
+      "link": "https://www.ithome.com/1/015/068.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-19T23:00:56+00:00",
+      "summary": "IT之家 10 月 20 日消息，日本具有开创性的火星探测任务正式启程，探测器将奔赴这颗红色星球两颗神秘卫星 —— 火卫一与火卫二，尝试完成具有历史意义的采样返回。火星卫星探测任务（MMX）于北京时间今天凌晨在日本种子岛航天中心发射升空，H3 运载火箭从种子岛吉信发射场的 2 号发射台点火起飞。由日本宇宙航空研究开发机构（JAXA）主导的 MMX 任务将进入火星轨道，对火星的两颗卫星火卫一和火卫二",
+      "fetched_at": "2026-10-20T00:15:45.096960+00:00"
+    },
+    {
+      "id": "d6155c6d2513b874",
+      "title": "微软联合百思买回收 Xbox Series X|S 主机，最高可获 375 美元礼品卡",
+      "link": "https://www.ithome.com/1/015/067.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-19T22:49:00+00:00",
+      "summary": "IT之家 10 月 20 日消息，尽管微软重申会继续推出 Xbox 主机，如今却在劝说游戏玩家出手手中的硬件。游戏资讯账号 Nintendeal 在社交平台分享了一封定向邮件，收件人为持有闲置 Xbox Series X|S 主机的用户。百思买会为回收的这些主机向用户提供最高 375 美元（IT之家注：现汇率约合 2,510 元人民币）的礼品卡。这项回收活动推出之际，不少市场正面临主机涨价与供货短",
+      "fetched_at": "2026-10-20T00:15:45.097004+00:00"
+    },
+    {
+      "id": "1f774e5584eb61de",
+      "title": "英伟达黄仁勋：AI 是新工具，你的专业知识不会被取代",
+      "link": "https://www.ithome.com/1/015/066.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-19T19:31:32+00:00",
+      "summary": "IT之家 10 月 20 日消息，在柏林对话德国总理弗里德里希 · 默茨（Friedrich Merz）时，英伟达首席执行官黄仁勋表示 AI 不只是聊天工具，它将进入工厂、机器人和医院等场景，增强已有的专业能力和产业经验。在本次对话中，黄仁勋和默茨讨论如何结合德国制造业优势与 AI，推动 AI 在汽车、机械制造及中小企业中普及。德国联邦政府同时与英伟达签署联合意向声明，拟共同推进面向物理 AI 的",
+      "fetched_at": "2026-10-20T00:15:45.096290+00:00"
+    },
+    {
       "id": "65f608fc9999df0a",
-      "title": "苹果 watchOS 27.2 RC 发布",
+      "title": "苹果 watchOS 27.2 RC 发布：修复 3 项应用订阅 / 购买流程问题",
       "link": "https://www.ithome.com/1/015/065.htm",
       "source_id": "ithome",
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-10-19T18:35:06+00:00",
-      "summary": "【点此直达升级教程】 IT之家 10 月 20 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 RC 更新（内部版本号：24S116），本次更新距离上次发布 Beta/RC 间隔 6 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通",
-      "fetched_at": "2026-10-19T20:59:51.576747+00:00"
+      "summary": "【点此直达升级教程】IT之家 10 月 20 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 RC 更新（内部版本号：24S116），本次更新距离上次发布 Beta / RC 间隔 6 天。 目前苹果公开的 RC 开发者说明主要列出了应用内购买测试相关修复，尚未列出面向普通用户的新表盘、健康或运动功能。苹果的 watchOS 27.2 RC 发布说明列出以下三项修",
+      "fetched_at": "2026-10-20T00:15:45.097089+00:00"
     },
     {
       "id": "c06c729573d0c1e5",
@@ -53,30 +229,30 @@
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-10-19T18:35:05+00:00",
-      "summary": "IT之家 10 月 20 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 RC 更新（内部版本号：24N118），本次更新距离上次发布 Beta/RC 间隔 6 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS ",
-      "fetched_at": "2026-10-19T20:59:51.576812+00:00"
+      "summary": "IT之家 10 月 20 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 RC 更新（内部版本号：24N118），本次更新距离上次发布 Beta / RC 间隔 6 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。IT之家查询公开资料，暂未查询到 visionOS 27.2 RC 版本更新内",
+      "fetched_at": "2026-10-20T00:15:45.097146+00:00"
     },
     {
       "id": "e667a498c54f4b5c",
-      "title": "苹果 macOS 27.2 RC 发布",
+      "title": "苹果 macOS 27.2 RC 发布：扩展 Siri AI 语言，更新亮度 / 音量滑块等",
       "link": "https://www.ithome.com/1/015/063.htm",
       "source_id": "ithome",
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-10-19T18:35:05+00:00",
-      "summary": "IT之家 10 月 20 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 RC 更新（内部版本号：26B118），本次更新距离上次发布 Beta/RC 间隔 6 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来",
-      "fetched_at": "2026-10-19T20:59:51.576880+00:00"
+      "summary": "IT之家 10 月 20 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 RC 更新（内部版本号：26B118），本次更新距离上次发布 Beta / RC 间隔 6 天。 苹果 macOS 27.2 RC 这次主要带来 Siri AI 新语言支持、亮度和音量滑块更新，以及内置应用的触控手势底层改动。Siri AI 方面，新增法语、日语、韩语、葡萄牙语和西班牙语支持。视觉方面，苹果",
+      "fetched_at": "2026-10-20T00:15:45.097230+00:00"
     },
     {
       "id": "1e283a85b4ca5afd",
-      "title": "苹果 iOS/iPadOS 27.2 RC 发布",
+      "title": "苹果 iOS / iPadOS 27.2 RC 发布：Siri AI 再添 5 种语言、Apple Music 启用新视觉",
       "link": "https://www.ithome.com/1/015/062.htm",
       "source_id": "ithome",
       "source_name": "IT之家",
       "category": "tech",
       "published_at": "2026-10-19T18:35:04+00:00",
-      "summary": "【点此直达升级教程】 IT之家 10 月 20 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2 RC 更新（内部版本号：24B115），本次更新距离上次发布 Beta/RC 间隔 6 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【",
-      "fetched_at": "2026-10-19T20:59:51.576944+00:00"
+      "summary": "【点此直达升级教程】IT之家 10 月 20 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.2 RC 更新（内部版本号：24B115），本次更新距离上次发布 Beta / RC 间隔 6 天。IT之家附上本次更新相关截图如下：图源：@tangkin 在更新内容方面，暂未查询到相比较 iOS 27.2 Beta 4 更新，iOS 27.2 RC 新增的功",
+      "fetched_at": "2026-10-20T00:15:45.097312+00:00"
     },
     {
       "id": "3ddc05dfa4466d93",
@@ -87,7 +263,7 @@
       "category": "tech",
       "published_at": "2026-10-19T16:14:13+00:00",
       "summary": "【00:15 更新】苹果已确认发布会时间，官方将于美国当地东部时间 10 月 28 日下午 1 时（北京时间 10 月 29 日凌晨 1:00）在美国洛杉矶举办本月第二场新品发布活动。IT之家 10 月 20 日消息，苹果官方账号在小红书发文，透露“好多好消息，下周和你说”，暗示将于下周举行特别活动，届时将推出一系列新品，不过官方尚未公布具体时间信息。IT之家注意到，此前有消息称苹果大概率下周三正",
-      "fetched_at": "2026-10-19T20:59:51.576972+00:00"
+      "fetched_at": "2026-10-20T00:15:45.097354+00:00"
     },
     {
       "id": "456802bedda2e9bd",
@@ -10736,259 +10912,6 @@
       "published_at": "2026-10-13T00:17:03+00:00",
       "summary": "· 博通 CEO：晶圆与内存短缺正在缓解，AI 扩张更受资金约束 · 9 月乘用车零售同比下降 28%，新能源渗透率升至 67% · 大众 CEO 呼吁加强合作，应对中国车企竞争#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "fetched_at": "2026-10-13T09:18:59.858702+00:00"
-    },
-    {
-      "id": "c571aaf00276ad1e",
-      "title": "《GTA 6》带动需求激增，消息称索尼 PS5 Pro 缺货将持续至 2027 年",
-      "link": "https://www.ithome.com/1/012/146.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-13T00:14:50+00:00",
-      "summary": "IT之家 10 月 13 日消息，《GTA 6》是 2026 年最受期待的游戏，这款作品已经被认为是造成游戏主机缺货的诱因之一，PlayStation 5 Pro 的缺货情况尤为突出。索尼官网目前已经断货，这款高端索尼主机在拍卖网站上的售价已经达到 1,100 美元（IT之家注：现汇率约合 7,370 元人民币）及以上。主机需求高涨的部分原因在于，《GTA 6》11 月 19 日发售时，将仅登陆 ",
-      "fetched_at": "2026-10-13T01:16:21.805985+00:00"
-    },
-    {
-      "id": "b132a40f207f825e",
-      "title": "科技板块持续遭遇卖盘，部分机构“高位买、低位卖”，私募大佬梁宏直言费解",
-      "link": "https://www.tmtpost.com/8165768.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-10-13T00:12:00+00:00",
-      "summary": "A股科技跌了3个月，究竟谁在卖？",
-      "fetched_at": "2026-10-13T01:16:24.283571+00:00"
-    },
-    {
-      "id": "d51ec7fdb07da531",
-      "title": "连线：苹果 iOS 27 拯救濒危语言，让其“住进”iPhone 18 Pro 等手机里",
-      "link": "https://www.ithome.com/1/012/145.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-13T00:08:13+00:00",
-      "summary": "IT之家 10 月 13 日消息，《连线》昨日（10 月 12 日）发布博文，报道称在 iOS 27 系统官方输入法中，苹果公司进一步扩展支持原住民语言，新增支持黑脚语（Blackfoot）、科曼奇语（Comanche）和东北克里语（Northern East Cree）。博文指出目前 iPhone 18 Pro 等机型支持超过 200 种语言输入，苹果通过与原住民社区长期协作，为切罗基语等濒危语",
-      "fetched_at": "2026-10-13T01:16:21.806008+00:00"
-    },
-    {
-      "id": "4eb1e4bd68718d75",
-      "title": "科沃斯战投的具身大结果：仙工大赚，泳池机器人濒临破产",
-      "link": "https://www.tmtpost.com/8165709.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-10-13T00:06:00+00:00",
-      "summary": "赚钱和亏钱的一体两面。",
-      "fetched_at": "2026-10-13T01:16:24.283577+00:00"
-    },
-    {
-      "id": "a60be880c66849e4",
-      "title": "派早报：一加发布一加 16，Google 推出 Fitbit Edge 等",
-      "link": "https://sspai.com/post/116033",
-      "source_id": "sspai",
-      "source_name": "少数派",
-      "category": "tech",
-      "published_at": "2026-10-13T00:01:49+00:00",
-      "summary": "少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互 ...查看全文",
-      "fetched_at": "2026-10-13T09:19:08.798775+00:00"
-    },
-    {
-      "id": "eaa0418ffda0b77c",
-      "title": "英特尔 CEO 陈立武：未来两到三年 AI 硬件将持续短缺",
-      "link": "https://www.ithome.com/1/012/144.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-13T00:01:06+00:00",
-      "summary": "IT之家 10 月 13 日消息，英特尔首席执行官陈立武（Lip-Bu Tan）认为，未来两到三年，人工智能行业仍将持续面临硬件短缺问题。陈立武在星展银行于新加坡举办的会议上发表了上述看法，他在会上谈及了人工智能领域的最大需求以及自己对量子计算的展望。这位英特尔首席执行官是行业内对技术动态十分敏锐的高管之一，他密切关注多项高增长赛道，包括下一代芯片制造工艺与新材料。智能体 AI 应用普及，催生了对",
-      "fetched_at": "2026-10-13T01:16:21.806028+00:00"
-    },
-    {
-      "id": "b1e89d7d43b0b87f",
-      "title": "美的太子孵化的机器人，烧光6亿后破产了？",
-      "link": "https://www.tmtpost.com/8165609.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-10-13T00:00:00+00:00",
-      "summary": "盈合机器人进入破产程序。",
-      "fetched_at": "2026-10-13T01:16:24.283582+00:00"
-    },
-    {
-      "id": "5721041a3bbf6923",
-      "title": "摩根大通称驳斥苹果 iPhone 18 Pro 系列订单削减传闻，称需求高于 iPhone 17 Pro",
-      "link": "https://www.ithome.com/1/012/143.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-12T23:56:15+00:00",
-      "summary": "IT之家 10 月 13 日消息，科技媒体 AppleInsider 昨日（10 月 12 日）发布博文，报道称摩根大通驳斥 iPhone 18 Pro 需求疲软并削减订单的报道，将苹果（AAPL）目标股价从 340 美元上调至 360 美元（上调 20 美元）。在 10 月 12 日发布的投资者报告中，摩根大通驳斥有关苹果因 iPhone 18 Pro 需求低迷而削减订单的报道，并建议投资者关注",
-      "fetched_at": "2026-10-13T01:16:21.806054+00:00"
-    },
-    {
-      "id": "b5929151e3a1ee3f",
-      "title": "消息称《GTA 6》开发版容量超 200GB，零售版大概率更小",
-      "link": "https://www.ithome.com/1/012/142.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-12T23:55:49+00:00",
-      "summary": "IT之家 10 月 13 日消息，距离《GTA 6》发售还有一个多月，有新消息称这款游戏在 PS5 和 Xbox 主机上可能会占用巨大存储空间。X 平台上的 GTA 6 Info 账号表示，CyberLeek 用来录制泄露实机片段的开发版本容量超过 200GB。据报道，这名泄露者还宣称，如果其发行的 $CYBERLEEK 模因币市值达到 3,000 万美元（IT之家注：现汇率约合 2.01 亿元人",
-      "fetched_at": "2026-10-13T01:16:21.806079+00:00"
-    },
-    {
-      "id": "aac7ce0db02d81c1",
-      "title": "IT早报 1013：江淮汽车否认尊界 SUV 将给赛力斯生产；华为注册“星芒”商标涵盖手机等类目；华为折叠屏手机累计发货量破 2000 万台；5999 元起一加 16 发布...",
-      "link": "https://www.ithome.com/1/012/141.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-12T23:52:55+00:00",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 13 日星期二，今天的重要科技资讯有：1. 网传鸿蒙智行尊界超豪华 SUV 考虑给赛力斯做，江淮汽车内部人士否认据第一财经报道，近日有消息称，鸿蒙智行超豪华 SUV 考虑给赛力斯做，尊界放弃 SUV 计划。对于上述消息，江淮汽车内部人士进行了否认，称这是不实消息。截至发稿，赛力斯方面则并未对此进行回应。&gt;&gt; 查看详情2. 华为申",
-      "fetched_at": "2026-10-13T01:16:21.806181+00:00"
-    },
-    {
-      "id": "40e0869294e52ad1",
-      "title": "因非法共享 Grindr 用户敏感数据，挪威数据保护局对微软旗下 Xandr 开出该局史上最大罚单",
-      "link": "https://www.ithome.com/1/012/140.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-12T23:41:23+00:00",
-      "summary": "IT之家 10 月 13 日消息，挪威数据保护局现已对 Xandr 开出 9200 万挪威克朗的行政处罚罚单，折合 860 万欧元（IT之家注：现汇率约合 6,451.3 万元人民币），这是该局迄今为止开出的最高金额罚单。挪威数据保护局局长莉娜 · 科尔（Line Coll）表示：“本案之所以处以高额罚款，是因为我们查实的违规情节十分严重。挪威数千名用户的敏感数据遭到非法共享。”Xandr 充当中",
-      "fetched_at": "2026-10-13T01:16:21.806216+00:00"
-    },
-    {
-      "id": "4aca4a10fa689499",
-      "title": "英伟达 RTX Spark 全球巡展官宣：北京等 6 城将开启体验，可赢黄仁勋签名版笔记本",
-      "link": "https://www.ithome.com/1/012/139.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-12T23:38:16+00:00",
-      "summary": "IT之家 10 月 13 日消息，英伟达官方账号 @nvidia 今天（10 月 13 日）在 X 平台宣布，将围绕新款 Windows PC，计划在北京等 6 个城市举办 RTX Spark 全球发布活动，参与者有机会获得黄仁勋亲笔签名的电脑。本次全球发布活动计划首批站点包括北京、柏林、伊斯坦布尔、首尔、旧金山和台北，不过官方推文表示后续会公布活动详情及参与方式。IT之家附上相关截图如下：NVI",
-      "fetched_at": "2026-10-13T01:16:21.806232+00:00"
-    },
-    {
-      "id": "fa5036457c47eeaf",
-      "title": "Meta 发布 Muse Wonder 系列旗舰 AI 模型，对标 Anthropic 与 OpenAI",
-      "link": "https://www.ithome.com/1/012/138.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-12T23:30:53+00:00",
-      "summary": "IT之家 10 月 13 日消息，Meta 于当地时间周一发布了全新一代尖端旗舰人工智能模型，力图在人工智能竞赛中追赶 Anthropic、OpenAI 等竞争对手。Meta 提供的数据显示，两款新模型名为 Muse Wonder 与 Muse Wonder Full，在推理、写作与代码能力测试中，得分已经接近 Anthropic 的顶尖模型。Meta 首席执行官马克 · 扎克伯格（Mark Zu",
-      "fetched_at": "2026-10-13T01:16:21.806263+00:00"
-    },
-    {
-      "id": "3426a3776749291b",
-      "title": "古尔曼称苹果 10 月 27~28 日将举办 2026 最后一场活动，推出 iPad mini 8 和 3 款 Mac",
-      "link": "https://www.ithome.com/1/012/137.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-12T23:25:55+00:00",
-      "summary": "IT之家 10 月 13 日消息，彭博社的马克 · 古尔曼（Mark Gurman）昨日（10 月 12 日）发布博文，爆料称苹果公司计划于 10 月 27 日至 28 日在洛杉矶举办为期两天的产品展示活动，预计集中发布 iPad mini 8 和三款新 Mac。在活动方式方面，古尔曼爆料称本次活动不会采用传统苹果发布会的现场直播形式，主要面向内容创作者，会设置产品体验环节，形式类似苹果于 10 ",
-      "fetched_at": "2026-10-13T01:16:21.806290+00:00"
-    },
-    {
-      "id": "ab93a4314f72215f",
-      "title": "消息称 Epic 为迪士尼打造的游戏推迟上线，全面改用 AI 开发",
-      "link": "https://www.ithome.com/1/012/136.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-12T23:23:01+00:00",
-      "summary": "IT之家 10 月 13 日消息，Epic Games 正全力将人工智能应用于游戏开发。这家工作室一直在为迪士尼制作游戏，但有消息人士向彭博社透露，其一款待发布作品已经推迟上线，目的是在开发过程中更多使用 AI 技术。彭博社报道称，该游戏的一名总监向团队通报，项目将采用“AI 优先”的制作方案。内部通知写道：“不再手写代码”，同时要求项目全部美术资源都要“通过完整 AI 工作流生成”。消息人士称，",
-      "fetched_at": "2026-10-13T01:16:21.806311+00:00"
-    },
-    {
-      "id": "768766be80208f7d",
-      "title": "【钛晨报】证监会：探索更加适配创新型中小企业的制度和实践；两部门：明年4月起，将新能源汽车的增值税出口退税率由13%下调至9%；十余个品牌发文祝贺郑钦文中网夺冠，一年收入约达1.5亿元",
-      "link": "https://www.tmtpost.com/8165963.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-10-12T23:20:00+00:00",
-      "summary": "问界汽车拟于2027年进入欧洲市场；腾讯控股：根据全球中期票据计划建议发行票据；iPhone Duo预售前夕，苹果COO到访富士康并回应产能情况：正扩大生产规模；英伟达据悉洽谈追加投资或收购AI初创公司Reflection AI；亚马逊据悉正洽谈收购人工智能初创公司Decart；《铁路科技创新“十五五”规划》印发：稳妥有序推进时速600公里高速磁浮技术研究及国产化关键技术试验验证；《关于促进国际航",
-      "fetched_at": "2026-10-13T01:16:24.283595+00:00"
-    },
-    {
-      "id": "c4f7241a80d4d23e",
-      "title": "Nothing CEO 裴宇评苹果首款折叠手机 iPhone Duo：“不值得买”",
-      "link": "https://www.ithome.com/1/012/135.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-12T23:15:54+00:00",
-      "summary": "IT之家 10 月 13 日消息，Nothing 首席执行官裴宇（Carl Pei）称，苹果首款折叠屏手机 iPhone Duo 起售价 15,999 元，却缺失 Face ID、长焦镜头、LiDAR 扫描仪及专业相机控制，属于“不值得买 / 浪费金钱”（A Waste Of Money）。IT之家附上视频如下：裴宇指出，iPhone Duo 未配备 Face ID，Face ID 自 iPhon",
-      "fetched_at": "2026-10-13T01:16:21.806332+00:00"
-    },
-    {
-      "id": "255e9b09f4343508",
-      "title": "应用材料 CEO 迪克森：依托 AI 提效，未来数年营收有望翻倍，但员工数量不会同步翻倍",
-      "link": "https://www.ithome.com/1/012/134.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-12T23:11:14+00:00",
-      "summary": "IT之家 10 月 13 日消息，应用材料公司计划在未来数年内实现营收翻倍，但不会同步扩招员工，原因是该公司正更多借助人工智能工具开展产品研发、质量管控等工作。“未来几年公司规模翻倍的过程中，我们不会让员工数量也同步翻倍。”这家半导体设备制造商的首席执行官加里 · 迪克森（Gary Dickerson）在采访中表示。发表此番言论前，该公司举办活动正式揭幕了位于硅谷、投资 50 亿美元（IT之家注：",
-      "fetched_at": "2026-10-13T01:16:21.806354+00:00"
-    },
-    {
-      "id": "3e2789fc4c6d57f1",
-      "title": "苹果上线“切换到 Safari”：在 Mac 上视频播放时长比 Chrome 多 5 小时，网站加载速度快 35%",
-      "link": "https://www.ithome.com/1/012/133.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-12T23:06:15+00:00",
-      "summary": "IT之家 10 月 13 日消息，科技媒体 9to5Mac 昨日（10 月 12 日）发布博文，报道称苹果美国官网上线“切换到 Safari”（Switch to Safari）宣传活动，通过新网页与两段视频推广 Safari 在 Mac 上的续航、速度与隐私表现。整体定位方面，苹果公司在新宣传页面中，通过对比 Chrome 和 Safari 浏览器，从而突显 Safari 浏览器的诸多优势，包括",
-      "fetched_at": "2026-10-13T01:16:21.806389+00:00"
-    },
-    {
-      "id": "6b5f77682b6dda98",
-      "title": "Anthropic 斥资 1 亿美元培养前沿部署工程师，聚焦五大人才特质",
-      "link": "https://www.ithome.com/1/012/132.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-12T23:04:16+00:00",
-      "summary": "IT之家 10 月 13 日消息，AI 领域的前沿驻场工程师正炙手可热，Anthropic 正面向其他企业培养顶尖人才。这家人工智能公司本月早些时候宣布，将投入 1 亿美元（IT之家注：现汇率约合 6.7 亿元人民币）设立前沿驻场工程师培养项目。该项目类似研修资助计划，其他企业的工程师已经开始提交申请。学员需要参加为期四天的线下集中培训，之后回到各自公司，利用 Anthropic 的 Claude",
-      "fetched_at": "2026-10-13T01:16:21.806425+00:00"
-    },
-    {
-      "id": "6ba363ff0cb3c5ba",
-      "title": "Epic 诉苹果再起争端：双方就 App Store 新佣金方案内部文件提交产生分歧",
-      "link": "https://www.ithome.com/1/012/131.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-12T22:55:13+00:00",
-      "summary": "IT之家 10 月 13 日消息，Epic Games 指控苹果就其提出的 App Store 新佣金费率相关诉讼，人为制造程序暂停的局面，苹果对此予以否认。IT之家注意到，在一份联合进度报告中，Epic Games 与苹果对苹果提交内部文件、说明其拟定 App Store 佣金费率依据的相关情况，给出了截然不同的说法。回顾一下，今年 8 月，苹果针对通过 App Store 外部链接完成的交易，",
-      "fetched_at": "2026-10-13T01:16:21.806464+00:00"
-    },
-    {
-      "id": "243c50ee03478f8e",
-      "title": "CounterPoint 称内存短缺冲击全球手机市场：2026Q3 出货量创 14 年新低、今年平均售价已涨 20%",
-      "link": "https://www.ithome.com/1/012/130.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-12T22:47:37+00:00",
-      "summary": "IT之家 10 月 13 日消息，市场调查机构 CounterPoint Research 昨日（10 月 12 日）发布博文，报告称由于持续的内存短缺，影响全球大多数 OEM 厂商出货，导致 2026 年第三季度全球智能手机出货量同比下降 20%，创 2012 年以来第三季度最低水平。报告指出，DRAM 内存与 NAND 闪存价格持续上涨，加剧第三季度的存储芯片成本冲击，导致 DRAM 和 NA",
-      "fetched_at": "2026-10-13T01:16:21.806491+00:00"
-    },
-    {
-      "id": "bf6e7933f0a5b8b7",
-      "title": "Tiny11 Builder 完成 WinUI 3 重构，可制作精简 Win11 26H2 安装镜像",
-      "link": "https://www.ithome.com/1/012/129.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-12T22:44:19+00:00",
-      "summary": "IT之家 10 月 13 日消息，Tiny11 已经推出全新界面版本，采用 WinUI 3 框架完成重构。微软近期也在大力推进这类改造工作，PowerToys 就是典型例子。考虑到 Windows 11 26H2 新功能更新刚刚发布，本次更新也针对性修复了和该系统版本相关的问题。据IT之家了解，Tiny11 这款工具本质上能让你从一开始就安装精简、无冗余的 Windows 镜像，无需在系统安装完成",
-      "fetched_at": "2026-10-13T01:16:21.806512+00:00"
     }
   ]
 }
