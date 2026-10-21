@@ -1,7 +1,29 @@
 {
   "date": "2026-10-21",
-  "count": 1034,
+  "count": 1036,
   "items": [
+    {
+      "id": "d10701be39d70b2c",
+      "title": "安卓阵营首款阔直板手机酷派 COOL X Wide 售价公布：999~1399 元，搭载联发科曦力 G99 芯片 + 720p 屏幕",
+      "link": "https://www.ithome.com/1/016/160.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-21T16:14:46+00:00",
+      "summary": "IT之家 10 月 22 日消息，安卓阵营首款阔直板手机，也是酷派首款阔直板手机 Cool X Wide 在京东开启预约，将于 11 月 8 日正式发售。价格方面，8GB+128GB 版本 999 元，8GB+256GB 版本 1199 元，12GB+256GB 版本 1399 元。这款新机搭载 6.38 英寸 16:10 屏幕，仅 720x1158 分辨率，还支持 90Hz 刷新率；有鎏白、岩黑",
+      "fetched_at": "2026-10-21T20:04:23.336147+00:00"
+    },
+    {
+      "id": "be4e97d83b4bea7c",
+      "title": "799 元雷蛇北海巨妖萌猫版 V3 有线耳机发布：猫耳 RGB 灯效可随直播互动，支持 7.1 环绕声",
+      "link": "https://www.ithome.com/1/016/158.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-21T16:03:25+00:00",
+      "summary": "IT之家 10 月 22 日消息，雷蛇（Razer）今晚正式发布了全新的北海巨妖萌猫版 V3 有线 RGB 游戏耳机，官方售价 799 元，10 月 26 日发货。该产品面向游戏直播与内容创作者，搭载可交互的猫耳 RGB 灯效、雷蛇 TriForce 40 毫米驱动单元以及 HyperClear 灵晰技术心形指向麦克风，支持即插即用 USB Type-C 连接，兼容 PC 及移动设备。IT之家从官",
+      "fetched_at": "2026-10-21T20:04:23.336198+00:00"
+    },
     {
       "id": "f78d4b421c318f70",
       "title": "请立即更新：Node.js 发布最高严重级别高危安全更新",
