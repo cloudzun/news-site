@@ -1,7 +1,304 @@
 {
   "date": "2026-10-28",
-  "count": 981,
+  "count": 1003,
   "items": [
+    {
+      "id": "2eac6cd2deca6e56",
+      "title": "谷歌最强 AI 模型：Gemini 4 Carbon 登顶全球智能指数榜首，“专职”做网络安全",
+      "link": "https://www.ithome.com/1/019/240.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T20:51:40+00:00",
+      "summary": "IT之家 10 月 29 日消息，谷歌正式发布新一代前沿大模型 Gemini 4 Carbon，主打业界顶尖的网络安全能力与长程任务处理能力。谷歌称其为目前最强的模型，重点强化了网络安全能力和处理复杂、长周期任务的能力。该模型在最新版 Artificial Analysis Intelligence Index v5.0 中排名第一，综合得分 59。Gemini 4 Carbon 首发入门定价与两",
+      "fetched_at": "2026-10-28T20:59:02.928378+00:00"
+    },
+    {
+      "id": "c4154e2028d873d8",
+      "title": "谷歌 2026Q3 财报暴露 AI 变现焦虑，股价盘后暴跌逾 7%",
+      "link": "https://www.ithome.com/1/019/261.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T20:38:55+00:00",
+      "summary": "IT之家 10 月 29 日消息，谷歌母公司 Alphabet 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告后，股价盘后大跌逾 7%。尽管第三财季营收达到 1,276 亿美元（IT之家注：现汇率约合 8,525.01 亿元人民币），同比增长 25%，且 G",
+      "fetched_at": "2026-10-28T20:59:02.928433+00:00"
+    },
+    {
+      "id": "1599c452821ca0b6",
+      "title": "福特汽车 2026 财年前三季度报归母净利润 32.7 亿美元，同比增长 13.5%",
+      "link": "https://www.ithome.com/1/019/260.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T20:12:08+00:00",
+      "summary": "IT之家 10 月 29 日消息，福特汽车今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告：2026 财年前三季度报营业总收入：1,410.75 亿美元（IT之家注：现汇率约合 9,425.28 亿元人民币），下降约 0.2%毛利润：214 亿美元（现汇率约合",
+      "fetched_at": "2026-10-28T20:59:02.928601+00:00"
+    },
+    {
+      "id": "f08f06c4ccb6f3ee",
+      "title": "初探苹果 macOS 27 触控体验：窗口“红绿灯”按钮会变大",
+      "link": "https://www.ithome.com/1/019/259.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T20:10:58+00:00",
+      "summary": "IT之家 10 月 29 日消息，科技媒体 AppleInsider 今天（10 月 29 日）发布博文，在现场体验配备 PROLED XDR 显示屏的首款触控 MacBook Pro 后，认为苹果并未把 macOS 改成 iPad 式界面，而是为触控操作做了局部适配。现场演示的苹果首款触控 MacBook Pro 运行 macOS 27 系统，仍保留键盘和触控板。在界面上最直观的变化是窗口左上角",
+      "fetched_at": "2026-10-28T20:59:02.928799+00:00"
+    },
+    {
+      "id": "49e5a08138316f07",
+      "title": "谷歌 2026 财年前三季度报归母净利润 2008.55 亿美元，同比增长 105.55%",
+      "link": "https://www.ithome.com/1/019/258.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T20:09:28+00:00",
+      "summary": "IT之家 10 月 29 日消息，谷歌今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告：2026 财年前三季度报营业总收入：3,572.69 亿美元（IT之家注：现汇率约合 2.39 万亿元人民币），同比增长 23.62%毛利润：2,186.36 亿美元（现汇",
+      "fetched_at": "2026-10-28T20:59:02.928772+00:00"
+    },
+    {
+      "id": "a3b63265ec841fa4",
+      "title": "微软 2027 财年第一财季营收 922.79 亿美元、同比增 19%，归母净利润 366.29 亿美元、同比增长 32%",
+      "link": "https://www.ithome.com/1/019/257.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T20:08:41+00:00",
+      "summary": "IT之家 10 月 29 日消息，微软今日发布 2027 财年（2026 年 7 月 1 日～2027 年 6 月 30 日）第一财季（2026 年 7 月 1 日～2026 年 9 月 30 日）报告：营业总收入：922.79 亿美元（IT之家注：现汇率约合 6,165.2 亿元人民币），同比增长 19%毛利润：625.59 亿美元（现汇率约合 4,179.59 亿元人民币）毛利率：67.79%",
+      "fetched_at": "2026-10-28T20:59:02.928698+00:00"
+    },
+    {
+      "id": "76be55572d9695e1",
+      "title": "Mac 进入触屏时代：苹果铺路软件生态，11 月开启在线研讨",
+      "link": "https://www.ithome.com/1/019/256.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T19:52:57+00:00",
+      "summary": "IT之家 10 月 29 日消息，科技媒体 9to5Mac 今天（10 月 29 日）发布博文，苹果官方开发者网站已上线“为 Mac 触控做好准备”（Get ready for Touch on Mac）专题页面，为首批触屏 Mac 的软件生态做准备。IT之家附上相关视频如下：Mac 触控设计为 Mac 应用带来触控体验将实时活动引入 Mac苹果目前上线了三段视频，分别聚焦“Mac 触控设计”、“",
+      "fetched_at": "2026-10-28T20:59:02.928832+00:00"
+    },
+    {
+      "id": "3865b4f2f28cb0a5",
+      "title": "续航未打折扣：苹果首款触控 MacBook Pro 最长连续播放 24 小时视频",
+      "link": "https://www.ithome.com/1/019/255.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T19:38:17+00:00",
+      "summary": "IT之家 10 月 29 日消息，太平洋时间 10 月 28 日上午 10 点（北京时间 10 月 29 日凌晨 1 点）在洛杉矶举行的“Pro and Tell”体验活动中，苹果公司发布配备 PROLED XDR 显示屏的首款触控 MacBook Pro，不过满电续航并未因此打折扣。图源：苹果根据苹果官网公示信息，配备 PROLED XDR 显示屏的苹果首款触控 MacBook Pro 续航如下",
+      "fetched_at": "2026-10-28T20:59:02.928868+00:00"
+    },
+    {
+      "id": "7d0ccce0e0800f8f",
+      "title": "iPad mini 首发上手：体验无可替代，刀法无人能及",
+      "link": "https://www.ifanr.com/1686487?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source_id": "ifanr",
+      "source_name": "爱范儿",
+      "category": "tech",
+      "published_at": "2026-10-28T19:27:06+00:00",
+      "summary": "算力越级，高刷缺席，一款让人爱恨交织的产品#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "fetched_at": "2026-10-28T20:59:01.426484+00:00"
+    },
+    {
+      "id": "3e9534ea1d40a135",
+      "title": "苹果公布其首款触控 MacBook Pro 官方设计素材",
+      "link": "https://www.ithome.com/1/019/254.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T19:23:29+00:00",
+      "summary": "IT之家 10 月 29 日消息，苹果公司今天（10 月 29 日）更新其“Apple 设计资源”门户网站，为首款配备 PROLED XDR 显示屏、支持触控的全新 MacBook Pro 提供官方设计素材。UI / UX 设计师、开发者及内容创作者无需等待第三方模板，即可在官方素材基础上制作适配新机的界面演示、宣传图和应用展示内容。IT之家援引博文介绍，此次新增的可下载 .dmg 文件包含新款 ",
+      "fetched_at": "2026-10-28T20:59:02.928894+00:00"
+    },
+    {
+      "id": "867dd5665e150834",
+      "title": "苹果首款触控 MacBook Pro 低音下潜增强 50%，首次调教合盖场景音频",
+      "link": "https://www.ithome.com/1/019/253.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T19:15:27+00:00",
+      "summary": "IT之家 10 月 29 日消息，苹果公司今天（10 月 29 日）发布新闻稿，宣布在其搭载 PROLED XDR 显示屏的首款触控 MacBook Pro 上，并重点升级其音频系统。官方表示这款 MacBook Pro 采用 6 扬声器音频系统，采用全新低音单元设计，低音下潜增强 50%，声音更深沉、更丰富。而全新高音单元可塑造声音扩散方式，让音质格外清晰、通透。这款 MacBook Pro 支",
+      "fetched_at": "2026-10-28T20:59:02.928916+00:00"
+    },
+    {
+      "id": "cdd0ff0ecad5e043",
+      "title": "苹果上架 70W/140W 新款 Mac 电源适配器，采用交流电源接口 2 方案",
+      "link": "https://www.ithome.com/1/019/252.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T19:06:18+00:00",
+      "summary": "IT之家 10 月 29 日消息，苹果公司今天（10 月 29 日）发布配备 PROLED XDR 显示屏的首款触控 MacBook Pro 外，还更新推出了 70W 充电器、全球旅行转换器套件等多款配件产品。一、70W 电源适配器（点此前往苹果官网选购）该产品售价为 449 元，IT之家附上官方介绍如下：无论是在家中、办公室还是旅行途中，这款 70W 电源适配器都能让你快速而高效地充电。它兼容多",
+      "fetched_at": "2026-10-28T20:59:02.929007+00:00"
+    },
+    {
+      "id": "e0be373c4ed34ffb",
+      "title": "最高 128GB 统一内存：苹果首款触控 MacBook Pro 可本地运行数千亿参数 AI 模型",
+      "link": "https://www.ithome.com/1/019/251.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T18:42:43+00:00",
+      "summary": "IT之家 10 月 29 日消息，苹果公司今天（10 月 29 日）发布配备 PROLED XDR 显示屏的首款触控 MacBook Pro，其核心卖点之一是配备最高 128GB 统一内存，M5 Max 芯片版可本地运行数千亿参数的大语言模型。IT之家附上官方公告内容如下：依托 M5 Max，专业人士可在设备端直接运行具有数千亿参数的大语言模型，并为精细视觉特效、3D 动画项目、电影配乐和 8K ",
+      "fetched_at": "2026-10-28T20:59:02.929042+00:00"
+    },
+    {
+      "id": "e8b30d4d99719fca",
+      "title": "外媒现场上手苹果首款触控 MacBook Pro (PROLED XDR 显示屏) 笔记本",
+      "link": "https://www.ithome.com/1/019/250.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T18:27:25+00:00",
+      "summary": "IT之家 10 月 29 日消息，太平洋时间 10 月 28 日上午 10 点（北京时间 10 月 29 日凌晨 1 点）在洛杉矶举行的“Pro and Tell”体验活动中，包括 9to5Mac 在内的多家媒体现场体验了苹果首款触控 MacBook Pro (PROLED XDR 显示屏) 笔记本。IT之家附上部分海外媒体的现场上手视频如下：官方称，新款 MacBook Pro 采用“业界领先”",
+      "fetched_at": "2026-10-28T20:59:02.929068+00:00"
+    },
+    {
+      "id": "81c1000492a8aa79",
+      "title": "苹果触屏 MacBook Pro 应用适配情况：Lightroom、达芬奇、C4D、Office 等今年晚些时候支持",
+      "link": "https://www.ithome.com/1/019/249.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T18:24:35+00:00",
+      "summary": "IT之家 10 月 29 日消息，苹果今日推出首款触控屏 MacBook Pro，定价 22,999 元起。该产品采用双层串联 OLED 面板，HDR 峰值亮度可达 2,000 nits。如今苹果已经公布了这款 MacBook Pro 的第三方应用触控适配情况，IT之家附未来支持名单如下：办公与协作： Notion、Canva、Zoom、Microsoft Word、Excel、PowerPoin",
+      "fetched_at": "2026-10-28T20:59:02.929099+00:00"
+    },
+    {
+      "id": "05f6baf6793f1332",
+      "title": "苹果 CEO 特努斯：MacBook Pro PROLED XDR 显示屏有多出色，亲手一触就知道",
+      "link": "https://www.ithome.com/1/019/248.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T18:21:53+00:00",
+      "summary": "IT之家 10 月 29 日消息，太平洋时间 10 月 28 日上午 10 点（北京时间 10 月 29 日凌晨 1 点）在洛杉矶举行的“Pro and Tell”体验活动中，苹果公司正式推出首款支持触控操作的 MacBook Pro（PROLED XDR 显示屏），国行起售价 22999 元。苹果公司前首席执行官、现任执行董事长蒂姆 · 库克（Tim Cook）发布微博，表示：我们把触控带到了 ",
+      "fetched_at": "2026-10-28T20:59:02.929146+00:00"
+    },
+    {
+      "id": "d959c8d32753bf37",
+      "title": "苹果新 MacBook Pro 最高可选 16TB 存储空间：相比此前 8TB 翻倍，得加 5.25 万元",
+      "link": "https://www.ithome.com/1/019/247.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T18:09:16+00:00",
+      "summary": "IT之家 10 月 29 日消息，苹果首款触控屏 MacBook Pro 最高可选 16TB 存储空间，相比此前 MacBook Pro 最高 8TB 翻倍。需要注意的是，新款 MacBook Pro 仅有 M5 Max 机型支持选择 16TB 硬盘。而且要升级这么高的容量，您需要支付 52,500 元（以 2TB → 16TB 计）。硬件方面，新款 MacBook Pro 采用双层串联 OLED",
+      "fetched_at": "2026-10-28T20:59:02.929174+00:00"
+    },
+    {
+      "id": "2df0607f885d99c0",
+      "title": "苹果上架 512GB 内存版 Mac Studio：较 96GB 配置贵 116250 元",
+      "link": "https://www.ithome.com/1/019/246.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T17:54:05+00:00",
+      "summary": "IT之家 10 月 29 日消息，苹果今天（10 月 29 日）正式公布配备 512GB 统一内存的 Mac Studio 售价。该配置仅面向搭载 M5 Ultra 芯片（ 36 核 CPU 与 80 核 GPU）的顶配机型，相比较 96GB 版本价格上涨 116,250 元。IT之家注：512GB 内存版目前仅适用于 M5 Ultra 芯片（36 核 CPU 与 80 核 GPU）顶配，用户如果",
+      "fetched_at": "2026-10-28T20:59:02.929206+00:00"
+    },
+    {
+      "id": "c4018789504967b6",
+      "title": "苹果首度为 Mac 引入灵动岛：支持显示音乐播放、实时活动等，Siri AI 多了个入口",
+      "link": "https://www.ithome.com/1/019/245.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T17:53:16+00:00",
+      "summary": "IT之家 10 月 29 日消息，苹果公司今日推出首款触控屏 MacBook Pro，提供 14 英寸和 16 英寸两种型号。值得注意的是，这款笔记本支持灵动岛，可将实时活动、聚焦搜索和 Siri AI 整合到屏幕上方交互，这也是苹果首次为 Mac 电脑引入灵动岛。IT之家了解到，苹果公司最早在 2022 年 9 月的 iPhone 14 Pro 系列推出灵动岛。它在苹果手机中取代了刘海设计，摄像",
+      "fetched_at": "2026-10-28T20:59:02.929229+00:00"
+    },
+    {
+      "id": "03731de707d64b5b",
+      "title": "时隔 10 年发光 Logo 回归：苹果首款触控屏 MacBook Pro“苹果标”又会亮了",
+      "link": "https://www.ithome.com/1/019/244.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T17:48:23+00:00",
+      "summary": "IT之家 10 月 29 日消息，苹果在今天的特别活动中正式推出了首款触控屏 MacBook Pro（配备 PROLED XDR 显示屏的 MacBook Pro），值得一提的是，该机重新为 A 面带回了发光苹果 Logo。回顾历史，苹果从 1999 年 PowerBook G3 系列开始为笔记本 A 面引入发光苹果 Logo，相应 Logo 并没有配备任何独立的 LED 光源，而是直接“借用”了",
+      "fetched_at": "2026-10-28T20:59:02.929268+00:00"
+    },
+    {
+      "id": "5d0c67761bf62863",
+      "title": "15999 元起，苹果 M6 芯片版 14 英寸 MacBook Pro 开启预购",
+      "link": "https://www.ithome.com/1/019/243.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T17:41:18+00:00",
+      "summary": "IT之家 10 月 29 日消息，苹果公司 2026 款 MacBook Pro 已于今天（10 月 29 日）凌晨 1 点 10 分开启预购，起售价 15,999 元，最快 11 月 6 日送达。京东苹果 2026 款 14 英寸 MacBook Pro M6 15999 元直达链接机型芯片起售价14 英寸 M6RMB 15,999 起14 英寸 M5 ProRMB 20,999 起14 英寸 ",
+      "fetched_at": "2026-10-28T20:59:02.929332+00:00"
+    },
+    {
+      "id": "bf6e56f7f84c4cc0",
+      "title": "苹果 M6 版 24 英寸 iMac 开启预购，国补后 10999 元起",
+      "link": "https://www.ithome.com/1/019/242.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T17:40:39+00:00",
+      "summary": "IT之家 10 月 29 日消息，苹果 24 英寸新款 iMac 现已在京东开启预购，新品升级 M6 芯片，设计与旧款没有差别，定价 12499 元起，国补后到手价 10999 元起。外观方面，新款 iMac 沿袭上一代外观，提供银色、蓝色、绿色、粉色等配色可选。搭载 24 英寸 4.5K 分辨率屏幕，最高亮度 500nits，支持 P3 广色域和 10bit 色深，提供纳米纹理玻璃选项。规格方面",
+      "fetched_at": "2026-10-28T20:59:02.929377+00:00"
+    },
+    {
+      "id": "38a9e37710456760",
+      "title": "5499 元起，苹果 iPad mini（A20 Pro）开启预购（国补后低至 4999 元起）",
+      "link": "https://www.ithome.com/1/019/241.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T17:35:28+00:00",
+      "summary": "IT之家 10 月 29 日闪讯速报，苹果旗下 iPad mini（A20 Pro）现已开启预购，该机也就是俗称的“iPad mini 8”。其搭载 8.5 英寸 OLED 屏幕，比上一代薄了 14%，采用 A20 Pro 芯片，11 月 6 日正式发售，定价 5,499 元起（国补后低至 4999 元起）。京东 Apple / 苹果 iPad mini (A20 Pro) 平板电脑 5499 元",
+      "fetched_at": "2026-10-28T20:59:02.929451+00:00"
+    },
+    {
+      "id": "1892331560a64963",
+      "title": "22999 元起：苹果首款触屏 MacBook Pro 价格公布",
+      "link": "https://www.ithome.com/1/019/239.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T17:15:57+00:00",
+      "summary": "IT之家 10 月 29 日消息，苹果公司现已公布 MacBook Pro (PROLED XDR 显示屏) 笔记本的价格：22,999 元起。IT之家从苹果官网获悉，MacBook Pro (PROLED XDR 显示屏) 支持触控，提供 14 英寸和 16 英寸两个尺寸，可选 M5 Pro 和 M5 Max 芯片。各版本售价详情如下：14 英寸M5 Pro（15 核 CPU、16 核 GPU）",
+      "fetched_at": "2026-10-28T20:59:02.929492+00:00"
+    },
+    {
+      "id": "d4f0729f66846fce",
+      "title": "苹果首款触控屏 MacBook Pro 正式发布：双层串联 OLED、低至 1.38 千克重量，22,999 元起",
+      "link": "https://www.ithome.com/1/019/238.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T17:10:12+00:00",
+      "summary": "IT之家 10 月 29 日消息，苹果在今天的特别活动中正式推出了首款触控屏 MacBook Pro（配备 PROLED XDR 显示屏的 MacBook Pro），系列产品 10 月 30 日 9 点接受预购，11 月 6 日发售，22,999 元起，IT之家随附官方商店地址（点此访问）。系列笔记本可选 14.2/16.3 英寸版本，前者尺寸为 21.63 厘米 x31.08 厘米 x1.50 ",
+      "fetched_at": "2026-10-28T20:59:02.929534+00:00"
+    },
+    {
+      "id": "958bbab48704ecaa",
+      "title": "Artificial Analysis Intelligence Index v5 基准上线，DeepSeek V4.1 Flash 1017 为 FrontierCode 2.0 开源模型最高成绩",
+      "link": "https://www.ithome.com/1/019/237.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T17:06:21+00:00",
+      "summary": "IT之家 10 月 29 日消息，Artificial Analysis 昨日发布了 Intelligence Index v5，这是该机构自 2026 年 1 月 v4 上线以来幅度最大的一次基准重构。最直接的变化是，60% 的评测权重首次建立在私有测试集或隐藏答案之上，用于压缩公开题库被模型训练数据“污染”的空间，减少了各厂商为了跑分而跑分的“注水”测试项目。该指数仍由九项评测构成，包括知识工",
+      "fetched_at": "2026-10-28T20:59:02.929638+00:00"
+    },
+    {
+      "id": "6426745cf2a11696",
+      "title": "苹果线上商城下线维护，预估迎接其首款触控 MacBook Pro",
+      "link": "https://www.ithome.com/1/019/236.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-28T16:59:03+00:00",
+      "summary": "IT之家 10 月 29 日消息，太平洋时间 10 月 28 日上午 10 点（北京时间 10 月 29 日凌晨 1 点）在洛杉矶举行的“Pro and Tell”体验活动开始前几分钟，苹果官网在线商店已临时下线维护，这一动作通常被视为新品即将上架的信号。IT之家访问苹果中国官网在线商店，已经显示为“稍等一下，我们正在更新 Apple Store，请稍后再来。”根据目前曝光的信息和线索，苹果公司计",
+      "fetched_at": "2026-10-28T20:59:02.929669+00:00"
+    },
     {
       "id": "dcce38aafc184fcb",
       "title": "索尼推出“Prism Collection”版 DualSense 手柄，半透明设计",
@@ -10737,61 +11034,6 @@
       "published_at": "2026-10-21T22:44:18+00:00",
       "summary": "IT之家 10 月 22 日消息，Anthropic 昨日（10 月 21 日）宣布以研究预览版形式，推出全新应用 Claude Duet，定位为可主动工作的 AI 智能体（agent），加入由 Meta 的 Muse、以及 OpenAI 的 Dots 领衔的“全天候主动型 AI 助理”大战。技能方面，该应用会每天整理跨应用的重要事项、主动提醒需要处理的问题，并在用户离开后继续在后台完成被委托的任",
       "fetched_at": "2026-10-21T23:15:03.781450+00:00"
-    },
-    {
-      "id": "ffccfae625b924d3",
-      "title": "特斯拉 2026 财年第三财季归母净利润 7.87 亿美元，同比下降 43%",
-      "link": "https://www.ithome.com/1/016/167.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-21T20:46:24+00:00",
-      "summary": "IT之家 10 月 22 日消息，特斯拉今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告：营业总收入：280.04 亿美元，同比基本持平毛利润：54.94 亿美元，同比增长 8.7%毛利率：19.6%，同比增长 1.6 个百分点归母净利润：7.87 亿美元，同比下降 43%经营现金流：62.63 亿美元自由现金流：1",
-      "fetched_at": "2026-10-21T23:15:03.781288+00:00"
-    },
-    {
-      "id": "99d0a64933282fdb",
-      "title": "IBM 2026 财年半年报归母净利润 55.71 亿美元，同比增长 11.58%",
-      "link": "https://www.ithome.com/1/016/165.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-21T20:25:07+00:00",
-      "summary": "IT之家 10 月 22 日消息，IBM今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年半年报 营业总收入：501.82 亿美元（IT之家注：现汇率约合 3357.84 亿元人民币），同比增长 4.88% 毛利润：285.71 亿美元（现汇率约合",
-      "fetched_at": "2026-10-21T23:15:03.781568+00:00"
-    },
-    {
-      "id": "ffa0ec78d36f9ee4",
-      "title": "德州仪器 2026 财年第三财季归母净利润 24.25 亿美元，同比增长 78%",
-      "link": "https://www.ithome.com/1/016/164.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-21T20:10:27+00:00",
-      "summary": "IT之家 10 月 22 日消息，德州仪器今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告：营业总收入：60.55 亿美元（IT之家注：现汇率约合 405.16 亿元人民币），同比增长 28%，环比增长 11%毛利润：38.87 亿美元（现汇率约合 260.09 亿元人民币），同比增长 42.75%毛利率：64.2%",
-      "fetched_at": "2026-10-21T23:15:03.781172+00:00"
-    },
-    {
-      "id": "d10701be39d70b2c",
-      "title": "安卓阵营首款阔直板手机酷派 COOL X Wide 售价公布：999~1399 元，搭载联发科曦力 G99 芯片 + 720p 屏幕",
-      "link": "https://www.ithome.com/1/016/160.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-21T16:14:46+00:00",
-      "summary": "IT之家 10 月 22 日消息，安卓阵营首款阔直板手机，也是酷派首款阔直板手机 Cool X Wide 在京东开启预约，将于 11 月 8 日正式发售。价格方面，8GB+128GB 版本 999 元，8GB+256GB 版本 1199 元，12GB+256GB 版本 1399 元。这款新机搭载 6.38 英寸 16:10 屏幕，仅 720x1158 分辨率，还支持 90Hz 刷新率；有鎏白、岩黑",
-      "fetched_at": "2026-10-21T23:15:03.781614+00:00"
-    },
-    {
-      "id": "be4e97d83b4bea7c",
-      "title": "799 元雷蛇北海巨妖萌猫版 V3 有线耳机发布：猫耳 RGB 灯效可随直播互动，支持 7.1 环绕声",
-      "link": "https://www.ithome.com/1/016/158.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-21T16:03:25+00:00",
-      "summary": "IT之家 10 月 22 日消息，雷蛇（Razer）今晚正式发布了全新的北海巨妖萌猫版 V3 有线 RGB 游戏耳机，官方售价 799 元，10 月 26 日发货。该产品面向游戏直播与内容创作者，搭载可交互的猫耳 RGB 灯效、雷蛇 TriForce 40 毫米驱动单元以及 HyperClear 灵晰技术心形指向麦克风，支持即插即用 USB Type-C 连接，兼容 PC 及移动设备。IT之家从官",
-      "fetched_at": "2026-10-21T23:15:03.781649+00:00"
     }
   ]
 }
