@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T20:12:58.660390+00:00",
-  "count": 1006,
+  "generated_at": "2026-10-30T00:50:15.619102+00:00",
+  "count": 1029,
   "sources": [
     {
       "id": "36kr",
@@ -35,6 +35,336 @@
   ],
   "items": [
     {
+      "id": "f91e7d766d992570",
+      "title": "英特尔 2026 财年第三财季归母净利润 33.2 亿美元，同比下降 18%",
+      "link": "https://www.ithome.com/1/019/854.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-30T00:46:11+00:00",
+      "summary": "IT之家 10 月 30 日消息，英特尔今日发布 2026 财年（2025 年 12 月 28 日～2026 年 12 月 26 日）第三财季（2026 年 6 月 28 日～2026 年 9 月 26 日）报告： 营业总收入：165.13 亿美元（IT之家注：现汇率约合 1102.55 亿元人民币），同比增长 21% 毛利润：70.96 亿美元（现汇率约合 473.79 亿元人民币） 毛利率：4",
+      "fetched_at": "2026-10-30T00:50:05.414077+00:00"
+    },
+    {
+      "id": "09a8616c5da73bc8",
+      "title": "HMD 推出诺基亚 2360 Flip 翻盖功能机：配 SOS 键、1450 mAh 可拆卸电池，仅支持 2G 网络",
+      "link": "https://www.ithome.com/1/019/851.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-30T00:43:12+00:00",
+      "summary": "IT之家 10 月 30 日消息，科技媒体 Notebookcheck 昨日（10 月 29 日）发布博文，报道称 HMD Global 面向老年人、学生及追求极简通信的用户，推出诺基亚 2360 Flip 翻盖功能机。该手机以“简单易用、家人安心”为核心卖点，配备专属 SOS 紧急按键，并支持通过 Family Assist 应用由亲属远程完成设置与管理。IT之家附上相关图片如下：外观方面，诺基",
+      "fetched_at": "2026-10-30T00:50:05.414118+00:00"
+    },
+    {
+      "id": "787d8dc90f259f15",
+      "title": "消息称英伟达商讨为 Nscale 数据中心提供信用担保，项目供 Anthropic 使用",
+      "link": "https://www.ithome.com/1/019/850.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-30T00:42:12+00:00",
+      "summary": "IT之家 10 月 30 日消息，据彭博社报道，知情人士透露，英伟达公司正商讨为 Nscale 一处数据中心项目提供信用担保，该设施计划交由 Anthropic 使用。这名不愿具名的人士称，这笔信用支持将为西弗吉尼亚州一座人工智能数据中心园区的电力与建设费用提供兜底保障，园区内会部署英伟达芯片。英伟达是人工智能处理器领域的龙头厂商，本身已经投资了 Nscale 以及其他多家 AI 算力服务商。总部",
+      "fetched_at": "2026-10-30T00:50:05.414148+00:00"
+    },
+    {
+      "id": "b08201bcf3ce4a7a",
+      "title": "谷歌为建数据中心非法砍伐芬兰森林 25 万棵树，警方展开刑事调查",
+      "link": "https://www.ithome.com/1/019/849.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-30T00:36:15+00:00",
+      "summary": "IT之家 10 月 30 日消息，据路透社报道，芬兰警方于周四（29 日）宣布，已针对芬兰北部规划中的谷歌数据中心施工现场涉嫌违反环境法规的行为展开刑事调查（criminal probe）。该项目隶属于 Alphabet 旗下谷歌上月宣布的投资计划。谷歌拟在芬兰投资 150 亿美元（IT之家注：现汇率约合 1,002.08 亿元人民币）用于建设人工智能基础设施，这家美国科技巨头将其称作其在欧洲规模",
+      "fetched_at": "2026-10-30T00:50:05.414193+00:00"
+    },
+    {
+      "id": "cc19cd18f6e4665c",
+      "title": "OpenAI“服软”：ChatGPT Pro 订阅用量翻倍，取消 Pro 200 砍半计划",
+      "link": "https://www.ithome.com/1/019/848.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-30T00:34:52+00:00",
+      "summary": "IT之家 10 月 30 日消息，在用户强烈反对后，OpenAI 公司昨日（10 月 29 日）宣布，立即上调 ChatGPT Pro 及 Business Premium 订阅中 Work 与 Codex 的用量额度，Pro 100、Pro 200 以及 Pro 500 的额度直接翻倍。IT之家附上相关截图如下：OpenAI 以“模型效率提升”为由，曾在 9 月 29 日通知用户，计划下调 Pr",
+      "fetched_at": "2026-10-30T00:50:05.414221+00:00"
+    },
+    {
+      "id": "c4d752768f236ee5",
+      "title": "闪迪公布强劲业绩，2027 财年第一财季营收 110 亿美元环比增长 23%",
+      "link": "https://www.ithome.com/1/019/847.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-30T00:30:33+00:00",
+      "summary": "IT之家 10 月 30 日消息，数据中心建设推动存储需求增长，加上存储芯片供应紧张、价格居高不下，令闪迪的最新业绩及业绩展望均超出市场预期。闪迪预计，2027 财年（2026 年 7 月至 2027 年 6 月）第二财季营收将达到 122 亿至 126 亿美元（IT之家注：现汇率约合 815.03 亿至 841.75 亿元人民币），高于分析师预期的 121 亿美元（现汇率约合 808.35 亿元",
+      "fetched_at": "2026-10-30T00:50:05.414263+00:00"
+    },
+    {
+      "id": "8a27ac567dcd64d6",
+      "title": "刚刚，ChatGPT Pro 额度官宣翻倍，但免费重置可能要没了",
+      "link": "https://www.ifanr.com/1686830?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source_id": "ifanr",
+      "source_name": "爱范儿",
+      "category": "tech",
+      "published_at": "2026-10-30T00:29:45+00:00",
+      "summary": "Plus 用户：为我发声#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "fetched_at": "2026-10-30T00:50:04.056325+00:00"
+    },
+    {
+      "id": "a66c9bbd9a631a20",
+      "title": "集邦咨询：苹果首款触控 MacBook Pro 明年出货约 120~150 万台，带动全球 OLED 笔记本出货增长 42.3%",
+      "link": "https://www.ithome.com/1/019/846.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-30T00:24:24+00:00",
+      "summary": "IT之家 10 月 30 日消息，市场调查机构集邦咨询（TrendForce）昨日（10 月 29 日）发布博文，预估配备 PROLED XDR 显示屏的苹果首款触控 MacBook Pro 在 2027 年的出货量为 120~150 万台，标志着 MacBook 显示技术与操作体验的重要转变。集邦咨询表示在 OLED 笔记本电脑市场，过去主力为 Lenovo（联想）、HP（惠普）、ASUS（华硕",
+      "fetched_at": "2026-10-30T00:50:05.414300+00:00"
+    },
+    {
+      "id": "2788fe8ffcce540b",
+      "title": "消息称 Anthropic 已成为马斯克旗下 SpaceX 最大单一客户，贡献超三分之一营收",
+      "link": "https://www.ithome.com/1/019/845.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-30T00:20:07+00:00",
+      "summary": "IT之家 10 月 30 日消息，据彭博社报道，一位知情人士透露，Anthropic 已成为 SpaceX 的最大单一客户。此前，美国联邦政府一直是 SpaceX 的最大单一客户。今年第三季度，该公司为埃隆 · 马斯克（Elon Musk）旗下 SpaceX 贡献了超三分之一的营收。SpaceX 在上周提交的申报文件中指出，上一季度约 34.5% 的营收来自单一客户，该客户主要向其负责提供算力的人",
+      "fetched_at": "2026-10-30T00:50:05.414325+00:00"
+    },
+    {
+      "id": "59504ffdcb8239ac",
+      "title": "新一代无创超声脑机接口亮相：无需开颅，持续 4 周干预有望唤醒“植物人”",
+      "link": "https://www.ithome.com/1/019/844.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-30T00:15:59+00:00",
+      "summary": "IT之家 10 月 30 日消息，据央视新闻报道，广东深圳正在举办粤港澳大湾区国际脑机接口产业创新大会，同步开启国内首个光明大脑科技周。大会上，中国科学院深圳先进院等科研团队攻关的新一代无创超声脑机接口技术亮相。它颠覆了我们对传统脑机接口的认识：无需开颅、不用植入电极，靠超声波和大脑“对话”。基于该技术，每周 3 次、每次 20 分钟，持续 4 周的干预就有机会唤醒慢性意识障碍患者，即我们常说的“",
+      "fetched_at": "2026-10-30T00:50:05.414353+00:00"
+    },
+    {
+      "id": "f4f13c9bd13f2d74",
+      "title": "早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜",
+      "link": "https://www.ifanr.com/1686790?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source_id": "ifanr",
+      "source_name": "爱范儿",
+      "category": "tech",
+      "published_at": "2026-10-30T00:14:13+00:00",
+      "summary": "· 王传福披露比亚迪员工突破 102 万，研发工程师达 12 万 · 美国计算机专业入学人数再降，本科两年减少 18.4% · 韩国拟将 AI 眼镜作弊禁考期延至 3 年，考场将配专人识别#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "fetched_at": "2026-10-30T00:50:04.056355+00:00"
+    },
+    {
+      "id": "33a9110525ccef62",
+      "title": "iOS 27.2 扩展快捷指令：苹果首款折叠 iPhone Duo 开合可触发自动化操作",
+      "link": "https://www.ithome.com/1/019/843.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-30T00:10:22+00:00",
+      "summary": "IT之家 10 月 30 日消息，在本周推送的 iOS 27.2 正式版中，苹果更新 Siri AI、FaceTime 以及信息等应用外，还进一步扩展“快捷指令”（Shortcuts）指令，并为苹果首款折叠 iPhone Duo 新增自动化触发条件。IT之家援引博文介绍，在本次扩展指令中，最值得关注的是用户可设置“当我的 iPhone 打开或关闭时”自动执行指定操作，让折叠屏设备的开合动作成为智能",
+      "fetched_at": "2026-10-30T00:50:05.414436+00:00"
+    },
+    {
+      "id": "137f01080791925b",
+      "title": "苹果首款触控屏 MacBook Pro 预购：双层串联 OLED、新增灵动岛，22,999 元起",
+      "link": "https://www.ithome.com/1/019/842.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-30T00:07:12+00:00",
+      "summary": "IT之家 10 月 30 日消息，苹果在北京时间 10 月 29 日凌晨的特别活动中正式推出了首款触控屏 MacBook Pro（配备 PROLED XDR 显示屏的 MacBook Pro），今日 9 点接受预购，11 月 6 日发售，售价 22,999 元起。配备 PROLED XDR 显示屏的 MacBook Pro 提供 14 英寸与 16 英寸两种机型，搭载双层串联 OLED 技术，具有",
+      "fetched_at": "2026-10-30T00:50:05.414499+00:00"
+    },
+    {
+      "id": "43232fd8760c488e",
+      "title": "亚马逊 CEO 安迪 · 贾西自信放话：AWS 终将取得万亿美元年营收",
+      "link": "https://www.ithome.com/1/019/841.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-30T00:01:36+00:00",
+      "summary": "IT之家 10 月 30 日消息，亚马逊 CEO 安迪 · 贾西认为，旗下云计算业务亚马逊云科技（AWS）的年营收有望突破 1 万亿美元（IT之家注：现汇率约合 6.68 万亿元人民币）。在当地时间 29 日的季度财报电话会议上，他再次强调这一目标：“亚马逊正在打造前所未有的业务。历史上还没有任何企业的年营收达到 1 万亿美元。”为此，亚马逊还需要大幅增加资本开支，建设足以支撑 AWS 快速增长的",
+      "fetched_at": "2026-10-30T00:50:05.414537+00:00"
+    },
+    {
+      "id": "61f3348c18250ae1",
+      "title": "苹果首款触控 MacBook Pro 屏幕细节，改为“四角全圆”",
+      "link": "https://www.ithome.com/1/019/840.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-30T00:00:03+00:00",
+      "summary": "IT之家 10 月 30 日消息，科技媒体 macobserver 昨日（10 月 29 日）发布博文，报道称在配备 PROLED XDR 显示屏的苹果首款触控 MacBook Pro 上，苹果公司调整屏幕细节，屏幕底部两角也改为圆角。IT之家援引博文介绍，在苹果此前推出的 MacBook Pro 机型中，屏幕上角早已采用圆角，但屏幕与下边框衔接处仍保持直角。新款机型则将圆角延伸至底部，让整块屏幕",
+      "fetched_at": "2026-10-30T00:50:05.414563+00:00"
+    },
+    {
+      "id": "88c6374ed96bb8c4",
+      "title": "China’s \"Double 11\" Still Runs—Small Sellers Say the Rules No Longer Fit Them",
+      "link": "https://www.tmtpost.com/8187064.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-10-29T23:59:05+00:00",
+      "summary": "Platforms increasingly rank traffic by sales volume and conversion quality, not by lowest price. Big brands clear the metrics more easily. Many mid-size merchants now treat the festival as routine wor",
+      "fetched_at": "2026-10-30T00:50:07.145326+00:00"
+    },
+    {
+      "id": "24d954dbfa724a4a",
+      "title": "IT早报 1030：华为制药军团称不做药定位 AI 赋能药企；国产游戏《影之刃零》首发登顶 Steam 全球畅销榜；谷歌盘中跌超 13% 创历史最大单日跌幅...",
+      "link": "https://www.ithome.com/1/019/839.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-29T23:57:42+00:00",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 30 日星期五，今天的重要科技资讯有：1. 华为制药军团总裁樊杰明确“华为不做药”，希望成为 AI 制药产业技术底座对于外界关心的华为是否会直接进入药物研发，华为制药军团总裁樊确表示：“华为不做药，也不做管线。”华为希望发挥自身在计算、通信和人工智能领域的优势，为药企、科研机构及 AI 制药企业提供算力、存储、网络、工具链和数据治理能力，成",
+      "fetched_at": "2026-10-30T00:50:05.414721+00:00"
+    },
+    {
+      "id": "4b11da9049249a20",
+      "title": "大众集团 CFO 安特里茨：电车卖得越好，我们的盈利压力反而越大",
+      "link": "https://www.ithome.com/1/019/838.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-29T23:48:49+00:00",
+      "summary": "IT之家 10 月 30 日消息，大众集团 CFO 兼 COO 阿诺 · 安特里茨在昨天发布的前三季度业绩声明中坦言：“电动汽车卖得越好，我们的盈利压力反而越大，因为现阶段电动汽车的利润仍低于燃油车。”今年前三季度，电动汽车占大众集团欧洲市场订单的 40%。此外，大众集团还面临其他经营压力。中国市场急剧萎缩，中国车企在欧洲的价格竞争愈发激烈，加上美国加征关税，使旗下各品牌提高利润率变得更加困难。安",
+      "fetched_at": "2026-10-30T00:50:05.414749+00:00"
+    },
+    {
+      "id": "9f0f2a8dfeae9cdc",
+      "title": "告别“裸奔”状态，张雪机车“ZXMOTO”等核心商标完成注册",
+      "link": "https://www.ithome.com/1/019/837.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-29T23:45:52+00:00",
+      "summary": "IT之家 10 月 30 日消息，10 月 29 日，重庆知识产权局官方披露，日前，张雪机车的“ZXMOTO”等核心商标正式完成注册。IT之家注意到，张雪本人通过重庆知识产权发布视频，呼吁广大创业者，尊重知识产权，提高专利、商标等知识产权的保护意识。我们 ZXMOTO 的商标终于注册下来了，其实前面我们一直是“裸奔”哈。这么长时间其实都还一直没有注册成功，然后这整个过程中还遇到了不小的难题，因为刚",
+      "fetched_at": "2026-10-30T00:50:05.414776+00:00"
+    },
+    {
+      "id": "65aac495568db6eb",
+      "title": "英特尔 2026Q3 营收 165 亿美元超预期：数据中心业务暴增近 80% 创 15 年最强增长",
+      "link": "https://www.ithome.com/1/019/836.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-29T23:45:20+00:00",
+      "summary": "IT之家 10 月 30 日消息，太平洋时间 10 月 29 日星期四下午 2 点（北京时间 10 月 30 日凌晨 5 点）举办的 2026 财年第三财季（2026 年 6 月 28 日至 2026 年 9 月 26 日）财报电话会议上，公司首席执行官陈立武表示，数据中心与人工智能 DCAI 业务成为本季度最大亮点，实现该板块 15 年来最强营收增长，拉动整体业绩超预期。英特尔本季营收 165 ",
+      "fetched_at": "2026-10-30T00:50:05.414827+00:00"
+    },
+    {
+      "id": "d89e81993a3b937d",
+      "title": "奔驰全新纯电 E 级明年问世，CEO 康林松称几乎全部采用中国本土采购零部件",
+      "link": "https://www.ithome.com/1/019/807.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-29T23:31:47+00:00",
+      "summary": "IT之家 10 月 30 日消息，当地时间 29 日，据外媒 motor1 报道，奔驰 CEO 康林松在 2026 年第三季度财报电话会议上透露，纯电 E 级是一款从零开始研发的豪华轿车。新车与燃油版共用 E 级名称，采用独立的纯电平台，并计划在多个方面提升产品表现。据IT之家了解，新车在大约三年前启动研发，基本没有沿用现成的设计方案。目前，纯电 E 级原型车正进行最后阶段的测试，以解决量产前可能",
+      "fetched_at": "2026-10-30T00:50:05.414856+00:00"
+    },
+    {
+      "id": "a5f8a01d78a2d93e",
+      "title": "智元发布具身模型 GO-3 Preview：能做煎饼果子、在便利店上岗，登顶三大榜单",
+      "link": "https://www.ithome.com/1/019/806.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-29T23:22:24+00:00",
+      "summary": "IT之家 10 月 30 日消息，10 月 29 日，智元正式推出预训练 / 后训练 / 部署后实现全链路规模化学习的具身模型 —— GO-3 Preview。该模型采用具身原生的 WRAM（World Reasoning Action Model）架构，将任务推理、未来预测与动作生成连接起来，让机器人理解指令、预测未来，并生成可执行的动作。该模型已于近日登顶 RoboDojo、RoboTwin、",
+      "fetched_at": "2026-10-30T00:50:05.414910+00:00"
+    },
+    {
+      "id": "98385748209d8375",
+      "title": "口袋里的体育直播控制台：苹果 iPhone Duo 等支持四路同屏看球",
+      "link": "https://www.ithome.com/1/019/805.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-29T23:20:37+00:00",
+      "summary": "IT之家 10 月 30 日消息，科技媒体 9to5Mac 昨日（10 月 29 日）发布博文，报道称在 iOS 27.2 正式版更新中，苹果升级 Apple TV 应用，带来“多画面”（Multiview）功能，iPhone 用户现在可同时观看最多 4 路体育赛事直播。该功能此前仅支持 Apple TV、iPad 和 Vision Pro 设备。用户在 Apple TV 播放器中开始观看体育赛事",
+      "fetched_at": "2026-10-30T00:50:05.414936+00:00"
+    },
+    {
+      "id": "2e2f02df59ad79d2",
+      "title": "【钛晨报】光模块三巨头“易中天”业绩出炉，前三季度净赚超350亿元；国家队最新调仓：国新进联通，诚通买黄金；联讯仪器、普冉股份，第三季度净利暴增超30倍",
+      "link": "https://www.tmtpost.com/8186866.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-10-29T23:20:00+00:00",
+      "summary": "中微公司：董事长提议回购4亿至5亿元股份；恒大物业出售落实，太盟集团将取得控股权；上纬新材前三季度净利骤降近800%，研发投入激增11.8倍；张雪机车投资7.5亿元建厂，年产50万辆；国家再次实施调控，汽、柴油（标准品）价格每吨分别上调345元、335元。",
+      "fetched_at": "2026-10-30T00:50:07.145343+00:00"
+    },
+    {
+      "id": "7fedf53d6611fc19",
+      "title": "Instagram 重启长视频业务，试图以最高 50 万美元吸引 YouTube 创作者",
+      "link": "https://www.ithome.com/1/019/804.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-29T23:09:49+00:00",
+      "summary": "IT之家 10 月 30 日消息，据《商业内幕》今天凌晨报道，Instagram 想要 YouTube 的长视频创作者，为此不惜砸下重金。为了吸引更多创作者在 Instagram 发布长视频，平台开始向部分创作者开出高额报酬。据多名知情人士透露，Instagram 希望借此推动长视频内容的发展。不同创作者拿到的报价差距不小。部分创作者只要在 Instagram 新推出的“Features”产品中发",
+      "fetched_at": "2026-10-30T00:50:05.414973+00:00"
+    },
+    {
+      "id": "b06e560c15fd2f81",
+      "title": "旧版“爆米花时间”应用成隐形后门，至少影响 25 万 ~35 万台苹果 Mac",
+      "link": "https://www.ithome.com/1/019/803.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-29T23:07:04+00:00",
+      "summary": "IT之家 10 月 30 日消息，安全公司 Eye Research 于 10 月 22 日发布博文，指出曾以“爆米花时间”（Popcorn Time）名义分发的非官方流媒体应用 Time4Popcorn，在 Mac 上遗留了一个高风险的自动更新组件。即使用户多年未打开该应用，这个组件仍会在每次开机时运行，并主动连接开发者早已弃用的服务器地址检查更新。该更新检查程序几乎无条件信任其下载的内容，并拥",
+      "fetched_at": "2026-10-30T00:50:05.415002+00:00"
+    },
+    {
+      "id": "a7e60299e4d0a1c8",
+      "title": "苹果 HomePod mini 2 智能音箱发售：五种配色可选，1099 元",
+      "link": "https://www.ithome.com/1/019/802.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-29T23:06:47+00:00",
+      "summary": "IT之家 10 月 30 日消息，苹果 HomePod mini 2 智能音箱今日正式发售，提供粉色、绿色、蓝色、白色和午夜色五种外观选项，售价 1,099 元。HomePod mini 2 搭载 S10 芯片，用户可以仅使用单只扬声器，也可组建立体声组合或配置多房间音频，还可用作 Mac 的默认扬声器。官方表示，HomePod mini 2 可用于操控联网家居，用户只需下达语音指令，便可进行一系",
+      "fetched_at": "2026-10-30T00:50:05.415035+00:00"
+    },
+    {
+      "id": "3dc3b6d6af587b76",
+      "title": "Mac 触控时代开启，苹果称 macOS 触控优化“才刚刚开始”",
+      "link": "https://www.ithome.com/1/019/801.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-29T22:57:40+00:00",
+      "summary": "IT之家 10 月 30 日消息，科技媒体 9to5Mac 昨日（10 月 29 日）发布博文，报道称在洛杉矶举办的特别活动媒体群访环节中，苹果公司高管回应表示针对 macOS 系统的触控优化“才刚刚开始”。当前的触控体验并非最终形态，苹果预计会根据早期用户反馈和实际使用场景，继续推进界面、手势与交互层面的改进。IT之家援引博文介绍，彭博社记者 Chris Welch 认为，苹果在引入触控能力时采",
+      "fetched_at": "2026-10-30T00:50:05.415054+00:00"
+    },
+    {
+      "id": "4cad47eb394ec083",
+      "title": "索尼发布 RIALTO 65 摄影机扩展系统，CineAltaV 2 迈入 65mm 大画幅时代",
+      "link": "https://www.ithome.com/1/019/800.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-29T22:53:50+00:00",
+      "summary": "IT之家 10 月 30 日消息，10 月 29 日晚，索尼正式发布专为旗舰级数字电影摄影机 CineAltaV 2（海外名称：VENICE 2）打造的 RIALTO 65 摄影机扩展系统，将于 2027 年上半年正式上市。RIALTO 65 搭载 65mm 画幅影像传感器（1.5:1 画幅比），将 CineAltaV 2 系统扩展至 65mm 画幅规格。▲ RIALTO 65 摄影机扩展系统RI",
+      "fetched_at": "2026-10-30T00:50:05.415101+00:00"
+    },
+    {
+      "id": "e8de89a1a210e8f6",
+      "title": "苹果高管回应“iPad mini 8 屏幕刷新率为何依然为 60Hz”",
+      "link": "https://www.ithome.com/1/019/799.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-10-29T22:49:27+00:00",
+      "summary": "IT之家 10 月 30 日消息，科技媒体 9to5Mac 昨日（10 月 29 日）发布博文，报道称在接受 YouTube 频道 Christopher Lawley 采访时，苹果硬件工程副总裁戴夫 · 帕库拉（Dave Pakula）讨论了苹果 iPad mini 8 的设计、屏幕等内容。新款 iPad mini 虽然配备了 OLED 显示屏，但并不支持 ProMotion 技术，刷新率仅为 ",
+      "fetched_at": "2026-10-30T00:50:05.415150+00:00"
+    },
+    {
       "id": "de13730a3e802927",
       "title": "59.9 万元梅赛德斯 AMG GLC 53 4MATIC+ 车型上市，3.0T 六缸回归",
       "link": "https://www.ithome.com/1/019/798.htm",
@@ -43,7 +373,7 @@
       "category": "tech",
       "published_at": "2026-10-29T16:10:45+00:00",
       "summary": "IT之家 10 月 30 日消息，10 月 29 日，梅赛德斯 AMG GLC 53 4MATIC+ 在浙江国际赛车场正式上市，官方指导价 59.90 万元，仅此一款配置。其核心变化是用 3.0T 直列六缸 +48V 轻混系统接替了 GLC 43 上的 2.0T 四缸动力，六缸重回 GLC 性能序列。新车搭载了 M256 Evo 3.0T 直列六缸涡轮增压发动机，AMG 对其进行了专属升级，包括重",
-      "fetched_at": "2026-10-29T20:12:51.974183+00:00"
+      "fetched_at": "2026-10-30T00:50:05.415195+00:00"
     },
     {
       "id": "c6014a64c57eebba",
@@ -11022,83 +11352,6 @@
       "published_at": "2026-10-23T02:43:00+00:00",
       "summary": "10月22日，在2026年美团外卖产业大会上，美团正式发布“妙手外卖版·袋鼠管家”。美团外卖总经理薛冰宣布，将向全国餐饮商家免费提供一个懂外卖经营的“AI店长”。大会披露的数据显示，2026年上半年餐饮商家的外卖营收增速超过全国餐饮平均营收，薛冰表示，“外卖行业进入积极向好，美团将帮助商家做好店型、运营、产品创新，实现更有含金量的增长”。据悉，“妙手外卖版”是美团外卖近期为商家研发的AI经营产品，",
       "fetched_at": "2026-10-23T14:57:33.569719+00:00"
-    },
-    {
-      "id": "99d68275b4119400",
-      "title": "72岁董明珠：被学生喊奶奶很不开心，人的价值不用年龄来衡量；雷军：汽车产业没有安全，其他都是零；iPhone Duo全球限购，每人限购2台",
-      "link": "https://www.leiphone.com/category/zaobao/3jq4Bj4E3zJhjVBp.html",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "tech",
-      "published_at": "2026-10-23T00:49:00+00:00",
-      "summary": "要闻提示1.iPhone Duo开启全球限购，每位顾客仅可购买2台2.72岁董明珠：被学生喊奶奶很不开心，人的价值不用年龄来衡量3.雷军：汽车产业没有安全，其他都是零4.星巴克回应消费入座争议：10月22日起全国施行并摆放提示牌5.宇树发新人形机器人！能徒手抬汽车，还会勇斗歹徒6.离职Kimi后，17岁天才少年陈广宇被曝加入美国AI初创公司7.高通拟11月启动全球裁员！8.马斯克证实：SpaceX",
-      "fetched_at": "2026-10-23T14:57:33.569986+00:00"
-    },
-    {
-      "id": "72f60e749b5894ab",
-      "title": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
-      "link": "https://sspai.com/post/117104",
-      "source_id": "sspai",
-      "source_name": "少数派",
-      "category": "tech",
-      "published_at": "2026-10-23T00:20:32+00:00",
-      "summary": "少数派的近期动态和少数派一起，在海口明日公园来一场创造之约吧。活动详情iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章终于吃到了那颗梦寐以求的小药丸：我的A ...查看全文",
-      "fetched_at": "2026-10-23T14:57:34.802041+00:00"
-    },
-    {
-      "id": "2aa96cd2a766f474",
-      "title": "早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
-      "link": "https://www.ifanr.com/1685530?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source_id": "ifanr",
-      "source_name": "爱范儿",
-      "category": "tech",
-      "published_at": "2026-10-23T00:00:25+00:00",
-      "summary": "· 奥迪中国换帅，前奇瑞高管张俊将接任总裁 · 特斯拉三季度净利降 43%，管理层仍强调 FSD 技术领先 · 王兴兴：物理 AI 已有突破苗头，难点在模型与机器人对齐#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-10-23T14:57:24.076815+00:00"
-    },
-    {
-      "id": "6730ccffdfa59f0c",
-      "title": "马斯克大胆预测：只要不受监管限制，特斯拉终将主导全球客运市场",
-      "link": "https://www.ithome.com/1/016/763.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-22T23:12:30+00:00",
-      "summary": "IT之家 10 月 23 日消息，据《商业内幕》报道，特斯拉 CEO 埃隆 · 马斯克长期相信，自动驾驶汽车将取代人类司机，承担载客出行任务。当地时间 21 日的特斯拉财报电话会议上，马斯克提出了更加大胆的预测：只要不受监管限制，特斯拉最终将主导全球客运市场。“我认为，凡是允许特斯拉自由运营的国家，特斯拉最终都将承担当地超过一半的乘客出行里程。大家以后可以检验这个预测，我对此很有信心。”他同时认为",
-      "fetched_at": "2026-10-22T23:15:58.940481+00:00"
-    },
-    {
-      "id": "e80f67b55336b748",
-      "title": "苹果更新 iWork 生产力套件 15.4.1：引入 AI 智能助理，适配 iPhone Duo",
-      "link": "https://www.ithome.com/1/016/762.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-22T23:03:02+00:00",
-      "summary": "IT之家 10 月 23 日消息，苹果公司今天（10 月 23 日）更新其 iWork 生产力套件，为 Keynote、Numbers 和 Pages 添加了“智能助理”（Intelligent Assistant）功能，以测试版邀请 Apple 创作坊（Apple Creator Studio）订阅用户体验。虽然发布说明中没有提及，但此次更新还为这三款应用添加适配 iPhone Duo。IT之家",
-      "fetched_at": "2026-10-22T23:15:58.940528+00:00"
-    },
-    {
-      "id": "b16d73f8acaf2ad8",
-      "title": "英特尔 CTO 称前沿晶圆产量最多翻倍，AI 算力扩张遭遇供应链天花板",
-      "link": "https://www.ithome.com/1/016/761.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-22T22:48:15+00:00",
-      "summary": "IT之家 10 月 23 日消息，在接受 Dwarkesh 播客时，英特尔首席技术官（CTO）普什卡 · 拉纳德（Pushkar Ranade）表示：即便资金充足，全球尖端晶圆产量也难以扩大十倍，更现实的增长上限约为两倍。在播客节目中，拉纳德被问及“世界上是否有足够工具，把前沿晶圆产量提高 10 倍”。对此他回应称“不是 10 倍，但可能达到 2 倍，是的。”他认为这一限制源于整个半导体供应链协同",
-      "fetched_at": "2026-10-22T23:15:58.940547+00:00"
-    },
-    {
-      "id": "6c99494b78826e03",
-      "title": "西部数据 2027 财年第一财季归母净利润 17.79 亿美元，同比增长 54%",
-      "link": "https://www.ithome.com/1/016/759.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-22T20:19:37+00:00",
-      "summary": "IT之家 10 月 23 日消息，西部数据今日发布 2027 财年（2026 年 7 月 4 日～2027 年 7 月 2 日）第一财季（2026 年 7 月 4 日～2026 年 10 月 2 日）报告：营业总收入：43.81 亿美元（IT之家注：现汇率约合 293.06 亿元人民币），同比增长 55%，环比增长 17%毛利润：25.34 亿美元（现汇率约合 169.51 亿元人民币），同比增长",
-      "fetched_at": "2026-10-22T23:15:58.940605+00:00"
     }
   ]
 }
