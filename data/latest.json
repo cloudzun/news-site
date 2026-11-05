@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T15:23:15.722098+00:00",
-  "count": 866,
+  "generated_at": "2026-11-05T21:56:04.538228+00:00",
+  "count": 870,
   "sources": [
     {
       "id": "36kr",
@@ -34,6 +34,61 @@
     }
   ],
   "items": [
+    {
+      "id": "03be7df00120f9f8",
+      "title": "我国成功发射遥感五十一号 07-09 星，主要用于科学试验、电磁环境探测等领域",
+      "link": "https://www.ithome.com/1/023/028.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-05T18:39:04+00:00",
+      "summary": "IT之家 11 月 6 日消息，据央视新闻报道，11 月 5 日 23 时 58 分，长征二号丙运载火箭在西昌卫星发射中心点火升空，随后成功将遥感五十一号 07-09 星送入预定轨道，发射任务取得圆满成功。长二丙火箭由中国航天科技集团有限公司一院抓总研制，为两级常温液体运载火箭，具备一箭一星、一箭多星发射及星座部署能力。IT之家查询获悉，该卫星主要用于科学试验、电磁环境探测等领域。另外，本次发射是",
+      "fetched_at": "2026-11-05T21:55:50.148134+00:00"
+    },
+    {
+      "id": "63b23f9d10e6f76e",
+      "title": "Epic 喜加一：《浮游世界》游戏免费领取",
+      "link": "https://www.ithome.com/1/023/023.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-05T16:00:08+00:00",
+      "summary": "IT之家 11 月 6 日消息，Epic 本周送出的游戏是《浮游世界》，下周送出的游戏是《斗阵骑士 Knightica》。领取链接：《浮游世界》IT之家附《浮游世界》游戏简介： 这是一款漂浮垃圾城生存游戏！从海洋表面尽可能搜集珍贵的垃圾，发展你的城市，同时努力在这个色彩斑斓的后末日世界中生存下去。本作最初发售于 2025 年 12 月 5 日，Steam 售价 80 元。游戏兼容 XBOX / P",
+      "fetched_at": "2026-11-05T21:55:50.148169+00:00"
+    },
+    {
+      "id": "adc8bcbc36dd20b5",
+      "title": "12499 元 / 15999 元起：苹果 M6 芯片款 iMac、MacBook Pro 开售",
+      "link": "https://www.ithome.com/1/023/022.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-05T16:00:02+00:00",
+      "summary": "IT之家 11 月 6 日消息，苹果 M6 芯片款 iMac、MacBook Pro 今日正式开售，起售价分别为 12499 元 / 15999 元，国补后起售价约 10999 元 / 14499 元。如果您能使用教育优惠，叠加国补后起售价会进一步下探至 10599 元 / 13699 元。京东 Apple iMac M6 &nbsp;12499 元直达链接京东 Apple MacBook Pro",
+      "fetched_at": "2026-11-05T21:55:50.148251+00:00"
+    },
+    {
+      "id": "37d314904352f459",
+      "title": "5499 元起：苹果 iPad mini 8 开售，A20 Pro 芯片（国补后到手价约 4999 元起）",
+      "link": "https://www.ithome.com/1/023/021.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-05T16:00:02+00:00",
+      "summary": "IT之家 11 月 6 日消息，苹果 iPad mini（A20 Pro）今日正式开售，也就是大家俗称的“iPad mini 8”。新品起售价为 5499 元，国补后到手价约 4999 元。如果您可以使用教育优惠，国补后的到手价会进一步下探至 4599 元左右。京东 Apple iPad mini (A20 Pro) &nbsp;128GB5499 元直达链接IT之家了解到，iPad mini（A",
+      "fetched_at": "2026-11-05T21:55:50.148344+00:00"
+    },
+    {
+      "id": "d408c290bf66ec62",
+      "title": "22999 元起：苹果首款触屏 MacBook Pro 正式开售，可选 M5 Pro/M5 Max 芯片",
+      "link": "https://www.ithome.com/1/023/020.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-05T16:00:01+00:00",
+      "summary": "IT之家 11 月 6 日消息，苹果首款触控屏 MacBook Pro（配备 PROLED XDR 显示屏的 MacBook Pro）今日正式开售，定价 22,999 元起。基础配置为 M5 Pro 芯片（15 核 CPU/16 核 GPU）、24GB 内存、1TB 硬盘，支持在购买时按需升级配置。京东 Apple MacBook Pro (PROLED XDR 显示屏) 22999 元直达链接I",
+      "fetched_at": "2026-11-05T21:55:50.148433+00:00"
+    },
     {
       "id": "3c38b034f2155825",
       "title": "被网站“断粮”，Anthropic 首次掏钱买新闻内容授权",
@@ -9548,17 +9603,6 @@
       "published_at": "2026-10-29T22:49:27+00:00",
       "summary": "IT之家 10 月 30 日消息，科技媒体 9to5Mac 昨日（10 月 29 日）发布博文，报道称在接受 YouTube 频道 Christopher Lawley 采访时，苹果硬件工程副总裁戴夫 · 帕库拉（Dave Pakula）讨论了苹果 iPad mini 8 的设计、屏幕等内容。新款 iPad mini 虽然配备了 OLED 显示屏，但并不支持 ProMotion 技术，刷新率仅为 ",
       "fetched_at": "2026-10-30T00:50:05.415150+00:00"
-    },
-    {
-      "id": "de13730a3e802927",
-      "title": "59.9 万元梅赛德斯 AMG GLC 53 4MATIC+ 车型上市，3.0T 六缸回归",
-      "link": "https://www.ithome.com/1/019/798.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-29T16:10:45+00:00",
-      "summary": "IT之家 10 月 30 日消息，10 月 29 日，梅赛德斯 AMG GLC 53 4MATIC+ 在浙江国际赛车场正式上市，官方指导价 59.90 万元，仅此一款配置。其核心变化是用 3.0T 直列六缸 +48V 轻混系统接替了 GLC 43 上的 2.0T 四缸动力，六缸重回 GLC 性能序列。新车搭载了 M256 Evo 3.0T 直列六缸涡轮增压发动机，AMG 对其进行了专属升级，包括重",
-      "fetched_at": "2026-10-30T00:50:05.415195+00:00"
     }
   ]
 }
