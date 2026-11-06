@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T17:54:17.110114+00:00",
-  "count": 820,
+  "generated_at": "2026-11-06T23:02:00.470374+00:00",
+  "count": 816,
   "sources": [
     {
       "id": "36kr",
@@ -35,6 +35,39 @@
   ],
   "items": [
     {
+      "id": "f240faecf0cc621c",
+      "title": "谷歌母公司 Alphabet 斥资约 5.48 亿美元建仓高通，押注 AI 芯片新赛道",
+      "link": "https://www.ithome.com/1/023/607.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-06T22:48:04+00:00",
+      "summary": "IT之家 11 月 7 日消息，路透社今天（11 月 7 日）发布博文，报道称谷歌母公司 Alphabet 在第三季度首次买入芯片巨头高通约 297.7 万股股票，持仓市值约 5.48 亿美元（IT之家注：现汇率约合 36.62 亿元人民币），约占高通总股本 0.5%。根据美国证券监管文件披露，Alphabet 第三季度持仓总市值约为 883 亿美元（现汇率约合 5,900.67 亿元人民币），上",
+      "fetched_at": "2026-11-06T23:01:04.988128+00:00"
+    },
+    {
+      "id": "bc7f00debef3268f",
+      "title": "消息称微软不再续签甲骨文 AI 算力租赁协议，重新评估超 800 亿美元云合作",
+      "link": "https://www.ithome.com/1/023/606.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-06T22:44:15+00:00",
+      "summary": "IT之家 11 月 7 日消息，据彭博社今日报道，微软正在逐步结束与甲骨文（Oracle）的 AI 算力租赁合作。据介绍，微软此前已决定不再续签相关合同，然后近期开始关闭从甲骨文租用的部分计算资源。这也是微软重新评估数十亿美元云计算合作关系的一部分。知情人士透露，由于微软自身的技术规格不断变化，原先租用的计算资源逐渐无法满足其需求。甲骨文提供的服务器使用了较早一代的英伟达 GPU 芯片，因此对微软",
+      "fetched_at": "2026-11-06T23:01:04.988166+00:00"
+    },
+    {
+      "id": "9c372d2778979bba",
+      "title": "微软发布 Win11 多预览版：改进 Windows Hello 登录体验",
+      "link": "https://www.ithome.com/1/023/605.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-06T18:11:37+00:00",
+      "summary": "IT之家 11 月 7 日消息，微软当地时间 11 月 6 日发布博文，邀请 Beta 和 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的预览版更新。Beta 频道（26H2）：Build 26320.9876；Experimental 频道：Build 26340.9882；Beta 频道（26H1）：Build 28020.34",
+      "fetched_at": "2026-11-06T23:01:04.988276+00:00"
+    },
+    {
       "id": "a9687e16028d77b2",
       "title": "今日立冬：倏忽秋又尽，今朝恰立冬",
       "link": "https://www.ithome.com/1/023/601.htm",
@@ -43,7 +76,7 @@
       "category": "tech",
       "published_at": "2026-11-06T16:00:01+00:00",
       "summary": "IT之家 11 月 7 日消息，立冬是农历二十四节气之一，也是中国传统节日之一；时间点在公历每年 11 月 7-8 日之间。①今日立冬，冬天来了。水始冰，地渐冻，日照短，寒风劲；②我国民间习惯上把这一天当作冬季的开始；③“立冬补冬，补嘴空”，北方人吃饺子，南方人吃鸡鸭鱼肉；④起居应注意保暖，早睡晚起，勤晒太阳，并辅以运动和精神调养。《月令七十二候集解》是这样记载立冬的：“立冬，十月节。立，建始也，",
-      "fetched_at": "2026-11-06T17:53:58.813310+00:00"
+      "fetched_at": "2026-11-06T23:01:04.988327+00:00"
     },
     {
       "id": "3069d6b75d416aa7",
@@ -8976,83 +9009,6 @@
       "published_at": "2026-10-30T23:05:56+00:00",
       "summary": "IT之家 10 月 31 日消息，微软昨天（10 月 30 日）发布博文，邀请 Beta、Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的多版本预览更新，各频道版本如下：Beta 通道：Build 26220.9836（26H2）、Build 28020.3382（26H1）Experimental 通道：Build 26340.98",
       "fetched_at": "2026-10-30T23:39:25.074627+00:00"
-    },
-    {
-      "id": "56567332d86d17e1",
-      "title": "苹果 Apple 智能入华亮点：AirPods 实时翻译登场，戴上耳机跨语言聊天",
-      "link": "https://www.ithome.com/1/020/393.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-30T22:58:43+00:00",
-      "summary": "IT之家 10 月 31 日消息，苹果公司今天（10 月 31 日）发布公告，宣布将面向中国 iPhone 18 Pro 等机型用户，于 11 月 4 日开放测试，并于 12 月推出的 iOS 27.3 更新，在国内上线首批 Apple 智能（Apple Intelligence）核心功能。IT之家援引官方新闻稿，在首批上线的 Apple 智能核心功能中，“实时翻译”已无缝整合到信息、FaceTi",
-      "fetched_at": "2026-10-30T23:39:25.074668+00:00"
-    },
-    {
-      "id": "3a8c37efa5004e29",
-      "title": "阿里巴巴与 Apple 达成合作，将千问集成至 Apple 智能",
-      "link": "https://www.leiphone.com/category/industrynews/es0ZV9LsDEsG7QLE.html",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "tech",
-      "published_at": "2026-10-30T22:52:00+00:00",
-      "summary": "10月31日，阿里巴巴与Apple达成合作，将千问集成至 Apple 智能，中国用户可以在Siri、写作工具及视觉智能中，直接调用千问的文本与图像理解、内容生成等能力。这些功能将于11月4日起随最新的iOS 开发者 Beta 版开放测试，并将于12月iOS 27.3正式发布时面向中国用户推出。&nbsp;Siri可以直接调用千问的广博知识，并在 Siri 中直接回复用户问答。通过 Siri，用户还",
-      "fetched_at": "2026-10-31T12:14:12.206728+00:00"
-    },
-    {
-      "id": "3a41f8a2a00986db",
-      "title": "Apple 智能官宣入华：阿里千问接入苹果生态，可帮用户写文案、读文档、识图像",
-      "link": "https://www.ithome.com/1/020/392.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-30T22:47:48+00:00",
-      "summary": "IT之家 10 月 31 日消息，苹果公司今天（10 月 31 日）发布公告，宣布将面向中国 iPhone 18 Pro 等机型用户，于 11 月 4 日开放测试，并于 12 月推出的 iOS 27.3 更新，在国内上线首批 Apple 智能（Apple Intelligence）核心功能。IT之家援引官方新闻稿介绍，苹果公司明确在 Siri、写作工具及视觉智能这 3 类 Apple 智能体验中，",
-      "fetched_at": "2026-10-30T23:39:25.074704+00:00"
-    },
-    {
-      "id": "f1f08b718c6da6a0",
-      "title": "11 月 5 日起国内航线燃油附加费上调：800 公里及以下上涨 30 元，800 公里以上涨 50 元",
-      "link": "https://www.ithome.com/1/020/391.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-30T22:40:39+00:00",
-      "summary": "IT之家 10 月 31 日消息，据央视财经报道，自 2026 年 11 月 5 日起，调整国内航线旅客运输燃油附加费征收标准。800 公里 (含) 以下航段向每位成人旅客收取燃油费 80 元，800 公里以上航段向每位成人旅客收取燃油费 140 元，较此前分别上涨了 30 元和 50 元。具体如下：国内航线旅客运输燃油附加费收取标准，800 公里（含）以下航段，每位旅客收取人民币 80 元；80",
-      "fetched_at": "2026-10-30T23:39:25.074782+00:00"
-    },
-    {
-      "id": "e532116912f6687d",
-      "title": "iPhone 国行 AI 真的来了，千问成为 Siri 新搭档",
-      "link": "https://www.ifanr.com/1686969?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source_id": "ifanr",
-      "source_name": "爱范儿",
-      "category": "tech",
-      "published_at": "2026-10-30T22:34:47+00:00",
-      "summary": "苹果国行 AI 终于迈出关键一步#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-10-31T12:14:00.156665+00:00"
-    },
-    {
-      "id": "9208e4c831ba0e99",
-      "title": "米哈游《崩坏 3》爱莉希雅 · 霁月婵娟高保真蓝牙耳机礼盒开售，499 元",
-      "link": "https://www.ithome.com/1/020/390.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-30T21:30:12+00:00",
-      "summary": "IT之家 10 月 31 日消息，米哈游《崩坏 3》爱莉希雅 · 霁月婵娟高保真蓝牙耳机礼盒今日正式开售，官方标价 499 元。在此之前，米哈游还推出了一款同样基于水月雨轻巧豆 Dots 设计的《崩坏：星穹铁道》火花真无线蓝牙耳机，同样 499 元。这款礼盒除耳机外还附赠霁月婵娟系列 · 收藏卡、霁月婵娟系列 · 马口铁徽章等专属角色周边，提供定制充电仓、定制耳机收纳包。这款耳机采用“轻巧豆”设计",
-      "fetched_at": "2026-10-30T23:39:25.074847+00:00"
-    },
-    {
-      "id": "f7d896e08d0b194b",
-      "title": "苹果 Apple 智能国行版官宣落地：接入阿里千问，11 月 4 日随 iOS 开发者 Beta 版开放测试",
-      "link": "https://www.ithome.com/1/020/389.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-10-30T21:02:33+00:00",
-      "summary": "IT之家 10 月 31 日消息，苹果今日宣布首批 Apple 智能功能即将在中国推出，并与阿里巴巴达成合作，在部分体验中接入千问。这是 Apple 智能自 2024 年发布以来，国行版本首次获得实质性落地进展。这一系列 Apple 智能功能将自 11 月 4 日起随最新的 iOS 开发者 Beta 版开放测试，并将于 12 月 iOS 27.3 正式发布时面向中国用户推出。其他平台的支持将在获得",
-      "fetched_at": "2026-10-30T23:39:25.074942+00:00"
     }
   ]
 }
