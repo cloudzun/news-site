@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T20:49:39.079775+00:00",
-  "count": 797,
+  "generated_at": "2026-11-08T00:26:58.914136+00:00",
+  "count": 818,
   "sources": [
     {
       "id": "36kr",
@@ -35,6 +35,237 @@
   ],
   "items": [
     {
+      "id": "b858638aa9e90b4f",
+      "title": "官方确认：Linux 版 Epic 客户端将支持 Steam Deck 掌机",
+      "link": "https://www.ithome.com/1/023/851.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-08T00:24:16+00:00",
+      "summary": "IT之家 11 月 8 日消息，Epic Games 曾在今年 8 月透露，计划为自家的游戏商城推出原生 Linux 客户端。如今 Epic 首次确认，Linux 版客户端将支持 Valve 旗下硬件产品。Epic 传播总监 Jake Jones 接受 GamingOnLinux 采访时表示，公司希望 Linux 客户端覆盖更多发行版系统，包含 Fedora、Cachy、Omarchy，以及 St",
+      "fetched_at": "2026-11-08T00:26:51.651602+00:00"
+    },
+    {
+      "id": "a78a9e792a84f576",
+      "title": "美国 17 岁女孩失踪 521 天后获救，《Among Us》游戏对话成关键线索",
+      "link": "https://www.ithome.com/1/023/850.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-08T00:14:39+00:00",
+      "summary": "IT之家 11 月 8 日消息，美国犹他州一名失踪长达 521 天的 17 岁女孩近日在俄勒冈州一处住宅内获救。而帮助警方找到她的线索，竟始于一场多人在线社交推理游戏《Among Us》中的对话。这名女孩于 2025 年 5 月 29 日在犹他州加登城失踪，当时年仅 15 岁。据 Newsweek 援引法庭文件报道，2026 年 10 月中旬，她在《Among Us》中开始与另一名儿童交谈。据称，",
+      "fetched_at": "2026-11-08T00:26:51.651650+00:00"
+    },
+    {
+      "id": "45cd8465a3eb01c6",
+      "title": "索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示",
+      "link": "https://www.ithome.com/1/023/849.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-08T00:05:52+00:00",
+      "summary": "IT之家 11 月 8 日消息，2026 年 11 月 5 日，索尼（中国）有限公司（下称“索尼”）在第九届中国国际进口博览会上，全球首发“基于视觉语言模型的驾驶接管危险预警”移动出行技术。据介绍，当道路环境接近或超出系统的适用范围时，清晰的接管提示有助于驾驶员理解当前情境、做好响应准备。该技术利用视觉语言模型（VLM）分析车辆前方的道路画面，判断路况是否接近或超出智能驾驶系统的设计运行范围（OD",
+      "fetched_at": "2026-11-08T00:26:51.651676+00:00"
+    },
+    {
+      "id": "5ad9a980877c13b2",
+      "title": "尽管遭到恶意刷差评，《塞尔达传说：时之笛》重制版游戏仍创下 M 站用户评分新高",
+      "link": "https://www.ithome.com/1/023/848.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-08T00:02:02+00:00",
+      "summary": "IT之家 11 月 8 日消息，评测网站 Metacritic 已在 11 月 5 日开放《塞尔达传说：时之笛》重制版游戏玩家评分。目前本作的用户评分为 9.7 分，成为 M 站史上用户评分最高的游戏。作为参考，以下是最新的 M 站用户评分排名：第一名：《塞尔达传说：时之笛》重制版，9.7 分第二名：《光与影：33 号远征队》，9.4 分第三名：《寂静岭 2》（2001），9.3 分第三名：《巫师",
+      "fetched_at": "2026-11-08T00:26:51.651711+00:00"
+    },
+    {
+      "id": "c7932df2d25b6d58",
+      "title": "庆祝《霍格沃茨之遗》上线 DLSS 5，英伟达推出定制版 RTX 5090 显卡抽奖活动",
+      "link": "https://www.ithome.com/1/023/847.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-07T23:57:55+00:00",
+      "summary": "IT之家 11 月 8 日消息，为庆祝 DLSS 5 于 11 月 5 日登陆《霍格沃茨之遗》，英伟达正在举办抽奖活动，送出一张采用《霍格沃茨之遗》定制主题外观的 GeForce RTX 5090 Founders Edition 显卡。参与者需要在英伟达 GeForce 官方 X、Instagram、Facebook 或 TikTok 账号中找到对应的抽奖帖，并在评论区留下话题标签 #RTXON",
+      "fetched_at": "2026-11-08T00:26:51.651760+00:00"
+    },
+    {
+      "id": "b3cca856c8ca2530",
+      "title": "IT早报 1108：比亚迪超豪华行政旗舰轿车仰望鼎曜行政版发布；中国空间站将迎首位外籍航天员；深蓝汽车“车载洗脚装置”专利公布；搜狗问问正式停运...",
+      "link": "https://www.ithome.com/1/023/846.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-07T23:56:39+00:00",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 8 日星期日，今天的重要科技资讯有：1. 比亚迪超豪华行政旗舰轿车登场！仰望鼎曜行政版车长 5.6 米、续航破千公里新车采用中轴对称布局与对开门设计，后排配零重力云感座椅和中央行政岛台。易四方、云辇悬架加持，还搭载自研 4nm 智驾芯片，CLTC 续航超 1000 公里。&gt;&gt; 查看详情2. 中国“天宫”空间站将迎首位外籍航天员，",
+      "fetched_at": "2026-11-08T00:26:51.651893+00:00"
+    },
+    {
+      "id": "8ff32dc45cc42b71",
+      "title": "埃森哲报告被曝存在虚假引用案例，公司否认系 AI 幻觉所致",
+      "link": "https://www.ithome.com/1/023/845.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-07T23:51:36+00:00",
+      "summary": "IT之家 11 月 8 日消息，埃森哲（Accenture）被指发布了一份充斥人工智能“幻觉”的研究报告，其中不仅包含大量虚假信息，还出现了多处疑似捏造的研究案例。据 GPTZero 最新分析，这家咨询巨头发布的一份报告涉嫌包含 15 条虚假引用，以及完全虚构的案例研究，因此正受到外界审查。这份名为《跨越式发展》（Leapfrogging Development）的报告由埃森哲与马德里 IE 大学",
+      "fetched_at": "2026-11-08T00:26:51.651937+00:00"
+    },
+    {
+      "id": "90e7937c47063c72",
+      "title": "神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周",
+      "link": "https://www.ithome.com/1/023/844.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-07T23:44:20+00:00",
+      "summary": "IT之家 11 月 8 日消息，据央视新闻报道，按照计划，神舟二十四号乘组将于本月飞往中国空间站与神舟二十三号乘组太空会师，然后进行乘组轮换。这意味着，神舟二十三号乘组中，将有一名航天员会在太空再执行半年左右的空间站任务，乘组将进行全新编队。据介绍，2025 年 2 月，中国和巴基斯坦在伊斯兰堡签署《关于选拔、训练巴基斯坦航天员并参与中国空间站飞行任务的合作协议》，正式启动巴基斯坦航天员选拔工作。",
+      "fetched_at": "2026-11-08T00:26:51.651966+00:00"
+    },
+    {
+      "id": "1ce878abc7b5865e",
+      "title": "育碧被曝正开发两款《刺客信条》新作，一款以古罗马为背景",
+      "link": "https://www.ithome.com/1/023/843.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-07T23:43:10+00:00",
+      "summary": "IT之家 11 月 8 日消息，据报道，育碧正在开发两款全新的《刺客信条》游戏，其中一款将以古罗马为背景。IT之家注意到，这一消息来自 YouTube 博主 Xj0nathan。他透露，以古罗马为背景的游戏代号为“Mars”。他声称，有两名能够访问育碧后台系统的消息人士证实了这一信息，而游戏的故事背景可能还会与即将推出的《刺客信条》真人剧集产生联系。另一款游戏的代号为“Pocket”，据称是一款以",
+      "fetched_at": "2026-11-08T00:26:51.651998+00:00"
+    },
+    {
+      "id": "1d131bd4bc6ba0ed",
+      "title": "索尼 PS Plus 推出新福利：订阅可获得 YouTube Premium 试用资格或硬件产品折扣，玩家并不买账",
+      "link": "https://www.ithome.com/1/023/842.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-07T23:40:01+00:00",
+      "summary": "IT之家 11 月 8 日消息，索尼近期为 PlayStation Plus 订阅服务推出新福利，包含 YouTube Premium 试用资格或硬件产品折扣等。部分玩家对此并不热情，因为领取福利有许多限制。IT之家了解到，这项优惠已在德国、法国和英国开启，三个档位的 PS Plus 均能享受，具体包括免费试用 YouTube Premium 三个月/免费试用 Calm Premium 两个月，以",
+      "fetched_at": "2026-11-08T00:26:51.652027+00:00"
+    },
+    {
+      "id": "1027239ed34f82d7",
+      "title": "《塞尔达传说：时之笛》重制版刚发售，就已可在越狱版 PS5 和 iPhone 上运行",
+      "link": "https://www.ithome.com/1/023/841.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-07T23:36:39+00:00",
+      "summary": "IT之家 11 月 8 日消息，任天堂《塞尔达传说：时之笛》重制版于 11 月 5 日登陆了 Switch 2，但游戏发售后没过多久，就已经有人成功让其在越狱版 PlayStation 5 和 iPhone 上运行。在 PS5 方面，开发者 Vampinity 在 GitHub 上的 EglantinePS5 项目仓库中公布了测试结果。EglantinePS5 是一款移植到 PS5 平台的 Swi",
+      "fetched_at": "2026-11-08T00:26:51.652076+00:00"
+    },
+    {
+      "id": "6f20fb444b46782c",
+      "title": "PS5 版《GTA 6》实体版包装盒曝光：仅含兑换码，无游戏光盘",
+      "link": "https://www.ithome.com/1/023/840.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-07T23:29:22+00:00",
+      "summary": "IT之家 11 月 8 日消息，距离《侠盗猎车手 6》（GTA 6）正式发售越来越近，玩家很快就会发现，商店货架上摆放的实体游戏盒里竟然没有游戏光盘。PS5 版《GTA 6》的实体包装盒已经提前出流出，不过零售商要到 11 月 12 日才能正式向消费者出售。今天早些时候，Reddit 论坛 GTA6unmoderated 板块出现了一组照片，展示了一份已经完成塑封的 PS5 版《GTA 6》实体包",
+      "fetched_at": "2026-11-08T00:26:51.652107+00:00"
+    },
+    {
+      "id": "e7d3d9df0148fba1",
+      "title": "Backglow 应用上线：可让新款 MacBook Pro 发光苹果 Logo 随音乐律动",
+      "link": "https://www.ithome.com/1/023/839.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-07T23:25:12+00:00",
+      "summary": "IT之家 11 月 8 日消息，由设计师胡安 · 布伊斯（Juan Buis）开发的一款名为“Backglow”的新应用，允许用户自定义新款 MacBook Pro 笔记本电脑顶盖上的发光苹果 Logo。该应用的免费版本允许用户手动调节苹果 Logo 的亮度，而且不受 MacBook Pro 屏幕亮度设置的影响。用户也可以一键彻底关闭 Logo 灯光，无需通过终端（Terminal）执行命令。免费",
+      "fetched_at": "2026-11-08T00:26:51.652149+00:00"
+    },
+    {
+      "id": "2afa3c44c264577a",
+      "title": "微软 Outlook 邮箱出 Bug：邮件无故丢失，部分认证配置正确的发件人也遭拦截",
+      "link": "https://www.ithome.com/1/023/838.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-07T23:17:19+00:00",
+      "summary": "IT之家 11 月 8 日消息，据科技媒体 Windows Latest 今天报道，部分 Outlook.com 和 Hotmail 邮箱用户近期发现，他们无法正常接收邮件。发件人侧收到的提示是，邮件未能通过身份验证检查。据报道，该问题最初出现于 11 月 5 日，今天仍然能成功复现。在大多数情况下，用户很难直接察觉究竟发生了什么。但如果进一步查看日志，就会发现邮件无法发送的原因是身份验证检查错误",
+      "fetched_at": "2026-11-08T00:26:51.652191+00:00"
+    },
+    {
+      "id": "82539e6bc926ccc3",
+      "title": "千公里仅 3.43 毫秒，空芯光纤未来有望替代实芯光纤",
+      "link": "https://www.ithome.com/1/023/837.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-07T23:14:24+00:00",
+      "summary": "IT之家 11 月 8 日消息，据央视新闻报道，近日，我国完成全球首个千公里空芯光纤双向实时传输验证。这意味着我国在新一代通信网关键技术领域取得新的突破。技术人员告诉记者，这次试验在 1007.48 公里的光纤线路上，首次实现了双向各 64Tb 每秒的信号同步传输，相当于支持每秒 160 部 4K 电影的上传和下载（每部按 50GB 计算），千公里信号单程传输只需 3.43 毫秒，创造了空芯光纤实",
+      "fetched_at": "2026-11-08T00:26:51.652226+00:00"
+    },
+    {
+      "id": "90ac4b55afc8ee59",
+      "title": "谷歌高管哈里森辞去 SpaceX 董事会职务，任职已超十年",
+      "link": "https://www.ithome.com/1/023/836.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-07T23:07:49+00:00",
+      "summary": "IT之家 11 月 8 日消息，SpaceX 当地时间周五披露，谷歌高管唐纳德 · 哈里森（Donald Harrison）已辞去该公司董事会职务，其在该职位任职已超过十年。哈里森于 11 月 4 日通知 SpaceX 自己的辞职决定，并立即生效。由埃隆 · 马斯克（Elon Musk）领导的 SpaceX 表示，哈里森辞职并非因为他与公司在运营、政策或实践相关事务上存在任何分歧。哈里森是谷歌的资",
+      "fetched_at": "2026-11-08T00:26:51.652251+00:00"
+    },
+    {
+      "id": "73ea411a38c3feab",
+      "title": "Adobe 向初创企业抛出橄榄枝：免费使用 Firefly 和 Acrobat 等软件，最长 1 年",
+      "link": "https://www.ithome.com/1/023/835.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-07T23:02:43+00:00",
+      "summary": "IT之家 11 月 8 日消息，Adobe 公司最近针对初创企业推出 Adobe for Startups 计划，入选企业可免费使用 Firefly Pro Plus、Acrobat Studio（包含 Adobe Express Premium）以及 Semrush 等软件，期限为 12 个月。据介绍，Adobe for Startups 计划面向成立时间不超过 5 年，且融资总额低于 1,50",
+      "fetched_at": "2026-11-08T00:26:51.652281+00:00"
+    },
+    {
+      "id": "1ec22c386846abad",
+      "title": "全球最大、发展最快：我国可再生能源技术占据全球主导地位",
+      "link": "https://www.ithome.com/1/023/834.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-07T22:56:24+00:00",
+      "summary": "IT之家 11 月 8 日消息，据央视新闻报道，11 月 7 日，中国企业改革与发展研究会发布了《全球能源转型报告（2026）》，数据显示，我国已构建起全球最大、发展最快的可再生能源体系。报告指出，目前，化石能源活动仍是全球碳排放的最大来源。2025 年，全球与能源相关的二氧化碳排放总量同比增长 0.4%，达 384 亿吨，是 2021 年以来最低增幅。其中，中国碳排放量下降 0.5%，美国碳排放",
+      "fetched_at": "2026-11-08T00:26:51.652329+00:00"
+    },
+    {
+      "id": "1fcbfe4d73063e4c",
+      "title": "马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单",
+      "link": "https://www.ithome.com/1/023/833.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-07T22:56:15+00:00",
+      "summary": "IT之家 11 月 8 日消息，特斯拉 CEO 埃隆 · 马斯克（Elon Musk）当地时间周六表示，为了在明年拆除生产线、转而扩大 Cybercab 产能之前完成现有 Cybertruck 订单，特斯拉将为 Cybertruck 增加一个额外生产班次。马斯克在社交平台 X 上发文称：“目前 Cybertruck 的积压订单量远超特斯拉在明年 6 月至 7 月左右拆除生产线、为 Cybercab",
+      "fetched_at": "2026-11-08T00:26:51.652361+00:00"
+    },
+    {
+      "id": "1c776a20fa104b0e",
+      "title": "B 社陶德回应《上古卷轴 6：哨兵》是否独占 XBOX：现在评论还为时过早",
+      "link": "https://www.ithome.com/1/023/832.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-07T22:51:09+00:00",
+      "summary": "IT之家 11 月 8 日消息，贝塞斯达（Bethesda）最近终于公布了《上古卷轴 6：哨兵》游戏，至少公布了副标题。但玩家们如今仍然好奇：这款游戏是否会成为微软 XBOX 独占？最近几年，XBOX 的独占游戏政策发生了猛烈变革，先是菲尔 · 斯宾塞将 XBOX 的独占属性几乎消除，《极限竞速：地平线》和《光环》等游戏相继登陆 PlayStation 平台；阿莎 · 夏尔马上位后重新强调了独占策",
+      "fetched_at": "2026-11-08T00:26:51.652404+00:00"
+    },
+    {
+      "id": "d2c5cb6bcd12787c",
+      "title": "欧洲多地爆发抗议，民众走上街头要求暂停数据中心建设",
+      "link": "https://www.ithome.com/1/023/831.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-07T22:46:04+00:00",
+      "summary": "IT之家 11 月 8 日消息，据彭博社报道，当地时间周六，欧洲多地继续爆发反对数据中心建设的抗议活动。民众走上街头，表达对数据中心扩张可能带来的社会和环境影响的担忧。据爱尔兰国家广播电视台（RTÉ）报道，约有 2000 人在都柏林举行游行。芬兰广播公司 Yle 报道称，约有 1300 人聚集在赫尔辛基，芬兰多个规模较小的城镇也举行了示威活动。由当地民主运动组织和气候抗议团体组成的联盟“停止肮脏数",
+      "fetched_at": "2026-11-08T00:26:51.652447+00:00"
+    },
+    {
       "id": "1bced95ed68324ef",
       "title": "最贵比亚迪来了！仰望鼎曜亮相中东，「山河鼎韵」限量版定金 30 万元",
       "link": "https://www.ifanr.com/1688312?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -43,7 +274,7 @@
       "category": "tech",
       "published_at": "2026-11-07T16:50:33+00:00",
       "summary": "性能和豪华，仰望说它全都要。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-11-07T20:49:19.688866+00:00"
+      "fetched_at": "2026-11-08T00:26:50.342454+00:00"
     },
     {
       "id": "2c4916c4be67d5e8",
@@ -54,7 +285,7 @@
       "category": "tech",
       "published_at": "2026-11-07T16:00:12+00:00",
       "summary": "IT之家 11 月 8 日消息，安卓阵营首款阔直板手机，也是酷派首款阔直板手机 Cool X Wide 今日正式开售。其中，8GB+128GB 版本 999 元，8GB+256GB 版本 1199 元，12GB+256GB 版本 1399 元。这款新机搭载 6.38 英寸 16:10 屏幕，仅 720x1158 分辨率，还支持 90Hz 刷新率；有鎏白、岩黑、嫣红三种配色可选，机身尺寸为 150.",
-      "fetched_at": "2026-11-07T20:49:20.480474+00:00"
+      "fetched_at": "2026-11-08T00:26:51.652489+00:00"
     },
     {
       "id": "fa19b497fe7cd33b",
