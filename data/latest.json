@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T14:05:05.315476+00:00",
-  "count": 719,
+  "generated_at": "2026-11-11T21:22:22.692772+00:00",
+  "count": 714,
   "sources": [
     {
       "id": "36kr",
@@ -34,6 +34,17 @@
     }
   ],
   "items": [
+    {
+      "id": "9522baff3bea9108",
+      "title": "沈阳背景叙事解谜《Hope in the City》Steam 发售：首发特惠 ¥68.4，首日加入 XGP",
+      "link": "https://www.ithome.com/1/025/824.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-11T18:13:16+00:00",
+      "summary": "IT之家 11 月 12 日消息，Lofty Sky Entertainment Inc. 开发、Lofty Sky Entertainment Inc. 与 NAGA Games 联合发行的叙事解谜游戏《Hope in the City》已于 11 月 11 日正式登陆 Steam 平台，国区现已开放购买，商品页（https://store.steampowered.com/app/361079",
+      "fetched_at": "2026-11-11T21:22:00.112520+00:00"
+    },
     {
       "id": "54c807a20b6217e7",
       "title": "马斯克旗下 Grok 被指生成儿童色情图像，xAI 面临多起集体诉讼",
@@ -7876,72 +7887,6 @@
       "published_at": "2026-11-04T22:43:14+00:00",
       "summary": "IT之家 11 月 5 日消息，Arm Holdings 今日发布了 2027 财年第二财季（截至 2026 年 9 月 30 日）业绩。报告期内，Arm 营收 14.43 亿美元（IT之家注：现汇率约合 96.45 亿元人民币），同比增长 27%，创下第二财季营收纪录，也是连续第五个季度同比增速超过 20%；技术授权许可及其他收入 7.73 亿美元（现汇率约合 51.67 亿元人民币），同比增长",
       "fetched_at": "2026-11-04T23:34:35.278740+00:00"
-    },
-    {
-      "id": "181f07628832d229",
-      "title": "高意 2027 财年第一财季归母净利润 3.85 亿美元，同比增长 70.2%",
-      "link": "https://www.ithome.com/1/022/474.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-04T21:08:34+00:00",
-      "summary": "IT之家 11 月 5 日消息，高意（COHERENT）今日发布 2027 财年（2026 年 7 月 1 日～2027 年 6 月 30 日）第一财季（2026 年 7 月 1 日～2026 年 9 月 30 日）报告：营业总收入：23.7 亿美元（IT之家注：现汇率约合 158.43 亿元人民币），同比增长 49.9%，环比增长 15.9%毛利润：9.28 亿美元（现汇率约合 62.01 亿元",
-      "fetched_at": "2026-11-04T23:34:35.278952+00:00"
-    },
-    {
-      "id": "eddbd3d485474eae",
-      "title": "高通 2026 财年归母净利润 136.28 亿美元同比增长 146%，与苹果、华为续签长期技术授权许可协议",
-      "link": "https://www.ithome.com/1/022/473.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-04T21:06:45+00:00",
-      "summary": "IT之家 11 月 5 日消息，高通今日发布 2026 财年（2025 年 9 月 29 日～2026 年 9 月 27 日）年报及第四财季（2026 年 6 月 29 日～2026 年 9 月 27 日）报告：2026 财年年报营业总收入：431.2 亿美元，同比下降 3%毛利润：228.98 亿美元，同比下降 6.71%毛利率：53.1%，同比下降 2.33 个百分点归母净利润：136.28 ",
-      "fetched_at": "2026-11-04T23:34:35.278841+00:00"
-    },
-    {
-      "id": "c3e5deead4fd6813",
-      "title": "实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点",
-      "link": "https://www.ifanr.com/1687733?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source_id": "ifanr",
-      "source_name": "爱范儿",
-      "category": "tech",
-      "published_at": "2026-11-04T17:30:04+00:00",
-      "summary": "这次你一定要用上 Apple 智能！#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-11-05T15:23:04.184190+00:00"
-    },
-    {
-      "id": "d9aebafa21bc5147",
-      "title": "华为小艺 Work 率先上线 openPangu-2.1-Pro 模型，主打“鸿蒙任务增强”",
-      "link": "https://www.ithome.com/1/022/472.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-04T16:39:40+00:00",
-      "summary": "IT之家 11 月 5 日消息，华为云 11 月 1 日发布公告，MaaS 模型即服务平台将于 2026 年 11 月 6 日停止销售 openPangu-2.0-Flash 和 openPangu-2.0-Pro 两款模型服务，并于 11 月 30 日 00:00 正式下线。不过华为官方表示，openPangu 系列新版本模型已在规划中，后续将逐步推出上线。IT之家实测发现，小艺 Work 率先",
-      "fetched_at": "2026-11-04T23:34:35.278985+00:00"
-    },
-    {
-      "id": "8925ba3e97a17e12",
-      "title": "独家 | 腾讯前高级研究员获数千万投资，锚定物理AI接触智能",
-      "link": "https://www.leiphone.com/category/industrynews/30nTa8g0yzQmZGys.html",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "tech",
-      "published_at": "2026-11-04T16:38:00+00:00",
-      "summary": "力合资本、合肥创新投等机构投资，Lux 系列视触觉传感器已实现规模化交付。作者丨董子博编辑丨张贤雷峰网·鲸犀独家获悉，触觉智能企业“灵感机器人”新近完成数千万元天使轮融资，投资方包括力合资本、合肥创新投等机构，治臻咨询担任财务顾问。雷峰网·鲸犀了解到，公司创始人、CEO 张雅展博士毕业于港科大机器人专业，曾是腾讯资深 AI 研究员，主导过大规模数据管线及 AI 模型研发，后于国家实验室担任研究员、",
-      "fetched_at": "2026-11-05T15:23:14.246081+00:00"
-    },
-    {
-      "id": "7030766b6874fbc4",
-      "title": "独家丨预测引擎 Prophetlab 获数千万种子轮，常春藤资本等机构联合投资",
-      "link": "https://www.leiphone.com/category/industrynews/5gyZIVYyxDzi67wu.html",
-      "source_id": "leiphone",
-      "source_name": "雷峰网",
-      "category": "tech",
-      "published_at": "2026-11-04T16:30:00+00:00",
-      "summary": "用 AI 通用地预测世界，或正成为资本关注的下一个大模型创业方向。作者丨董子博编辑丨张贤雷峰网·鲸犀独家获悉，AI 预测引擎公司 Prophetlab 已获数千万元天使轮融资，由常春藤资本等投资机构投资。成立不到四个月，Prophetlab 的早期项目，是利用 AI 大模型预测世界杯的赛果。产品成功预测了决赛结果和四强队伍，不少模型下的预测结果准确率已经达到了 75% 左右。此外，公司研发的预测引",
-      "fetched_at": "2026-11-05T15:23:14.246129+00:00"
     }
   ]
 }
