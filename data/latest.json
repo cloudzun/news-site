@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T16:10:29.755130+00:00",
-  "count": 682,
+  "generated_at": "2026-11-13T22:31:13.028388+00:00",
+  "count": 683,
   "sources": [
     {
       "id": "36kr",
@@ -34,6 +34,28 @@
     }
   ],
   "items": [
+    {
+      "id": "8cfe6793ede0d9a1",
+      "title": "余承东公布华为问界新合作模式！新 M8 同步上市，起售价 37.98 万元",
+      "link": "https://www.ifanr.com/1689432?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source_id": "ifanr",
+      "source_name": "爱范儿",
+      "category": "tech",
+      "published_at": "2026-11-13T18:19:36+00:00",
+      "summary": "新 M8 的升级，主打「实用主义」。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "fetched_at": "2026-11-13T22:31:07.465395+00:00"
+    },
+    {
+      "id": "372aab46df01fbe3",
+      "title": "浙大彭思达：从元宇宙到具身智能，一个三维视觉研究者的八年 | 世界模型50人",
+      "link": "https://www.leiphone.com/category/ai/lpK3LQWqmpZP8jcG.html",
+      "source_id": "leiphone",
+      "source_name": "雷峰网",
+      "category": "tech",
+      "published_at": "2026-11-13T16:50:00+00:00",
+      "summary": "八年研究，两个落地系统，超六万GitHub Stars。&nbsp; &nbsp; 作者丨李秋悦&nbsp; &nbsp; 编辑丨吴 &nbsp; 彤&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+      "fetched_at": "2026-11-13T22:31:11.987569+00:00"
+    },
     {
       "id": "7063e858e9e09424",
       "title": "松下公布强固型平板电脑 FZ-G3：Ultra 5 处理器 335，10.1\" 屏幕",
@@ -7524,17 +7546,6 @@
       "published_at": "2026-11-06T22:44:15+00:00",
       "summary": "IT之家 11 月 7 日消息，据彭博社今日报道，微软正在逐步结束与甲骨文（Oracle）的 AI 算力租赁合作。据介绍，微软此前已决定不再续签相关合同，然后近期开始关闭从甲骨文租用的部分计算资源。这也是微软重新评估数十亿美元云计算合作关系的一部分。知情人士透露，由于微软自身的技术规格不断变化，原先租用的计算资源逐渐无法满足其需求。甲骨文提供的服务器使用了较早一代的英伟达 GPU 芯片，因此对微软",
       "fetched_at": "2026-11-06T23:01:04.988166+00:00"
-    },
-    {
-      "id": "9c372d2778979bba",
-      "title": "微软发布 Win11 多预览版：改进 Windows Hello 登录体验",
-      "link": "https://www.ithome.com/1/023/605.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-06T18:11:37+00:00",
-      "summary": "IT之家 11 月 7 日消息，微软当地时间 11 月 6 日发布博文，邀请 Beta 和 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的预览版更新。Beta 频道（26H2）：Build 26320.9876；Experimental 频道：Build 26340.9882；Beta 频道（26H1）：Build 28020.34",
-      "fetched_at": "2026-11-06T23:01:04.988276+00:00"
     }
   ]
 }
