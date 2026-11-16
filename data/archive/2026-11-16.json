@@ -1,7 +1,117 @@
 {
   "date": "2026-11-16",
-  "count": 691,
+  "count": 701,
   "items": [
+    {
+      "id": "ceda10da318f9569",
+      "title": "苹果 watchOS 27.3 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/1/028/016.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-16T19:19:22+00:00",
+      "summary": "【点此直达升级教程】 IT之家 11 月 17 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.3 开发者预览版 Beta 2 更新（内部版本号：24S5296d），本次更新距离上次发布 Beta/RC 间隔 13 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软",
+      "fetched_at": "2026-11-16T20:19:39.574769+00:00"
+    },
+    {
+      "id": "0a8927286259b7a1",
+      "title": "苹果 visionOS 27.3 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/1/028/015.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-16T19:19:21+00:00",
+      "summary": "IT之家 11 月 17 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.3 开发者预览版 Beta 2 更新（内部版本号：24N5298d），本次更新距离上次发布 Beta/RC 间隔 13 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内",
+      "fetched_at": "2026-11-16T20:19:39.574822+00:00"
+    },
+    {
+      "id": "dcb2efe43b45e2f3",
+      "title": "苹果 macOS 27.3 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/1/028/014.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-16T19:19:21+00:00",
+      "summary": "IT之家 11 月 17 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.3 开发者预览版 Beta 2 更新（内部版本号：26C5047e），本次更新距离上次发布 Beta/RC 间隔 13 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件",
+      "fetched_at": "2026-11-16T20:19:39.574874+00:00"
+    },
+    {
+      "id": "7c4baa5ef3432c20",
+      "title": "苹果 iOS/iPadOS 27.3 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/1/028/013.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-16T19:19:20+00:00",
+      "summary": "【点此直达升级教程】 IT之家 11 月 17 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.3 开发者预览版 Beta 2 更新（内部版本号：24C5049d），本次更新距离上次发布 Beta/RC 间隔 13 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Be",
+      "fetched_at": "2026-11-16T20:19:39.574941+00:00"
+    },
+    {
+      "id": "78de3386bbdb2fb8",
+      "title": "新任 007 演员官宣：“蝙蝠侠”罗伯特 · 帕丁森接棒，网友玩梗戏称新片为《007：黑暗骑士崛起》",
+      "link": "https://www.ithome.com/1/028/010.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-16T17:43:18+00:00",
+      "summary": "IT之家 11 月 17 日消息，Prime Video 昨晚官宣，新任 007 将由 40 岁的罗伯特 · 帕丁森饰演。目前，新片首曝预告片已播出。值得一提的是，罗伯特 · 帕丁森还是史上首位同时出演蝙蝠侠和 007 詹姆斯 · 邦德的演员。有网友顺势玩梗，称新片可以命名为《007：黑暗骑士崛起》或《布鲁斯 · 韦恩在英国》（梗解读：原著中，蝙蝠侠真实名字为布鲁斯 · 韦恩，该角色也被称为“黑暗",
+      "fetched_at": "2026-11-16T20:19:39.574968+00:00"
+    },
+    {
+      "id": "3df266981579b138",
+      "title": "消息人士称 360 市场负责人卜思南涉嫌职务侵占已被警方带走调查",
+      "link": "https://www.ithome.com/1/028/009.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-16T17:16:43+00:00",
+      "summary": "IT之家 11 月 17 日消息，综合第一财经、鞭牛士报道，多位消息人士透露，360 副总裁、市场部负责人卜思南因涉嫌职务侵占等案件已在上周一被警方带走调查。截至发稿，360 方面暂未回应。今年 8 月，360 集团宣布，为推进“安全 +AI”战略，对集团市场与传播中心进行组织调整，设立公关部和市场部，任命卜思南为市场部负责人，向周鸿祎汇报。消息人士还透露，除了卜思南涉案外，内部或许还有相关人员被",
+      "fetched_at": "2026-11-16T20:19:39.574988+00:00"
+    },
+    {
+      "id": "3e9dd93a027c82fe",
+      "title": "华为 Mate 90 系列手机  HarmonyOS 7 小艺 AI 快捷栏适配效果公开",
+      "link": "https://www.ithome.com/1/028/007.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-16T17:05:15+00:00",
+      "summary": "IT之家 11 月 17 日消息，在今年 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。在发布会现场，华为还剧透了全新功能 —— 小艺 AI 快捷栏。官方 PPT 页面显示，该功能开启后，小艺将在手机桌面底部的 Dock 栏常驻。根据最新规划，华为 Mate 90、Mate 90 Pro、Mate 90 RS、Pu",
+      "fetched_at": "2026-11-16T20:19:39.575015+00:00"
+    },
+    {
+      "id": "34ffac4038921d24",
+      "title": "华为全新子品牌星芒 OSTA O1 Pro 真机紫色款外观曝光：后置双摄，预计搭载麒麟 9030S 处理器",
+      "link": "https://www.ithome.com/1/028/006.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-16T16:50:22+00:00",
+      "summary": "IT之家 11 月 17 日消息，本月早些时候，华为官宣，鸿蒙智行享界 V8 及星芒品牌发布会定档 2026 年 11 月 20 日 14:30。随着发布会临近，华为全新子品牌 —— 星芒首款机型越来越多的配置信息曝光。目前，OSTA O1 Pro 真机谍照已流出。IT之家注意到，除了此次曝光了黑色款外，另外一款紫色的 OSTA O1 Pro 的外观也已曝光。爆料还提到，这款新机会有白色款，不过目",
+      "fetched_at": "2026-11-16T20:19:39.575045+00:00"
+    },
+    {
+      "id": "6057648f151671ec",
+      "title": "徐直军：华为早在 2009 年就启动 5G 研究，最终成为标准主要贡献者和全球最大专利持有者之一",
+      "link": "https://www.ithome.com/1/028/005.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-16T16:37:51+00:00",
+      "summary": "IT之家 11 月 17 日消息，华为官方 X 账号分享了副董事长、轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei's innovation journey:Seeing it,living it,leading it》）。徐直军在文中以第一人称视角回顾了华为三十多年来的创新历程。据徐直军回忆，2011 年，华为把公司的研究团队整合",
+      "fetched_at": "2026-11-16T20:19:39.575082+00:00"
+    },
+    {
+      "id": "a1b202ef87d032cc",
+      "title": "徐直军：分布式基站和 SingleRAN 两个开创性方案，确立了华为在移动通信领域全球领先地位",
+      "link": "https://www.ithome.com/1/028/004.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-16T16:23:29+00:00",
+      "summary": "IT之家 11 月 17 日消息，华为官方 X 账号分享了副董事长、轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei's innovation journey:Seeing it,living it,leading it》）。徐直军在文中以第一人称视角回顾了华为三十多年来的创新历程。据徐直军回忆，余承东（现任华为常务董事、产品投资评审",
+      "fetched_at": "2026-11-16T20:19:39.575142+00:00"
+    },
     {
       "id": "f7f839bc211e981a",
       "title": "小米米家多功能便携手电筒新增“砂金色”：1000 流明亮度主灯，99 元",
