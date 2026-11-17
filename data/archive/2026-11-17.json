@@ -1,7 +1,106 @@
 {
   "date": "2026-11-17",
-  "count": 710,
+  "count": 715,
   "items": [
+    {
+      "id": "2918edd020262fe7",
+      "title": "英伟达 2027 财年前三季度归母净利润 1832.97 亿美元，同比增长 137.72%",
+      "link": "https://www.ithome.com/1/028/575.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-17T21:25:38+00:00",
+      "summary": "IT之家 11 月 18 日消息，英伟达今日发布 2027 财年（2026 年 1 月 26 日～2027 年 1 月 31 日）前三季度（2026 年 1 月 26 日～2026 年 10 月 25 日）及第三财季（2026 年 7 月 27 日～2026 年 10 月 25 日）报告： 2027 财年前三季度 营业总收入：2936.81 亿美元（IT之家注：现汇率约合 1.96 万亿元人民币）",
+      "fetched_at": "2026-11-17T22:12:26.647033+00:00"
+    },
+    {
+      "id": "a05b0c81817949a6",
+      "title": "iPhone Duo 开售三周后，苹果 Apple Store 完成适配",
+      "link": "https://www.ithome.com/1/028/573.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-17T18:00:30+00:00",
+      "summary": "IT之家 11 月 18 日消息，苹果 Apple Store 在线商店昨晚发布了 6.10 版本升级，更新日志显示为“多种改进和性能增强”。据用户反馈，该版本的 Apple Store 终于完成了对 iPhone Duo 的适配。值得一提的是，如今距离 iPhone Duo 开售已过去约三周时间。据IT之家昨日报道，苹果全球营销高级副总裁格雷格 · 乔斯维亚克（Greg Joswiak）宣布，目",
+      "fetched_at": "2026-11-17T22:12:26.647088+00:00"
+    },
+    {
+      "id": "4e5cba6255598034",
+      "title": "华为智选车产品总监详解尚界 Z7T 星野套装：“不动骨相”，只在风格层面做外放",
+      "link": "https://www.ithome.com/1/028/572.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-17T17:38:52+00:00",
+      "summary": "IT之家 11 月 18 日消息，鸿蒙智行尚界汽车官方在 11 月 11 日宣布，尚界 Z7T 星野套装即将上市，将在 11 月 20 日 14:30 鸿蒙智行享界 V8 及星芒品牌发布会上亮相。从画面可以看到，尚界 Z7T 星野套装新增了银色行李架、银色后视镜外壳、全车跨界套件以及黑色尾翼。IT之家注意到，华为智选车产品总监（尚界系列）@尚界Jeff 昨日发文介绍了尚界 Z7T 星野套装。他表示",
+      "fetched_at": "2026-11-17T22:12:26.647117+00:00"
+    },
+    {
+      "id": "3708feb3c212c816",
+      "title": "华为 Mate 90 系列手机 AI 快捷栏全新交互体验曝光，与星芒 OSTA O1 Pro 风格完全不同",
+      "link": "https://www.ithome.com/1/028/571.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-17T17:22:08+00:00",
+      "summary": "IT之家 11 月 18 日消息，华为 Mate 90 系列手机昨晚率先开启鸿蒙 HarmonyOS 7.0.0.115 SP11 版本升级，系统包大小约 10.31GB，带来了 AI 快捷栏等功能。据IT之家用户 @秋叶寒 反馈，Mate 90 系列手机的 AI 快捷栏拥有全新交互体验 —— 它会维持 5 个应用图标的宽度，不会缩小。另外，长按 AI 圆环可进入 AI 屏，获取更多服务，例如行业",
+      "fetched_at": "2026-11-17T22:12:26.647155+00:00"
+    },
+    {
+      "id": "0d2d36d98a5cf763",
+      "title": "绿联 NAS 私有云系统官宣对外名称统一调整为“UGOS”：版本、功能与服务保持不变",
+      "link": "https://www.ithome.com/1/028/569.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-17T17:03:53+00:00",
+      "summary": "IT之家 11 月 18 日消息，深圳市绿联科技股份有限公司绿联云官方微博昨日发布公告，宣布为构建更统一、清晰的品牌认知体系，推动全球化品牌战略布局及长期发展，自 2026 年 11 月 17 日起，“UGOS Pro”系统与“UGOS”系统的对外名称将统一调整为“UGOS”。绿联 NAS 私有云表示，原“UGOS”系统在绿联官网等渠道将以“UGOS 经典版”作区分。本次调整仅涉及系统名称变更，系",
+      "fetched_at": "2026-11-17T22:12:26.647176+00:00"
+    },
+    {
+      "id": "ddd06dd874b46a65",
+      "title": "寒武纪 Day 0 完成商汤 SenseNova Loop-9B 适配，打通新型循环计算架构推理链路",
+      "link": "https://www.ithome.com/1/028/568.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-17T16:58:02+00:00",
+      "summary": "IT之家 11 月 18 日消息，商汤科技昨日晚间正式发布 SenseNova Loop-9B 模型。寒武纪官方宣布，已完成对商汤新发布模型日日新 SenseNova Loop-9B 的 Day 0 适配。据介绍，该模型通过 Loop 结构复用模型层的参数，并结合流形约束超连接（mHC），在有限的参数规模下扩展计算深度，面向复杂推理、代码、工具调用和多模态任务，进一步优化模型在 Agent、代码与",
+      "fetched_at": "2026-11-17T22:12:26.647250+00:00"
+    },
+    {
+      "id": "894e60815f1a96c3",
+      "title": "大疆多款产品“如期”涨价：涉 Osmo Pocket 4/4P/Nano，最高涨 560 元",
+      "link": "https://www.ithome.com/1/028/567.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-17T16:46:49+00:00",
+      "summary": "IT之家 11 月 18 日消息，不久前，大疆通过官网发布《关于 DJI 大疆部分产品建议零售价调整的说明》，受全球半导体、存储等多项关键零部件成本持续大幅上涨影响，经审慎评估，大疆决定自 2026 年 11 月 18 日 00:00 起，对部分产品的建议零售价进行调整。时间来到今天（18 日）零时过后，大疆 Osmo Pocket 4P 标准套装、Osmo Pocket 4 标准套装及多个套装版",
+      "fetched_at": "2026-11-17T22:12:26.647302+00:00"
+    },
+    {
+      "id": "a6269983aa979399",
+      "title": "黄仁勋打破沉默：若董事会允许，愿重返英伟达担任 CEO",
+      "link": "https://www.ithome.com/1/028/566.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-17T16:40:58+00:00",
+      "summary": "IT之家 11 月 18 日消息，英伟达联合创始人及前首席执行官黄仁勋在风波后首次打破沉默，他在最新发表的声明中表示，若董事会允许，他愿意在卸任后重返公司担任 CEO。这也是他自 11 月 12 日辞职以来，首次公开谈论重返岗位这一话题。黄仁勋提到，过去一周，自己深受朋友、行业同仁以及素未谋面之人的爱与支持的感动。感谢所有对自己的家人和自己伸出援手的人，这份情谊意义非凡。他称，如果董事会认为自己的",
+      "fetched_at": "2026-11-17T22:12:26.647328+00:00"
+    },
+    {
+      "id": "da9e3c7fb2170114",
+      "title": "小米 18 Pro 系列手机国际版正式发布：把背屏带向海外，1399 欧元起",
+      "link": "https://www.ithome.com/1/028/564.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-17T16:20:23+00:00",
+      "summary": "IT之家 11 月 18 日消息，在昨晚的巴黎发布会上，小米 18 Pro 系列手机国际版正式发布，把背屏设计带向海外，售价 1,399 欧元（IT之家注：现汇率约合 10,278 元人民币）起。小米 18 Pro（电池 6000mAh | 骁龙 8E6）12GB+256GB 规格：1,399 欧元（现汇率约合 10,278 元人民币）；12GB+512GB 规格：1,599 欧元（现汇率约合 1",
+      "fetched_at": "2026-11-17T22:12:26.647386+00:00"
+    },
     {
       "id": "bb5badd050ba6d7a",
       "title": "电子竞技赛事英特尔极限大师赛（IEM）将连续三年落地中国北京",
@@ -7767,50 +7866,6 @@
       "published_at": "2026-11-10T22:32:07+00:00",
       "summary": "IT之家 11 月 11 日消息，英伟达今日发布公告，宣布已聘请美国前联邦检察官金正贤（Joon H. Kim）及其所在的律师事务所 Wachtell, Lipton, Rosen &amp; Katz，负责开展一项全面、独立的调查。IT之家注：此次调查此前已于 11 月 8 日对外宣布，调查工作将由金正贤及其所在律所参与推进。此前，英伟达董事会表示，鉴于近期有关公司创始人兼 CEO 黄仁勋可能成",
       "fetched_at": "2026-11-10T23:11:19.060261+00:00"
-    },
-    {
-      "id": "29205ae7d91dd889",
-      "title": "CoreWeave 2026 财年前三季度报归母亏损 20.75 亿美元，同比亏损扩大 178.9%",
-      "link": "https://www.ithome.com/1/025/200.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-10T21:11:03+00:00",
-      "summary": "IT之家 11 月 11 日消息，CoreWeave 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告：2026 财年前三季度报营业总收入：83.14 亿美元（IT之家注：现汇率约合 555.92 亿元人民币），同比增长 133.6%毛利润：55.36 亿美元",
-      "fetched_at": "2026-11-10T23:11:19.059862+00:00"
-    },
-    {
-      "id": "95f9a4b0906386ad",
-      "title": "嵌入式 x86 算力天花板：AMD 霄龙嵌入式 9006 系列 SP7 处理器发布，吞吐量飙升 1.8 倍",
-      "link": "https://www.ithome.com/1/025/195.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-10T17:05:05+00:00",
-      "summary": "IT之家 11 月 11 日消息，AMD 今天（11 月 11 日）发布霄龙（EPYC）嵌入式 9006 系列 SP7 处理器，基于 Zen 6 架构，最高可达 256 核 512 线程，率先在嵌入式平台落地 PCIe Gen6、CXL3.1，搭配 16 通道 DDR5/MRDIMM 内存、7 年产品生命周期。不同于 9 月发布的 AMD 霄龙 9006 系列服务器 CPU（面向智能体 AI、云计",
-      "fetched_at": "2026-11-10T23:11:19.060313+00:00"
-    },
-    {
-      "id": "594ecdd3bf733d1b",
-      "title": "《足球经理 27》今日发售：国区售价 268 元，首发加入 PC Game Pass",
-      "link": "https://www.ithome.com/1/025/194.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-10T16:14:15+00:00",
-      "summary": "IT之家 11 月 11 日消息，由 Sports Interactive 开发、SEGA 发行的足球策略模拟游戏《足球经理 27》（Football Manager 27，简称《FM27》）已正式在 Steam 平台正式发售，国区定价 268 元，不锁国区。IT之家附游戏商品页（https://store.steampowered.com/app/4530370/足球经理 27/?l=schin",
-      "fetched_at": "2026-11-10T23:11:19.060364+00:00"
-    },
-    {
-      "id": "ce25ba5d4f713301",
-      "title": "实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了",
-      "link": "https://www.ifanr.com/1688790?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source_id": "ifanr",
-      "source_name": "爱范儿",
-      "category": "tech",
-      "published_at": "2026-11-10T16:04:24+00:00",
-      "summary": "4K 像素最快 10 秒生成#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-11-11T14:04:57.895332+00:00"
     }
   ]
 }
