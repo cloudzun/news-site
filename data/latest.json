@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23T12:16:25.781910+00:00",
-  "count": 745,
+  "generated_at": "2026-11-24T00:44:36.355175+00:00",
+  "count": 761,
   "sources": [
     {
       "id": "36kr",
@@ -34,6 +34,336 @@
     }
   ],
   "items": [
+    {
+      "id": "e42d798e6f8c29e5",
+      "title": "《GTA 6》泄露案黑客被判 7 年监禁：曾入侵 Rockstar 并泄露 90 段视频，获准附条件离开监狱",
+      "link": "https://www.ithome.com/1/031/267.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-24T00:35:15+00:00",
+      "summary": "IT之家 11 月 24 日消息，据英国广播公司（BBC）报道，曾入侵《侠盗猎车手 6》（GTA 6）开发商 Rockstar Games，并攻击 Uber、Revolut 等公司的黑客阿里昂 · 库尔塔伊（Arion Kurtaj），被判处 7 年监禁。不过，由于此前已服刑一段时间，他获准在附带许可条件的情况下离开监狱。2022 年，他入侵 Rockstar 系统，随后泄露了 90 段《GTA ",
+      "fetched_at": "2026-11-24T00:44:29.724937+00:00"
+    },
+    {
+      "id": "49436c488c8687c3",
+      "title": "微软酝酿改版 Edge 浏览器首次启动引导体验：大页面变小窗口，可导入谷歌账户数据",
+      "link": "https://www.ithome.com/1/031/266.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-24T00:34:17+00:00",
+      "summary": "IT之家 11 月 24 日消息，科技媒体 NeoWin 昨日（11 月 23 日）发布博文，分享了一组在 Windows 11 系统上测试的截图，展示了 Microsoft Edge 浏览器的新版首次启动引导体验。IT之家援引博文介绍，现有 Edge 首次启动流程通常包含多个完整页面，依次介绍浏览器、提示同步数据，并引导用户设置主题、页面布局及固定网站。现有 Microsoft Edge 首次启",
+      "fetched_at": "2026-11-24T00:44:29.724956+00:00"
+    },
+    {
+      "id": "6b142c8bd68cf628",
+      "title": "Mozilla、Shopify 等企业要求欧盟委员会施压苹果，彻底开放 iOS 系统第三方浏览器引擎",
+      "link": "https://www.ithome.com/1/031/265.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-24T00:32:03+00:00",
+      "summary": "IT之家 11 月 24 日消息，据科技媒体 Appleinsider 昨天报道，Mozilla、Shopify 等多家企业和民间组织向欧盟委员会发出联名信，称苹果虽然已经略微放宽 iOS 系统浏览器内核限制，但其对 WebKit 的要求仍然让开发者几乎无法在 App Store 之外销售订阅服务。IT之家从原报道获悉，这些企业和民间组织敦促欧盟委员会对 iPhone 浏览器竞争问题启动调查。他们",
+      "fetched_at": "2026-11-24T00:44:29.724971+00:00"
+    },
+    {
+      "id": "c26fe61570001ee4",
+      "title": "Cyberleek 补齐《GTA 6》Xbox 泄露版最后一块拼图：主程序 .exe 文件释出，开源 PC 移植项目接手",
+      "link": "https://www.ithome.com/1/031/264.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-24T00:26:24+00:00",
+      "summary": "IT之家 11 月 24 日消息，爆料者 Cyberleek 已于当地时间 11 月 23 日按照承诺放出了其此前声称泄露的《侠盗猎车手 6》（GTA 6）Xbox 版本主程序文件（.exe），补齐了游戏文件中缺失的关键部分。Cyberleek 将此次发布称为“提前送上的圣诞礼物”，并表示接下来将由开源重编译和模拟器项目接手。此次公布的 EXE 文件对应的是 Xbox 版本，并非原生 PC 版本。",
+      "fetched_at": "2026-11-24T00:44:29.724989+00:00"
+    },
+    {
+      "id": "9cf8c254dfdb5822",
+      "title": "涨价约 14%：三星健身手环 Galaxy Fit4 在法国售价曝光，预估无缘非接触式支付",
+      "link": "https://www.ithome.com/1/031/263.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-24T00:22:12+00:00",
+      "summary": "IT之家 11 月 24 日消息，法国媒体 Dealabs Magazine 今天（11 月 24 日）发布博文，爆料称三星健身手环 Galaxy Fit4 在法国的售价预计为 79.90 欧元（IT之家注：现汇率约合 585.6 元人民币），比前代 Galaxy Fit3（69.90 欧元（现汇率约合 512.3 元人民币））贵 10 欧元（现汇率约合 73.3 元人民币），涨幅约 14%。配色",
+      "fetched_at": "2026-11-24T00:44:29.725016+00:00"
+    },
+    {
+      "id": "27fc339bddc7cabf",
+      "title": "亚马逊收购 Decart 的 AI 优化技术，强化自研芯片竞争力",
+      "link": "https://www.ithome.com/1/031/262.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-24T00:13:49+00:00",
+      "summary": "IT之家 11 月 24 日消息，亚马逊昨天宣布收购 Decart 公司的 AI 优化技术，并邀请 Decart 联合创始人、员工加入亚马逊。彭博社援引知情人士称，此次交易金额约为 75 亿美元（IT之家注：现汇率约合 501.1 亿元人民币）。但亚马逊并没有披露此次交易的金额或财务条款。据了解，Decart 是一家成立于 2023 年的人工智能公司，主要产品为 Decart Optimizati",
+      "fetched_at": "2026-11-24T00:44:29.725030+00:00"
+    },
+    {
+      "id": "f4236c811e46e7aa",
+      "title": "公安部网安局公布 10 起 AI 造谣典型案例：张家界玻璃桥坍塌、诺如病毒再袭等在列，“净网-2026”半年查处 190 余人",
+      "link": "https://www.ithome.com/1/031/261.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-24T00:12:12+00:00",
+      "summary": "IT之家 11 月 24 日消息，公安部网安局今日公布了 2026 年度使用 AI 工具编造传播网络谣言的 10 起典型案例。这些案例均依托“净网 —2026”专项行动查办，涉案人员或因博取关注、吸粉引流，或因发泄情绪、直播带货，利用 AI 工具生成虚假视频、图片或文案，最终被采取刑事强制措施或行政处罚。IT之家附原文如下：1、网民马某某为博取关注、吸粉引流，使用 AI 工具生成“张家界大峡谷玻璃",
+      "fetched_at": "2026-11-24T00:44:29.725060+00:00"
+    },
+    {
+      "id": "1f6974e6697696c4",
+      "title": "曝三星 Galaxy A38 手机主摄传感器尺寸缩小至 1/1.95 英寸，恐影响弱光成像",
+      "link": "https://www.ithome.com/1/031/259.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-24T00:02:55+00:00",
+      "summary": "IT之家 11 月 24 日消息，科技媒体 SammyGuru 昨日（11 月 23 日）发布博文，报道称三星为了更好控制 Galaxy A38 5G 手机成本，其主摄可能“缩水”，调整为配备 5,000 万像素的索尼 IMX882 传感器，尺寸为 1/1.95 英寸。IT之家援引博文介绍，目前在主流国际市场上发售的 Galaxy A37 手机中，三星使用了 5,000 万像素的索尼 IMX906",
+      "fetched_at": "2026-11-24T00:44:29.725080+00:00"
+    },
+    {
+      "id": "ada488e5ee593e71",
+      "title": "早报｜黄仁勋回归，英伟达股价一夜暴涨31%/《复仇者联盟5》发布终极预告/3399起，荣耀700系列发布",
+      "link": "https://www.ifanr.com/1691119?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source_id": "ifanr",
+      "source_name": "爱范儿",
+      "category": "tech",
+      "published_at": "2026-11-24T00:02:01+00:00",
+      "summary": "· 蚂蚁阿福上线视频咨询，同时推出福环和福戒 · 韩国国家资格考试恢复统一收手机，考生还穿上了围裙 · 知乎参投基金间接入股 DeepSeek#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "fetched_at": "2026-11-24T00:44:29.185210+00:00"
+    },
+    {
+      "id": "fef8805ce57faf0b",
+      "title": "三星拟扩大西安工厂先进 NAND 产能、升级 V9 闪存产线，扩大面向 AI 数据中心的 eSSD 供应",
+      "link": "https://www.ithome.com/1/031/258.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-23T23:52:36+00:00",
+      "summary": "IT之家 11 月 24 日消息，据《首尔经济日报》今日报道，三星电子计划将位于中国陕西西安的半导体工厂打造成面向人工智能（AI）数据中心企业级固态硬盘（eSSD）的核心生产基地，重点扩大第九代垂直 NAND 闪存（V9）产能。截至今年第二季度，三星西安一厂（X1）和二厂（X2）的晶圆月投入能力均为 5 万片，合计达到 10 万片（IT之家注：单位为 300mm 晶圆）。这相当于三星平泽四座工厂月",
+      "fetched_at": "2026-11-24T00:44:29.725111+00:00"
+    },
+    {
+      "id": "fe0cb8e4ba3cb6a3",
+      "title": "Anthropic 推出 Claude Ship 测试版：AI 可自动审查、修复及批准代码",
+      "link": "https://www.ithome.com/1/031/257.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-23T23:49:00+00:00",
+      "summary": "IT之家 11 月 24 日消息，据科技媒体 TechCrunch 昨天报道，Anthropic 现已推出 Claude Ship Beta 测试版。这是一套 AI 智能体组成的工具，可自动完成代码审查、修复和批准等工作。IT之家从原报道获悉，Claude Ship 包含 Code Review、PR Steward 和 Claude Approvals 三项功能。其中 Code Review 已",
+      "fetched_at": "2026-11-24T00:44:29.725127+00:00"
+    },
+    {
+      "id": "f6b8f5b08adc4af7",
+      "title": "摩托罗拉首款宽折叠手机 Razr Flex 通过认证，15W 无线充电",
+      "link": "https://www.ithome.com/1/031/256.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-23T23:44:26+00:00",
+      "summary": "IT之家 11 月 24 日消息，科技媒体 GSMArena 昨日（11 月 23 日）发布博文，报道称摩托罗拉首款宽折叠手机 Razr Flex 已通过无线充电联盟（WPC）认证，型号为 XT2761。根据认证信息显示，该机支持扩展功率配置文件（EPP），标准无线充电功率最高为 15W；此前传闻中的 25W 无线快充，可能需要通过其他协议或厂商私有方案才能实现。IT之家附上相关截图如下：不过“证",
+      "fetched_at": "2026-11-24T00:44:29.725140+00:00"
+    },
+    {
+      "id": "a660ac553815e70a",
+      "title": "Teenage Engineering 推出复古 CD 播放器 EP / BC-1，可选配模块化扬声器",
+      "link": "https://www.ithome.com/1/031/255.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-23T23:37:43+00:00",
+      "summary": "IT之家 11 月 24 日消息，瑞典厂商 Teenage Engineering 现已推出复古 CD 播放器 EP / BC-1。该产品主要面向专业用户和 DJ，采用模块化设计，可以安装扬声器配件。据介绍，EP / BC-1 采用复古的浅灰色设计，外观很容易让人联想到 20 世纪 90 年代的电子产品。该机内置电池，续航时间可达 6 小时。配备 USB-C 接口，支持 CD 抓轨功能，采样规格为",
+      "fetched_at": "2026-11-24T00:44:29.725161+00:00"
+    },
+    {
+      "id": "3d6b444900ac533b",
+      "title": "红魔 12 Pro+ 氘锋透明冰蓝今日开售：16GB+512GB 版 7499 元",
+      "link": "https://www.ithome.com/1/031/254.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-23T23:34:33+00:00",
+      "summary": "IT之家 11 月 24 日消息，红魔 12 Pro+ 全新「氘锋透明冰蓝」配色将于 11 月 24 日 10:00 正式开售，16GB+512GB 版本 7999 元，部分地区政府补贴 500 元，到手价 7499 元起。京东红魔 12 Pro+ 氘锋透明冰蓝 7499 元直达链接IT之家此前报道，红魔 12 Pro+ 手机于 10 月 15 日发布，提供氘锋透明暗夜、氘锋透明银翼、氘锋透明冰蓝",
+      "fetched_at": "2026-11-24T00:44:29.725181+00:00"
+    },
+    {
+      "id": "1a1763091d22b00d",
+      "title": "Anthropic CEO 达里奥 · 阿莫代伊出售 337.8 万股股票，IPO 当天套现约 2.8 亿美元",
+      "link": "https://www.ithome.com/1/031/253.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-23T23:29:36+00:00",
+      "summary": "IT之家 11 月 24 日消息，当地时间 11 月 23 日，美国证券交易委员会（SEC）披露的 Form 4 文件显示，Anthropic CEO 达里奥 · 阿莫代伊（Dario Amodei）于 IPO 上市当天出售了 3,378,378 股 Class A 普通股，成交价格为每股 83 美元（即 IPO 发行价）。按该价格计算，交易总额约为 2.804 亿美元（IT之家注：现汇率约合 1",
+      "fetched_at": "2026-11-24T00:44:29.725200+00:00"
+    },
+    {
+      "id": "b86c8a1aa28b1b9a",
+      "title": "IT早报 1124：英伟达恢复黄仁勋 CEO 职务；中国汽车在 39 国的份额超过日本汽车；3399 元起荣耀 700 系列手机发布；智谱 GLM-5.4 模型发布...",
+      "link": "https://www.ithome.com/1/031/252.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-23T23:22:14+00:00",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 24 日星期二，今天的重要科技资讯有：1. 英伟达董事会恢复黄仁勋总裁兼首席执行官职务，英伟达美股盘前涨幅最高达 30%英伟达官方 24 日宣布，黄仁勋即日起复任总裁兼首席执行官及董事会成员。公告提到，董事会在与黄仁勋进行一系列讨论和会议后，一致投票决定恢复其职务。英伟达表示，董事会经过与黄仁勋多轮讨论和会议，对其坦诚程度及领导公司能力表示",
+      "fetched_at": "2026-11-24T00:44:29.725316+00:00"
+    },
+    {
+      "id": "b30f52eb06ee51d1",
+      "title": "【钛晨报】英伟达董事会一致同意恢复黄仁勋CEO职务；荣耀CEO李健：荣耀阔折叠明年3月发布｜独家；中汽协：1-10月，销量排名前十位的MPV生产企业共销售64.8万辆",
+      "link": "https://www.tmtpost.com/8215026.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-11-23T23:20:00+00:00",
+      "summary": "蚂蚁阿福App新版发布，蚂蚁阿福医生版上线“循证金标准”UpToDate；亚马逊将支付75亿美元获取人工智能初创公司Decart的技术；微软AI首席执行官苏莱曼：支持OpenAI提高透明度的倡议；四部门：鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备、外骨骼等新产品；人社部：非法骗取社保基金支出或者社保待遇，拟处骗取金额2倍以上5倍以下的罚款；市场监管总局发布《婴幼儿辅助食品生产许可审",
+      "fetched_at": "2026-11-24T00:44:32.322301+00:00"
+    },
+    {
+      "id": "c042e81f1664baa3",
+      "title": "黄仁勋更新 X 平台个人简介：英伟达创始人、首席执行官",
+      "link": "https://www.ithome.com/1/031/251.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-23T23:18:35+00:00",
+      "summary": "IT之家 11 月 24 日消息，黄仁勋现已更新 X 平台个人简介：英伟达创始人兼首席执行官。之前移除的英伟达公司关联标识、横幅及指向英伟达介绍页的入口也已经加了回来。与此同时，英伟达官网也更新了管理层页面。黄仁勋已重新排回第一位，职位为 NVIDIA 创始人、总裁兼首席执行官。据IT之家此前报道，英伟达昨日宣布恢复黄仁勋的总裁、首席执行官及董事职务。英伟达表示，董事会经过与黄仁勋多轮讨论和会议，",
+      "fetched_at": "2026-11-24T00:44:29.725325+00:00"
+    },
+    {
+      "id": "7c889287b88acde3",
+      "title": "“感谢大家给我第二次机会”：黄仁勋重返英伟达总部，员工高呼欢迎",
+      "link": "https://www.ithome.com/1/031/250.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-23T23:18:18+00:00",
+      "summary": "IT之家 11 月 24 日消息，CNBC 今天（11 月 24 日）在 X 平台发布推文，分享了一段视频，英伟达创办人黄仁勋（Jensen Huang）在辞职约两周后重返总部，员工在加州圣克拉拉总部大厅夹道欢呼。报道称黄仁勋在美国当地时间 11 月 23 日重返英伟达总部，现场员工聚集在大厅高声欢呼，迎接这位创办人回归。黄仁勋在现场表示：“感谢大家给我第二次机会，接下来我一定会成为更优秀的 CE",
+      "fetched_at": "2026-11-24T00:44:29.725338+00:00"
+    },
+    {
+      "id": "30ec44cf73a5ba57",
+      "title": "Nothing 首款 AI 原生硬件 Ear (note) 曝光：耳机盒内置麦克风，可录制线下会议",
+      "link": "https://www.ithome.com/1/031/249.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-23T23:16:40+00:00",
+      "summary": "IT之家 11 月 24 日消息，彭博社记者马克・古尔曼（Mark Gurman）今日报道称，裴宇的 Nothing 正准备推出一款具备 AI 录音和转录功能的耳机产品，名为 Ear (note)，计划于 12 月 8 日正式发布。Nothing 联合创始人兼 CEO 裴宇（Carl Pei）在接受彭博社采访时展示了这款产品。Ear (note) 不仅能够通过耳机内置麦克风录制电话通话，还能利用充",
+      "fetched_at": "2026-11-24T00:44:29.725366+00:00"
+    },
+    {
+      "id": "f24100f76a003c64",
+      "title": "古尔曼：苹果将重启与 (RED) 合作，准备推出红色特别版 HomePod mini 2 与 AirPods Max 2",
+      "link": "https://www.ithome.com/1/031/248.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-23T23:08:27+00:00",
+      "summary": "IT之家 11 月 24 日消息，马克・古尔曼（Mark Gurman）今日报道称，苹果准备重启与（Product）RED 的长期合作关系，并将在圣诞节假期推出红色特别版 HomePod mini 2 和 AirPods Max 2。据知情人士透露，红色版 HomePod mini 2 将采用红色网状织物外壳。AirPods Max 2 则采用银色机身、白色网状耳罩和白色头带，并在用于控制播放的数",
+      "fetched_at": "2026-11-24T00:44:29.725386+00:00"
+    },
+    {
+      "id": "7eccd9305b41d11e",
+      "title": "消息称微软下一代 XBOX 主机原计划取消收费联机、支持 Steam，如今存在变数",
+      "link": "https://www.ithome.com/1/031/247.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-23T23:03:34+00:00",
+      "summary": "IT之家 11 月 24 日消息，据科技媒体 Windows Central 今天报道，消息人士透露，微软次世代 XBOX 主机最初的设计目标是取消收费联机、完整支持 PC 游戏及 Steam 商店。但随着硬件成本不断上涨和 XBOX 战略调整，这些设想能否实现存在变数。据熟悉微软相关计划的消息人士透露，微软最初为下一代 XBOX 制定的构想相当激进。前负责人菲尔 · 斯宾塞希望，将这台主机设计成",
+      "fetched_at": "2026-11-24T00:44:29.725408+00:00"
+    },
+    {
+      "id": "d483ccacac419eb5",
+      "title": "马斯克承认 AI 研发落后对手：出租 SpaceXSI 算力比自研 Grok 更赚钱",
+      "link": "https://www.ithome.com/1/031/246.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-23T23:00:34+00:00",
+      "summary": "IT之家 11 月 24 日消息，据《纽约时报》当地时间 11 月 23 日报道，SpaceX 首席执行官埃隆・马斯克近日向员工表示，公司在人工智能（AI）研发方面正落后于 Anthropic、OpenAI 等竞争对手，因此，与其将数据中心算力全部用于自研 AI 产品，不如出租给竞争对手，以获得更高的商业回报。三名知情人士称，SpaceX 自 5 月以来一直向 Anthropic、谷歌等企业出租数",
+      "fetched_at": "2026-11-24T00:44:29.725459+00:00"
+    },
+    {
+      "id": "b9fd84e7efcc737d",
+      "title": "告别“重启才能修复”：OpenAI 携手思科开源 Shirudo，给 Linux 装上临时盾牌",
+      "link": "https://www.ithome.com/1/031/245.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-23T23:00:23+00:00",
+      "summary": "IT之家 11 月 24 日消息，OpenAI 昨日（11 月 23 日）宣布携手思科（Cisco）推出开源安全运行时 Shirudo，基于 eBPF 技术为运行中的系统提供无需重启的临时漏洞防护，已通过 Java4Shell 攻击拦截测试。OpenAI 在博文中指出，传统安全响应中，企业发现漏洞后往往要经历修复开发、测试、灰度发布和全量上线等环节，可能耗时数天甚至数周。但攻击者不会等待企业完全修",
+      "fetched_at": "2026-11-24T00:44:29.725222+00:00"
+    },
+    {
+      "id": "37fcedcb331463b1",
+      "title": "三星 Galaxy Z Fold9 Ultra 等 3 款折叠手机影像规格曝光，预估主摄沿用前代方案",
+      "link": "https://www.ithome.com/1/031/244.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-23T22:55:06+00:00",
+      "summary": "IT之家 11 月 24 日消息，科技媒体 sammyguru 于 11 月 21 日发布博文，报道称基于供应链与贸易数据库中的早期记录，三星 Galaxy Z Flip9、Galaxy Z Fold9、Galaxy Z Fold9 Ultra 三款折叠手机的影像规模浮出水面。根据贸易数据库记录的信息，三星 Galaxy Z Flip9（内部代号为 B9）主摄将延续前代规格，依然为 5,000 万",
+      "fetched_at": "2026-11-24T00:44:29.725479+00:00"
+    },
+    {
+      "id": "13e026f467189de0",
+      "title": "NASA 寻求商业航天合作伙伴，力争 2030 年前建成首个月球核反应堆",
+      "link": "https://www.ithome.com/1/031/243.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-23T22:50:53+00:00",
+      "summary": "IT之家 11 月 24 日消息，当地时间 11 月 23 日，美国国家航空航天局（NASA）宣布在向商业航天企业征集合作方案，计划开发用于月球表面的核发电系统 Lunar Reactor-1（LR-1），目标是在 2030 年前完成系统研制并达到可发射状态。根据 NASA 官方公告，LR-1 采用小型核裂变堆设计，预计可提供 20 千瓦电力，能够为未来月球基地的居住设施、通信系统、月球车和科学仪",
+      "fetched_at": "2026-11-24T00:44:29.725499+00:00"
+    },
+    {
+      "id": "a3e9c971146864c1",
+      "title": "4999 元：华硕 ROG XG32UQDS 电竞显示器开启预约，32 英寸 4K 180Hz QD-OLED 面板",
+      "link": "https://www.ithome.com/1/031/242.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-23T22:43:46+00:00",
+      "summary": "IT之家 11 月 24 日消息，华硕 ROG XG32UQDS 电竞显示器现已在京东开启预约。新品采用 32 英寸 QD-OLED 面板，分辨率 4K，刷新率可达 180Hz，售价 4999 元。据IT之家了解，这款显示器配备全新膜层，相比上一代 QD-OLED 面板抗刮擦性能提升 2.5 倍。提供 180Hz 刷新率与 0.03ms GTG 响应时间。规格方面，该显示器的对比度可达 1.5M:",
+      "fetched_at": "2026-11-24T00:44:29.725537+00:00"
+    },
+    {
+      "id": "666f0d2706796d01",
+      "title": "最高提速 290 倍：谷歌让 AI 智能体“开会”优化量子算法，缓解计算资源瓶颈",
+      "link": "https://www.ithome.com/1/031/232.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-23T22:37:21+00:00",
+      "summary": "IT之家 11 月 24 日消息，谷歌 DeepMind 团队携手谷歌 Quantum AI 团队于昨日（11 月 23 日）发布联合研究成果，利用多组 Gemini 4 智能体协同工作，并结合形式化数学验证工具 Lean，成功优化了多项量子算法，降低部分量子计算任务的资源需求。量子计算机有望在未来解决经典超级计算机无法企及的问题，但即便使用当前最优量子算法，部分重要应用所需的资源仍超出早期量子硬",
+      "fetched_at": "2026-11-24T00:44:29.725597+00:00"
+    },
+    {
+      "id": "425c287a8904adec",
+      "title": "Steam 社区市场重大更新：全新主页上线，新增物品关注与价格管理功能",
+      "link": "https://www.ithome.com/1/031/241.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-23T22:30:25+00:00",
+      "summary": "IT之家 11 月 24 日消息，Valve 今日发布公告，宣布推出 Steam 社区市场（Steam Community Market）更新，在之前 Beta 版重构物品页、搜索功能的基础上，正式上线全新的市场主页，并围绕物品追踪与在售管理推出一系列改进。本次所有更新即日起对所有用户开放。全新的市场主页Valve 重新设计了市场主页，加载速度更快，并根据用户正在游玩的游戏个性化展示相关物品。原先",
+      "fetched_at": "2026-11-24T00:44:29.725567+00:00"
+    },
+    {
+      "id": "42d2f072ed876304",
+      "title": "2026 年 Steam 大奖提名开启：十周年新增「名人堂」特别奖项，11 月 30 日截止",
+      "link": "https://www.ithome.com/1/031/235.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-23T18:20:30+00:00",
+      "summary": "IT之家 11 月 24 日消息，Valve 正式开启 2026 年 Steam 大奖（Steam Awards）提名通道。本届大奖恰逢活动诞生十周年，官方在常规评选基础上增设了多项特别奖项，提名阶段将持续至太平洋时间 11 月 30 日上午 10 点（北京时间 12 月 1 日凌晨 2 点）。IT之家附 Steam 官方提名页面链接（https://store.steampowered.com/",
+      "fetched_at": "2026-11-24T00:44:29.725616+00:00"
+    },
     {
       "id": "9cba859a65453ef0",
       "title": "网络安全大合并：CrowdStrike 宣布将以 439 亿美元全股票交易收购 Zscaler",
@@ -8074,160 +8404,6 @@
       "published_at": "2026-11-17T01:33:00+00:00",
       "summary": "要闻提示1.黄仁勋借钱成新型诈骗！英伟达董事会：没考虑让黄仁勋复任 CEO2.已到生死存亡时刻！腾讯内部讲话：现在不是和平年代，大家不能自以为站在高处很安全3.网传360集团副总裁卜思南涉贪腐问题被带走调查，本人回应：不是真的，在处理ing4.网易《哈利波特：魔法觉醒》手游宣布明年 3 月停止运营，曾月流水破10亿5.AI 演员方桃子代言美瞳广告被罚，声称“戴了一天都很舒服”6.阿里合伙人樊路远辞",
       "fetched_at": "2026-11-17T13:09:49.872059+00:00"
-    },
-    {
-      "id": "cb7ad5dca8042dd9",
-      "title": "早报｜iPhone Duo新增外屏人脸解锁/曝英伟达董事会无意请回黄仁勋/华为Mate X8定档11月24日",
-      "link": "https://www.ifanr.com/1689760?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source_id": "ifanr",
-      "source_name": "爱范儿",
-      "category": "tech",
-      "published_at": "2026-11-17T00:18:50+00:00",
-      "summary": "· 阿里发布 Qwen4-Max，缓存命中价格低至每百万 Token 0.5 元 · 腾讯混元推出 Hy4 flash，WorkBuddy 限时开放免费使用 · 腾讯公开司庆讲话，要求核心业务团队面向 AI 再创业#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-11-17T13:09:43.984963+00:00"
-    },
-    {
-      "id": "40981d836e3f97ec",
-      "title": "派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等",
-      "link": "https://sspai.com/post/119160",
-      "source_id": "sspai",
-      "source_name": "少数派",
-      "category": "tech",
-      "published_at": "2026-11-16T23:57:40+00:00",
-      "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...查看全文",
-      "fetched_at": "2026-11-17T13:09:51.077290+00:00"
-    },
-    {
-      "id": "d2589c33389b1e74",
-      "title": "【钛晨报】涉比亚迪、“蔚小理”、小米等，17家重点车企供应商账期将接受评估；消息人士称360市场负责人被带走调查；金饰克价较年内高点跌去530元",
-      "link": "https://www.tmtpost.com/8207624.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-11-16T23:20:00+00:00",
-      "summary": "百度三季度AI云基础设施收入同比增长94%；胖东来今年销售额已超258亿元；华为云发布并开源昇腾原生具身世界模型；胜宏科技拟向多家银行申请合计707亿元授信额度；黄仁勋考虑回归英伟达；文投控股：AI漫剧相关业务收入占公司营收比例约为2.57%，占比仍然较小；中国中小学校、幼儿园将聘任健康副校（园）长，由医疗卫生机构等派出。",
-      "fetched_at": "2026-11-17T03:43:27.656598+00:00"
-    },
-    {
-      "id": "8f4f44c10293dc76",
-      "title": "英伟达推出 DGX Spark HPC 开发套件：四节点集群、512GB 内存，面向科研与 AI 开发",
-      "link": "https://www.ithome.com/1/028/023.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-16T23:06:22+00:00",
-      "summary": "IT之家 11 月 17 日消息，英伟达今天在 SC26 大会宣布推出 DGX Spark HPC 开发套件，面向科研人员、学术界人士、AI 开发者等人士。该套件由四台英伟达 DGX Spark 组成，搭载 GB10 Grace Blackwell 超级芯片。IT之家了解到，DGX Spark HPC 开发套件具备 4 个节点，各个节点通过英伟达 ConnectX-7 网络适配器直接互联，无需额外",
-      "fetched_at": "2026-11-17T03:43:25.632687+00:00"
-    },
-    {
-      "id": "ceda10da318f9569",
-      "title": "苹果 watchOS 27.3 开发者预览版 Beta 2 发布",
-      "link": "https://www.ithome.com/1/028/016.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-16T19:19:22+00:00",
-      "summary": "【点此直达升级教程】 IT之家 11 月 17 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.3 开发者预览版 Beta 2 更新（内部版本号：24S5296d），本次更新距离上次发布 Beta/RC 间隔 13 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软",
-      "fetched_at": "2026-11-16T20:19:39.574769+00:00"
-    },
-    {
-      "id": "0a8927286259b7a1",
-      "title": "苹果 visionOS 27.3 开发者预览版 Beta 2 发布",
-      "link": "https://www.ithome.com/1/028/015.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-16T19:19:21+00:00",
-      "summary": "IT之家 11 月 17 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.3 开发者预览版 Beta 2 更新（内部版本号：24N5298d），本次更新距离上次发布 Beta/RC 间隔 13 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内",
-      "fetched_at": "2026-11-16T20:19:39.574822+00:00"
-    },
-    {
-      "id": "dcb2efe43b45e2f3",
-      "title": "苹果 macOS 27.3 开发者预览版 Beta 2 发布",
-      "link": "https://www.ithome.com/1/028/014.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-16T19:19:21+00:00",
-      "summary": "IT之家 11 月 17 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.3 开发者预览版 Beta 2 更新（内部版本号：26C5047e），本次更新距离上次发布 Beta/RC 间隔 13 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Beta 版软件计划，之后通过【设置】【通用】【软件",
-      "fetched_at": "2026-11-16T20:19:39.574874+00:00"
-    },
-    {
-      "id": "7c4baa5ef3432c20",
-      "title": "苹果 iOS/iPadOS 27.3 开发者预览版 Beta 2 发布",
-      "link": "https://www.ithome.com/1/028/013.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-16T19:19:20+00:00",
-      "summary": "【点此直达升级教程】 IT之家 11 月 17 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.3 开发者预览版 Beta 2 更新（内部版本号：24C5049d），本次更新距离上次发布 Beta/RC 间隔 13 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册&nbsp;Apple Be",
-      "fetched_at": "2026-11-16T20:19:39.574941+00:00"
-    },
-    {
-      "id": "78de3386bbdb2fb8",
-      "title": "新任 007 演员官宣：“蝙蝠侠”罗伯特 · 帕丁森接棒，网友玩梗戏称新片为《007：黑暗骑士崛起》",
-      "link": "https://www.ithome.com/1/028/010.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-16T17:43:18+00:00",
-      "summary": "IT之家 11 月 17 日消息，Prime Video 昨晚官宣，新任 007 将由 40 岁的罗伯特 · 帕丁森饰演。目前，新片首曝预告片已播出。值得一提的是，罗伯特 · 帕丁森还是史上首位同时出演蝙蝠侠和 007 詹姆斯 · 邦德的演员。有网友顺势玩梗，称新片可以命名为《007：黑暗骑士崛起》或《布鲁斯 · 韦恩在英国》（梗解读：原著中，蝙蝠侠真实名字为布鲁斯 · 韦恩，该角色也被称为“黑暗",
-      "fetched_at": "2026-11-16T20:19:39.574968+00:00"
-    },
-    {
-      "id": "3df266981579b138",
-      "title": "消息人士称 360 市场负责人卜思南涉嫌职务侵占已被警方带走调查",
-      "link": "https://www.ithome.com/1/028/009.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-16T17:16:43+00:00",
-      "summary": "IT之家 11 月 17 日消息，综合第一财经、鞭牛士报道，多位消息人士透露，360 副总裁、市场部负责人卜思南因涉嫌职务侵占等案件已在上周一被警方带走调查。截至发稿，360 方面暂未回应。今年 8 月，360 集团宣布，为推进“安全 +AI”战略，对集团市场与传播中心进行组织调整，设立公关部和市场部，任命卜思南为市场部负责人，向周鸿祎汇报。消息人士还透露，除了卜思南涉案外，内部或许还有相关人员被",
-      "fetched_at": "2026-11-16T20:19:39.574988+00:00"
-    },
-    {
-      "id": "3e9dd93a027c82fe",
-      "title": "华为 Mate 90 系列手机  HarmonyOS 7 小艺 AI 快捷栏适配效果公开",
-      "link": "https://www.ithome.com/1/028/007.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-16T17:05:15+00:00",
-      "summary": "IT之家 11 月 17 日消息，在今年 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。在发布会现场，华为还剧透了全新功能 —— 小艺 AI 快捷栏。官方 PPT 页面显示，该功能开启后，小艺将在手机桌面底部的 Dock 栏常驻。根据最新规划，华为 Mate 90、Mate 90 Pro、Mate 90 RS、Pu",
-      "fetched_at": "2026-11-16T20:19:39.575015+00:00"
-    },
-    {
-      "id": "34ffac4038921d24",
-      "title": "华为全新子品牌星芒 OSTA O1 Pro 真机紫色款外观曝光：后置双摄，预计搭载麒麟 9030S 处理器",
-      "link": "https://www.ithome.com/1/028/006.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-16T16:50:22+00:00",
-      "summary": "IT之家 11 月 17 日消息，本月早些时候，华为官宣，鸿蒙智行享界 V8 及星芒品牌发布会定档 2026 年 11 月 20 日 14:30。随着发布会临近，华为全新子品牌 —— 星芒首款机型越来越多的配置信息曝光。目前，OSTA O1 Pro 真机谍照已流出。IT之家注意到，除了此次曝光了黑色款外，另外一款紫色的 OSTA O1 Pro 的外观也已曝光。爆料还提到，这款新机会有白色款，不过目",
-      "fetched_at": "2026-11-16T20:19:39.575045+00:00"
-    },
-    {
-      "id": "6057648f151671ec",
-      "title": "徐直军：华为早在 2009 年就启动 5G 研究，最终成为标准主要贡献者和全球最大专利持有者之一",
-      "link": "https://www.ithome.com/1/028/005.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-16T16:37:51+00:00",
-      "summary": "IT之家 11 月 17 日消息，华为官方 X 账号分享了副董事长、轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei's innovation journey:Seeing it,living it,leading it》）。徐直军在文中以第一人称视角回顾了华为三十多年来的创新历程。据徐直军回忆，2011 年，华为把公司的研究团队整合",
-      "fetched_at": "2026-11-16T20:19:39.575082+00:00"
-    },
-    {
-      "id": "a1b202ef87d032cc",
-      "title": "徐直军：分布式基站和 SingleRAN 两个开创性方案，确立了华为在移动通信领域全球领先地位",
-      "link": "https://www.ithome.com/1/028/004.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-16T16:23:29+00:00",
-      "summary": "IT之家 11 月 17 日消息，华为官方 X 账号分享了副董事长、轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei's innovation journey:Seeing it,living it,leading it》）。徐直军在文中以第一人称视角回顾了华为三十多年来的创新历程。据徐直军回忆，余承东（现任华为常务董事、产品投资评审",
-      "fetched_at": "2026-11-16T20:19:39.575142+00:00"
     }
   ]
 }
