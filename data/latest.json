@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T15:28:59.529880+00:00",
-  "count": 713,
+  "generated_at": "2026-11-26T00:13:02.721621+00:00",
+  "count": 724,
   "sources": [
     {
       "id": "36kr",
@@ -34,6 +34,237 @@
     }
   ],
   "items": [
+    {
+      "id": "aadf058f733aefbb",
+      "title": "被红果改写的Q3财报季",
+      "link": "https://www.tmtpost.com/8216958.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-11-26T03:38:00+00:00",
+      "summary": "二线大厂的冬天：砍成本，赌AI",
+      "fetched_at": "2026-11-26T00:12:58.770650+00:00"
+    },
+    {
+      "id": "ca9fa49c91c85428",
+      "title": "国家医保局上线“连续用药管理”功能，便捷查询个人用药情况、购药记录",
+      "link": "https://www.ithome.com/1/032/550.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-26T00:11:55+00:00",
+      "summary": "IT之家 11 月 26 日消息，国家医保局今日宣布，依托全国统一医保信息平台，开发“连续用药管理”功能，帮助参保人便捷查询个人用药情况、购药记录，范围覆盖全国所有定点医疗机构和定点零售药店，并支持按年度、购药机构、购药渠道等多维度筛选。同时，参保人在就医时，还可授权接诊大夫查看本人的既往用药情况。IT之家查询获悉，参保人可通过国家医保局微信公众号、国家医保服务平台 App、国家医保服务平台支付宝",
+      "fetched_at": "2026-11-26T00:12:47.146669+00:00"
+    },
+    {
+      "id": "52cd0535cadd419c",
+      "title": "广东台山核电项目 3 号机组主体工程开工，“华龙一号”再传捷报",
+      "link": "https://www.ithome.com/1/032/549.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-26T00:05:20+00:00",
+      "summary": "IT之家 11 月 26 日消息，据央视新闻报道，11 月 25 日，中广核广东台山核电项目 3 号机组开始核岛第一罐混凝土浇筑，标志着该机组主体工程正式开工，项目二期工程开始进入建设阶段。此次开工的 3 号机组采用我国自主研发的三代核电技术“华龙一号”，建成后年发电量超 90 亿千瓦时，可满足约 100 万人口的年生产生活用电需求。IT之家从报道获悉，台山核电项目规划 6 台百万千瓦级核电机组，",
+      "fetched_at": "2026-11-26T00:12:47.146725+00:00"
+    },
+    {
+      "id": "900b0ebd417a14ba",
+      "title": "AI 语音初创公司 ElevenLabs 就 2027 年融资进行初步谈判，目标估值 330 亿美元",
+      "link": "https://www.ithome.com/1/032/548.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-26T00:04:16+00:00",
+      "summary": "IT之家 11 月 26 日消息，据彭博社今天报道，AI 语音初创公司 ElevenLabs 已就新一轮融资进行初步洽谈，目标估值 330 亿美元（IT之家注：现汇率约合 2,203.8 亿元人民币）。公司管理层计划 2027 年第一季度启动融资程序，部分潜在投资者希望加快融资速度。据报道，此次拟定的估值相比今年 9 月的 220 亿美元（现汇率约合 1,469.2 亿元人民币）高出 50%，El",
+      "fetched_at": "2026-11-26T00:12:47.146760+00:00"
+    },
+    {
+      "id": "d303a719935804f5",
+      "title": "早报｜手机厂商集体下调明年出货目标，曝小米降幅达25%/小鹏悠游开启主驾无人载客/宕机后，微软进入「红色警报」",
+      "link": "https://www.ifanr.com/1695128?utm_source=rss&utm_medium=rss&utm_campaign",
+      "source_id": "ifanr",
+      "source_name": "爱范儿",
+      "category": "tech",
+      "published_at": "2026-11-26T00:02:57+00:00",
+      "summary": "· Counterpoint：2027 年全球智能手机出货量预计再降 6%，2028 年反弹 6% · 理想汽车 2026 年 Q3 营收 288.34 亿元，经营与自由现金流转正 · 26.99 万元起，宝马首款国产新世代车型 iX3 上市并开始交付#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "fetched_at": "2026-11-26T00:12:45.370451+00:00"
+    },
+    {
+      "id": "4d02dfb1810440ac",
+      "title": "高端 GPU“急寻下家”：数千枚英伟达 B300 涌入海外转售市场",
+      "link": "https://www.ithome.com/1/032/547.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-25T23:57:38+00:00",
+      "summary": "IT之家 11 月 26 日消息，CNBC 昨日（11 月 25 日）报道，在美国收紧相关规定后，英伟达 GPU 销售商正急于为手中的高端芯片寻找新买家。市场人士称，大量英伟达 GPU 涌入转售市场，其中涉及数千枚先进 B300 芯片的交易意向已经出现。IT之家援引博文介绍，AI 基础设施交易平台 GPU Mart 总裁杰克 · 杜阿梅尔及另外两名知情人士的说法称，自美国新规公布以来，市场上待售的",
+      "fetched_at": "2026-11-26T00:12:47.146789+00:00"
+    },
+    {
+      "id": "c79b684b168a8e69",
+      "title": "美国 FCC 批准 SpaceX 在太空部署 100 万颗数据中心卫星",
+      "link": "https://www.ithome.com/1/032/546.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-25T23:56:34+00:00",
+      "summary": "IT之家 11 月 26 日消息，美国联邦通信委员会（FCC）现已批准 SpaceX 公司在其 Starmind 计划内部署最多 100 万颗卫星。这项计划旨在将数据中心部署到太空，把大量计算任务转移到大气层之外。据悉，Starmind 太空数据中心将以互联的轨道计算模块网络形式运行，每颗卫星都可以在太空中处理数据，然后将计算结果传回地球。这些卫星计划通过星间光学链路连接，不依赖地面站。FCC 还",
+      "fetched_at": "2026-11-26T00:12:47.146823+00:00"
+    },
+    {
+      "id": "9f9c5442e87a5ca6",
+      "title": "高端 PCB 排单延至 2028 年，供应速度和效率显现压力",
+      "link": "https://www.ithome.com/1/032/545.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-25T23:54:16+00:00",
+      "summary": "IT之家 11 月 26 日消息，中国证券报今日报道，近日，全球电子协会发布一份面向全行业的供应链警报：印制电路板（PCB）缺货正在从局部环节蔓延到成品板交付，汽车、工业、医疗、通信等领域的客户都在面对更长的交期和更难拿到货的局面。近期，部分 PCB 概念股有所反弹。记者多方采访了解到，当前，高端 PCB 产品供不应求，部分 PCB 头部厂商高端产品已排产至 2028 年。对于市场关注的原材料紧缺",
+      "fetched_at": "2026-11-26T00:12:47.146862+00:00"
+    },
+    {
+      "id": "0f50c1134c8867e0",
+      "title": "R 星向网红、博主送出 100 台《GTA6》限定版索尼 PS5 Pro 游戏机，无对外发售计划",
+      "link": "https://www.ithome.com/1/032/544.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-25T23:49:16+00:00",
+      "summary": "IT之家 11 月 26 日消息，据科技媒体 TweakTown 昨天报道，Rockstar 此前曾向迈阿密热火队球员赠送《GTA6》限定版索尼 PS5 Pro 游戏机，如今一批网红、博主也开始收到这批限定主机。IT之家了解到，这款限定版 PS5 Pro 的外观可谓是经过深度定制。机器外壳通体黑色，印有《GTA6》Logo 以及棕榈树，主机腰部的装饰带也是契合游戏色调。同时这台机器被装在定制航空箱",
+      "fetched_at": "2026-11-26T00:12:47.146887+00:00"
+    },
+    {
+      "id": "3c80433dcb6c52cf",
+      "title": "迈出“全民隐私智能”第一步：OpenAI 开测私有推理，目标打造“零窥探 AI”",
+      "link": "https://www.ithome.com/1/032/543.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-25T23:45:33+00:00",
+      "summary": "IT之家 11 月 26 日消息，OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）今天（11 月 26 日）在 X 平台发布推文，宣布已邀请部分客户测试“私有推理”（Private Inference），主要针对工作场景提升数据隐私保护。IT之家附上相关截图如下：该服务隶属于 OpenAI Private Intelligence 系列，主要服务于企业和机构，增强 AI 模型的隐",
+      "fetched_at": "2026-11-26T00:12:47.146914+00:00"
+    },
+    {
+      "id": "a4c25f8878bbe597",
+      "title": "韩国推出考场反作弊系统 Detect AI：靠无线电波识别 AI 智能眼镜，12 月 9 日首秀",
+      "link": "https://www.ithome.com/1/032/542.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-25T23:28:31+00:00",
+      "summary": "IT之家 11 月 26 日消息，据韩联社 11 月 25 日报道，韩国东西发电于 11 月 25 日宣布，其内部创业项目孵化的无人机探测企业 SKIP（스킵）已完成 AI 考场作弊探测与阻断系统“Detect AI”的开发。据官方介绍，Detect AI 原本用于捕捉未授权无人机与遥控器之间的无线信号，现在将这种频谱分析技术搬到了考场。系统接收周边无线通信信号后，交叉分析厂商识别信息与设备唯一信",
+      "fetched_at": "2026-11-26T00:12:47.146949+00:00"
+    },
+    {
+      "id": "ed3d613f53c72d3d",
+      "title": "IT早报 1126：理想汽车宣布从一年一更调整为两年；特朗普称美政府入股英伟达犹未为晚；奥迪回应长春工厂利用率跌破 10%；首款自动驾驶摩托车广州亮相...",
+      "link": "https://www.ithome.com/1/032/541.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-25T23:28:00+00:00",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 26 日星期四，今天的重要科技资讯有：1. 踩刹车！李想宣布理想汽车更新节奏从一年一次调整为两年一次据理想车友群分享，在理想汽车 2026 年第三季度财报电话会上，理想汽车董事长兼 CEO 李想透露，理想车型的更新节奏会从过去的一年一次调整为两年左右一次。理想汽车认为这个调整对于用户、行业、供应商和自己都是更有利的。李想称，2027 年，会",
+      "fetched_at": "2026-11-26T00:12:47.147139+00:00"
+    },
+    {
+      "id": "351cedb73c13bcb6",
+      "title": "Valve 发布 SteamOS 0.5.11 正式候选版：升级 SteamVR 2.19.5，优化透视与串流",
+      "link": "https://www.ithome.com/1/032/536.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-25T23:27:35+00:00",
+      "summary": "IT之家 11 月 26 日消息，Valve 已面向 Steam Frame 无线 VR 头显的 Beta 通道推送 SteamOS 0.5.11，该版本为官方候选构建版本（release candidate），并将 SteamVR 同步升级至 2.19.5。据IT之家此前报道，Valve 于 2026 年 9 月 14 日正式发售 Steam Frame 头显，起售价 1,059 美元（IT之家",
+      "fetched_at": "2026-11-26T00:12:47.147200+00:00"
+    },
+    {
+      "id": "bf9b5677d7a61b0d",
+      "title": "【钛晨报】外媒称美国将对中国等十几个国家加征关税，外交部回应；美国10月核心PCE物价指数同比上涨3.3%，升至3年高位；小鹏机器人IRON计划2027年1月启动硬件量产",
+      "link": "https://www.tmtpost.com/8217786.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-11-25T23:20:00+00:00",
+      "summary": "中荷外长共识声明；两年来已有近30家机器人公司倒下；黄仁勋主持员工大会：英伟达不需要接班人计划；福特汽车证实与美国防部会谈，未提是否涉及造无人机；券商启动创业板做市交易前期准备；韩国拟扩大股市稳定基金规模，正向25家金融机构摸底追加出资能力；保利发展：拟发行不超过200亿元公司债券",
+      "fetched_at": "2026-11-26T00:12:58.770670+00:00"
+    },
+    {
+      "id": "a2d37eb3742b3dd4",
+      "title": "Counterpoint：华为 OSCAR 方案让无线频谱效率提升约 30%、能效提升 40%",
+      "link": "https://www.ithome.com/1/032/532.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-25T23:11:57+00:00",
+      "summary": "IT之家 11 月 25 日消息，华为推出 OSCAR（Optimal Solution with Cross-Domain Autoregression for Radio）新一代智能无线解决方案，该方案在无线物理层运行定制化高阶自回归模型，搭载于通用基带处理（UBBP）板卡上的异构计算加速器，并通过华为 SpiritPath 高速互联架构连接。该方案针对移动网络长期存在的三大容量损失来源进行优",
+      "fetched_at": "2026-11-26T00:12:47.147344+00:00"
+    },
+    {
+      "id": "09acb705fce8fc46",
+      "title": "准确率从 4% 暴涨至 97%！谷歌 DeepMind 给 AI 装上“化学外挂”，解锁质谱分析技能",
+      "link": "https://www.ithome.com/1/032/535.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-25T23:07:45+00:00",
+      "summary": "IT之家 11 月 26 日消息，谷歌联合分析化学家、基于社区开源工具打造了 Mass Spec Skills，面向 Google Antigravity 平台开放，可辅助科研人员解析串联质谱，梳理化学证据，即使采用轻量模型也能达到前沿级别的检索识别准确率。一滴血液、土壤或植物组织样本提取液中，包含海量小分子，涵盖营养物质、激素、药物及其代谢产物、污染物、具备药用潜力的生物活性化合物。现代质谱仪可",
+      "fetched_at": "2026-11-26T00:12:47.147448+00:00"
+    },
+    {
+      "id": "02feb33061394171",
+      "title": "美国纽约州暂停 AI 聊天玩具销售 5 年，违规厂商每日最高罚 15000 美元",
+      "link": "https://www.ithome.com/1/032/540.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-25T23:07:43+00:00",
+      "summary": "IT之家 11 月 26 日消息，据 ABC7 New York 网站 11 月 25 日报道，当地时间 11 月 24 日，美国纽约州州长凯西・霍楚尔（Kathy Hochul）签署法案，暂停具备联网与 AI 对话能力的玩具在该州的制造、分销和销售，期限为 5 年。据官方公布信息，该法案针对内置互联网接入、集成 AI 能力的毛绒玩偶与玩具。霍楚尔称，这类玩具可以让任何年龄段的儿童与软件对话，而运",
+      "fetched_at": "2026-11-26T00:12:47.147388+00:00"
+    },
+    {
+      "id": "898f6531574089e9",
+      "title": "CounterPoint 报告 2026Q3 拉丁美洲手机出货：三星稳坐第一、苹果最抗跌",
+      "link": "https://www.ithome.com/1/032/539.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-25T23:00:35+00:00",
+      "summary": "IT之家 11 月 26 日消息，市场研究机构 Counterpoint Research 于 11 月 24 日发布博文，报道称 2026 年第三季度拉丁美洲智能手机出货量同比下降 24%。这是该地区自 2015 年以来第二低的季度出货量，仅次于 2020 年第二季度疫情封锁期间。报告认为，下滑的主要原因有三个。一是内存供应短缺，二是由此引发的手机涨价，三是中国品牌把更多供应优先分配给国内和亚洲",
+      "fetched_at": "2026-11-26T00:12:47.147487+00:00"
+    },
+    {
+      "id": "4cda3f9b981434d3",
+      "title": "密码管理工具 1Password 披露安全事件，部分客户数据外泄",
+      "link": "https://www.ithome.com/1/032/538.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-25T22:48:03+00:00",
+      "summary": "IT之家 11 月 26 日消息，密码管理服务商 1Password 昨日（11 月 25 日）披露安全事件，公司于 11 月 19 日发现有攻击者利用一名员工的公司 GitHub 账户，进入了公司后端系统，并获取了部分客户数据。公司调查时发现，该员工账户存在未经授权访问的迹象。攻击者不仅复制了机密源代码，还利用这个账户部署恶意代码，用来提取客户记录。IT之家查询公开资料，攻击者访问了以下内容：客",
+      "fetched_at": "2026-11-26T00:12:47.147535+00:00"
+    },
+    {
+      "id": "b522a8b53828b1a1",
+      "title": "After Novelty Wears off, How can Companion Robots Actually be Put to Use?",
+      "link": "https://www.tmtpost.com/8217942.html",
+      "source_id": "tmtpost",
+      "source_name": "钛媒体",
+      "category": "finance",
+      "published_at": "2026-11-25T17:49:10+00:00",
+      "summary": "After freshness is gone, how many of these companionship-oriented robots will stay and who are willing to pay for them?",
+      "fetched_at": "2026-11-26T00:12:58.770689+00:00"
+    },
+    {
+      "id": "1e750da84444c120",
+      "title": "蛮啾《蓝色星原：旅谣》今日公测：两百余种奇波可捕捉骑乘，登陆 PC、iOS、安卓、鸿蒙与 PS5",
+      "link": "https://www.ithome.com/1/032/534.htm",
+      "source_id": "ithome",
+      "source_name": "IT之家",
+      "category": "tech",
+      "published_at": "2026-11-25T16:00:07+00:00",
+      "summary": "IT之家 11 月 26 日消息，由《碧蓝航线》开发商蛮啾网络打造的幻想大世界 RPG《蓝色星原：旅谣》将于 11 月 26 日 10:00 正式开启公测，登陆 PC、iOS、安卓、鸿蒙与 PS5 平台。该作由上海蛮啾网络科技有限公司研发并运营，采用 Unity 引擎开发，背景音乐有川井宪次、西木康智等作曲家参与。海外发行方面，日服由蛮啾网络与悠星联合发行，韩服由 NEXON 代理，东南亚地区由 ",
+      "fetched_at": "2026-11-26T00:12:47.147566+00:00"
+    },
     {
       "id": "470e5ad166a06277",
       "title": "双电机综合功率达 680kW，极氪 8X 纯电版申报",
@@ -1111,17 +1342,6 @@
       "published_at": "2026-11-25T01:51:00+00:00",
       "summary": "过去两年，从 ChatGPT 到国内外各路大模型百舸争流，AI 从只会聊天的机器人，一路长成了能看图、能听声、能剪视频的多面手。短剧、内容创作、智能客服、企业办公……应用场景越铺越开，模型规模越做越大，训练和推理的胃口也随之水涨船高。可当所有人都意识到&quot;算力就是新的水电&quot;时，一个更棘手的问题浮出水面：算力从哪里来？又能不能以可负担的成本拿到手？10 月的 CCF 全国高性能计算",
       "fetched_at": "2026-11-25T15:28:57.656229+00:00"
-    },
-    {
-      "id": "aadf058f733aefbb",
-      "title": "被红果改写的Q3财报季",
-      "link": "https://www.tmtpost.com/8216958.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-11-25T01:38:10+00:00",
-      "summary": "二线大厂的冬天：砍成本，赌AI",
-      "fetched_at": "2026-11-25T04:51:40.095649+00:00"
     },
     {
       "id": "82c904a421bc4b3b",
@@ -7777,105 +7997,6 @@
       "published_at": "2026-11-19T00:29:30+00:00",
       "summary": "AMD 更新虚幻引擎 FSR 插件、Google Wallet 登陆 iOS 等。查看全文",
       "fetched_at": "2026-11-19T12:52:34.202312+00:00"
-    },
-    {
-      "id": "dc7a82af98a14e9b",
-      "title": "刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5",
-      "link": "https://www.ifanr.com/1690235?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source_id": "ifanr",
-      "source_name": "爱范儿",
-      "category": "tech",
-      "published_at": "2026-11-18T23:56:47+00:00",
-      "summary": "性能更强，还更便宜#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-11-19T12:52:26.623591+00:00"
-    },
-    {
-      "id": "6a8db0753ea266eb",
-      "title": "【钛晨报】事关国有资本布局优化，国资委提三条要求；资本市场辟谣平台：“国常会上有人表态不会再频繁救市了”系谣言；美联储理事沃勒：若不释放1月加息的信号，应在12月加息50个基点",
-      "link": "https://www.tmtpost.com/8210449.html",
-      "source_id": "tmtpost",
-      "source_name": "钛媒体",
-      "category": "finance",
-      "published_at": "2026-11-18T23:20:00+00:00",
-      "summary": "英特尔再传裁员；SpaceX的400亿美元芯片融资或不计入资产负债表；三年打造超100家新质出海先锋企业，北京经开区“出海方案”正式印发；国家能源局印发《关于加快推动流域水风光一体化发展的指导意见》；腾讯第三季度财报：WorkBuddy日活超1000万，日均Token消耗量超100万亿；豆包工作日活突破800万，企业客户ARR突破20亿元",
-      "fetched_at": "2026-11-19T03:14:38.872919+00:00"
-    },
-    {
-      "id": "d380bd9cbe5e924a",
-      "title": "华为 WATCH 5 智能手表重启鸿蒙 HarmonyOS 7 花粉 Beta 版升级，新增地震预警消息等功能",
-      "link": "https://www.ithome.com/1/029/128.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-18T17:28:32+00:00",
-      "summary": "IT之家 11 月 19 日消息，今年 10 月底，华为 WATCH 5 系列、ULTIMATE DESIGN 星钻绽放等手表开启 HarmonyOS 7 花粉 Beta 版招募。随后 7.0.0.107 SP18 版本开启推送。但据用户反馈，部分设备更新后出现 BUG，因此升级活动暂缓。IT之家注意到，华为官方最新宣布，HarmonyOS 7.0.0.107SP41 版本开始分批推送给花粉 Be",
-      "fetched_at": "2026-11-18T21:50:43.372357+00:00"
-    },
-    {
-      "id": "2974e24229f5f6bd",
-      "title": "华为 WATCH Air 真机曝光：方形设计、钛金属表体，消息称续航可达 5 天",
-      "link": "https://www.ithome.com/1/029/127.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-18T17:20:46+00:00",
-      "summary": "IT之家 11 月 19 日消息，华为 WATCH Air 真机谍照已在各大平台曝光。画面显示，新表至少提供两种表带款式可选，包括运动硅胶表带和金属米兰尼斯表带。据博主 @搞机王腾霄 透露，华为 WATCH Air 主打轻薄，采用方形设计，配备有钛金属表体。新表还有望内置高硅叠片异形电池，续航可达 5 天。已曝光的海报显示，华为 WATCH Air 采用超轻薄设计，拥有圆润的弧面机身，侧边配有一枚",
-      "fetched_at": "2026-11-18T21:50:43.372389+00:00"
-    },
-    {
-      "id": "521371c1b0f3ccdf",
-      "title": "《GTA VI》首发体验：过去十年最好的游戏，也可能是未来十年最好的游戏",
-      "link": "https://www.ifanr.com/1690188?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source_id": "ifanr",
-      "source_name": "爱范儿",
-      "category": "tech",
-      "published_at": "2026-11-18T17:16:31+00:00",
-      "summary": "欢迎回到罪城#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "fetched_at": "2026-11-19T12:52:26.623601+00:00"
-    },
-    {
-      "id": "0ad1dd70c8e99f71",
-      "title": "Touch ID 成功复活：“安卓版”iOS 系统实现指纹解锁功能",
-      "link": "https://www.ithome.com/1/029/126.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-18T17:10:42+00:00",
-      "summary": "IT之家 11 月 19 日消息，近期 AI 逆向实现了很多有趣的项目，让很多不少设备有了新玩法。其中，让各式各样的设备刷入苹果 iOS 系统，是当下最受欢迎的探索方向之一。参考IT之家此前报道，已有小米 8 刷入 iOS 16.5 系统并伪装成 iPhone X、REDMI K20 Pro 刷入苹果 iOS 16 测试固件包变身真“全面屏 iPhone”等先例。不过刷入 iOS 后的设备常常伴随",
-      "fetched_at": "2026-11-18T21:50:43.372421+00:00"
-    },
-    {
-      "id": "938354003f592cea",
-      "title": "华为 Mate 90 系列手机推 HarmonyOS 7.0.0.115 升级，“悄悄”上线完全体 3D 空间壁纸功能",
-      "link": "https://www.ithome.com/1/029/125.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-18T16:55:39+00:00",
-      "summary": "IT之家 11 月 19 日消息，华为 Mate 90 系列手机已率先开启鸿蒙 HarmonyOS 7.0.0.115 SP11 版本升级，系统包大小约 10.31GB，带来了 AI 快捷栏等功能。据博主 @怪咖学徒_ &nbsp;反馈，在升级 HarmonyOS 7.0.0.115 版本后，华为 Mate 90 系列手机“悄悄”上线了完全体 3D 空间壁纸功能，支持重力感应特性。从视频演示效果来",
-      "fetched_at": "2026-11-18T21:50:43.372451+00:00"
-    },
-    {
-      "id": "adbce09973a8f521",
-      "title": "腾讯：更多企业转向国产芯片，将助推国内供应链建设提速",
-      "link": "https://www.ithome.com/1/029/124.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-18T16:40:50+00:00",
-      "summary": "IT之家 11 月 19 日消息，腾讯昨日发布第三季度财报。财报显示，其第三季度实现营收 2073.36 亿元，同比增长 8%；毛利 1159.11 亿元，同比增长 7%；归母净利润为 636.12 亿元，同比增长 0.8%。据《科创板日报》报道，对于持续增加的 AI 投入，腾讯管理层在业绩会上表示，公司当前资本开支主要用于 AI 基础设施建设。这类投入并非一次性消耗，建成后的基础设施可以持续用于",
-      "fetched_at": "2026-11-18T21:50:43.372489+00:00"
-    },
-    {
-      "id": "903815e247ccd787",
-      "title": "非洲加速向 5G-A 网络演进：华为 × Vodacom 联合发布 U6GHz“黄金频段”创新成果",
-      "link": "https://www.ithome.com/1/029/123.htm",
-      "source_id": "ithome",
-      "source_name": "IT之家",
-      "category": "tech",
-      "published_at": "2026-11-18T16:35:06+00:00",
-      "summary": "IT之家 11 月 19 日消息，据“华为无线网络”公众号分享，在南非开普敦通信网络展览会（Africa Tech Festival 2026）期间，华为联合南非领先运营商 Vodacom 发布了 U6GHz 创新成果，为非洲市场 U6GHz 商用落地奠定了技术与场景基础。据介绍，U6GHz（6425–7125MHz）是继 C-band 之后又一备受关注的大带宽频段，也是 Sub-10GHz 范围",
-      "fetched_at": "2026-11-18T21:50:43.372535+00:00"
     }
   ]
 }
